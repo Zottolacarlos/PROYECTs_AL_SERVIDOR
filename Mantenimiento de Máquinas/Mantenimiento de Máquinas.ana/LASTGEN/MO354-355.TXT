@@ -1,0 +1,2 @@
+//MO354-355.TXT ANA00354 TO ANA00355
+Maquina		REP*	W:\BD\Mantenimiento	new directory W:\BD\Mantenimiento

@@ -1,0 +1,3 @@
+//MO098-099.TXT ANA00098 TO ANA00099
+correctivo_postergado		NFI		new file
+correctivo_postergado		FRN		

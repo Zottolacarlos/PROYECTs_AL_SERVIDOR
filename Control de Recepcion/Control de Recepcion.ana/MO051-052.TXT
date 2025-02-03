@@ -1,0 +1,8 @@
+//MO051-052.TXT ANA00051 TO ANA00052
+Deposito		TAR	920	new record size: 920
+Deposito	item1	RUB+		item1 is a new item
+Deposito	item2	RUB+		item2 is a new item
+Deposito	item3	RUB+		item3 is a new item
+Deposito	recep1	RUB+		recep1 is a new item
+Deposito	recep2	RUB+		recep2 is a new item
+Deposito	recep3	RUB+		recep3 is a new item

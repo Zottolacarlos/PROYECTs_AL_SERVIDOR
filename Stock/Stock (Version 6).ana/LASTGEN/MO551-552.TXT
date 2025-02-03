@@ -1,0 +1,4 @@
+//MO551-552.TXT ANA00551 TO ANA00552
+Control_de_Recepciones		EXT		new extension 
+Control_de_Recepciones		FCNX+	Connection to IMSASERVER03 - STOCK	
+Control_de_Recepciones		FRN		

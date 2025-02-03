@@ -1,0 +1,3 @@
+//MO040-041.TXT ANA00040 TO ANA00041
+Usuarios		FIC-	Urgencia	Urgencia file deleted
+Hoja1$		DEL	Hoja1$ (Protocolo Nº) and Urgencia (Protocolo Nº)	Link deleted between Hoja1$ (Protocolo Nº) and Urgencia (Protocolo Nº) files

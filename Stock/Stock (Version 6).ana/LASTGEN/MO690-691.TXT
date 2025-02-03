@@ -1,0 +1,3 @@
+//MO690-691.TXT ANA00690 TO ANA00691
+Maquina		NFI		new file
+Maquina		FIC-	Maquina	Maquina file deleted

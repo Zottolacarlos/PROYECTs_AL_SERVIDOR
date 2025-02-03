@@ -1,0 +1,3 @@
+//MO049-050.TXT ANA00049 TO ANA00050
+acciones_correct		NFI		new file
+acciones_correct		FRN		

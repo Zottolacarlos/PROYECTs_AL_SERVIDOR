@@ -1,0 +1,10 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Oftec		TAR	430	new record size: 430
+Oftec	Decision	CNW	String$Boolean	new type for Decision item: String
+Fundicion		TAR	583	new record size: 583
+Fundicion	Decision_espectro	CNW	String$Boolean	new type for Decision_espectro item: String
+Fundicion	Decision_trata	CNW	String$Boolean	new type for Decision_trata item: String
+Calidad		TAR	429	new record size: 429
+Calidad	Decision	CNW	String$Boolean	new type for Decision item: String
+Deposito		TAR	464	new record size: 464
+Deposito	Decision	CNW	String$Boolean	new type for Decision item: String

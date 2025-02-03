@@ -1,0 +1,7 @@
+//MO241-242.TXT ANA00241 TO ANA00242
+Personal_config		NFI		new file
+Usuarios		FIC-	Usuarios	Usuarios file deleted
+Constraint_Usuarios_OBSERVACIONES		DEL	Usuarios (UsuariosID) and OBSERVACIONES (UsuariosID)	Link deleted between Usuarios (UsuariosID) and OBSERVACIONES (UsuariosID) files
+Constraint_Usuarios_acc_correct_auditoria		DEL	Usuarios (nombre) and acc_correct_auditoria (Nombre)	Link deleted between Usuarios (nombre) and acc_correct_auditoria (Nombre) files
+Personal_config		FRN		
+Personal_config	password	RRN		

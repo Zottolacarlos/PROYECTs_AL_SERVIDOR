@@ -1,0 +1,3 @@
+//MO049-050.TXT ANA00049 TO ANA00050
+Archivo	Protocolo Nº	CNW	4-byte unsigned integer$4-byte integer	new type for Protocolo Nº item: 4-byte unsigned integer
+Hoja1$	Protocolo Nº	CNW	4-byte unsigned integer$4-byte integer	new type for Protocolo Nº item: 4-byte unsigned integer

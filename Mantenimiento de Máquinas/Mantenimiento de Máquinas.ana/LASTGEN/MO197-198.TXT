@@ -1,0 +1,4 @@
+//MO197-198.TXT ANA00197 TO ANA00198
+temp_imp		TAR	224	new record size: 224
+temp_imp	cabeza	RUB+		cabeza is a new item
+temp_imp		FIC-	impresion	impresion file deleted

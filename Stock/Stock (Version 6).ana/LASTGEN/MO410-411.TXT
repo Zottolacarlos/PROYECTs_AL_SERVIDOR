@@ -1,0 +1,3 @@
+//MO410-411.TXT ANA00410 TO ANA00411
+Elem_del_Pedido		TAR	537	new record size: 537
+Elem_del_Pedido	Reemplaza_al_PM	RUB+		Reemplaza_al_PM is a new item

@@ -1,0 +1,2 @@
+//MO447-448.TXT ANA00447 TO ANA00448
+Impresion_Orden_de_Compra	Cantidad_pedida	CNW	4-byte real$4-byte integer	new type for Cantidad_pedida item: 4-byte real

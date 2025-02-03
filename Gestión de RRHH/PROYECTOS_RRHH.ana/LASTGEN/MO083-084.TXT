@@ -1,0 +1,3 @@
+//MO083-084.TXT ANA00083 TO ANA00084
+Personal_IMSA_rrhh		NNF*	Personal_IMSA	new name Personal_IMSA_rrhh
+Personal_IMSA_rrhh		FRN		

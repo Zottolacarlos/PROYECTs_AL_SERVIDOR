@@ -1,0 +1,3 @@
+//MO192-193.TXT ANA00192 TO ANA00193
+Clasificacion_de_Falla		TAR	68	new record size: 68
+Clasificacion_de_Falla	Descripción	TAI+	5	Descripción item has been resized: 51 (instead of 46)

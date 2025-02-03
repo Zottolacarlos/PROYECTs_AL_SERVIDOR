@@ -1,0 +1,3 @@
+//MO651-652.TXT ANA00651 TO ANA00652
+Polizas_de_Caución		TAR	253	new record size: 253
+Polizas_de_Caución	Fecha_Vence	CNW	Date (yyyymmdd)$String	new type for Fecha_Vence item: Date (yyyymmdd)

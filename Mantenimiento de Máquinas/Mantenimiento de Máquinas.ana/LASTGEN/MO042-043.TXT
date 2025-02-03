@@ -1,0 +1,9 @@
+//MO042-043.TXT ANA00042 TO ANA00043
+Cambio_fecha_Preven		NFI		new file
+Detalle_Preventivo		TAR	990	new record size: 990
+Detalle_Preventivo	Cambio_fecha	RUB-		item Cambio_fecha deleted
+Detalle_Preventivo	fecha_vieja	RUB-		item fecha_vieja deleted
+Detalle_Preventivo	Motivo_Cambio_fecha	RUB-		item Motivo_Cambio_fecha deleted
+Detalle_Preventivo	Responsable_Cambio	RUB-		item Responsable_Cambio deleted
+Detalle_Preventivo		NWL	Detalle_Preventivo (Detalle_PreventivoID) and Cambio_fecha_Preven (Detalle_PreventivoID)	New link between Detalle_Preventivo (Detalle_PreventivoID) and Cambio_fecha_Preven (Detalle_PreventivoID) files
+Cambio_fecha_Preven		FRN		

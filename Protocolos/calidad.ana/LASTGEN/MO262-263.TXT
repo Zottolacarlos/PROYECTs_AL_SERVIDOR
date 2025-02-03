@@ -1,0 +1,6 @@
+//MO262-263.TXT ANA00262 TO ANA00263
+Instrumentos_verificacion		TAR	412	new record size: 412
+Instrumentos_verificacion	Legajo_a_cargo	RUB+		Legajo_a_cargo is a new item
+Instrumentos_incidentes		TAR	197	new record size: 197
+Instrumentos_incidentes	Legajo_responsable	RUB+		Legajo_responsable is a new key
+Instrumentos_incidentes	Legajno_Solicitante	RUB+		Legajno_Solicitante is a new item

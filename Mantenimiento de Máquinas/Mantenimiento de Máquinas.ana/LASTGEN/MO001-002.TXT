@@ -1,0 +1,9 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Detalle_Correctivo		NFI		new file
+Mant_Correctivo		TAR	106	new record size: 106
+Mant_Correctivo	Maquina	CLEN*		Maquina item is now key
+Mant_Correctivo	Denominación_Int	RUB+		Denominación_Int is a new key
+Mant_Correctivo	Fecha_parada	RUB-		item Fecha_parada deleted
+Mant_Correctivo	Motivo	RUB-		item Motivo deleted
+Mant_Correctivo		NWL	Mant_Correctivo (Mant_CorrectivoID) and Detalle_Correctivo (Mant_CorrectivoID)	New link between Mant_Correctivo (Mant_CorrectivoID) and Detalle_Correctivo (Mant_CorrectivoID) files
+Detalle_Correctivo		FRN		

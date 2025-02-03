@@ -1,0 +1,5 @@
+//MO172-173.TXT ANA00172 TO ANA00173
+Equil_dinam_temp_imp		TAR	665	new record size: 665
+Equil_dinam_temp_imp	Radio_de_Compensación	RUB+		Radio_de_Compensación is a new item
+Equilibrado_dinamico_datos		TAR	563	new record size: 563
+Equilibrado_dinamico_datos	Radio_de_Compensación	RUB+		Radio_de_Compensación is a new item

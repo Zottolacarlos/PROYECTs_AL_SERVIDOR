@@ -1,0 +1,5 @@
+//MO748-749.TXT ANA00748 TO ANA00749
+Trabajo_Interno_IMSA		NFI		new file
+Presupuestos_NEW		NFI		new file
+Trabajo_Interno_IMSA		FIC-	Trabajo_Interno_IMSA	Trabajo_Interno_IMSA file deleted
+Presupuestos_NEW		FIC-	Presupuestos_NEW	Presupuestos_NEW file deleted

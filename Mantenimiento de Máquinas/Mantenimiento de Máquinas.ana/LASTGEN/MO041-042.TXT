@@ -1,0 +1,4 @@
+//MO041-042.TXT ANA00041 TO ANA00042
+repuestos		TAR	221	new record size: 221
+repuestos	Nro_Tarjeta_Fab	RUB+		Nro_Tarjeta_Fab is a new item
+repuestos	Hr_Fech_Tarjeta_Fab	RUB+		Hr_Fech_Tarjeta_Fab is a new item

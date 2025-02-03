@@ -1,0 +1,4 @@
+//MO331-332.TXT ANA00331 TO ANA00332
+Detalle_Correctivo		TAR	1187	new record size: 1187
+Detalle_Correctivo	Se_arregla_Afuera	RUB+		Se_arregla_Afuera is a new item
+Detalle_Correctivo	Proveedor_reparación	RUB+		Proveedor_reparación is a new item

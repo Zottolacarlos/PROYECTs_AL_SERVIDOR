@@ -1,0 +1,2 @@
+//MO305-306.TXT ANA00305 TO ANA00306
+Constraint_Maquina_parte_maquina		MCL	1,1->0,1	

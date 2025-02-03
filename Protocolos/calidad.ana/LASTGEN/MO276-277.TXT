@@ -1,0 +1,3 @@
+//MO276-277.TXT ANA00276 TO ANA00277
+Audita_Email		TAR	194	new record size: 194
+Audita_Email	Fecha	CNW	Date and Time (yyyymmddhhmmssccc)$Date (yyyymmdd)	new type for Fecha item: Date and Time (yyyymmddhhmmssc

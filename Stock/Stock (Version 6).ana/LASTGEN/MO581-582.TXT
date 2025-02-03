@@ -1,0 +1,5 @@
+//MO581-582.TXT ANA00581 TO ANA00582
+Control_Recep_Sector		TAR	89	new record size: 89
+Control_Recep_Sector	no_precisa_certificado	RUB+		no_precisa_certificado is a new item
+Controles_REalizados		TAR	52	new record size: 52
+Controles_REalizados	no_precisa_certificado	RUB-		item no_precisa_certificado deleted

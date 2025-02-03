@@ -1,0 +1,6 @@
+//MO035-036.TXT ANA00035 TO ANA00036
+Detalle_Preventivo		TAR	1077	new record size: 1077
+Detalle_Preventivo	Observaciones_inicial	NNR	Observaciónes	CAUTION: item Observaciónes renamed Observaciones_inicial
+Detalle_Preventivo	Observaciónes_final	RUB+		Observaciónes_final is a new item
+Detalle_Preventivo	fecha_final	RUB+		fecha_final is a new item
+Detalle_Preventivo	cantidad_horas	RUB-		item cantidad_horas deleted

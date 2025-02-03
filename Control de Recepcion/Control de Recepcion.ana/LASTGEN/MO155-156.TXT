@@ -1,0 +1,3 @@
+//MO155-156.TXT ANA00155 TO ANA00156
+Recepcion		TAR	484	new record size: 484
+Recepcion	NroRecepcion	CNW	String$4-byte unsigned integer	new type for NroRecepcion item: String

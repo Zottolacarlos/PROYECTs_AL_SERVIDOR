@@ -1,0 +1,24 @@
+//MO483-484.TXT ANA00483 TO ANA00484
+Control_Recep_Deposito		TAR	140	new record size: 140
+Control_Recep_Deposito	Control_de_RecepcionesID	RUB+		Control_de_RecepcionesID is a new key
+Control_Recep_Calidad		TAR	193	new record size: 193
+Control_Recep_Calidad	Control_Recep_CalidadID	NNR	Control_Recep_DepositoID	CAUTION: key Control_Recep_DepositoID renamed Control_Recep_CalidadID
+Control_Recep_Calidad	Control_de_RecepcionesID	RUB+		Control_de_RecepcionesID is a new key
+Control_Recep_Compras		TAR	91	new record size: 91
+Control_Recep_Compras	Control_Recep_ComprasID	NNR	Control_Recep_DepositoID	CAUTION: key Control_Recep_DepositoID renamed Control_Recep_ComprasID
+Control_Recep_Compras	Control_de_RecepcionesID	RUB+		Control_de_RecepcionesID is a new key
+Control_Recep_Mantenimiento		TAR	87	new record size: 87
+Control_Recep_Mantenimiento	Control_Recep_MantenimientoID	NNR	Control_Recep_DepositoID	CAUTION: key Control_Recep_DepositoID renamed Control_Recep_MantenimientoID
+Control_Recep_Mantenimiento	Control_de_RecepcionesID	RUB+		Control_de_RecepcionesID is a new key
+Control_Recep_Fundicion		TAR	346	new record size: 346
+Control_Recep_Fundicion	Control_Recep_FundicionID	NNR	Control_Recep_DepositoID	CAUTION: key Control_Recep_DepositoID renamed Control_Recep_FundicionID
+Control_Recep_Fundicion	Control_de_RecepcionesID	RUB+		Control_de_RecepcionesID is a new key
+Control_Recep_Gerencia		NFI		new file
+Control_Recep_Gerencia_Comercial		NFI		new file
+Constraint_Control_de_Recepciones_Control_Recep_Deposito		NWL	Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Deposito (Control_de_RecepcionesID)	New link between Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Deposito (Control_de_RecepcionesID) files
+Constraint_Control_de_Recepciones_Control_Recep_Calidad		NWL	Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Calidad (Control_de_RecepcionesID)	New link between Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Calidad (Control_de_RecepcionesID) files
+Constraint_Control_de_Recepciones_Control_Recep_Compras		NWL	Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Compras (Control_de_RecepcionesID)	New link between Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Compras (Control_de_RecepcionesID) files
+Constraint_Control_de_Recepciones_Control_Recep_Mantenimiento		NWL	Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Mantenimiento (Control_de_RecepcionesID)	New link between Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Mantenimiento (Control_de_RecepcionesID) files
+Constraint_Control_de_Recepciones_Control_Recep_Fundicion		NWL	Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Fundicion (Control_de_RecepcionesID)	New link between Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Fundicion (Control_de_RecepcionesID) files
+Constraint_Control_de_Recepciones_Control_Recep_Gerencia		NWL	Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Gerencia (Control_de_RecepcionesID)	New link between Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Gerencia (Control_de_RecepcionesID) files
+Constraint_Control_de_Recepciones_Control_Recep_Gerencia_Comercial		NWL	Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Gerencia_Comercial (Control_de_RecepcionesID)	New link between Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Gerencia_Comercial (Control_de_RecepcionesID) files

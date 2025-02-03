@@ -1,0 +1,2 @@
+//MO106-107.TXT ANA00106 TO ANA00107
+Sectores	Sector	NNR	Descripción	CAUTION: item Descripción renamed Sector

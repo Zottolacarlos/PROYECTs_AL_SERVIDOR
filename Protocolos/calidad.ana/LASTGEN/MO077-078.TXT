@@ -1,0 +1,3 @@
+//MO077-078.TXT ANA00077 TO ANA00078
+Hoja1$		NWL	Hoja1$ (Protocolo Nº) and visado (Protocolo Nº)	New link between Hoja1$ (Protocolo Nº) and visado (Protocolo Nº) files
+Hoja1$		DEL	Hoja1$ (Protocolo Nº) and visado (Protocolo Nº)	Link deleted between Hoja1$ (Protocolo Nº) and visado (Protocolo Nº) files

@@ -1,0 +1,3 @@
+//MO149-150.TXT ANA00149 TO ANA00150
+Equilibrado_dinamico_datos		TAR	533	new record size: 533
+Equilibrado_dinamico_datos	Peso_Residual	RUB+		Peso_Residual is a new item

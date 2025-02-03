@@ -1,0 +1,3 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+Auditoria_Contratacion		TAR	139	new record size: 139
+Auditoria_Contratacion	Descripción_evento	RUB+		Descripción_evento is a new item

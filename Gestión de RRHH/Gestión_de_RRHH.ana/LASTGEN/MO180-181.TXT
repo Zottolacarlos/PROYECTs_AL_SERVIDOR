@@ -1,0 +1,3 @@
+//MO180-181.TXT ANA00180 TO ANA00181
+Capacitaciones		TAR	1976	new record size: 1976
+Capacitaciones	Observaciones_rrhh	RUB+		Observaciones_rrhh is a new item

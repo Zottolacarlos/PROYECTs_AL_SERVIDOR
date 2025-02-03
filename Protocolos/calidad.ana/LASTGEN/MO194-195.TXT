@@ -1,0 +1,3 @@
+//MO194-195.TXT ANA00194 TO ANA00195
+Instrumentos_incidentes		TAR	193	new record size: 193
+Instrumentos_incidentes	Frecuencia	RUB+		Frecuencia is a new item

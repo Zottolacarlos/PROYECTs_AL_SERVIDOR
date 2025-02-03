@@ -1,0 +1,2 @@
+//MO189-190.TXT ANA00189 TO ANA00190
+fotos_maq	name_foto	CLEN*		name_foto item is now key

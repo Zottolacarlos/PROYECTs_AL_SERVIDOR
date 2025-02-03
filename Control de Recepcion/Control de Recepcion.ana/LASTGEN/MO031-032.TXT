@@ -1,0 +1,8 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Oftec		TAR	935	new record size: 935
+Oftec	Observación_dep	NNR	Observación	CAUTION: item Observación renamed Observación_dep
+Oftec	Decision_dep	NNR	Decision	CAUTION: item Decision renamed Decision_dep
+Oftec	obs_fund	RUB+		obs_fund is a new item
+Oftec	obs_calidad	RUB+		obs_calidad is a new item
+Oftec	decision_fund	RUB+		decision_fund is a new item
+Oftec	decision_calidad	RUB+		decision_calidad is a new item

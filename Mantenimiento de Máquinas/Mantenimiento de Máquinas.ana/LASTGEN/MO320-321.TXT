@@ -1,0 +1,3 @@
+//MO320-321.TXT ANA00320 TO ANA00321
+Impresion_Correctivos_activos		NFI		new file
+Impresion_Preventivos_Activos		NFI		new file

@@ -1,0 +1,3 @@
+//MO261-262.TXT ANA00261 TO ANA00262
+Geometria_de_Maquinas		TAR	181	new record size: 181
+Geometria_de_Maquinas	Frecuencia_control	RUB+		Frecuencia_control is a new item

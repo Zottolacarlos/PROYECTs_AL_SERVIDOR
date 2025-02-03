@@ -1,0 +1,29 @@
+//MO290-291.TXT ANA00290 TO ANA00291
+Maquina		TAR	120	new record size: 120
+Maquina	Datos_sectorID	RUB+		Datos_sectorID is a new key
+Tableros		TAR	44	new record size: 44
+Tableros	Datos_sectorID	RUB+		Datos_sectorID is a new key
+recuerda_mail		TAR	98	new record size: 98
+recuerda_mail	Datos_sectorID	RUB+		Datos_sectorID is a new key
+parte_maquina		TAR	2603	new record size: 2603
+parte_maquina	MáquinaID	RUB+		MáquinaID is a new key
+componentes		TAR	88	new record size: 88
+componentes	MáquinaID	RUB+		MáquinaID is a new key
+Datos_Prog		TAR	36	new record size: 36
+Datos_Prog	Datos_sectorID	RUB+		Datos_sectorID is a new key
+ejecutores_Detalle_Preventivo		NFI		new file
+parte_maquina_Detalle_Preventivo		NFI		new file
+componentes_tareas		NFI		new file
+conectados		FIC-	conectados	conectados file deleted
+Constraint_Datos_sector_Datos_Prog		NWL	Datos_sector (Datos_sectorID) and Datos_Prog (Datos_sectorID)	New link between Datos_sector (Datos_sectorID) and Datos_Prog (Datos_sectorID) files
+Constraint_Datos_sector_Maquina		NWL	Datos_sector (Datos_sectorID) and Maquina (Datos_sectorID)	New link between Datos_sector (Datos_sectorID) and Maquina (Datos_sectorID) files
+Constraint_Datos_sector_Tableros		NWL	Datos_sector (Datos_sectorID) and Tableros (Datos_sectorID)	New link between Datos_sector (Datos_sectorID) and Tableros (Datos_sectorID) files
+Constraint_Datos_sector_recuerda_mail		NWL	Datos_sector (Datos_sectorID) and recuerda_mail (Datos_sectorID)	New link between Datos_sector (Datos_sectorID) and recuerda_mail (Datos_sectorID) files
+Constraint_Maquina_parte_maquina		NWL	Maquina (MáquinaID) and parte_maquina (MáquinaID)	New link between Maquina (MáquinaID) and parte_maquina (MáquinaID) files
+Constraint_ejecutores_Detalle_Preventivo		NWL	ejecutores (ejecutoresID) and ejecutores_Detalle_Preventivo (EjecutoresID)	New link between ejecutores (ejecutoresID) and ejecutores_Detalle_Preventivo (EjecutoresID) files
+Constraint_Detalle_Preventivo_ejecutores		NWL	Detalle_Preventivo (Detalle_PreventivoID) and ejecutores_Detalle_Preventivo (Detalle_PreventivoID)	New link between Detalle_Preventivo (Detalle_PreventivoID) and ejecutores_Detalle_Preventivo (Detalle_PreventivoID) files
+Constraint_parte_maquina_Detalle_Preventivo		NWL	parte_maquina (parte_maquinaID) and parte_maquina_Detalle_Preventivo (Parte_maquinaID)	New link between parte_maquina (parte_maquinaID) and parte_maquina_Detalle_Preventivo (Parte_maquinaID) files
+Constraint_Detalle_Preventivo_parte_maquina		NWL	Detalle_Preventivo (Detalle_PreventivoID) and parte_maquina_Detalle_Preventivo (Detalle_PreventivoID)	New link between Detalle_Preventivo (Detalle_PreventivoID) and parte_maquina_Detalle_Preventivo (Detalle_PreventivoID) files
+Constraint_Maquina_componentes		NWL	Maquina (MáquinaID) and componentes (MáquinaID)	New link between Maquina (MáquinaID) and componentes (MáquinaID) files
+Constraint_componentes_tareas		NWL	componentes (componentesID) and componentes_tareas (ComponentesID)	New link between componentes (componentesID) and componentes_tareas (ComponentesID) files
+Constraint_tareas_componentes		NWL	tareas (tareasID) and componentes_tareas (TareasID)	New link between tareas (tareasID) and componentes_tareas (TareasID) files

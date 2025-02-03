@@ -1,0 +1,3 @@
+//MO143-144.TXT ANA00143 TO ANA00144
+Detalle_Preventivo		TAR	446	new record size: 446
+Detalle_Preventivo	Hs_prom_inicio	RUB+		Hs_prom_inicio is a new item

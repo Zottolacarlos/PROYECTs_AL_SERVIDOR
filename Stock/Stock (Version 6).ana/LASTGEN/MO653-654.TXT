@@ -1,0 +1,5 @@
+//MO653-654.TXT ANA00653 TO ANA00654
+Polizas_de_Caución		TAR	352	new record size: 352
+Polizas_de_Caución	Contacto_Aseguradora	RUB+		Contacto_Aseguradora is a new item
+Polizas_de_Caución	Email_aseguradora	RUB+		Email_aseguradora is a new item
+Polizas_de_Caución	Telefono_contacto	RUB+		Telefono_contacto is a new item

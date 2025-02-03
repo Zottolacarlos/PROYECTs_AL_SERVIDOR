@@ -1,0 +1,3 @@
+//MO533-534.TXT ANA00533 TO ANA00534
+Comparativa		TAR	649	new record size: 649
+Comparativa	Version	CNW	1-byte unsigned integer$String	new type for Version item: 1-byte unsigned integer

@@ -1,0 +1,4 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Tipos_control		NFI		new file
+Tipos_control		FRN		
+Hoja1$	Tipo de Control	RRM		

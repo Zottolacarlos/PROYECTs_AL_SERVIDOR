@@ -1,0 +1,3 @@
+//MO532-533.TXT ANA00532 TO ANA00533
+Comparativa		TAR	651	new record size: 651
+Comparativa	Version	RUB+		Version is a new key

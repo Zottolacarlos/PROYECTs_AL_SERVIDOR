@@ -1,0 +1,3 @@
+//MO083-084.TXT ANA00083 TO ANA00084
+recuerda_mail		NFI		new file
+recuerda_mail		FRN		

@@ -1,0 +1,3 @@
+//MO370-371.TXT ANA00370 TO ANA00371
+parte_maquina		TAR	2633	new record size: 2633
+parte_maquina	ejecutoresID	TAB+	1	ejecutoresID item is now an array of 4 elements instead of 3

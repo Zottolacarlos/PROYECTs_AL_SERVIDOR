@@ -1,0 +1,6 @@
+//MO531-532.TXT ANA00531 TO ANA00532
+Comparativa		TAR	648	new record size: 648
+Comparativa	Costo_actual	RUB-		item Costo_actual deleted
+Comparativa	Cotizacion_dolarcosto_actual	RUB-		item Cotizacion_dolarcosto_actual deleted
+Comparativa	Fecha_actual	RUB-		item Fecha_actual deleted
+Comparativa	Proveedor_del_costo_actual	RUB-		item Proveedor_del_costo_actual deleted

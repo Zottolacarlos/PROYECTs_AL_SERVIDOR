@@ -1,0 +1,5 @@
+//MO365-366.TXT ANA00365 TO ANA00366
+Maquina		TAR	112	new record size: 112
+Maquina		TYPE		File type changed from Native access/Other OLE DB access to HyperFileSQL
+Maquina		FCNX-	STOCK_LOCAL_PRUEBAS	
+Maquina		FRN		

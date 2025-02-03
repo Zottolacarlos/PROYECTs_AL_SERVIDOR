@@ -1,0 +1,3 @@
+//MO162-163.TXT ANA00162 TO ANA00163
+conectados		TAR	97	new record size: 97
+conectados	Inicio	CNW	Date and Time (yyyymmddhhmmsslll)$Date (yyyymmdd)	new type for Inicio item: Date and Time (yyyymmddhhmmssl

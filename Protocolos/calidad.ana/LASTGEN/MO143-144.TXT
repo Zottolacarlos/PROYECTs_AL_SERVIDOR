@@ -1,0 +1,2 @@
+//MO143-144.TXT ANA00143 TO ANA00144
+acc_correct_archivos	nombre	CLEU*		nombre item is now key

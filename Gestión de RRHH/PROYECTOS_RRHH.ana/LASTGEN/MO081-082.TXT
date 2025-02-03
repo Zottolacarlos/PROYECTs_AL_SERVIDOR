@@ -1,0 +1,3 @@
+//MO081-082.TXT ANA00081 TO ANA00082
+Preseleccionados		TAR	376	new record size: 376
+Preseleccionados	Nombre_apellido	RUB+		Nombre_apellido is a new key

@@ -1,0 +1,3 @@
+//MO065-066.TXT ANA00065 TO ANA00066
+Hoja1$		TAR	1834	new record size: 1834
+Hoja1$	Fecha_ctr_Ger_Ind	CNW	Currency$Date (yyyymmdd)	new type for Fecha_ctr_Ger_Ind item: Currency

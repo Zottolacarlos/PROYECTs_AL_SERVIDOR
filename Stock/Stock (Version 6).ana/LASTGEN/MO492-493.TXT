@@ -1,0 +1,4 @@
+//MO492-493.TXT ANA00492 TO ANA00493
+Reclamo_Recepcion		TAR	89	new record size: 89
+Reclamo_Recepcion	Elem_de_RecepcionID	RUB+		Elem_de_RecepcionID is a new key
+Constraint_Elem_de_Recepcion_Reclamo_Recepcion		NWL	Elem_de_Recepcion (Elem_de_RecepcionID) and Reclamo_Recepcion (Elem_de_RecepcionID)	New link between Elem_de_Recepcion (Elem_de_RecepcionID) and Reclamo_Recepcion (Elem_de_RecepcionID) files

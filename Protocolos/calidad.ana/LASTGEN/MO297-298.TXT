@@ -1,0 +1,3 @@
+//MO297-298.TXT ANA00297 TO ANA00298
+acc_correct_8M		TAR	190	new record size: 190
+acc_correct_8M	observaciones	RUB+		observaciones is a new item

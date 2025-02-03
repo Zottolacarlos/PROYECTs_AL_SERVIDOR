@@ -1,0 +1,2 @@
+//MO327-328.TXT ANA00327 TO ANA00328
+Impresion_Correctivos_activos	Repar_Porcentual	NNR	Repar_Procentual	CAUTION: item Repar_Procentual renamed Repar_Porcentual

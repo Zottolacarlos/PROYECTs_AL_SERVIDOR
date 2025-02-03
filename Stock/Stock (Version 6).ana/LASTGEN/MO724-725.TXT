@@ -1,0 +1,4 @@
+//MO724-725.TXT ANA00724 TO ANA00725
+Comparativa_Aviso		TAR	78	new record size: 78
+Comparativa_Aviso	ComparativaID	RUB+		ComparativaID is a new key
+Constraint_Comparativa_Comparativa_Aviso		NWL	Comparativa (ComparativaID) and Comparativa_Aviso (ComparativaID)	New link between Comparativa (ComparativaID) and Comparativa_Aviso (ComparativaID) files

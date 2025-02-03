@@ -1,0 +1,3 @@
+//MO292-293.TXT ANA00292 TO ANA00293
+acciones_correct		TAR	1195	new record size: 1195
+acciones_correct	CotizacionID	RUB+		CotizacionID is a new key

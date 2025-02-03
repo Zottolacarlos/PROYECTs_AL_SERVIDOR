@@ -1,0 +1,3 @@
+//MO296-297.TXT ANA00296 TO ANA00297
+acc_correct_8M		NNF*	Espina_Pescado	new name acc_correct_8M
+acc_correct_8M		FRN		

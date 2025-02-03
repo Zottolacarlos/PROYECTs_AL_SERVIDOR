@@ -1,0 +1,4 @@
+//MO695-696.TXT ANA00695 TO ANA00696
+Personal_IMSA_rrhh		NFI		new file
+Personal_IMSA_rrhh		FIC-	Personal_IMSA_rrhh	Personal_IMSA_rrhh file deleted
+Personal_IMSA_rrhh		FRN		

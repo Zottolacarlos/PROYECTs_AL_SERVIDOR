@@ -1,0 +1,3 @@
+//MO291-292.TXT ANA00291 TO ANA00292
+Supervisores_Maquina		NFI		new file
+Constraint_Maquina_Supervisores_Maquina		NWL	Maquina (MáquinaID) and Supervisores_Maquina (MáquinaID)	New link between Maquina (MáquinaID) and Supervisores_Maquina (MáquinaID) files

@@ -1,0 +1,9 @@
+//MO306-307.TXT ANA00306 TO ANA00307
+parte_maquina		TAR	2607	new record size: 2607
+parte_maquina	TareasID	RUB+		TareasID is a new key
+parte_maquina_Detalle_Preventivo		FIC-	parte_maquina_Detalle_Preventivo	parte_maquina_Detalle_Preventivo file deleted
+Constraint_Detalle_Preventivo_parte_maquina		NWL	Detalle_Preventivo (Detalle_PreventivoID) and parte_maquina (Detalle_PreventivoID)	New link between Detalle_Preventivo (Detalle_PreventivoID) and parte_maquina (Detalle_PreventivoID) files
+Constraint_tareas_parte_maquina		NWL	tareas (tareasID) and parte_maquina (TareasID)	New link between tareas (tareasID) and parte_maquina (TareasID) files
+Constraint_Maquina_parte_maquina		DEL	Maquina (MáquinaID) and parte_maquina (MáquinaID)	Link deleted between Maquina (MáquinaID) and parte_maquina (MáquinaID) files
+Constraint_parte_maquina_Detalle_Preventivo		DEL	parte_maquina (parte_maquinaID) and parte_maquina_Detalle_Preventivo (Parte_maquinaID)	Link deleted between parte_maquina (parte_maquinaID) and parte_maquina_Detalle_Preventivo (Parte_maquinaID) files
+Constraint_Detalle_Preventivo_parte_maquina		DEL	Detalle_Preventivo (Detalle_PreventivoID) and parte_maquina_Detalle_Preventivo (Detalle_PreventivoID)	Link deleted between Detalle_Preventivo (Detalle_PreventivoID) and parte_maquina_Detalle_Preventivo (Detalle_PreventivoID) files

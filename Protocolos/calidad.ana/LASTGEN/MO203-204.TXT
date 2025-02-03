@@ -1,0 +1,3 @@
+//MO203-204.TXT ANA00203 TO ANA00204
+acc_correct_Detalle_largo_plazo		TAR	2646	new record size: 2646
+acc_correct_Detalle_largo_plazo	plazo_total	RUB+		plazo_total is a new item

@@ -1,0 +1,3 @@
+//MO336-337.TXT ANA00336 TO ANA00337
+Elem_Orden_de_Compra		TAR	111	new record size: 111
+Elem_Orden_de_Compra	descripcion_proveedor	RUB+		descripcion_proveedor is a new item

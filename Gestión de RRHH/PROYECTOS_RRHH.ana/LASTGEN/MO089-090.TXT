@@ -1,0 +1,3 @@
+//MO089-090.TXT ANA00089 TO ANA00090
+Preseleccionados		TAR	378	new record size: 378
+Preseleccionados	Contrato	RUB+		Contrato is a new item

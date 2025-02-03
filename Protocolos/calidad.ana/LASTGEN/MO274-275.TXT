@@ -1,0 +1,3 @@
+//MO274-275.TXT ANA00274 TO ANA00275
+conectados_calidad		TAR	79	new record size: 79
+conectados_calidad	fecha_conexion	RUB-		item fecha_conexion deleted

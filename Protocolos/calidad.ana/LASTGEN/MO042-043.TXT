@@ -1,0 +1,4 @@
+//MO042-043.TXT ANA00042 TO ANA00043
+Hoja1$		TAR	1576	new record size: 1576
+Hoja1$	Sector_encargado	RUB+		Sector_encargado is a new key
+Hoja1$	Fecha_ctr_Ger_Ind	RUB+		Fecha_ctr_Ger_Ind is a new item

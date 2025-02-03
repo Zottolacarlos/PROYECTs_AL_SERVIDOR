@@ -1,0 +1,3 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+Operarios$		TAR	184	new record size: 184
+Operarios$	alta_leche	RUB+		alta_leche is a new item

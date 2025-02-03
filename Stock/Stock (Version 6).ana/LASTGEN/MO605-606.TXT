@@ -1,0 +1,3 @@
+//MO605-606.TXT ANA00605 TO ANA00606
+Auditoria_deposito		NFI		new file
+Constraint_Producto_Auditoria_deposito		NWL	Producto (ProductoID) and Auditoria_deposito (ProductoID)	New link between Producto (ProductoID) and Auditoria_deposito (ProductoID) files

@@ -1,0 +1,2 @@
+//MO261-262.TXT ANA00261 TO ANA00262
+Constraint_Personal_IMSA_rrhh_acc_correct_auditoria		DEL	Personal_IMSA_rrhh (Legajo) and acc_correct_auditoria (Legajo)	Link deleted between Personal_IMSA_rrhh (Legajo) and acc_correct_auditoria (Legajo) files

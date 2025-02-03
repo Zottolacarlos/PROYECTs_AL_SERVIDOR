@@ -1,0 +1,3 @@
+//MO069-070.TXT ANA00069 TO ANA00070
+Archivo		TAR	785	new record size: 785
+Archivo	plano	RUB+		plano is a new item

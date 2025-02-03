@@ -1,0 +1,2 @@
+//MO246-247.TXT ANA00246 TO ANA00247
+Sectores	Sector	CLEU*		Sector item is now key

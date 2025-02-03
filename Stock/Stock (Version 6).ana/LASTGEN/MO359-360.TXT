@@ -1,0 +1,3 @@
+//MO359-360.TXT ANA00359 TO ANA00360
+Producto		TAR	198	new record size: 198
+Producto	Evita_precio_ref	RUB+		Evita_precio_ref is a new item

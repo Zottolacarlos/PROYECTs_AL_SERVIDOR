@@ -1,0 +1,3 @@
+//MO113-114.TXT ANA00113 TO ANA00114
+Recepcion		TAR	630	new record size: 630
+Recepcion	FechaRecepcion	CNW	Date (yyyymmdd)$String	new type for FechaRecepcion item: Date (yyyymmdd)

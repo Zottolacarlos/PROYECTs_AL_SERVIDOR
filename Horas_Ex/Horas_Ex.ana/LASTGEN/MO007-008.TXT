@@ -1,0 +1,12 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Operarios$		TAR	181	new record size: 181
+Operarios$	Legajo	CLEU*		Legajo item is now key
+Operarios$	Legajo	TAI-	500	Legajo item has been resized: 12 (instead of 512)
+Operarios$	Apellido	CLEN*		Apellido item is now key
+Operarios$	Apellido	TAI-	460	Apellido item has been resized: 52 (instead of 512)
+Operarios$	Nombres	CLEN*		Nombres item is now key
+Operarios$	Nombres	TAI-	430	Nombres item has been resized: 82 (instead of 512)
+Operarios$	Sector	CLEN*		Sector item is now key
+Operarios$	Sector	CNW	String$Unicode	new type for Sector item: String
+Tarea_Extra		TAR	232	new record size: 232
+Tarea_Extra	Sector_de_Tarea	RUB+		Sector_de_Tarea is a new item

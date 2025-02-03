@@ -1,0 +1,3 @@
+//MO302-303.TXT ANA00302 TO ANA00303
+acc_corrct_respuestas		TAR	399	new record size: 399
+acc_corrct_respuestas	EP_Obs	RUB+		EP_Obs is a new item

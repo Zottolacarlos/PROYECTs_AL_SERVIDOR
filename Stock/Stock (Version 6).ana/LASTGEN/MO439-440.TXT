@@ -1,0 +1,4 @@
+//MO439-440.TXT ANA00439 TO ANA00440
+Comparativa		TAR	596	new record size: 596
+Comparativa	Elemento_del_Pedido_ID	RUB-		key Elemento_del_Pedido_ID deleted
+Constraint_Elem_del_Pedido_Comparativa		DEL	Elem_del_Pedido (Elemento_del_Pedido_ID) and Comparativa (Elemento_del_Pedido_ID)	Link deleted between Elem_del_Pedido (Elemento_del_Pedido_ID) and Comparativa (Elemento_del_Pedido_ID) files

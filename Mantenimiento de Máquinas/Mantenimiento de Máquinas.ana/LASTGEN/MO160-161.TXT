@@ -1,0 +1,3 @@
+//MO160-161.TXT ANA00160 TO ANA00161
+conectados		TAR	97	new record size: 97
+conectados	ip	RUB+		ip is a new item

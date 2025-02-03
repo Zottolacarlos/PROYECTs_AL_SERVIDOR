@@ -1,0 +1,3 @@
+//MO067-068.TXT ANA00067 TO ANA00068
+Recepcion		TAR	817	new record size: 817
+Recepcion	Rechazo	RUB+		Rechazo is a new item

@@ -1,0 +1,3 @@
+//MO652-653.TXT ANA00652 TO ANA00653
+Polizas_de_Caución		TAR	262	new record size: 262
+Polizas_de_Caución	fecha_aviso	RUB+		fecha_aviso is a new item

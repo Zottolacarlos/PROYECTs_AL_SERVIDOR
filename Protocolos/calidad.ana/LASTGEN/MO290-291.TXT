@@ -1,0 +1,3 @@
+//MO290-291.TXT ANA00290 TO ANA00291
+acc_correct_causas		NFI		new file
+Maquina		NFI		new file

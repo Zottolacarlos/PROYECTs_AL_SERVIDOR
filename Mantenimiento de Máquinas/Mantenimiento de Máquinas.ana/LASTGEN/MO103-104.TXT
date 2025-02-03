@@ -1,0 +1,6 @@
+//MO103-104.TXT ANA00103 TO ANA00104
+lectura_hs		NFI		new file
+lectura_hs		FIC-	Elementos_de_arbol	Elementos_de_arbol file deleted
+lectura_hs		FIC-	Arbol_de_Preventivo	Arbol_de_Preventivo file deleted
+Elementos_de_arbol		DEL	Elementos_de_arbol (Elementos_de_arbolID) and Arbol_de_Preventivo (Elementos_de_arbolID)	Link deleted between Elementos_de_arbol (Elementos_de_arbolID) and Arbol_de_Preventivo (Elementos_de_arbolID) files
+lectura_hs		FRN		

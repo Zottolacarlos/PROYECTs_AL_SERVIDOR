@@ -1,0 +1,5 @@
+//MO736-737.TXT ANA00736 TO ANA00737
+Presupuestos_NEW		NFI		new file
+Cotizaciones_NEW		NFI		new file
+Presupuestos_NEW		FIC-	Presupuestos_NEW	Presupuestos_NEW file deleted
+Cotizaciones_NEW		FIC-	Cotizaciones_NEW	Cotizaciones_NEW file deleted

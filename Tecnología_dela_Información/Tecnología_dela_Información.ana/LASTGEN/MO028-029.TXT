@@ -1,0 +1,4 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+Proyectos_Entrevistas		NNF*	Proyect_Entrevistas	new name Proyectos_Entrevistas
+Proyectos_Entrevistas	Proyectos_EntrevistasID	NNR	Proyect_EntrevistasID	CAUTION: key Proyect_EntrevistasID renamed Proyectos_EntrevistasID
+Proyectos_Entrevistas		FRN		

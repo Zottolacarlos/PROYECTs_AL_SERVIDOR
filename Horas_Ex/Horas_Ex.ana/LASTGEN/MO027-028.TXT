@@ -1,0 +1,3 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+saldos_leche		TAR	36	new record size: 36
+saldos_leche	saldo	RUB+		saldo is a new item

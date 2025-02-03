@@ -1,0 +1,6 @@
+//MO182-183.TXT ANA00182 TO ANA00183
+acc_corrct_respuestas		TAR	149	new record size: 149
+acc_corrct_respuestas	Evidencia1	RUB+		Evidencia1 is a new item
+acc_corrct_respuestas	Evidencia2	RUB+		Evidencia2 is a new item
+acc_corrct_respuestas	Evidencia3	RUB+		Evidencia3 is a new item
+acc_corrct_respuestas	Evidencia4	RUB+		Evidencia4 is a new item

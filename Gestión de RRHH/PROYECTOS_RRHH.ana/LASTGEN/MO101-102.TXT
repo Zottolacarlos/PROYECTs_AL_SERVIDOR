@@ -1,0 +1,3 @@
+//MO101-102.TXT ANA00101 TO ANA00102
+Personal_IMSA_rrhh		TAR	635	new record size: 635
+Personal_IMSA_rrhh	Estado_PersonalIMSA	RUB-		item Estado_PersonalIMSA deleted

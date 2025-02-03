@@ -1,0 +1,4 @@
+//MO125-126.TXT ANA00125 TO ANA00126
+Contratos		TAR	117	new record size: 117
+Contratos	Se_envio_Telegrama	RUB+		Se_envio_Telegrama is a new item
+Contratos	Fecha_telegrama	RUB+		Fecha_telegrama is a new item

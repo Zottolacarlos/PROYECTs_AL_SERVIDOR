@@ -1,0 +1,4 @@
+//MO649-650.TXT ANA00649 TO ANA00650
+Polizas_de_Caución		TAR	287	new record size: 287
+Polizas_de_Caución	Fecha_cierre	NNR	Fecha_Fin	CAUTION: item Fecha_Fin renamed Fecha_cierre
+Polizas_de_Caución	Fecha_Vence	RUB+		Fecha_Vence is a new item

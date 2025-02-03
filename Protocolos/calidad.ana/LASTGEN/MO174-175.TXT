@@ -1,0 +1,3 @@
+//MO174-175.TXT ANA00174 TO ANA00175
+Equil_dinam_temp_imp		TAR	665	new record size: 665
+Equil_dinam_temp_imp	tarjeta	RUB-		item tarjeta deleted

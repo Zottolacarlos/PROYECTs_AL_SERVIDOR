@@ -1,0 +1,4 @@
+//MO069-070.TXT ANA00069 TO ANA00070
+Fundicion		TAR	601	new record size: 601
+Fundicion	Responsable	NNR	Responsable_espectro	CAUTION: item Responsable_espectro renamed Responsable
+Fundicion	Responsable_trata	RUB-		item Responsable_trata deleted

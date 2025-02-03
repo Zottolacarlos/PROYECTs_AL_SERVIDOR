@@ -1,0 +1,6 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Preseleccionados		TAR	38	new record size: 38
+Preseleccionados	Sector_asociado	RUB+		Sector_asociado is a new item
+Preseleccionados	DNI	RUB+		DNI is a new key
+Candidato		NFI		new file
+Constraint_Candidato_Preseleccionados		NWL	Candidato (DNI) and Preseleccionados (DNI)	New link between Candidato (DNI) and Preseleccionados (DNI) files

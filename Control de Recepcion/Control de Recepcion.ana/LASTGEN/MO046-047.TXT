@@ -1,0 +1,3 @@
+//MO046-047.TXT ANA00046 TO ANA00047
+Recepcion		TAR	212	new record size: 212
+Recepcion	Cantidad_P	RUB+		Cantidad_P is a new item

@@ -1,0 +1,9 @@
+//MO238-239.TXT ANA00238 TO ANA00239
+Elem_del_Pedido		TAR	996	new record size: 996
+Elem_del_Pedido	cantidad_cotizada	CNW	4-byte real$4-byte integer	new type for cantidad_cotizada item: 4-byte real
+Elem_del_Pedido	fecha_valoriza_cotizacion	RUB+		fecha_valoriza_cotizacion is a new item
+Elem_del_Pedido	Fecha_tomado	RUB+		Fecha_tomado is a new item
+Elem_del_Pedido	Material_en_Transito	RUB+		Material_en_Transito is a new item
+Elem_del_Pedido	Fecha_limite_en_transito	RUB+		Fecha_limite_en_transito is a new item
+Elem_del_Pedido	Flete_cotizado	RUB+		Flete_cotizado is a new item
+Elem_del_Pedido	Reemplaza_al_PM	RUB+		Reemplaza_al_PM is a new item

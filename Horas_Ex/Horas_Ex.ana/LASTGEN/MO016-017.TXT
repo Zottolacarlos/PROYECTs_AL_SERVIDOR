@@ -1,0 +1,3 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Tarea_Extra		TAR	470	new record size: 470
+Tarea_Extra	tipo_de_actua	TAI+	4	tipo_de_actua item has been resized: 6 (instead of 2)

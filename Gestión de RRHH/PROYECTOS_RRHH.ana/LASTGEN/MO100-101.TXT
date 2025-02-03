@@ -1,0 +1,7 @@
+//MO100-101.TXT ANA00100 TO ANA00101
+Personal_IMSA_rrhh		TAR	637	new record size: 637
+Personal_IMSA_rrhh	Estado_PersonalIMSA	RUB+		Estado_PersonalIMSA is a new item
+Personal_IMSA_rrhh	Estados_Personal_IMSAID	RUB+		Estados_Personal_IMSAID is a new key
+Personal_IMSA_rrhh	Estados_candidatoID	RUB-		key Estados_candidatoID deleted
+Estados_Personal_IMSA		NFI		new file
+Constraint_Personal_IMSA_rrhh_Estados_Personal_IMSA		NWL	Estados_Personal_IMSA (Estados_Personal_IMSAID) and Personal_IMSA_rrhh (Estados_Personal_IMSAID)	New link between Estados_Personal_IMSA (Estados_Personal_IMSAID) and Personal_IMSA_rrhh (Estados_Personal_IMSAID) files

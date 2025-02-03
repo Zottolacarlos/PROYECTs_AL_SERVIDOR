@@ -1,0 +1,4 @@
+//MO659-660.TXT ANA00659 TO ANA00660
+Maquina		NFI		new file
+Maquina		FIC-	Maquina	Maquina file deleted
+Maquina		FRN		

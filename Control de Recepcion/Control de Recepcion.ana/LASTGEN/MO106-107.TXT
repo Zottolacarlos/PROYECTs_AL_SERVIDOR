@@ -1,0 +1,17 @@
+//MO106-107.TXT ANA00106 TO ANA00107
+Califica_Proveedor		TAR	120	new record size: 120
+Califica_Proveedor	Clasificacion	TAI-	47	Clasificacion item has been resized: 4 (instead of 51)
+Califica_Proveedor	Rubro	RUB+		Rubro is a new item
+Ingenieria		TAR	89	new record size: 89
+Ingenieria	observación_I	TAI-	50	observación_I item has been resized: 31 (instead of 81)
+Ingenieria	Responsable_i	TAI-	30	Responsable_i item has been resized: 21 (instead of 51)
+Oftec		TAR	221	new record size: 221
+Oftec	Responsable	TAI-	30	Responsable item has been resized: 21 (instead of 51)
+Oftec	Observación_dep	TAI-	25	Observación_dep item has been resized: 26 (instead of 51)
+Oftec	obs_fund	TAI-	25	obs_fund item has been resized: 26 (instead of 51)
+Oftec	obs_calidad	TAI-	25	obs_calidad item has been resized: 26 (instead of 51)
+Oftec	obs_ing	TAI-	25	obs_ing item has been resized: 26 (instead of 51)
+Fundicion		TAR	172	new record size: 172
+Fundicion	Responsable	TAI+	5	Responsable item has been resized: 21 (instead of 16)
+Calidad		TAR	139	new record size: 139
+Calidad	Responsable	TAI-	30	Responsable item has been resized: 21 (instead of 51)

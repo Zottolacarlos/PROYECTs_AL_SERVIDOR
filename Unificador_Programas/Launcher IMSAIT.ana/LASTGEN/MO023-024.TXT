@@ -1,0 +1,4 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+conectados_manten		NFI		new file
+conectados_manten		FIC-	conectados_manten	conectados_manten file deleted
+conectados_manten		FRN		

@@ -1,0 +1,3 @@
+//MO131-132.TXT ANA00131 TO ANA00132
+reposicion_rechazados		TAR	39	new record size: 39
+reposicion_rechazados	OBS_RECHAZO	CNW	Text Memo$String	new type for OBS_RECHAZO item: Text Memo

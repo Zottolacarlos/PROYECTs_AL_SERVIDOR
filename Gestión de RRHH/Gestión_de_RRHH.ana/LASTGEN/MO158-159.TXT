@@ -1,0 +1,2 @@
+//MO158-159.TXT ANA00158 TO ANA00159
+conectados_rrhh		REP*	W:\BD\RRHH	new directory W:\BD\RRHH

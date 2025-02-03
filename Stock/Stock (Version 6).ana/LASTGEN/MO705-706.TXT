@@ -1,0 +1,6 @@
+//MO705-706.TXT ANA00705 TO ANA00706
+Sectores		NFI		new file
+Sectores_Puestos		NFI		new file
+Sectores		FIC-	Sectores	Sectores file deleted
+Sectores		FRN		
+Sectores_Puestos		FRN		

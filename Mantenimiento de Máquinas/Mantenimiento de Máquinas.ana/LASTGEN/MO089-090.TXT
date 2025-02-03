@@ -1,0 +1,37 @@
+//MO089-090.TXT ANA00089 TO ANA00090
+carga_horas		TAR	38	new record size: 38
+carga_horas		JNL+		logged file
+carga_horas		RPL+		Replication
+carga_horas	carga_horasID	CNW	Automatic Identifier (8 bytes)$Automatic Identifier (4 bytes)	new type for carga_horasID item: Automatic Identifier (8 bytes)
+carga_horas	Detalle_PreventivoID	CNW	8-byte integer$4-byte integer	new type for Detalle_PreventivoID item: 8-byte integer
+Maquina_Arbol_de_elementos		TAR	33	new record size: 33
+Maquina_Arbol_de_elementos		JNL+		logged file
+Maquina_Arbol_de_elementos		RPL+		Replication
+Maquina_Arbol_de_elementos	Arbol_de_elementosID	CNW	8-byte integer$4-byte integer	new type for Arbol_de_elementosID item: 8-byte integer
+Arbol_de_elementos		TAR	130	new record size: 130
+Arbol_de_elementos		JNL+		logged file
+Arbol_de_elementos		RPL+		Replication
+Arbol_de_elementos	Arbol_de_elementosID	CNW	Automatic Identifier (8 bytes)$Automatic Identifier (4 bytes)	new type for Arbol_de_elementosID item: Automatic Identifier (8 bytes)
+Cambio_fecha_Preven		TAR	136	new record size: 136
+Cambio_fecha_Preven		JNL+		logged file
+Cambio_fecha_Preven		RPL+		Replication
+Cambio_fecha_Preven	Cambio_fecha_PrevenID	CNW	Automatic Identifier (8 bytes)$Automatic Identifier (4 bytes)	new type for Cambio_fecha_PrevenID item: Automatic Identifier (8 bytes)
+Cambio_fecha_Preven	Detalle_PreventivoID	CNW	8-byte integer$4-byte integer	new type for Detalle_PreventivoID item: 8-byte integer
+Detalle_Preventivo		TAR	440	new record size: 440
+Detalle_Preventivo		JNL+		logged file
+Detalle_Preventivo		RPL+		Replication
+Detalle_Preventivo	Detalle_PreventivoID	CNW	Automatic Identifier (8 bytes)$Automatic Identifier (4 bytes)	new type for Detalle_PreventivoID item: Automatic Identifier (8 bytes)
+repuestos		TAR	315	new record size: 315
+repuestos		JNL+		logged file
+repuestos		RPL+		Replication
+repuestos	repuestosID	CNW	Automatic Identifier (8 bytes)$Automatic Identifier (4 bytes)	new type for repuestosID item: Automatic Identifier (8 bytes)
+repuestos	Detalle_CorrectivoID	CNW	8-byte integer$4-byte integer	new type for Detalle_CorrectivoID item: 8-byte integer
+repuestos	Detalle_PreventivoID	CNW	8-byte integer$4-byte integer	new type for Detalle_PreventivoID item: 8-byte integer
+Detalle_Correctivo		TAR	747	new record size: 747
+Detalle_Correctivo		JNL+		logged file
+Detalle_Correctivo		RPL+		Replication
+Detalle_Correctivo	Detalle_CorrectivoID	CNW	Automatic Identifier (8 bytes)$Automatic Identifier (4 bytes)	new type for Detalle_CorrectivoID item: Automatic Identifier (8 bytes)
+Maquina		TAR	123	new record size: 123
+Maquina		JNL+		logged file
+Maquina		RPL+		Replication
+Maquina	Mant_CorrectivoID	CNW	Automatic Identifier (8 bytes)$Automatic Identifier (4 bytes)	new type for Mant_CorrectivoID item: Automatic Identifier (8 bytes)

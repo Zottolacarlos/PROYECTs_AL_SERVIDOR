@@ -1,0 +1,8 @@
+//MO793-794.TXT ANA00793 TO ANA00794
+Auditoria_ELEM_OC		NNF	Auditoria_OC	new name Auditoria_ELEM_OC
+Auditoria_ELEM_OC		TAR	264	new record size: 264
+Auditoria_ELEM_OC	Fecha_Audit	RUB+		Fecha_Audit is a new item
+Auditoria_ELEM_OC	Legajo_Audit	RUB+		Legajo_Audit is a new item
+Auditoria_ELEM_OC	Descripcion_Audit	RUB+		Descripcion_Audit is a new item
+Auditoria_OC		NFI		new file
+Auditoria_OC		FRN		

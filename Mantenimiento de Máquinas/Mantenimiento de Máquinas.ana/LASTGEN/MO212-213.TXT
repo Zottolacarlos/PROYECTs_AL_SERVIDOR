@@ -1,0 +1,2 @@
+//MO212-213.TXT ANA00212 TO ANA00213
+Preventivo_por_cantidad	restan_usos	CNW	4-byte integer$4-byte unsigned integer	new type for restan_usos item: 4-byte integer

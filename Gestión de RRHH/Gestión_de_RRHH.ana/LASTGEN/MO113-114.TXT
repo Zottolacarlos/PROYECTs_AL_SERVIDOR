@@ -1,0 +1,3 @@
+//MO113-114.TXT ANA00113 TO ANA00114
+Sectores_Usuarios		NNF*	Personal_IMSA_rrhh_Sectores	new name Sectores_Usuarios
+Sectores_Usuarios		FRN		

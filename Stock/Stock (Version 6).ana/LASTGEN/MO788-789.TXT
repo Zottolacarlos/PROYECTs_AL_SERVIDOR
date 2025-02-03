@@ -1,0 +1,3 @@
+//MO788-789.TXT ANA00788 TO ANA00789
+Proveedores_Calificaciones		TAR	62	new record size: 62
+Proveedores_Calificaciones	PRIMARY	RUB-		key PRIMARY deleted

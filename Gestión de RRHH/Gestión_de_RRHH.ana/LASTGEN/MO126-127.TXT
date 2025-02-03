@@ -1,0 +1,4 @@
+//MO126-127.TXT ANA00126 TO ANA00127
+Auditoría_Personal		NFI		new file
+Constraint_Personal_IMSA_rrhh_Auditoría_Personal		NWL	Personal_IMSA_rrhh (Legajo) and Auditoría_Personal (Legajo_Auditado)	New link between Personal_IMSA_rrhh (Legajo) and Auditoría_Personal (Legajo_Auditado) files
+Constraint_Personal_IMSA_rrhh_Estados_Personal_IMSA		NWL	Estados_Personal_IMSA (Estados_Personal_IMSAID) and Personal_IMSA_rrhh (Estados_Personal_IMSAID)	New link between Estados_Personal_IMSA (Estados_Personal_IMSAID) and Personal_IMSA_rrhh (Estados_Personal_IMSAID) files

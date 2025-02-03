@@ -1,0 +1,2 @@
+//MO712-713.TXT ANA00712 TO ANA00713
+conectados_stock		REP*	W:\BD\STOCKTON	new directory W:\BD\STOCKTON

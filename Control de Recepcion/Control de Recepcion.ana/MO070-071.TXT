@@ -1,0 +1,3 @@
+//MO070-071.TXT ANA00070 TO ANA00071
+Fundicion		TAR	600	new record size: 600
+Fundicion	Fecha	CNW	Date (yyyymmdd)$String	new type for Fecha item: Date (yyyymmdd)

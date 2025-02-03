@@ -1,0 +1,4 @@
+//MO353-354.TXT ANA00353 TO ANA00354
+Personal_IMSA_rrhh		NFI		new file
+Personal_IMSA_rrhh		FIC-	Personal_IMSA_rrhh	Personal_IMSA_rrhh file deleted
+Constraint_Personal_IMSA_rrhh_Personal_Config		DEL	Personal_IMSA_rrhh (Legajo) and Personal_Config (Legajo)	Link deleted between Personal_IMSA_rrhh (Legajo) and Personal_Config (Legajo) files

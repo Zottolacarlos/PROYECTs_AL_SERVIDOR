@@ -1,0 +1,4 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Tarea_Extra		TAR	244	new record size: 244
+Tarea_Extra	Legajo	RUB+		Legajo is a new key
+Operarios$		NWL	Operarios$ (Legajo) and Tarea_Extra (Legajo)	New link between Operarios$ (Legajo) and Tarea_Extra (Legajo) files

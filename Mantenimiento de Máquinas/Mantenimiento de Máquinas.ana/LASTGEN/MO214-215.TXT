@@ -1,0 +1,3 @@
+//MO214-215.TXT ANA00214 TO ANA00215
+Detalle_Correctivo		TAR	1258	new record size: 1258
+Detalle_Correctivo	Motivo	TAI+	250	Motivo item has been resized: 501 (instead of 251)

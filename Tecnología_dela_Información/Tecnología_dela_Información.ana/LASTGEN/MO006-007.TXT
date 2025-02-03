@@ -1,0 +1,9 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Equipo_Detalle_PC		TAR	253	new record size: 253
+Equipo_Detalle_PC	CPU	TAI-	25	CPU item has been resized: 26 (instead of 51)
+Equipo_Detalle_PC	MOTHERBOARD	TAI-	25	MOTHERBOARD item has been resized: 26 (instead of 51)
+Equipo_Detalle_PC	RAM	TAI-	25	RAM item has been resized: 26 (instead of 51)
+Equipo_Detalle_PC	PLACA_VIDEO	CNW	String$Boolean	new type for PLACA_VIDEO item: String
+Equipo_Detalle_PC	Version_OFFICE	TAI-	30	Version_OFFICE item has been resized: 21 (instead of 51)
+Equipo_Detalle_PC	TECLADO_MOUSE	TAI-	25	TECLADO_MOUSE item has been resized: 26 (instead of 51)
+Equipo_Detalle_PC	FUENTE	TAI+	10	FUENTE item has been resized: 21 (instead of 11)

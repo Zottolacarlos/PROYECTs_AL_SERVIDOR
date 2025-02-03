@@ -1,0 +1,4 @@
+//MO057-058.TXT ANA00057 TO ANA00058
+acciones_correct		NFI		new file
+acciones_correct		FIC-	acciones_correct	acciones_correct file deleted
+acciones_correct		FRN		

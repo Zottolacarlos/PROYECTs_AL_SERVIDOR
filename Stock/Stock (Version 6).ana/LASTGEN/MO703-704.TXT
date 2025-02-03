@@ -1,0 +1,4 @@
+//MO703-704.TXT ANA00703 TO ANA00704
+Subcuentas_PROD_trad		NFI		new file
+subcuentatipo_PROD_trad		NFI		new file
+subcuentatipo_PROD_trad		FRN		

@@ -1,0 +1,3 @@
+//MO372-373.TXT ANA00372 TO ANA00373
+Orden_de_compra		TAR	348	new record size: 348
+Orden_de_compra	Neto	RUB+		Neto is a new item

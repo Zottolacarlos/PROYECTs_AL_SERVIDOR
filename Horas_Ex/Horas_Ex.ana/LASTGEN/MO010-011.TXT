@@ -1,0 +1,6 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Tarea_Extra		TAR	300	new record size: 300
+Tarea_Extra	Máquina	TAI-	40	Máquina item has been resized: 11 (instead of 51)
+Tarea_Extra	Cliente	TAI-	20	Cliente item has been resized: 31 (instead of 51)
+Tarea_Extra	Detalle_de_Trabajo	TAI+	100	Detalle_de_Trabajo item has been resized: 151 (instead of 51)
+Tarea_Extra	Estado	RUB+		Estado is a new item

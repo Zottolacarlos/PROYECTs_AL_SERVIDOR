@@ -1,0 +1,8 @@
+//MO766-767.TXT ANA00766 TO ANA00767
+Recepcion		RPP		program directory
+Clasificacion_proveedores		NFI		new file
+Calif_Individuales		NFI		new file
+Proveedores		NFI		new file
+Clasificacion_proveedores		FRN		
+Calif_Individuales		FRN		
+Proveedores		FRN		

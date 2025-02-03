@@ -1,0 +1,3 @@
+//MO650-651.TXT ANA00650 TO ANA00651
+Polizas_de_Caución		TAR	295	new record size: 295
+Polizas_de_Caución	Archivo_finalizacion	RUB+		Archivo_finalizacion is a new item

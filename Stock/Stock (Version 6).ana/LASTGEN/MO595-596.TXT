@@ -1,0 +1,3 @@
+//MO595-596.TXT ANA00595 TO ANA00596
+Elem_del_Pedido		TAR	617	new record size: 617
+Elem_del_Pedido	fundamento_plazo_cp	RUB+		fundamento_plazo_cp is a new item

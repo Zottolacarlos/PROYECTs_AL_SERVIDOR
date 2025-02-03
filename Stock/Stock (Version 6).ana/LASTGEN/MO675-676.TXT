@@ -1,0 +1,3 @@
+//MO675-676.TXT ANA00675 TO ANA00676
+Producto		TAR	210	new record size: 210
+Producto	Tiene_equivalencia	RUB+		Tiene_equivalencia is a new item

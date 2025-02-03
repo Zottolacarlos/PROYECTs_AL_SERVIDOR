@@ -1,0 +1,7 @@
+//MO052-053.TXT ANA00052 TO ANA00053
+Recepcion		TAR	223	new record size: 223
+Recepcion	Cant1	NNR	Cantidad_P	CAUTION: item Cantidad_P renamed Cant1
+Recepcion	Cant1	TAB-	2	Cant1 item is no longer an array
+Recepcion	Cant1	TAI-	10	Cant1 item has been resized: 6 (instead of 16)
+Recepcion	Cant2	RUB+		Cant2 is a new item
+Recepcion	Cant3	RUB+		Cant3 is a new item

@@ -1,0 +1,3 @@
+//MO713-714.TXT ANA00713 TO ANA00714
+Remitos_Compras		TAR	197	new record size: 197
+Remitos_Compras	Observaciones	RUB+		Observaciones is a new item

@@ -1,0 +1,4 @@
+//MO791-792.TXT ANA00791 TO ANA00792
+Control_Compras		TAR	36	new record size: 36
+Control_Compras	Elem_de_RecepcionID	RUB+		Elem_de_RecepcionID is a new key
+Constraint_Elem_de_Recepcion_Control_Compras		NWL	Elem_de_Recepcion (Elem_de_RecepcionID) and Control_Compras (Elem_de_RecepcionID)	New link between Elem_de_Recepcion (Elem_de_RecepcionID) and Control_Compras (Elem_de_RecepcionID) files

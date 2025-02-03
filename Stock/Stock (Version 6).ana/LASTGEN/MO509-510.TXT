@@ -1,0 +1,10 @@
+//MO509-510.TXT ANA00509 TO ANA00510
+Elem_de_Producto		TAR	402	new record size: 402
+Elem_de_Producto	UN_alto	RUB+		UN_alto is a new item
+Elem_de_Producto	UN_ancho	RUB+		UN_ancho is a new item
+Elem_de_Producto	UN_espesor	RUB+		UN_espesor is a new item
+Elem_de_Producto	UN_peso	RUB+		UN_peso is a new item
+Elem_de_Producto	Lectura	RUB+		Lectura is a new item
+Elem_de_Producto	Detalle_producto	RUB+		Detalle_producto is a new item
+Elem_de_Producto	Marca	TAI-	25	Marca item has been resized: 26 (instead of 51)
+Elem_de_Producto	A_Cargo_de	RUB+		A_Cargo_de is a new item

@@ -1,0 +1,3 @@
+//MO207-208.TXT ANA00207 TO ANA00208
+Temp_tableros		NFI		new file
+Temp_tableros		FRN		

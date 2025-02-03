@@ -1,0 +1,5 @@
+//MO704-705.TXT ANA00704 TO ANA00705
+Subcuentas_PROD_trad	codigo	CLEU*		codigo item is now key
+Subcuentas_PROD_trad	cuit_cuil	CLEU*		cuit_cuil item is now key
+Subcuentas_PROD_trad	descripcion	CLEN*		descripcion item is now key
+subcuentatipo_PROD_trad	cod_subcuenta	CLEN*		cod_subcuenta item is now key

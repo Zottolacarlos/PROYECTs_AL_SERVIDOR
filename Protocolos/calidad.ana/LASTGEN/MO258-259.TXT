@@ -1,0 +1,4 @@
+//MO258-259.TXT ANA00258 TO ANA00259
+acciones_correct		TAR	1164	new record size: 1164
+acciones_correct	PuestosID	RUB+		PuestosID is a new key
+acciones_correct	Legajo_responsable	CLEN*		Legajo_responsable item is now key

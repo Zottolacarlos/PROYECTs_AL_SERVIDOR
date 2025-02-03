@@ -1,0 +1,3 @@
+//MO153-154.TXT ANA00153 TO ANA00154
+Equilibrado_dinamico_datos		TAR	589	new record size: 589
+Equilibrado_dinamico_datos	Fecha	RUB+		Fecha is a new item

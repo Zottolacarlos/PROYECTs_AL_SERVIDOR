@@ -1,0 +1,5 @@
+//MO463-464.TXT ANA00463 TO ANA00464
+Comparativa		TAR	639	new record size: 639
+Comparativa	Producto_Id_para_proveedor	RUB+		Producto_Id_para_proveedor is a new item
+Comparativa	Unidad_para_proveedor	RUB+		Unidad_para_proveedor is a new item
+Comparativa	Descrip_prod_para_proveedor	RUB+		Descrip_prod_para_proveedor is a new item

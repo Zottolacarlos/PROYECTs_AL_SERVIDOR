@@ -1,0 +1,3 @@
+//MO136-137.TXT ANA00136 TO ANA00137
+acciones_correct		TAR	1431	new record size: 1431
+acciones_correct	Cotización	TAI+	15	Cotización item has been resized: 36 (instead of 21)

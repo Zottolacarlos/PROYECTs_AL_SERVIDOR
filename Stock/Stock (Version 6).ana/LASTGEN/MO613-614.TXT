@@ -1,0 +1,3 @@
+//MO613-614.TXT ANA00613 TO ANA00614
+Auditoria_deposito		TAR	72	new record size: 72
+Auditoria_deposito	stock_actual_fecha_agregado	RUB+		stock_actual_fecha_agregado is a new item

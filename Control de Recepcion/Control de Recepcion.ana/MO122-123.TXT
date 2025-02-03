@@ -1,0 +1,4 @@
+//MO122-123.TXT ANA00122 TO ANA00123
+Mantenimiento		NFI		new file
+Recepcion		NWL	Recepcion (NrodeControl) and Mantenimiento (NrodeControl)	New link between Recepcion (NrodeControl) and Mantenimiento (NrodeControl) files
+Mantenimiento		FRN		

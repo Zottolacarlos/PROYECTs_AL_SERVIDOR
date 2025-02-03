@@ -1,0 +1,7 @@
+//MO421-422.TXT ANA00421 TO ANA00422
+a_cargo_unix		TAR	207	new record size: 207
+a_cargo_unix		IDE+		file with identifier
+a_cargo_unix	A_cargo_UnixID	RUB+		A_cargo_UnixID is a new key
+Devoluciones_Operario_Unix		TAR	207	new record size: 207
+Devoluciones_Operario_Unix		IDE+		file with identifier
+Devoluciones_Operario_Unix	Devoluciones_Operario_UnixID	RUB+		Devoluciones_Operario_UnixID is a new key

@@ -1,0 +1,3 @@
+//MO161-162.TXT ANA00161 TO ANA00162
+Personal_IMSA_rrhh		TAR	712	new record size: 712
+Personal_IMSA_rrhh	Activar_contingente	RUB+		Activar_contingente is a new item

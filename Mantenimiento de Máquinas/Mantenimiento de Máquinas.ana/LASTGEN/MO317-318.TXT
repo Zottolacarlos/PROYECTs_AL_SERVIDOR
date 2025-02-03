@@ -1,0 +1,2 @@
+//MO317-318.TXT ANA00317 TO ANA00318
+Constraint_Maquina_Incidentes		NWL	Maquina (Denominación_Int) and Incidentes (Denominación_Int)	New link between Maquina (Denominación_Int) and Incidentes (Denominación_Int) files

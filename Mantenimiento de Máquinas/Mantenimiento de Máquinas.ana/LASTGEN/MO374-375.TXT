@@ -1,0 +1,3 @@
+//MO374-375.TXT ANA00374 TO ANA00375
+Maquina		TAR	266	new record size: 266
+Maquina	Critica	RUB+		Critica is a new item

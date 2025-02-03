@@ -1,0 +1,2 @@
+//MO148-149.TXT ANA00148 TO ANA00149
+Elem_del_Pedido	cantidad_cotizada	CNW	4-byte real$4-byte integer	new type for cantidad_cotizada item: 4-byte real

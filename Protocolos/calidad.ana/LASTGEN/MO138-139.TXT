@@ -1,0 +1,3 @@
+//MO138-139.TXT ANA00138 TO ANA00139
+acc_corrct_respuestas		TAR	666	new record size: 666
+acc_corrct_respuestas	Accion_corto_plazo	CNW	Text Memo$String	new type for Accion_corto_plazo item: Text Memo

@@ -1,0 +1,4 @@
+//MO450-451.TXT ANA00450 TO ANA00451
+Reclamo_recep		TAR	140	new record size: 140
+Reclamo_recep	usuario_que_cierra	RUB+		usuario_que_cierra is a new item
+Control_de_Recepcion		NFI		new file

@@ -1,0 +1,4 @@
+//MO344-345.TXT ANA00344 TO ANA00345
+Configuraciones_Personales		NFI		new file
+Usuarios		FIC-	Usuarios	Usuarios file deleted
+Constraint_Datos_sector_Usuarios		DEL	Datos_sector (Datos_sectorID) and Usuarios (Datos_sectorID)	Link deleted between Datos_sector (Datos_sectorID) and Usuarios (Datos_sectorID) files

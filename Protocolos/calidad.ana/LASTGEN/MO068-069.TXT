@@ -1,0 +1,3 @@
+//MO068-069.TXT ANA00068 TO ANA00069
+Hoja1$		TAR	1888	new record size: 1888
+Hoja1$	Sector_Pedido	RUB+		Sector_Pedido is a new item

@@ -1,0 +1,3 @@
+//MO305-306.TXT ANA00305 TO ANA00306
+acciones_correct		TAR	1204	new record size: 1204
+acciones_correct	Tipo_Trabajo	RUB-		item Tipo_Trabajo deleted

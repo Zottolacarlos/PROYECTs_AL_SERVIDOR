@@ -1,0 +1,3 @@
+//MO700-701.TXT ANA00700 TO ANA00701
+Personal_IMSA_rrhh		REP*	<MAIN_HF_DIR>	new directory <MAIN_HF_DIR>
+Personal_IMSA_rrhh		FRN		

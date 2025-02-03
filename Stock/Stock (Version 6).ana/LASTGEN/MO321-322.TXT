@@ -1,0 +1,4 @@
+//MO321-322.TXT ANA00321 TO ANA00322
+Precios_deReferencia		NFI		new file
+Producto		NWL	Producto (ProductoID) and Precios_deReferencia (ProductoID)	New link between Producto (ProductoID) and Precios_deReferencia (ProductoID) files
+Precios_deReferencia		FRN		

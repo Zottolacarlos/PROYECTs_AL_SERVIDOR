@@ -1,0 +1,4 @@
+//MO034-035.TXT ANA00034 TO ANA00035
+Urgencia		NFI		new file
+Hoja1$		NWL	Hoja1$ (Protocolo Nº) and Urgencia (Protocolo Nº)	New link between Hoja1$ (Protocolo Nº) and Urgencia (Protocolo Nº) files
+Urgencia		FRN		

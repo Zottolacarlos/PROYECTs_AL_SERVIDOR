@@ -1,0 +1,3 @@
+//MO328-329.TXT ANA00328 TO ANA00329
+Maquina		TAR	239	new record size: 239
+Maquina	Aparece_enMapa	RUB+		Aparece_enMapa is a new item

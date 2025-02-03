@@ -1,0 +1,4 @@
+//MO714-715.TXT ANA00714 TO ANA00715
+Remitos_Compras		TAR	209	new record size: 209
+Remitos_Compras	Elemento_del_Pedido_ID	RUB+		Elemento_del_Pedido_ID is a new key
+Constraint_Elem_del_Pedido_Remitos_Compras		NWL	Elem_del_Pedido (Elemento_del_Pedido_ID) and Remitos_Compras (Elemento_del_Pedido_ID)	New link between Elem_del_Pedido (Elemento_del_Pedido_ID) and Remitos_Compras (Elemento_del_Pedido_ID) files

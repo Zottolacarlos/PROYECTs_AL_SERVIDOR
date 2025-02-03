@@ -1,0 +1,3 @@
+//MO227-228.TXT ANA00227 TO ANA00228
+Detalle_Correctivo		TAR	1276	new record size: 1276
+Detalle_Correctivo	Fecha_final_sup	RUB+		Fecha_final_sup is a new item

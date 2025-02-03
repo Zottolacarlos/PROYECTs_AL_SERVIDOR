@@ -1,0 +1,3 @@
+//MO615-616.TXT ANA00615 TO ANA00616
+Control_colada		NFI		new file
+Constraint_stockencabezado_Control_colada		NWL	stockencabezado (idstockencabezado) and Control_colada (Idstockencabezado)	New link between stockencabezado (idstockencabezado) and Control_colada (Idstockencabezado) files

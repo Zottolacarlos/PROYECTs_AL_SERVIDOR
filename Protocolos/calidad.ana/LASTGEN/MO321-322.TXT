@@ -1,0 +1,3 @@
+//MO321-322.TXT ANA00321 TO ANA00322
+Instrumentos_verificacion		TAR	388	new record size: 388
+Instrumentos_verificacion	A_cargo	RUB-		item A_cargo deleted

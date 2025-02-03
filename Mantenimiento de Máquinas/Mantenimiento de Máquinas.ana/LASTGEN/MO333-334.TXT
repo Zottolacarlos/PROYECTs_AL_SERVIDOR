@@ -1,0 +1,6 @@
+//MO333-334.TXT ANA00333 TO ANA00334
+Detalle_Correctivo		TAR	1217	new record size: 1217
+Detalle_Correctivo	Tipo_de_mantenimiento	RUB+		Tipo_de_mantenimiento is a new item
+Detalle_Correctivo	Tipo_de_MantenimientoID	RUB+		Tipo_de_MantenimientoID is a new key
+Tipo_de_Mantenimiento		NFI		new file
+Constraint_Detalle_Correctivo_Tipo_de_Mantenimiento		NWL	Tipo_de_Mantenimiento (Tipo_de_MantenimientoID) and Detalle_Correctivo (Tipo_de_MantenimientoID)	New link between Tipo_de_Mantenimiento (Tipo_de_MantenimientoID) and Detalle_Correctivo (Tipo_de_MantenimientoID) files

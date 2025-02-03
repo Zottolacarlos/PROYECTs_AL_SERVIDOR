@@ -1,0 +1,2 @@
+//MO215-216.TXT ANA00215 TO ANA00216
+repuestos	Nro_Pedido	CLEU*		Nro_Pedido item is now key

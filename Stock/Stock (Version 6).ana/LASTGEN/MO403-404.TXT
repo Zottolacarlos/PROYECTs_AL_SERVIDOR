@@ -1,0 +1,5 @@
+//MO403-404.TXT ANA00403 TO ANA00404
+Orden_de_compra		TAR	534	new record size: 534
+Orden_de_compra	Forma_de_Pago	TAI+	204	Forma_de_Pago item has been resized: 255 (instead of 51)
+Impresion_Orden_de_Compra		TAR	1093	new record size: 1093
+Impresion_Orden_de_Compra	Forma_de_Pago	TAI+	204	Forma_de_Pago item has been resized: 255 (instead of 51)

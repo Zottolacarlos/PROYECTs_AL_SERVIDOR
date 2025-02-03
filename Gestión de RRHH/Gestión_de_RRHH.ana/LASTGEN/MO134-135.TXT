@@ -1,0 +1,2 @@
+//MO134-135.TXT ANA00134 TO ANA00135
+Contratos	Renovar_xTiempo	NNR	Tiempo_Contrato	CAUTION: item Tiempo_Contrato renamed Renovar_xTiempo

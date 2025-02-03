@@ -1,0 +1,2 @@
+//MO725-726.TXT ANA00725 TO ANA00726
+Connection to bdcontabilidad		CNX		

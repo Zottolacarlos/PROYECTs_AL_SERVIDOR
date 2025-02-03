@@ -1,0 +1,11 @@
+//MO182-183.TXT ANA00182 TO ANA00183
+Capacitaciones		REP*	W:\BD\RRHH	new directory W:\BD\RRHH
+Capacitaciones_Integrantes		REP*	W:\BD\RRHH	new directory W:\BD\RRHH
+Capacitaciones_Archivos		REP*	W:\BD\RRHH	new directory W:\BD\RRHH
+Capacitaciones_Auditoria		REP*	W:\BD\RRHH	new directory W:\BD\RRHH
+Capacitaciones_Original		REP*	W:\BD\RRHH	new directory W:\BD\RRHH
+Capacitaciones		FRN		
+Capacitaciones_Integrantes		FRN		
+Capacitaciones_Archivos		FRN		
+Capacitaciones_Auditoria		FRN		
+Capacitaciones_Original		FRN		

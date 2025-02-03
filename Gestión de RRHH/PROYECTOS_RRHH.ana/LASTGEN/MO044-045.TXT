@@ -1,0 +1,3 @@
+//MO044-045.TXT ANA00044 TO ANA00045
+Usuarios		TAR	240	new record size: 240
+Usuarios	Email	RUB+		Email is a new item

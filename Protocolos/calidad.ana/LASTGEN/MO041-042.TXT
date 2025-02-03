@@ -1,0 +1,3 @@
+//MO041-042.TXT ANA00041 TO ANA00042
+Hoja1$		TAR	1516	new record size: 1516
+Hoja1$	urgente	RUB+		urgente is a new key

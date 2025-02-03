@@ -1,0 +1,3 @@
+//MO174-175.TXT ANA00174 TO ANA00175
+Capacitaciones_Original		TAR	225	new record size: 225
+Capacitaciones_Original	Fecha_Finalizacion	RUB-		item Fecha_Finalizacion deleted

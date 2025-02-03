@@ -1,0 +1,3 @@
+//MO656-657.TXT ANA00656 TO ANA00657
+Auditoria_estados		NFI		new file
+Constraint_Elem_del_Pedido_Auditoria_estados		NWL	Elem_del_Pedido (Elemento_del_Pedido_ID) and Auditoria_estados (Elemento_del_Pedido_ID)	New link between Elem_del_Pedido (Elemento_del_Pedido_ID) and Auditoria_estados (Elemento_del_Pedido_ID) files

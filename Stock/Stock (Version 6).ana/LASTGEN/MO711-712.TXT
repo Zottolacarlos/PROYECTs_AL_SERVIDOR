@@ -1,0 +1,3 @@
+//MO711-712.TXT ANA00711 TO ANA00712
+conectados_stock		NNF*	conectados	new name conectados_stock
+conectados_stock		FRN		

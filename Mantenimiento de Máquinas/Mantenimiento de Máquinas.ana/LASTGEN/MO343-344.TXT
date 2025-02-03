@@ -1,0 +1,3 @@
+//MO343-344.TXT ANA00343 TO ANA00344
+Personal_IMSA_rrhh		REP*	W:\BD\RRHH	new directory W:\BD\RRHH
+Personal_IMSA_rrhh		FRN		

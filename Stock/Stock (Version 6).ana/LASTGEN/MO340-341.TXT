@@ -1,0 +1,4 @@
+//MO340-341.TXT ANA00340 TO ANA00341
+Elem_del_Pedido		TAR	498	new record size: 498
+Elem_del_Pedido	fecha_valoriza_cotizacion	RUB+		fecha_valoriza_cotizacion is a new item
+Maquina		TAR	112	new record size: 112

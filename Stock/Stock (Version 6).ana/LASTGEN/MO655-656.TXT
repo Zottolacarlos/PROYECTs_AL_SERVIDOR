@@ -1,0 +1,4 @@
+//MO655-656.TXT ANA00655 TO ANA00656
+Polizas_de_Caución		TAR	389	new record size: 389
+Polizas_de_Caución	Monto_Poliza	RUB+		Monto_Poliza is a new item
+Polizas_de_Caución	Moneda_Monto	RUB+		Moneda_Monto is a new item

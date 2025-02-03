@@ -1,0 +1,2 @@
+//MO701-702.TXT ANA00701 TO ANA00702
+Personal_IMSA_rrhh		RPP		program directory

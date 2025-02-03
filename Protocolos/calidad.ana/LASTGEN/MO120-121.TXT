@@ -1,0 +1,3 @@
+//MO120-121.TXT ANA00120 TO ANA00121
+redireccionada_acc_correct		NNF*	historico_acc_correct	new name redireccionada_acc_correct
+redireccionada_acc_correct	redireccionada_acc_correctID	NNR	historico_acc_correctID	CAUTION: key historico_acc_correctID renamed redireccionada_acc_correctID

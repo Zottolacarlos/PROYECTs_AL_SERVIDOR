@@ -1,0 +1,4 @@
+//MO654-655.TXT ANA00654 TO ANA00655
+Polizas_de_Caución		TAR	368	new record size: 368
+Polizas_de_Caución	Observaciones	RUB+		Observaciones is a new item
+Polizas_de_Caución	archivo_mail	RUB+		archivo_mail is a new item

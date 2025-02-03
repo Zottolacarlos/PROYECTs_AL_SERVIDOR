@@ -1,0 +1,3 @@
+//MO173-174.TXT ANA00173 TO ANA00174
+Capacitaciones_Original		TAR	234	new record size: 234
+Capacitaciones_Original	Fecha_Grabado	RUB+		Fecha_Grabado is a new item

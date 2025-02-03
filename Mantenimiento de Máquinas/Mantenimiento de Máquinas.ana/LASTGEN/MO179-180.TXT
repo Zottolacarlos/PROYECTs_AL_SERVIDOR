@@ -1,0 +1,3 @@
+//MO179-180.TXT ANA00179 TO ANA00180
+Cambio_fecha_Preven		TAR	145	new record size: 145
+Cambio_fecha_Preven	fecha_nueva	RUB+		fecha_nueva is a new item

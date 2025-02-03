@@ -1,0 +1,6 @@
+//MO066-067.TXT ANA00066 TO ANA00067
+Detalle_Preventivo		TAR	1333	new record size: 1333
+Detalle_Preventivo	Prox_Preventivo_inicial	RUB+		Prox_Preventivo_inicial is a new item
+Maquina		TAR	169	new record size: 169
+Maquina	Proximo_Preventivo	RUB-		item Proximo_Preventivo deleted
+Maquina	Prox_Preventivo_inicial	RUB-		item Prox_Preventivo_inicial deleted

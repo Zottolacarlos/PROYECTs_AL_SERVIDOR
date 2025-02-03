@@ -1,0 +1,3 @@
+//MO235-236.TXT ANA00235 TO ANA00236
+Elem_del_Pedido		TAR	928	new record size: 928
+Elem_del_Pedido	Tomado_por	RUB+		Tomado_por is a new item

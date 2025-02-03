@@ -1,0 +1,3 @@
+//MO196-197.TXT ANA00196 TO ANA00197
+Archivo		TAR	74	new record size: 74
+Archivo	anexo_liberacion	RUB+		anexo_liberacion is a new item

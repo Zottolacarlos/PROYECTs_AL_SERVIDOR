@@ -1,0 +1,2 @@
+//MO446-447.TXT ANA00446 TO ANA00447
+Elem_del_Pedido	cantidad_cotizada	CNW	4-byte real$4-byte unsigned integer	new type for cantidad_cotizada item: 4-byte real

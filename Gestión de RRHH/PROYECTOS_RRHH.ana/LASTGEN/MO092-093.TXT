@@ -1,0 +1,4 @@
+//MO092-093.TXT ANA00092 TO ANA00093
+Preseleccionados		TAR	395	new record size: 395
+Preseleccionados	Legajo	RUB+		Legajo is a new key
+Constraint_Personal_IMSA_rrhh_Preseleccionados		NWL	Personal_IMSA_rrhh (Legajo) and Preseleccionados (Legajo)	New link between Personal_IMSA_rrhh (Legajo) and Preseleccionados (Legajo) files

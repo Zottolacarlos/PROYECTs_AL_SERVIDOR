@@ -1,0 +1,2 @@
+//MO112-113.TXT ANA00112 TO ANA00113
+acc_correc_SECTORES		NNF*	sectores_acc_correc	new name acc_correc_SECTORES

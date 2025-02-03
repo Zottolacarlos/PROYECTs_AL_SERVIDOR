@@ -1,0 +1,9 @@
+//MO311-312.TXT ANA00311 TO ANA00312
+Detalle_Proactivo		TAR	971	new record size: 971
+Detalle_Proactivo		JNL+		logged file
+Detalle_Proactivo	fecha_Inicio_Mant	RUB+		fecha_Inicio_Mant is a new key
+Detalle_Proactivo	Estado	RUB+		Estado is a new item
+Detalle_Proactivo	Legajo_Ticket	NNR	Responsable_ticket	CAUTION: key Responsable_ticket renamed Legajo_Ticket
+Detalle_Proactivo	Legajo_Ticket	CLEN*		Legajo_Ticket item is now key
+Detalle_Proactivo	Legajo_Ticket	CNW	2-byte unsigned integer$String	new type for Legajo_Ticket item: 2-byte unsigned integer
+Detalle_Proactivo	Legajo_Toma_ticket	RUB+		Legajo_Toma_ticket is a new key

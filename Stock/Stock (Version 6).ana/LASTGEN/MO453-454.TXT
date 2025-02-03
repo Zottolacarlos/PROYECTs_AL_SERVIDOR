@@ -1,0 +1,6 @@
+//MO453-454.TXT ANA00453 TO ANA00454
+Elem_del_Pedido	Cotizacion	CLEN		Cotizacion item is now key
+Recepcion_de_Materiales	Cotizacion	CLEN		Cotizacion item is now key
+Recepcion_de_Materiales	Cotizacion	RDP+		
+Retiro_de_Materiales	Cotizacion	CLEN		Cotizacion item is now key
+Retiro_de_Materiales	Cotizacion	RDP+		

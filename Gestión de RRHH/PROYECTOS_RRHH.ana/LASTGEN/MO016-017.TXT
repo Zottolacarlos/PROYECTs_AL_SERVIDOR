@@ -1,0 +1,6 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Usuarios		TAR	189	new record size: 189
+Usuarios	SectoresID	RUB+		SectoresID is a new key
+Usuarios	Sector	RUB-		item Sector deleted
+Sectores		NFI		new file
+Constraint_Sectores_Usuarios		NWL	Sectores (SectoresID) and Usuarios (SectoresID)	New link between Sectores (SectoresID) and Usuarios (SectoresID) files

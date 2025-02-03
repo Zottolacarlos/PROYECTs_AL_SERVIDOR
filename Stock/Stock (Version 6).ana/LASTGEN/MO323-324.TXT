@@ -1,0 +1,5 @@
+//MO323-324.TXT ANA00323 TO ANA00324
+Comparativa		TAR	867	new record size: 867
+Comparativa	se_cotizo	CNW	String$Boolean	new type for se_cotizo item: String
+Impresion_Comparativa		TAR	1054	new record size: 1054
+Impresion_Comparativa	se_cotizo	CNW	String$Boolean	new type for se_cotizo item: String

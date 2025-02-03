@@ -1,0 +1,3 @@
+//MO626-627.TXT ANA00626 TO ANA00627
+Precios_deReferencia		TAR	286	new record size: 286
+Precios_deReferencia	precio_flete	RUB+		precio_flete is a new item

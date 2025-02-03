@@ -1,0 +1,3 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Hoja1$	Orden de Fabricacion	CLEU*		Orden de Fabricacion item is now key
+Hoja1$		DEL	Hoja1$ (Protocolo Nº) and Archivo (Protocolo Nº)	Link deleted between Hoja1$ (Protocolo Nº) and Archivo (Protocolo Nº) files

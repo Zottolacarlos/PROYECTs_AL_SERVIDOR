@@ -1,0 +1,3 @@
+//MO163-164.TXT ANA00163 TO ANA00164
+conectados		TAR	72	new record size: 72
+conectados	usuario	TAI-	25	usuario item has been resized: 26 (instead of 51)

@@ -1,0 +1,3 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Hoja1$		TAR	1427	new record size: 1427
+Hoja1$	Tipo de Control	CNW	String$2-byte integer	new type for Tipo de Control item: String

@@ -1,0 +1,5 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Tarea_Extra		NFI		new file
+Operarios		NFI		new file
+Operarios		FRN		
+Tarea_Extra		FRN		

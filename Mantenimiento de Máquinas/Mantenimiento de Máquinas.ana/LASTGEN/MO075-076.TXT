@@ -1,0 +1,7 @@
+//MO075-076.TXT ANA00075 TO ANA00076
+control_anual		NFI		new file
+control_mensual		NFI		new file
+Tableros		NWL	Tableros (Tablero_Nro) and control_anual (Tablero_Nro)	New link between Tableros (Tablero_Nro) and control_anual (Tablero_Nro) files
+Tableros		NWL	Tableros (Tablero_Nro) and control_mensual (Tablero_Nro)	New link between Tableros (Tablero_Nro) and control_mensual (Tablero_Nro) files
+control_mensual		FRN		
+control_anual		FRN		

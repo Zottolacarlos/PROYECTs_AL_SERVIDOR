@@ -1,0 +1,4 @@
+//MO449-450.TXT ANA00449 TO ANA00450
+Reclamo_recep		NFI		new file
+Constraint_Elem_del_Pedido_Recepcion_de_Materiales		NWL	Elem_del_Pedido (Elemento_del_Pedido_ID) and Recepcion_de_Materiales (Elemento_del_Pedido_ID)	New link between Elem_del_Pedido (Elemento_del_Pedido_ID) and Recepcion_de_Materiales (Elemento_del_Pedido_ID) files
+Constraint_Recepcion_de_Materiales_Reclamo_recep		NWL	Recepcion_de_Materiales (Recepcion_de_MaterialesID) and Reclamo_recep (Recepcion_de_MaterialesID)	New link between Recepcion_de_Materiales (Recepcion_de_MaterialesID) and Reclamo_recep (Recepcion_de_MaterialesID) files

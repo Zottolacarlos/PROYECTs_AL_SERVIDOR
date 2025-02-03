@@ -1,0 +1,4 @@
+//MO273-274.TXT ANA00273 TO ANA00274
+conectados_calidad		NFI		new file
+conectados		FIC-	conectados	conectados file deleted
+conectados_calidad		FRN		

@@ -1,0 +1,3 @@
+//MO093-094.TXT ANA00093 TO ANA00094
+Califica_Proveedor		NWL	Califica_Proveedor (Califica_ProveedorID) and Recepcion (Califica_ProveedorID)	New link between Califica_Proveedor (Califica_ProveedorID) and Recepcion (Califica_ProveedorID) files
+Califica_Proveedor		DEL	Califica_Proveedor (Califica_ProveedorID) and Recepcion (Califica_ProveedorID)	Link deleted between Califica_Proveedor (Califica_ProveedorID) and Recepcion (Califica_ProveedorID) files

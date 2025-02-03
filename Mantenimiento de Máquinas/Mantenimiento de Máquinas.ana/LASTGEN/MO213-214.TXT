@@ -1,0 +1,3 @@
+//MO213-214.TXT ANA00213 TO ANA00214
+Maquina		TAR	112	new record size: 112
+Maquina	ID_preve_actual	RUB+		ID_preve_actual is a new item

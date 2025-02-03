@@ -1,0 +1,4 @@
+//MO065-066.TXT ANA00065 TO ANA00066
+Sectores		TAR	72	new record size: 72
+Sectores	Define_Ingreso_usuario1	RUB+		Define_Ingreso_usuario1 is a new item
+Sectores	Define_Ingreso_usuario2	RUB+		Define_Ingreso_usuario2 is a new item

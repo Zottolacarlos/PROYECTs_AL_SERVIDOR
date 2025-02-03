@@ -1,0 +1,3 @@
+//MO315-316.TXT ANA00315 TO ANA00316
+Metalizado		NFI		new file
+Metalizado	Observaciones	RRN		

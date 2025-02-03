@@ -1,0 +1,3 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Detalle_Correctivo		TAR	130	new record size: 130
+Detalle_Correctivo	Fecha_parada	CNW	Date (yyyymmdd)$String	new type for Fecha_parada item: Date (yyyymmdd)

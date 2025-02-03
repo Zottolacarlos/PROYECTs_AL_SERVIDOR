@@ -1,0 +1,3 @@
+//MO033-034.TXT ANA00033 TO ANA00034
+Auditoria		TAR	932	new record size: 932
+Auditoria	datos_oftec	TAB+	6	datos_oftec item is now an array of 11 elements instead of 5

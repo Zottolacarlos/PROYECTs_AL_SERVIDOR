@@ -1,0 +1,3 @@
+//MO122-123.TXT ANA00122 TO ANA00123
+acc_corrct_respuestas		NFI		new file
+acc_corrct_respuestas		FRN		

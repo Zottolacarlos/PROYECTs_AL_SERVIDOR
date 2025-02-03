@@ -1,0 +1,4 @@
+//MO240-241.TXT ANA00240 TO ANA00241
+acc_correct_redireccionada		TAR	149	new record size: 149
+acc_correct_redireccionada	Nuevo_Sector	RUB+		Nuevo_Sector is a new item
+acc_correct_redireccionada	Nuevo_Responsable	RUB+		Nuevo_Responsable is a new item

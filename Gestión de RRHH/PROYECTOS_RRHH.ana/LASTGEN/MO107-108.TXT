@@ -1,0 +1,2 @@
+//MO107-108.TXT ANA00107 TO ANA00108
+Constraint_Sectores_Personal_IMSA_rrhh		NWL	Sectores (SectoresID) and Personal_IMSA_rrhh (SectoresID)	New link between Sectores (SectoresID) and Personal_IMSA_rrhh (SectoresID) files

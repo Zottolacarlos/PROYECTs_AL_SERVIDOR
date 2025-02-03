@@ -1,0 +1,3 @@
+//MO570-571.TXT ANA00570 TO ANA00571
+Control_Compras		NFI		new file
+Constraint_Control_Compras_Control_Recep_Sector		NWL	Control_Recep_Sector (Control_Recep_SectorID) and Control_Compras (Control_Recep_SectorID)	New link between Control_Recep_Sector (Control_Recep_SectorID) and Control_Compras (Control_Recep_SectorID) files

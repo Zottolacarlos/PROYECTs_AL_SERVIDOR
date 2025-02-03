@@ -1,0 +1,4 @@
+//MO245-246.TXT ANA00245 TO ANA00246
+acc_correct_auditoria		TAR	191	new record size: 191
+acc_correct_auditoria	Legajo	RUB+		Legajo is a new key
+Constraint_Personal_IMSA_rrhh_acc_correct_auditoria		NWL	Personal_IMSA_rrhh (Legajo) and acc_correct_auditoria (Legajo)	New link between Personal_IMSA_rrhh (Legajo) and acc_correct_auditoria (Legajo) files

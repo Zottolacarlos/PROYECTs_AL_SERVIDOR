@@ -1,0 +1,3 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+conectados_produc		TAR	79	new record size: 79
+conectados_produc	fecha_conexion	RUB-		item fecha_conexion deleted

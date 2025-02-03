@@ -1,0 +1,7 @@
+//MO562-563.TXT ANA00562 TO ANA00563
+Elem_de_Producto		TAR	229	new record size: 229
+Elem_de_Producto	Identificador_Pieza	CLEN		Identificador_Pieza item is now key
+Elem_de_Producto	Identificador_Pieza	TAI-	35	Identificador_Pieza item has been resized: 16 (instead of 51)
+Elem_de_Producto	UN_diametro	RUB+		UN_diametro is a new item
+Elem_de_Producto	UN_largo	RUB+		UN_largo is a new item
+Elem_de_Producto	A_Cargo_de	TAI-	15	A_Cargo_de item has been resized: 36 (instead of 51)

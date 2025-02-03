@@ -1,0 +1,3 @@
+//MO271-272.TXT ANA00271 TO ANA00272
+Sectores_Puestos		REP*	W:\BD\RRHH	new directory W:\BD\RRHH
+Sectores_Puestos		FRN		

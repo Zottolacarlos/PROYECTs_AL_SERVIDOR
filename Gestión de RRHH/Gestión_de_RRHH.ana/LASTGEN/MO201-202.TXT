@@ -1,0 +1,3 @@
+//MO201-202.TXT ANA00201 TO ANA00202
+Personal_IMSA_rrhh		TAR	723	new record size: 723
+Personal_IMSA_rrhh	Puntaje_Productivo	RUB+		Puntaje_Productivo is a new item

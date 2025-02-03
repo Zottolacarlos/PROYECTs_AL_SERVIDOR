@@ -1,0 +1,9 @@
+//MO026-027.TXT ANA00026 TO ANA00027
+Pedido_de_Contratación		TAR	181	new record size: 181
+Pedido_de_Contratación	Estados_Pedidos_contrID	RUB+		Estados_Pedidos_contrID is a new key
+Pedido_de_Contratación	Estados_Pedidos_contrID	RUB-		key Estados_Pedidos_contrID deleted
+Estados_Pedidos_contr		TAR	62	new record size: 62
+Estados_Pedidos_contr		IDE-*		file without identifier
+Estados_Pedidos_contr	Estados_Pedidos_contrID	CNW	2-byte unsigned integer$Automatic Identifier (8 bytes)	new type for Estados_Pedidos_contrID item: 2-byte unsigned integer
+Constraint_Estados_Pedidos_contr_Pedido_de_Contratación		NWL	Estados_Pedidos_contr (Estados_Pedidos_contrID) and Pedido_de_Contratación (Estados_Pedidos_contrID)	New link between Estados_Pedidos_contr (Estados_Pedidos_contrID) and Pedido_de_Contratación (Estados_Pedidos_contrID) files
+Constraint_Pedido_de_Contratación_Estados_Pedidos_contr		DEL	Estados_Pedidos_contr (Estados_Pedidos_contrID) and Pedido_de_Contratación (Estados_Pedidos_contrID)	Link deleted between Estados_Pedidos_contr (Estados_Pedidos_contrID) and Pedido_de_Contratación (Estados_Pedidos_contrID) files

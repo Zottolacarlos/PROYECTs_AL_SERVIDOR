@@ -1,0 +1,3 @@
+//MO057-058.TXT ANA00057 TO ANA00058
+Maquina		TAR	160	new record size: 160
+Maquina	Reloj_cuenta_hr	CNW	8-byte real$4-byte unsigned integer	new type for Reloj_cuenta_hr item: 8-byte real

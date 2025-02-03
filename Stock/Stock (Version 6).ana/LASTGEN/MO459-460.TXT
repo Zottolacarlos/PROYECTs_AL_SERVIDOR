@@ -1,0 +1,3 @@
+//MO459-460.TXT ANA00459 TO ANA00460
+Impresion_Costos_x_COT		TAR	94	new record size: 94
+Impresion_Costos_x_COT	Cotizacion	RUB+		Cotizacion is a new key

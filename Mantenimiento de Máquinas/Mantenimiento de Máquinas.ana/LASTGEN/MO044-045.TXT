@@ -1,0 +1,8 @@
+//MO044-045.TXT ANA00044 TO ANA00045
+Maquina_Arbol_de_elementos		NFI		new file
+Arbol_de_elementos		NFI		new file
+Maquina		FIC-	Arbol_repuestos	Arbol_repuestos file deleted
+Arbol_de_elementos		NWL	Arbol_de_elementos (Arbol_de_elementosID) and Maquina_Arbol_de_elementos (Arbol_de_elementosID)	New link between Arbol_de_elementos (Arbol_de_elementosID) and Maquina_Arbol_de_elementos (Arbol_de_elementosID) files
+Maquina		NWL	Maquina (Denominación_Int) and Maquina_Arbol_de_elementos (Denominación_Int)	New link between Maquina (Denominación_Int) and Maquina_Arbol_de_elementos (Denominación_Int) files
+Detalle_Preventivo		DEL	Detalle_Preventivo (Detalle_PreventivoID) and Arbol_repuestos (Detalle_PreventivoID)	Link deleted between Detalle_Preventivo (Detalle_PreventivoID) and Arbol_repuestos (Detalle_PreventivoID) files
+Arbol_de_elementos		FRN		

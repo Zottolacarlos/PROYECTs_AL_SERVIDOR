@@ -1,0 +1,2 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Tarea_Extra	Supervisor_q_carga	NNR	Sector_q_carga	CAUTION: key Sector_q_carga renamed Supervisor_q_carga

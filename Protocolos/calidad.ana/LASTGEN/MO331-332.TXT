@@ -1,0 +1,6 @@
+//MO331-332.TXT ANA00331 TO ANA00332
+Equil_dinam_temp_imp		TAR	817	new record size: 817
+Equil_dinam_temp_imp	Desequilibrio_Residual_LD	NNR	Desequilibrio_Residual	CAUTION: item Desequilibrio_Residual renamed Desequilibrio_Residual_LD
+Equil_dinam_temp_imp	Desequilibrio_Residual_LD	TAB-	1	Desequilibrio_Residual_LD item is no longer an array
+Equil_dinam_temp_imp	Desequilibrio_Residual_LD	CNW	String$4-byte real	new type for Desequilibrio_Residual_LD item: String
+Equil_dinam_temp_imp	Desequilibrio_Residual_LM	RUB+		Desequilibrio_Residual_LM is a new item

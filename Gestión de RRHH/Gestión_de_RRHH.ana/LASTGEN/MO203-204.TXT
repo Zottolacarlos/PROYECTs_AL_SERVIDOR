@@ -1,0 +1,5 @@
+//MO203-204.TXT ANA00203 TO ANA00204
+Capacitaciones_Material	CapacitacionesID	RUB+		CapacitacionesID is a new key
+Capacitaciones_Material	Capacitaciones_CertificadosID	RUB-		key Capacitaciones_CertificadosID deleted
+Constraint_Capacitaciones_Capacitaciones_Material		NWL	Capacitaciones (CapacitacionesID) and Capacitaciones_Material (CapacitacionesID)	New link between Capacitaciones (CapacitacionesID) and Capacitaciones_Material (CapacitacionesID) files
+Constraint_Capacitaciones_Certificados_Capacitaciones_Material		DEL	Capacitaciones_Certificados (Capacitaciones_CertificadosID) and Capacitaciones_Material (Capacitaciones_CertificadosID)	Link deleted between Capacitaciones_Certificados (Capacitaciones_CertificadosID) and Capacitaciones_Material (Capacitaciones_CertificadosID) files

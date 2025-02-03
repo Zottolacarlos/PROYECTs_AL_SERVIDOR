@@ -1,0 +1,9 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Oftec		TAR	380	new record size: 380
+Oftec	Observación	NNR	Obs_espectro	CAUTION: item Obs_espectro renamed Observación
+Oftec	Observación	TAI+	200	Observación item has been resized: 301 (instead of 101)
+Fundicion	Decision_trata	NNR	Decosion_trata	CAUTION: item Decosion_trata renamed Decision_trata
+Calidad		TAR	379	new record size: 379
+Calidad	Observación	NNR	Obs_espectro	CAUTION: item Obs_espectro renamed Observación
+Calidad	Observación	TAI+	200	Observación item has been resized: 301 (instead of 101)
+Deposito	Observación	NNR	Obs_espectro	CAUTION: item Obs_espectro renamed Observación

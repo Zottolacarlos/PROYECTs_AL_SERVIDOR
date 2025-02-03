@@ -1,0 +1,5 @@
+//MO176-177.TXT ANA00176 TO ANA00177
+Auditoria_Stock		NFI		new file
+Auditoria_eventos		NFI		new file
+Reclamo_Recepcion		NFI		new file
+Auditoria_Stock_ProductoID_fkey		NWL	Producto (ProductoID) and Auditoria_Stock (ProductoID)	New link between Producto (ProductoID) and Auditoria_Stock (ProductoID) files

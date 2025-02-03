@@ -1,0 +1,3 @@
+//MO171-172.TXT ANA00171 TO ANA00172
+correctivo_postergado		FIC-	carga_horas	carga_horas file deleted
+Detalle_Preventivo		DEL	Detalle_Preventivo (Detalle_PreventivoID) and carga_horas (Detalle_PreventivoID)	Link deleted between Detalle_Preventivo (Detalle_PreventivoID) and carga_horas (Detalle_PreventivoID) files

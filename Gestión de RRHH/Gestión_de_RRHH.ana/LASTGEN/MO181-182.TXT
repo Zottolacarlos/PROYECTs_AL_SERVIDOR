@@ -1,0 +1,3 @@
+//MO181-182.TXT ANA00181 TO ANA00182
+Capacitaciones	Fecha_Gerencia	NNR	Fecha_aprobación	CAUTION: item Fecha_aprobación renamed Fecha_Gerencia
+Capacitaciones	Observaciones_Gerencia	NNR	Observaciones_Aprueba	CAUTION: item Observaciones_Aprueba renamed Observaciones_Gerencia

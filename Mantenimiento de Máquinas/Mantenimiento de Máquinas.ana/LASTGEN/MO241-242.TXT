@@ -1,0 +1,5 @@
+//MO241-242.TXT ANA00241 TO ANA00242
+fotos_maq		TAR	291	new record size: 291
+fotos_maq	Fecha_foto	RUB+		Fecha_foto is a new item
+fotos_maq	Detalle_foto	RUB+		Detalle_foto is a new item
+fotos_maq	Ubicación_foto	RUB+		Ubicación_foto is a new item

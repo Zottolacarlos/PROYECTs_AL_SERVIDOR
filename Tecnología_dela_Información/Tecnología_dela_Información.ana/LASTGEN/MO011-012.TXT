@@ -1,0 +1,3 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Tickets		TAR	239	new record size: 239
+Tickets	Tipo_Ticket	CNW	String$1-byte unsigned integer	new type for Tipo_Ticket item: String

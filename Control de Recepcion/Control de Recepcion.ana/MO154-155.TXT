@@ -1,0 +1,4 @@
+//MO154-155.TXT ANA00154 TO ANA00155
+Elem_de_Recepcion		NFI		new file
+Recepcion_de_Materiales_2		NFI		new file
+Elem_de_Recepcion_Recepcion_de_Materiales_2ID_fkey		NWL	Recepcion_de_Materiales_2 (Recepcion_de_Materiales_2ID) and Elem_de_Recepcion (Recepcion_de_Materiales_2ID)	New link between Recepcion_de_Materiales_2 (Recepcion_de_Materiales_2ID) and Elem_de_Recepcion (Recepcion_de_Materiales_2ID) files

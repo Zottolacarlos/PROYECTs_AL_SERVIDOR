@@ -1,0 +1,3 @@
+//MO132-133.TXT ANA00132 TO ANA00133
+acciones_correct		TAR	957	new record size: 957
+acciones_correct	Fecha_Baja	RUB+		Fecha_Baja is a new item

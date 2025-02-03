@@ -1,0 +1,2 @@
+//MO107-108.TXT ANA00107 TO ANA00108
+Instrumentos_incidentes	Descripcion_Incidente	NNR	Incidente	CAUTION: item Incidente renamed Descripcion_Incidente

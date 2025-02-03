@@ -1,0 +1,12 @@
+//MO229-230.TXT ANA00229 TO ANA00230
+Detalle_Preventivo		TAR	607	new record size: 607
+Detalle_Preventivo	Insumos_Utilizados	TAI+	155	Insumos_Utilizados item has been resized: 256 (instead of 101)
+Detalle_Correctivo		TAR	1590	new record size: 1590
+Detalle_Correctivo	Insumos_Utilizados	TAI+	155	Insumos_Utilizados item has been resized: 256 (instead of 101)
+Detalle_Correctivo	explicacion_porcentual	TAI+	155	explicacion_porcentual item has been resized: 256 (instead of 101)
+Detalle_Proactivo		TAR	869	new record size: 869
+Detalle_Proactivo	Insumos_Utilizados	TAI+	180	Insumos_Utilizados item has been resized: 256 (instead of 76)
+entrega_parcial		TAR	288	new record size: 288
+entrega_parcial	explicacion_porcentual	TAI+	155	explicacion_porcentual item has been resized: 256 (instead of 101)
+Preventivo_por_cantidad		TAR	555	new record size: 555
+Preventivo_por_cantidad	Insumos_Utilizados	TAI+	155	Insumos_Utilizados item has been resized: 256 (instead of 101)

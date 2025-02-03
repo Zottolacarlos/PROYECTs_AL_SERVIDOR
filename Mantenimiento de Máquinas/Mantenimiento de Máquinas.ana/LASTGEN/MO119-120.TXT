@@ -1,0 +1,5 @@
+//MO119-120.TXT ANA00119 TO ANA00120
+componentes		NFI		new file
+Maquina		NWL	Maquina (Denominación_Int) and componentes (Denominación_Int)	New link between Maquina (Denominación_Int) and componentes (Denominación_Int) files
+Maquina		DEL	Maquina (Denominación_Int) and parte_maquina (Denominación_Int)	Link deleted between Maquina (Denominación_Int) and parte_maquina (Denominación_Int) files
+componentes		FRN		

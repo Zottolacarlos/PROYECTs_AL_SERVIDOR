@@ -1,0 +1,4 @@
+//MO489-490.TXT ANA00489 TO ANA00490
+Controles_recep_Pedidos		TAR	268	new record size: 268
+Controles_recep_Pedidos	Control_de_RecepcionesID	RUB+		Control_de_RecepcionesID is a new key
+Constraint_Control_de_Recepciones_Controles_recep_Pedidos		NWL	Control_de_Recepciones (Control_de_RecepcionesID) and Controles_recep_Pedidos (Control_de_RecepcionesID)	New link between Control_de_Recepciones (Control_de_RecepcionesID) and Controles_recep_Pedidos (Control_de_RecepcionesID) files

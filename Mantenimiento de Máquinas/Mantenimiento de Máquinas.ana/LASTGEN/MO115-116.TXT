@@ -1,0 +1,2 @@
+//MO115-116.TXT ANA00115 TO ANA00116
+lectura_hs	semana_cargada	CLEN*		semana_cargada item is now key

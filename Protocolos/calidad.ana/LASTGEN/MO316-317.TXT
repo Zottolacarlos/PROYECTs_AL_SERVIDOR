@@ -1,0 +1,2 @@
+//MO316-317.TXT ANA00316 TO ANA00317
+Metalizado	Material_Respaldo	NNR	Material_Soporte	CAUTION: item Material_Soporte renamed Material_Respaldo

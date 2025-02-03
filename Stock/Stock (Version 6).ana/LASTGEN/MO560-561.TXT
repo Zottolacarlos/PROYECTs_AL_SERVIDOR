@@ -1,0 +1,5 @@
+//MO560-561.TXT ANA00560 TO ANA00561
+ordenesfabricacion		NFI		new file
+fk_ordenesfabricacion_r_presupuestos		NWL	presupuestos (idpresup) and ordenesfabricacion (idpresup)	New link between presupuestos (idpresup) and ordenesfabricacion (idpresup) files
+fk_ordenesfabricacion_r_empleados		NWL	empleados (idemplea) and ordenesfabricacion (idemplea)	New link between empleados (idemplea) and ordenesfabricacion (idemplea) files
+fk_ordenesfabricacion_r_cotizaciones		NWL	cotizaciones (idcotiza) and ordenesfabricacion (idcotiza)	New link between cotizaciones (idcotiza) and ordenesfabricacion (idcotiza) files

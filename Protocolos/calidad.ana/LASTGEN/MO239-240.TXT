@@ -1,0 +1,2 @@
+//MO239-240.TXT ANA00239 TO ANA00240
+acc_correct_redireccionada	acc_corr_redireccionadaID	NNR	acc_correctID_acc_correct_redireccionada	CAUTION: key acc_correctID_acc_correct_redireccionada renamed acc_corr_redireccionadaID

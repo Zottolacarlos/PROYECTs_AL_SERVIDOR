@@ -1,0 +1,4 @@
+//MO327-328.TXT ANA00327 TO ANA00328
+Recepcion_de_Materiales		TAR	547	new record size: 547
+Recepcion_de_Materiales	Legajo	RUB+		Legajo is a new key
+Maquina		TAR	112	new record size: 112

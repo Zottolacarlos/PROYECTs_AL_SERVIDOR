@@ -1,0 +1,3 @@
+//MO035-036.TXT ANA00035 TO ANA00036
+Recepcion		TAR	200	new record size: 200
+Recepcion	Proveedor	TAI+	5	Proveedor item has been resized: 56 (instead of 51)

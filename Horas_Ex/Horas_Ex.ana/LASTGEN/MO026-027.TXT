@@ -1,0 +1,3 @@
+//MO026-027.TXT ANA00026 TO ANA00027
+saldos_leche		NFI		new file
+saldos_leche		FRN		

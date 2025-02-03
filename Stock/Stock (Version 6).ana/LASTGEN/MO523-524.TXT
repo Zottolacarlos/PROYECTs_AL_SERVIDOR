@@ -1,0 +1,3 @@
+//MO523-524.TXT ANA00523 TO ANA00524
+Elem_Orden_de_Compra		TAR	125	new record size: 125
+Elem_Orden_de_Compra	ComparativaID	RUB+		ComparativaID is a new key

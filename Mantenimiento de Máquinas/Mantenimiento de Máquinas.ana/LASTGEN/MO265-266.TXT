@@ -1,0 +1,2 @@
+//MO265-266.TXT ANA00265 TO ANA00266
+Control_de_Recepciones		NFI		new file

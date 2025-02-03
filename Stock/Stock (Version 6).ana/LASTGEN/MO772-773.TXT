@@ -1,0 +1,2 @@
+//MO772-773.TXT ANA00772 TO ANA00773
+Clasificacion_proveedores		RPP		program directory

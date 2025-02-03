@@ -1,0 +1,2 @@
+//MO486-487.TXT ANA00486 TO ANA00487
+Control_Recep_Gerencia_Comercial	Control_Recep_DirectivaID	NNR	Control_Recep_Gerencia_ComercialID	CAUTION: key Control_Recep_Gerencia_ComercialID renamed Control_Recep_DirectivaID

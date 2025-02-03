@@ -1,0 +1,4 @@
+//MO326-327.TXT ANA00326 TO ANA00327
+Auditoria_Stock		TAR	111	new record size: 111
+Auditoria_Stock	Legajo	RUB+		Legajo is a new key
+Maquina		TAR	112	new record size: 112

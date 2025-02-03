@@ -1,0 +1,3 @@
+//MO314-315.TXT ANA00314 TO ANA00315
+Equilibrado_dinamico_datos		TAR	616	new record size: 616
+Equilibrado_dinamico_datos	Imagen_Equipo	RUB+		Imagen_Equipo is a new item

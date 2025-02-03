@@ -1,0 +1,3 @@
+//MO590-591.TXT ANA00590 TO ANA00591
+Elem_del_Pedido		TAR	581	new record size: 581
+Elem_del_Pedido	plazo_cp_admin	RUB+		plazo_cp_admin is a new item

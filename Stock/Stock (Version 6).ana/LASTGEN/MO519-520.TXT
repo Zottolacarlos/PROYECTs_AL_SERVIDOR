@@ -1,0 +1,6 @@
+//MO519-520.TXT ANA00519 TO ANA00520
+Elem_de_Producto		TAR	263	new record size: 263
+Elem_de_Producto	Rango	NNR	Lectura	CAUTION: item Lectura renamed Rango
+Elem_de_Producto	Rango	TAI+	2	Rango item has been resized: 13 (instead of 11)
+Elem_de_Producto	Estado	NNR	Activo	CAUTION: item Activo renamed Estado
+Elem_de_Producto	Estado	CNW	String$Boolean	new type for Estado item: String

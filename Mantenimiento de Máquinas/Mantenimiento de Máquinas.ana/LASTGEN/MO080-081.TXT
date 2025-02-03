@@ -1,0 +1,5 @@
+//MO080-081.TXT ANA00080 TO ANA00081
+repuestos		TAR	303	new record size: 303
+repuestos	Repuesto_Pedido	NNR	Observación	CAUTION: item Observación renamed Repuesto_Pedido
+repuestos	Fabricado_IMSA	RUB+		Fabricado_IMSA is a new item
+repuestos	Hr_Fech_Tarjeta_Fab	RUB-		item Hr_Fech_Tarjeta_Fab deleted

@@ -1,0 +1,8 @@
+//MO157-158.TXT ANA00157 TO ANA00158
+Archivo		TAR	66	new record size: 66
+Archivo	Arch1_Direccion	CNW	Text Memo$String	new type for Arch1_Direccion item: Text Memo
+Archivo	Arch1_nombrePDF	CNW	Text Memo$String	new type for Arch1_nombrePDF item: Text Memo
+Archivo	dir_nom_orig	CNW	Text Memo$String	new type for dir_nom_orig item: Text Memo
+Archivo	arch2_dir	CNW	Text Memo$String	new type for arch2_dir item: Text Memo
+Archivo	arch2_nombrepdf	CNW	Text Memo$String	new type for arch2_nombrepdf item: Text Memo
+Archivo	plano	CNW	Text Memo$String	new type for plano item: Text Memo

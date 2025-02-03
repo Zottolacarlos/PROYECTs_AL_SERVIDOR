@@ -1,0 +1,4 @@
+//MO670-671.TXT ANA00670 TO ANA00671
+Constraint_Elem_del_Pedido_Elem_Orden_de_Compra		MCL	0,1->0,n	
+Constraint_Elem_Orden_de_Compra_Comparativa		NWL	Elem_Orden_de_Compra (Elem_Orden_de_Compra_ID) and Comparativa (Elem_Orden_de_Compra_ID)	New link between Elem_Orden_de_Compra (Elem_Orden_de_Compra_ID) and Comparativa (Elem_Orden_de_Compra_ID) files
+Constraint_Elem_del_Pedido_Comparativa		DEL	Elem_del_Pedido (Elemento_del_Pedido_ID) and Comparativa (Elemento_del_Pedido_ID)	Link deleted between Elem_del_Pedido (Elemento_del_Pedido_ID) and Comparativa (Elemento_del_Pedido_ID) files

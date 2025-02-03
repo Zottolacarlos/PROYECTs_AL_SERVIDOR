@@ -1,0 +1,4 @@
+//MO641-642.TXT ANA00641 TO ANA00642
+partesfabricacion		NFI		new file
+fk_partesfabricacion_r_ordenesfabricacion		NWL	ordenesfabricacion (idordenfabric) and partesfabricacion (idordenfabric)	New link between ordenesfabricacion (idordenfabric) and partesfabricacion (idordenfabric) files
+fk_partesfabricacion_r_empleados		NWL	empleados (idemplea) and partesfabricacion (idemplea)	New link between empleados (idemplea) and partesfabricacion (idemplea) files

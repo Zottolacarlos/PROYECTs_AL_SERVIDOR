@@ -1,0 +1,4 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+conectados_calidad		NFI		new file
+conectados_calidad		FIC-	conectados_calidad	conectados_calidad file deleted
+conectados_calidad		FRN		

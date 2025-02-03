@@ -1,0 +1,4 @@
+//MO196-197.TXT ANA00196 TO ANA00197
+Contratos		TAR	286	new record size: 286
+Contratos	Aviso_enviado_20	NNR	Aviso_enviado	CAUTION: item Aviso_enviado renamed Aviso_enviado_20
+Contratos	Aviso_enviado_40	RUB+		Aviso_enviado_40 is a new item

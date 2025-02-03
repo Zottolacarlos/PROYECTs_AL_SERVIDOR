@@ -1,0 +1,4 @@
+//MO270-271.TXT ANA00270 TO ANA00271
+Sectores_Puestos		NFI		new file
+Sectores_Puestos		FIC-	Sectores_Puestos	Sectores_Puestos file deleted
+Constraint_Sectores_Puestos_Puestos_Responsable		DEL	Sectores_Puestos (Sectores_PuestosID) and Puestos_Responsable (Sectores_PuestosID)	Link deleted between Sectores_Puestos (Sectores_PuestosID) and Puestos_Responsable (Sectores_PuestosID) files

@@ -1,0 +1,2 @@
+//MO185-186.TXT ANA00185 TO ANA00186
+Control_Tableros		NNF*	Control_Semestral	new name Control_Tableros

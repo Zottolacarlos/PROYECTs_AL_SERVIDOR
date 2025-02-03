@@ -1,0 +1,7 @@
+//MO203-204.TXT ANA00203 TO ANA00204
+Detalle_Proactivo		TAR	678	new record size: 678
+Detalle_Proactivo	Detalle_Tarea	RUB+		Detalle_Tarea is a new item
+Detalle_Proactivo	Ejecutores	NNR	Ejecutor	CAUTION: item Ejecutor renamed Ejecutores
+Detalle_Proactivo	Ejecutores	TAB+	2	Ejecutores item is now an array of 3 elements 
+Detalle_Proactivo	Ejecutores	TAI-	5	Ejecutores item has been resized: 21 (instead of 26)
+Detalle_Proactivo	Insumos_Utilizados	TAI-	25	Insumos_Utilizados item has been resized: 76 (instead of 101)

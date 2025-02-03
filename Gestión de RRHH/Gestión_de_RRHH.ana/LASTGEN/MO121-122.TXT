@@ -1,0 +1,4 @@
+//MO121-122.TXT ANA00121 TO ANA00122
+Sectores_Puestos		TAR	72	new record size: 72
+Sectores_Puestos		IDE+*		file with identifier
+Sectores_Puestos	Sectores_PuestosID	CNW	Automatic Identifier (4 bytes)$8-byte integer	new type for Sectores_PuestosID item: Automatic Identifier (4 bytes)

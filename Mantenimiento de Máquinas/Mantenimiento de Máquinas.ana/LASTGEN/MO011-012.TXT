@@ -1,0 +1,4 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Detalle_Preventivo		NFI		new file
+Maquina		NWL	Maquina (Denominación_Int) and Detalle_Preventivo (Denominación_Int)	New link between Maquina (Denominación_Int) and Detalle_Preventivo (Denominación_Int) files
+Detalle_Preventivo		FRN		

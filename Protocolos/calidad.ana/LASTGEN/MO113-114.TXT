@@ -1,0 +1,2 @@
+//MO113-114.TXT ANA00113 TO ANA00114
+acc_correc_SECTORES		DEL	acc_correc_SECTORES (sectores_acc_correcID) and acciones_correct (Sectores_acc_correcID)	Link deleted between acc_correc_SECTORES (sectores_acc_correcID) and acciones_correct (Sectores_acc_correcID) files

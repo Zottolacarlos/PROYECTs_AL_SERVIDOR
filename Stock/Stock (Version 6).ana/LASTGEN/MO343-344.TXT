@@ -1,0 +1,5 @@
+//MO343-344.TXT ANA00343 TO ANA00344
+Elem_Orden_de_Compra		TAR	117	new record size: 117
+Elem_Orden_de_Compra	descripcion_prod_xa_proveedor	NNR	descripcion_proveedor	CAUTION: item descripcion_proveedor renamed descripcion_prod_xa_proveedor
+Elem_Orden_de_Compra	Unidad_prod_xa_proveedor	RUB+		Unidad_prod_xa_proveedor is a new item
+Maquina		TAR	112	new record size: 112

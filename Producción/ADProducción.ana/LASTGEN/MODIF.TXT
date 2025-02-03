@@ -1,0 +1,3 @@
+//MO666-667.TXT ANA00666 TO ANA00667
+Cotizaciones_NEW		TAR	590	new record size: 590
+Cotizaciones_NEW	Archivo_PedidoPrecio	RUB+		Archivo_PedidoPrecio is a new item

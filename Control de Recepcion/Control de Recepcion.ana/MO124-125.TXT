@@ -1,0 +1,5 @@
+//MO124-125.TXT ANA00124 TO ANA00125
+Oftec		TAR	266	new record size: 266
+Oftec	Decision_mant	RUB+		Decision_mant is a new item
+Oftec	Fecha_mant	RUB+		Fecha_mant is a new item
+Oftec	obs_mant	RUB+		obs_mant is a new item

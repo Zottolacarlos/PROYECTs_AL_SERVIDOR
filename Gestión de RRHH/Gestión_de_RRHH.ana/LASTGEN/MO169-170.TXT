@@ -1,0 +1,3 @@
+//MO169-170.TXT ANA00169 TO ANA00170
+Personal_IMSA_rrhh		TAR	720	new record size: 720
+Personal_IMSA_rrhh	PDF_Ficha_Ingreso	RUB+		PDF_Ficha_Ingreso is a new item

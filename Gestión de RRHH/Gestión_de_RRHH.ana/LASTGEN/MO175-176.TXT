@@ -1,0 +1,3 @@
+//MO175-176.TXT ANA00175 TO ANA00176
+Capacitaciones_Auditoria		TAR	60	new record size: 60
+Capacitaciones_Auditoria	archivo_adjunto	RUB+		archivo_adjunto is a new item

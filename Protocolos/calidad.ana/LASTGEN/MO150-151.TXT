@@ -1,0 +1,4 @@
+//MO150-151.TXT ANA00150 TO ANA00151
+Temp_Imp_ACC		TAR	371	new record size: 371
+Temp_Imp_ACC	Cliente	NNR	Cliente_Proveedor	CAUTION: item Cliente_Proveedor renamed Cliente
+Temp_Imp_ACC	Proveedor	RUB+		Proveedor is a new item

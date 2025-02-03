@@ -1,0 +1,5 @@
+//MO753-754.TXT ANA00753 TO ANA00754
+Materiales_Provistos		TAR	115	new record size: 115
+Materiales_Provistos	Complemento	RUB+		Complemento is a new item
+Materiales_Provistos_Presupuestos		TAR	46	new record size: 46
+Materiales_Provistos_Presupuestos	Complemento	RUB+		Complemento is a new item

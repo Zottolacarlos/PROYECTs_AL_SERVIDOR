@@ -1,0 +1,3 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Permiso_Uso_Programas		NFI		new file
+Constraint_Personal_IMSA_rrhh_Permiso_Uso_Programas		NWL	Personal_IMSA_rrhh (Legajo) and Permiso_Uso_Programas (Legajo)	New link between Personal_IMSA_rrhh (Legajo) and Permiso_Uso_Programas (Legajo) files

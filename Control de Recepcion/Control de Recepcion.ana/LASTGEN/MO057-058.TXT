@@ -1,0 +1,7 @@
+//MO057-058.TXT ANA00057 TO ANA00058
+Recepcion		TAR	222	new record size: 222
+Recepcion	Cantidad	NNR	Cant1	CAUTION: item Cant1 renamed Cantidad
+Recepcion	Cantidad	TAB+	2	Cantidad item is now an array of 3 elements 
+Recepcion	Secuencia	RUB-		item Secuencia deleted
+Recepcion	Cant2	RUB-		item Cant2 deleted
+Recepcion	Cant3	RUB-		item Cant3 deleted

@@ -1,0 +1,6 @@
+//MO217-218.TXT ANA00217 TO ANA00218
+Detalle_Preventivo		TAR	431	new record size: 431
+Detalle_Preventivo	postergado	RUB+		postergado is a new item
+preventivo_postergado		NFI		new file
+Detalle_Preventivo		NWL	Detalle_Preventivo (Detalle_PreventivoID) and preventivo_postergado (Detalle_PreventivoID)	New link between Detalle_Preventivo (Detalle_PreventivoID) and preventivo_postergado (Detalle_PreventivoID) files
+preventivo_postergado		FRN		

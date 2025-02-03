@@ -1,0 +1,3 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Detalle_Preventivo		TAR	99	new record size: 99
+Detalle_Preventivo	Observaciónes	RUB+		Observaciónes is a new item

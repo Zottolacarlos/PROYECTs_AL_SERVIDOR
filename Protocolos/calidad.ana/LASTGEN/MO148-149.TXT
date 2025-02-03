@@ -1,0 +1,8 @@
+//MO148-149.TXT ANA00148 TO ANA00149
+Equilibrado_dinamico_datos		TAR	525	new record size: 525
+Equilibrado_dinamico_datos	Nro_identificacion	RUB+		Nro_identificacion is a new item
+Equilibrado_dinamico_datos	RPM_de_funcionamiento	NNR	RPM	CAUTION: item RPM renamed RPM_de_funcionamiento
+Equilibrado_dinamico_datos	RPM_de_Ensayo	RUB+		RPM_de_Ensayo is a new item
+Equilibrado_dinamico_datos	Tipo_de_Compensacion	TAB+	1	Tipo_de_Compensacion item is now an array of 2 elements 
+Equilibrado_dinamico_datos	Desbalanceo_Residual	TAB+	1	Desbalanceo_Residual item is now an array of 2 elements 
+Equilibrado_dinamico_datos	Angulo_de_Desbalanceo	TAB+	1	Angulo_de_Desbalanceo item is now an array of 2 elements 

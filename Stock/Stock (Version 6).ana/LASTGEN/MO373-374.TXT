@@ -1,0 +1,3 @@
+//MO373-374.TXT ANA00373 TO ANA00374
+Impresion_Orden_de_Compra		TAR	889	new record size: 889
+Impresion_Orden_de_Compra	Neto	RUB+		Neto is a new item

@@ -1,0 +1,3 @@
+//MO208-209.TXT ANA00208 TO ANA00209
+Temp_tableros		IDE-*		file without identifier
+Temp_tableros	Control_SemestralID	CNW	4-byte integer$Automatic Identifier (4 bytes)	new type for Control_SemestralID item: 4-byte integer

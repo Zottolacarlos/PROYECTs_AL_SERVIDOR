@@ -1,0 +1,6 @@
+//MO141-142.TXT ANA00141 TO ANA00142
+All_recepciones		TAR	1142	new record size: 1142
+All_recepciones	Pedido	CNW	String$4-byte unsigned integer	new type for Pedido item: String
+Recepcion		TAR	437	new record size: 437
+Recepcion	Pedido	CNW	String$4-byte unsigned integer	new type for Pedido item: String
+Recepcion_de_Materiales		FIC-	Elem_del_Pedido	Elem_del_Pedido file deleted

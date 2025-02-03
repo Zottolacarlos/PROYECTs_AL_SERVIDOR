@@ -1,0 +1,3 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Detalle_Correctivo		TAR	133	new record size: 133
+Detalle_Correctivo	Pendiente	RUB+		Pendiente is a new item

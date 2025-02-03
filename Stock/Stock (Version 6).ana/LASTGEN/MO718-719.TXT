@@ -1,0 +1,2 @@
+//MO718-719.TXT ANA00718 TO ANA00719
+Elem_de_remitos_compras	Elem_de_Remesa_SalidaID	NNR	Elem_de_remitos_comprasID	CAUTION: key Elem_de_remitos_comprasID renamed Elem_de_Remesa_SalidaID

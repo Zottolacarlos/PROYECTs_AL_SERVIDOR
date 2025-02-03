@@ -1,0 +1,8 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+Preseleccionados		TAR	89	new record size: 89
+Preseleccionados	Pasa_Entrevista	NNR	Resultado_Entrevista	CAUTION: item Resultado_Entrevista renamed Pasa_Entrevista
+Preseleccionados	Pasa_Entrevista	CNW	Boolean$String	new type for Pasa_Entrevista item: Boolean
+Candidato		TAR	356	new record size: 356
+Candidato	Preocupacional	RUB+		Preocupacional is a new item
+Candidato	Policia_antecedentes	RUB+		Policia_antecedentes is a new item
+Candidato	Psicotecnico	RUB+		Psicotecnico is a new item

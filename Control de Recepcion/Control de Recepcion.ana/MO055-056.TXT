@@ -1,0 +1,6 @@
+//MO055-056.TXT ANA00055 TO ANA00056
+Deposito		TAR	1023	new record size: 1023
+Deposito	Decision_1	NNR	Decision	CAUTION: item Decision renamed Decision_1
+Deposito	Decision_1	CNW	Boolean$String	new type for Decision_1 item: Boolean
+Deposito	Decision_2	RUB+		Decision_2 is a new item
+Deposito	Decision_3	RUB+		Decision_3 is a new item

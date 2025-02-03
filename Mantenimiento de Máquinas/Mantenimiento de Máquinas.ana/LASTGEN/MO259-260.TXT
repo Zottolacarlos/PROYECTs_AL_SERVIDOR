@@ -1,0 +1,5 @@
+//MO259-260.TXT ANA00259 TO ANA00260
+parte_maquina		TAR	2595	new record size: 2595
+parte_maquina	tareas	TAB+	8	tareas item is now an array of 20 elements instead of 12
+Tareas_Preventivo_cantidad		TAR	2591	new record size: 2591
+Tareas_Preventivo_cantidad	tareas	TAB+	8	tareas item is now an array of 20 elements instead of 12

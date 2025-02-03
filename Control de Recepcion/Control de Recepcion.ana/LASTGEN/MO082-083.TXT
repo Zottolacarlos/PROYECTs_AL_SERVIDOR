@@ -1,0 +1,4 @@
+//MO082-083.TXT ANA00082 TO ANA00083
+Recepcion		TAR	554	new record size: 554
+Recepcion	Secuencia	TAB+	3	Secuencia item is now an array of 4 elements 
+Recepcion	Secuencia	CNW	String$1-byte unsigned integer	new type for Secuencia item: String

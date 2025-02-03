@@ -1,0 +1,6 @@
+//MO751-752.TXT ANA00751 TO ANA00752
+Elem_del_Retiro		TAR	192	new record size: 192
+Elem_del_Retiro	Cotizacion	RUB+		Cotizacion is a new key
+Elem_del_Retiro	Presupuesto	RUB+		Presupuesto is a new item
+Elem_del_Retiro	CotizacionID	RUB+		CotizacionID is a new key
+Elem_del_Retiro	Complemento	RUB+		Complemento is a new item

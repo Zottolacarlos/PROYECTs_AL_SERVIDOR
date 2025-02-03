@@ -1,0 +1,2 @@
+//MO250-251.TXT ANA00250 TO ANA00251
+Datos_Prog		FIC-	Elem_del_Pedido	Elem_del_Pedido file deleted

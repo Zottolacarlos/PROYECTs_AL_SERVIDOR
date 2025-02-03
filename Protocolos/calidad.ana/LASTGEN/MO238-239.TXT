@@ -1,0 +1,3 @@
+//MO238-239.TXT ANA00238 TO ANA00239
+acc_correct_redireccionada		TAR	107	new record size: 107
+acc_correct_redireccionada	Dir_archivo_prueba	RUB+		Dir_archivo_prueba is a new item

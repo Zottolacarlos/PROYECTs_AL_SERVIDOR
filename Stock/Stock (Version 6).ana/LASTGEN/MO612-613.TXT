@@ -1,0 +1,3 @@
+//MO612-613.TXT ANA00612 TO ANA00613
+Auditoria_deposito		TAR	68	new record size: 68
+Auditoria_deposito	Corrige_gerencia	RUB+		Corrige_gerencia is a new item

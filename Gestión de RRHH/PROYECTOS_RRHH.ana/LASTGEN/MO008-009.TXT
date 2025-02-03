@@ -1,0 +1,4 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Candidato		TAR	404	new record size: 404
+Candidato	Localidad_residencia	RUB+		Localidad_residencia is a new item
+Candidato	Ciudad_residencia	RUB+		Ciudad_residencia is a new item

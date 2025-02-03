@@ -1,0 +1,3 @@
+//MO443-444.TXT ANA00443 TO ANA00444
+Elem_Orden_de_Compra		TAR	121	new record size: 121
+Elem_Orden_de_Compra	ProductoID	RUB+		ProductoID is a new key

@@ -1,0 +1,3 @@
+//MO171-172.TXT ANA00171 TO ANA00172
+Instrumentos_incidentes		TAR	178	new record size: 178
+Instrumentos_incidentes	Decision_Inc	RUB+		Decision_Inc is a new item

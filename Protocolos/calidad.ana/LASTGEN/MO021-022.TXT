@@ -1,0 +1,3 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Hoja1$	Protocolo Nº	CLE-*		Protocolo Nº item is no longer key
+Hoja1$		DEL	Hoja1$ (Protocolo Nº) and Archivo (Protocolo Nº)	Link deleted between Hoja1$ (Protocolo Nº) and Archivo (Protocolo Nº) files

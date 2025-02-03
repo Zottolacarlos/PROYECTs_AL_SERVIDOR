@@ -1,0 +1,2 @@
+//MO199-200.TXT ANA00199 TO ANA00200
+Constraint_Capacitaciones_Capacitaciones_Certificados		MCL	1,n->0,n	

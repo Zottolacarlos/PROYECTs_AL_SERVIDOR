@@ -1,0 +1,3 @@
+//MO135-136.TXT ANA00135 TO ANA00136
+Contratos		TAR	233	new record size: 233
+Contratos	Aviso_enviado	RUB+		Aviso_enviado is a new item

@@ -1,0 +1,3 @@
+//MO640-641.TXT ANA00640 TO ANA00641
+Materiales_Provistos		TAR	110	new record size: 110
+Materiales_Provistos	Trabajo	RUB+		Trabajo is a new item

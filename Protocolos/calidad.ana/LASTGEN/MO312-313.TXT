@@ -1,0 +1,3 @@
+//MO312-313.TXT ANA00312 TO ANA00313
+acc_correct_PRECARGA		TAR	457	new record size: 457
+acc_correct_PRECARGA	Nro_cotizacion	TAI+	1	Nro_cotizacion item has been resized: 9 (instead of 8)

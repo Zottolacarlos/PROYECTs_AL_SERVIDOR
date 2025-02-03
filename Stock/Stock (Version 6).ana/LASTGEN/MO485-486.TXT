@@ -1,0 +1,4 @@
+//MO485-486.TXT ANA00485 TO ANA00486
+Control_de_Recepciones		TAR	178	new record size: 178
+Control_de_Recepciones	Decide_Directiva	RUB+		Decide_Directiva is a new item
+Control_de_Recepciones	Resultado	RUB+		Resultado is a new item

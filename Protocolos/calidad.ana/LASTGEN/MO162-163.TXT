@@ -1,0 +1,10 @@
+//MO162-163.TXT ANA00162 TO ANA00163
+Equil_dinam_temp_imp		TAR	649	new record size: 649
+Equil_dinam_temp_imp	Cotización	RUB+		Cotización is a new key
+Equil_dinam_temp_imp	Orden_de_Fabricacion	RUB+		Orden_de_Fabricacion is a new key
+Equil_dinam_temp_imp	numero_de_tarjeta	RUB+		numero_de_tarjeta is a new item
+Equil_dinam_temp_imp	Cliente	RUB+		Cliente is a new key
+Equil_dinam_temp_imp	Cotización	RRN		
+Equil_dinam_temp_imp	Orden_de_Fabricacion	RRN		
+Equil_dinam_temp_imp	numero_de_tarjeta	RRN		
+Equil_dinam_temp_imp	Cliente	RRN		

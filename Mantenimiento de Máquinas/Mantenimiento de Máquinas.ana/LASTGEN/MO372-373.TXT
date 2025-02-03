@@ -1,0 +1,2 @@
+//MO372-373.TXT ANA00372 TO ANA00373
+conectados_manten		REP*	W:\BD\Mantenimiento	new directory W:\BD\Mantenimiento

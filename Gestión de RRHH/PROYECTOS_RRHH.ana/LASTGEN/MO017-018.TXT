@@ -1,0 +1,3 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Preseleccionados		TAR	73	new record size: 73
+Preseleccionados	Sector_asociado	TAB-	2	Sector_asociado item is no longer an array

@@ -1,0 +1,3 @@
+//MO430-431.TXT ANA00430 TO ANA00431
+Orden_de_compra		TAR	538	new record size: 538
+Orden_de_compra	OC_asociada	RUB+		OC_asociada is a new item

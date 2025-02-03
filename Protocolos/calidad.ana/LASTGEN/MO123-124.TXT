@@ -1,0 +1,16 @@
+//MO123-124.TXT ANA00123 TO ANA00124
+acc_corrct_respuestas		TAR	860	new record size: 860
+acc_corrct_respuestas	Accion_corto_plazo	TAI+	50	Accion_corto_plazo item has been resized: 101 (instead of 51)
+acc_corrct_respuestas	primer_xq	TAI+	50	primer_xq item has been resized: 101 (instead of 51)
+acc_corrct_respuestas	Segundo_xq	TAI+	50	Segundo_xq item has been resized: 101 (instead of 51)
+acc_corrct_respuestas	tercer_xq	TAI+	50	tercer_xq item has been resized: 101 (instead of 51)
+acc_corrct_respuestas	cuarto_xq	TAI+	50	cuarto_xq item has been resized: 101 (instead of 51)
+acc_corrct_respuestas	quinto_xq	TAI+	50	quinto_xq item has been resized: 101 (instead of 51)
+acc_corrct_respuestas	razon_raiz	TAI+	50	razon_raiz item has been resized: 101 (instead of 51)
+acc_corrct_respuestas	Accion_largo_plazo	TAI+	50	Accion_largo_plazo item has been resized: 101 (instead of 51)
+acc_corrct_respuestas	fecha_largo_plazo	CNW	Date (yyyymmdd)$String	new type for fecha_largo_plazo item: Date (yyyymmdd)
+acc_corrct_respuestas	Nro_accion_correct	RUB+		Nro_accion_correct is a new key
+redireccionada_acc_correct		TAR	140	new record size: 140
+redireccionada_acc_correct	Nro_accion_correct	RUB+		Nro_accion_correct is a new key
+acciones_correct		NWL	acciones_correct (Nro_accion_correct) and redireccionada_acc_correct (Nro_accion_correct)	New link between acciones_correct (Nro_accion_correct) and redireccionada_acc_correct (Nro_accion_correct) files
+acciones_correct		NWL	acciones_correct (Nro_accion_correct) and acc_corrct_respuestas (Nro_accion_correct)	New link between acciones_correct (Nro_accion_correct) and acc_corrct_respuestas (Nro_accion_correct) files

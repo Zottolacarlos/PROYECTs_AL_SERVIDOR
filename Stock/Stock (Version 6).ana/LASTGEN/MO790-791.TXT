@@ -1,0 +1,4 @@
+//MO790-791.TXT ANA00790 TO ANA00791
+Control_Compras		TAR	20	new record size: 20
+Control_Compras	Control_Recep_SectorID	RUB-		key Control_Recep_SectorID deleted
+Constraint_Control_Compras_Control_Recep_Sector		DEL	Control_Recep_Sector (Control_Recep_SectorID) and Control_Compras (Control_Recep_SectorID)	Link deleted between Control_Recep_Sector (Control_Recep_SectorID) and Control_Compras (Control_Recep_SectorID) files

@@ -1,0 +1,4 @@
+//MO040-041.TXT ANA00040 TO ANA00041
+entregadas_leche		TAR	73	new record size: 73
+entregadas_leche	Fecha de autorización	CLEU*		Fecha de autorización item is now key
+entregadas_leche	Legajo	RUB-		key Legajo deleted

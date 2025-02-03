@@ -1,0 +1,3 @@
+//MO121-122.TXT ANA00121 TO ANA00122
+Usuarios		TAR	376	new record size: 376
+Usuarios	OBs	TAI+	50	OBs item has been resized: 101 (instead of 51)

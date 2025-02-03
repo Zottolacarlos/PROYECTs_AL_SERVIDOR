@@ -1,0 +1,4 @@
+//MO292-293.TXT ANA00292 TO ANA00293
+Supervisores_Maquina		TAR	93	new record size: 93
+Supervisores_Maquina	MáquinaID	RUB-		key MáquinaID deleted
+Constraint_Maquina_Supervisores_Maquina		DEL	Maquina (MáquinaID) and Supervisores_Maquina (MáquinaID)	Link deleted between Maquina (MáquinaID) and Supervisores_Maquina (MáquinaID) files

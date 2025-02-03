@@ -1,0 +1,5 @@
+//MO153-154.TXT ANA00153 TO ANA00154
+Auditoria_Contratacion		TAR	170	new record size: 170
+Auditoria_Contratacion	Obs_Gerencia	RUB+		Obs_Gerencia is a new item
+Auditoría_Personal		TAR	603	new record size: 603
+Auditoría_Personal	Obs_Gerencia	RUB+		Obs_Gerencia is a new item

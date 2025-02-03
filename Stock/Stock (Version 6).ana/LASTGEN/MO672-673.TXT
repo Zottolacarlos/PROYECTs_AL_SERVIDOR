@@ -1,0 +1,5 @@
+//MO672-673.TXT ANA00672 TO ANA00673
+Orden_de_compra		TAR	538	new record size: 538
+Orden_de_compra	OC_Posterior	RUB-		item OC_Posterior deleted
+Orden_de_compra_Posteriores		NFI		new file
+Constraint_Orden_de_compra_Orden_de_compra_Posteriores		NWL	Orden_de_compra (Orden_de_compraID) and Orden_de_compra_Posteriores (Orden_de_compraID)	New link between Orden_de_compra (Orden_de_compraID) and Orden_de_compra_Posteriores (Orden_de_compraID) files

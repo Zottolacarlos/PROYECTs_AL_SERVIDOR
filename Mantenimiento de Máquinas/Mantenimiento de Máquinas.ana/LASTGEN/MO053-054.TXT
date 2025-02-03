@@ -1,0 +1,3 @@
+//MO053-054.TXT ANA00053 TO ANA00054
+repuestos		TAR	242	new record size: 242
+repuestos	sector_encargado	TAI-	5	sector_encargado item has been resized: 21 (instead of 26)

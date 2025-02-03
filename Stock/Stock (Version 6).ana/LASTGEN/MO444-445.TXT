@@ -1,0 +1,3 @@
+//MO444-445.TXT ANA00444 TO ANA00445
+Auditoria_Stock	Tipo_movimiento	CLEN		Tipo_movimiento item is now key
+Auditoria_Stock	codigo_movimiento	CLEN		codigo_movimiento item is now key

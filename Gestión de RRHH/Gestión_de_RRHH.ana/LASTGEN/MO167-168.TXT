@@ -1,0 +1,3 @@
+//MO167-168.TXT ANA00167 TO ANA00168
+Evaluacion_Desemp		REP*	W:\BD\RRHH	new directory W:\BD\RRHH
+Evaluacion_Desemp		FRN		

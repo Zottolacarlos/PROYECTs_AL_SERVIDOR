@@ -1,0 +1,3 @@
+//MO237-238.TXT ANA00237 TO ANA00238
+acc_correct_redireccionada		TAR	99	new record size: 99
+acc_correct_redireccionada	Version_Acc_Corrc	RUB+		Version_Acc_Corrc is a new item

@@ -1,0 +1,3 @@
+//MO233-234.TXT ANA00233 TO ANA00234
+PROTOCOLOS		TAR	440	new record size: 440
+PROTOCOLOS	Nro_Plano	RUB+		Nro_Plano is a new item

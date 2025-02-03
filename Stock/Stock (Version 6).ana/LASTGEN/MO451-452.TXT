@@ -1,0 +1,8 @@
+//MO451-452.TXT ANA00451 TO ANA00452
+Reclamo_recep		TAR	148	new record size: 148
+Reclamo_recep	Control_de_RecepcionID	RUB+		Control_de_RecepcionID is a new key
+Elem_de_Ctrl_de_Recep		NFI		new file
+Constraint_Control_de_Recepcion_Elem_de_Ctrl_de_Recep		NWL	Control_de_Recepcion (Control_de_RecepcionID) and Elem_de_Ctrl_de_Recep (Control_de_RecepcionID)	New link between Control_de_Recepcion (Control_de_RecepcionID) and Elem_de_Ctrl_de_Recep (Control_de_RecepcionID) files
+Constraint_Control_de_Recepcion_Reclamo_recep		NWL	Control_de_Recepcion (Control_de_RecepcionID) and Reclamo_recep (Control_de_RecepcionID)	New link between Control_de_Recepcion (Control_de_RecepcionID) and Reclamo_recep (Control_de_RecepcionID) files
+Constraint_Recepcion_de_Materiales_Control_de_Recepcion		NWL	Recepcion_de_Materiales (Recepcion_de_MaterialesID) and Control_de_Recepcion (Recepcion_de_MaterialesID)	New link between Recepcion_de_Materiales (Recepcion_de_MaterialesID) and Control_de_Recepcion (Recepcion_de_MaterialesID) files
+Elem_de_Ctrl_de_Recep		FRN		

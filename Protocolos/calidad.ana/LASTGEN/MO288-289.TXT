@@ -1,0 +1,4 @@
+//MO288-289.TXT ANA00288 TO ANA00289
+Equilibrado_dinamico_datos		TAR	592	new record size: 592
+Equilibrado_dinamico_datos	Observaciones	RUB+		Observaciones is a new item
+Equilibrado_dinamico_datos	Observaciones	RRN		

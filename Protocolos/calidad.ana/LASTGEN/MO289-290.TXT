@@ -1,0 +1,3 @@
+//MO289-290.TXT ANA00289 TO ANA00290
+Equil_dinam_temp_imp		TAR	693	new record size: 693
+Equil_dinam_temp_imp	OBs	RUB+		OBs is a new item

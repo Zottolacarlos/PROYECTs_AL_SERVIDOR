@@ -1,0 +1,14 @@
+//MO132-133.TXT ANA00132 TO ANA00133
+Mantenimiento		TAR	66	new record size: 66
+Mantenimiento	Observación	CNW	Text Memo$String	new type for Observación item: Text Memo
+Fundicion		TAR	86	new record size: 86
+Fundicion	Obs_espectro	CNW	Text Memo$String	new type for Obs_espectro item: Text Memo
+Fundicion	obs_trata	CNW	Text Memo$String	new type for obs_trata item: Text Memo
+Calidad		TAR	67	new record size: 67
+Calidad	Observación	CNW	Text Memo$String	new type for Observación item: Text Memo
+Deposito		TAR	67	new record size: 67
+Deposito	Observación	CNW	Text Memo$String	new type for Observación item: Text Memo
+Recepcion		TAR	428	new record size: 428
+Recepcion	item	CNW	Text Memo$String	new type for item item: Text Memo
+Recepcion	Marca	TAI+	29	Marca item has been resized: 51 (instead of 22)
+Recepcion	Detalle_recepcion	CNW	Text Memo$String	new type for Detalle_recepcion item: Text Memo

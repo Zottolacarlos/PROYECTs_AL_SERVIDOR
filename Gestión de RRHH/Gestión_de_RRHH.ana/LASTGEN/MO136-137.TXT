@@ -1,0 +1,3 @@
+//MO136-137.TXT ANA00136 TO ANA00137
+Personal_IMSA_rrhh		TAR	703	new record size: 703
+Personal_IMSA_rrhh	Categoría	RUB+		Categoría is a new item

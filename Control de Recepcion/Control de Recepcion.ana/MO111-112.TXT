@@ -1,0 +1,7 @@
+//MO111-112.TXT ANA00111 TO ANA00112
+Clasificacion_proveedores		NFI		new file
+Proveedores		NNF*	Califica_Proveedor	new name Proveedores
+Proveedores	ProveedoresID	NNR	Califica_ProveedorID	CAUTION: key Califica_ProveedorID renamed ProveedoresID
+Recepcion	ProveedoresID	NNR	Califica_ProveedorID	CAUTION: key Califica_ProveedorID renamed ProveedoresID
+Proveedores		NWL	Proveedores (ProveedoresID) and Clasificacion_proveedores (ProveedoresID)	New link between Proveedores (ProveedoresID) and Clasificacion_proveedores (ProveedoresID) files
+Clasificacion_proveedores		FRN		

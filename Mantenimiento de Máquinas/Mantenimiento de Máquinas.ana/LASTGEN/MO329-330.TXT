@@ -1,0 +1,4 @@
+//MO329-330.TXT ANA00329 TO ANA00330
+Maquina		TAR	241	new record size: 241
+Maquina	Familia	RUB+		Familia is a new item
+Familia_Máquina		NFI		new file

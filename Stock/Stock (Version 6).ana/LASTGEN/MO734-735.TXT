@@ -1,0 +1,3 @@
+//MO734-735.TXT ANA00734 TO ANA00735
+Elem_del_Pedido		TAR	623	new record size: 623
+Elem_del_Pedido	Complemento_Cot	RUB+		Complemento_Cot is a new item

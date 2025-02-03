@@ -1,0 +1,7 @@
+//MO313-314.TXT ANA00313 TO ANA00314
+Detalle_Correctivo		TAR	1110	new record size: 1110
+Detalle_Correctivo	Insumos_Utilizados	CNW	Text Memo$String	new type for Insumos_Utilizados item: Text Memo
+Detalle_Preventivo		TAR	435	new record size: 435
+Detalle_Preventivo	Insumos_Utilizados	CNW	Text Memo$String	new type for Insumos_Utilizados item: Text Memo
+Preventivo_por_cantidad		TAR	323	new record size: 323
+Preventivo_por_cantidad	Insumos_Utilizados	CNW	Text Memo$String	new type for Insumos_Utilizados item: Text Memo

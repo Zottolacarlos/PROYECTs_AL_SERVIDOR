@@ -1,0 +1,3 @@
+//MO694-695.TXT ANA00694 TO ANA00695
+Materiales_Provistos_Presupuestos		TAR	33	new record size: 33
+Materiales_Provistos_Presupuestos	Fecha_agregado	RUB+		Fecha_agregado is a new item

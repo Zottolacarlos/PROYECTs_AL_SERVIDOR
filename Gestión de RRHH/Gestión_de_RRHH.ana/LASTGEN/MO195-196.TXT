@@ -1,0 +1,6 @@
+//MO195-196.TXT ANA00195 TO ANA00196
+Capacitaciones_Archivos		TAR	143	new record size: 143
+Capacitaciones_Archivos	Descripcion	TAI+	25	Descripcion item has been resized: 76 (instead of 51)
+Capacitaciones_Archivos	Fecha_Subido	NNR	Fecha	CAUTION: item Fecha renamed Fecha_Subido
+Capacitaciones_Archivos	Tipo_Archivo	RUB+		Tipo_Archivo is a new item
+Capacitaciones_Archivos	Legajo_Sube	RUB+		Legajo_Sube is a new item

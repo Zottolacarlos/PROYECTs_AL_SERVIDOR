@@ -1,0 +1,3 @@
+//MO309-310.TXT ANA00309 TO ANA00310
+acc_correct_PRECARGA		TAR	452	new record size: 452
+acc_correct_PRECARGA	Fecha_Fin_Precarga	RUB+		Fecha_Fin_Precarga is a new item

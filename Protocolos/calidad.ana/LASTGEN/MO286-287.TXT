@@ -1,0 +1,3 @@
+//MO286-287.TXT ANA00286 TO ANA00287
+Cotizaciones_NEW		NFI		new file
+Cotizaciones_NEW		FIC-	Cotizaciones_NEW	Cotizaciones_NEW file deleted

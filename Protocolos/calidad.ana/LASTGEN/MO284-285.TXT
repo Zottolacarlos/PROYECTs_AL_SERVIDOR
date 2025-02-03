@@ -1,0 +1,3 @@
+//MO284-285.TXT ANA00284 TO ANA00285
+acciones_correct		TAR	1178	new record size: 1178
+acciones_correct	OBS_Ger_Ind	RUB+		OBS_Ger_Ind is a new item

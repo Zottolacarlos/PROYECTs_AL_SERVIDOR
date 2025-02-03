@@ -1,0 +1,3 @@
+//MO271-272.TXT ANA00271 TO ANA00272
+Constraint_Verificacion_de_Maquinas_Elementos_de_Verificacion		MCL	1,n->0,n	
+Constraint_Elementos_de_Verificacion_Objetos_de_Prueba		MCL	1,n->0,n	

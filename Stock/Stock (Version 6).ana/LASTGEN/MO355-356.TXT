@@ -1,0 +1,3 @@
+//MO355-356.TXT ANA00355 TO ANA00356
+Impresion_Recepcion_de_Materiales		TAR	717	new record size: 717
+Impresion_Recepcion_de_Materiales	se_cotizo	RUB+		se_cotizo is a new item

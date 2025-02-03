@@ -1,0 +1,3 @@
+//MO726-727.TXT ANA00726 TO ANA00727
+Elem_de_Remesa_Salida		TAR	160	new record size: 160
+Elem_de_Remesa_Salida	Origen_Remesa	RUB+		Origen_Remesa is a new item

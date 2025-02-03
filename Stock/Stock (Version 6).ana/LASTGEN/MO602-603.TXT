@@ -1,0 +1,3 @@
+//MO602-603.TXT ANA00602 TO ANA00603
+Impresion_Recepcion_de_Materiales	Elem_de_RecepcionID	CLE-		Elem_de_RecepcionID item is no longer key
+Impresion_Recepcion_de_Materiales	Control_de_RecepcionesID	CLE-		Control_de_RecepcionesID item is no longer key

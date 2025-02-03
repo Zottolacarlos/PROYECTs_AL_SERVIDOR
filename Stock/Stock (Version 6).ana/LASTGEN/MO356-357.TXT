@@ -1,0 +1,15 @@
+//MO356-357.TXT ANA00356 TO ANA00357
+Auditoria_eventos		FCNX+	STOCK_LOCAL_PRUEBAS	
+Pedido		FCNX+	STOCK_LOCAL_PRUEBAS	
+Elem_del_Pedido		FCNX+	STOCK_LOCAL_PRUEBAS	
+Producto		FCNX+	STOCK_LOCAL_PRUEBAS	
+Comparativa		FCNX+	STOCK_LOCAL_PRUEBAS	
+Orden_de_compra		FCNX+	STOCK_LOCAL_PRUEBAS	
+Elem_Orden_de_Compra		FCNX+	STOCK_LOCAL_PRUEBAS	
+tipodesubcuentas		FCNX+	bdcontabilidad_LOCAL_PRUEBAS	
+subcuentatipo		FCNX+	bdcontabilidad_LOCAL_PRUEBAS	
+subcuentas		FCNX+	bdcontabilidad_LOCAL_PRUEBAS	
+empleados_areas		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	
+empleados		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	
+Precios_deReferencia		FCNX+	STOCK_LOCAL_PRUEBAS	
+Impresion_Comparativa		FCNX+	STOCK_LOCAL_PRUEBAS	

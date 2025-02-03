@@ -1,0 +1,3 @@
+//MO129-130.TXT ANA00129 TO ANA00130
+All_recepciones		TAR	1133	new record size: 1133
+All_recepciones	Nro_recepcion	CNW	4-byte integer$String	new type for Nro_recepcion item: 4-byte integer

@@ -1,0 +1,2 @@
+//MO471-472.TXT ANA00471 TO ANA00472
+Retorno_de_Materiales	Cotizacion	CLEN		Cotizacion item is now key

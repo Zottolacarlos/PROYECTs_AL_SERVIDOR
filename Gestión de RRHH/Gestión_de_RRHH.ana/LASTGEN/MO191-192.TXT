@@ -1,0 +1,3 @@
+//MO191-192.TXT ANA00191 TO ANA00192
+Permiso_Uso_Programas		REP*	W:\BD\IMSAIT	new directory W:\BD\IMSAIT
+Permiso_Uso_Programas		FRN		

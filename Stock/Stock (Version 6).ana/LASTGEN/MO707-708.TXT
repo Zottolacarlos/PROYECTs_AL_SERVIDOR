@@ -1,0 +1,2 @@
+//MO707-708.TXT ANA00707 TO ANA00708
+Constraint_Elem_del_Pedido_Remitos_Compras		MCL	1,1->0,1	

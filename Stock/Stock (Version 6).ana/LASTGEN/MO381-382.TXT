@@ -1,0 +1,3 @@
+//MO381-382.TXT ANA00381 TO ANA00382
+Impresion_Comparativa		TAR	1141	new record size: 1141
+Impresion_Comparativa	Flete_cotizado	RUB+		Flete_cotizado is a new item

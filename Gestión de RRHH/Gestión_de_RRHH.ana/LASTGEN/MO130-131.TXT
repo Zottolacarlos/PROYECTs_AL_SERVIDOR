@@ -1,0 +1,3 @@
+//MO130-131.TXT ANA00130 TO ANA00131
+Contratos		TAR	230	new record size: 230
+Contratos	Decisión_Supervisor	RUB+		Decisión_Supervisor is a new item

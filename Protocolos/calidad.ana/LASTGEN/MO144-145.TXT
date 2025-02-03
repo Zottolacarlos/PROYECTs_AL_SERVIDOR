@@ -1,0 +1,3 @@
+//MO144-145.TXT ANA00144 TO ANA00145
+acc_correct_archivos		TAR	407	new record size: 407
+acc_correct_archivos	nombre	TAI+	75	nombre item has been resized: 126 (instead of 51)

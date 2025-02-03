@@ -1,0 +1,3 @@
+//MO528-529.TXT ANA00528 TO ANA00529
+Impresion_Orden_de_Compra		TAR	1099	new record size: 1099
+Impresion_Orden_de_Compra	plazo_en_dias	RUB+		plazo_en_dias is a new item

@@ -1,0 +1,3 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Maquina		TAR	128	new record size: 128
+Maquina	baja	RUB+		baja is a new item

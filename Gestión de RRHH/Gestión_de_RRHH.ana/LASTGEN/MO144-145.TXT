@@ -1,0 +1,3 @@
+//MO144-145.TXT ANA00144 TO ANA00145
+Contratos		TAR	285	new record size: 285
+Contratos	Estado	RUB+		Estado is a new item

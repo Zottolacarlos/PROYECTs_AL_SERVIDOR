@@ -1,0 +1,14 @@
+//MO547-548.TXT ANA00547 TO ANA00548
+Controles_recep_Pedidos		TAR	410	new record size: 410
+Controles_recep_Pedidos	Dep1	TAI+	10	Dep1 item has been resized: 31 (instead of 21)
+Controles_recep_Pedidos	Dep2	TAI+	10	Dep2 item has been resized: 31 (instead of 21)
+Controles_recep_Pedidos	Dep3	TAI+	10	Dep3 item has been resized: 31 (instead of 21)
+Controles_recep_Pedidos	Dep4	TAI+	10	Dep4 item has been resized: 31 (instead of 21)
+Controles_recep_Pedidos	Cal1	TAI+	10	Cal1 item has been resized: 31 (instead of 21)
+Controles_recep_Pedidos	Cal2	TAI+	10	Cal2 item has been resized: 31 (instead of 21)
+Controles_recep_Pedidos	Cal3	TAI+	10	Cal3 item has been resized: 31 (instead of 21)
+Controles_recep_Pedidos	Fund1	TAI+	10	Fund1 item has been resized: 31 (instead of 21)
+Controles_recep_Pedidos	Fund2	TAI+	10	Fund2 item has been resized: 31 (instead of 21)
+Controles_recep_Pedidos	Fund3	TAI+	10	Fund3 item has been resized: 31 (instead of 21)
+Controles_recep_Pedidos	Mant1	TAI+	10	Mant1 item has been resized: 31 (instead of 21)
+Controles_recep_Pedidos	Mant2	TAI+	10	Mant2 item has been resized: 31 (instead of 21)

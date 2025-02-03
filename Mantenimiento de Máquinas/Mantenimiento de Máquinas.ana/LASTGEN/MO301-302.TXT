@@ -1,0 +1,4 @@
+//MO301-302.TXT ANA00301 TO ANA00302
+Detalle_Correctivo	Legajo_Toma_ticket	RUB+		Legajo_Toma_ticket is a new key
+Detalle_Correctivo	Legajo_Ticket	RUB+		Legajo_Ticket is a new key
+Detalle_Correctivo	Reclamo_de	RUB-		item Reclamo_de deleted

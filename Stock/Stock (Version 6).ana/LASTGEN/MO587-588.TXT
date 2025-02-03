@@ -1,0 +1,3 @@
+//MO587-588.TXT ANA00587 TO ANA00588
+Elem_del_Pedido		TAR	570	new record size: 570
+Elem_del_Pedido	Fecha_entrega_cliente	RUB+		Fecha_entrega_cliente is a new item

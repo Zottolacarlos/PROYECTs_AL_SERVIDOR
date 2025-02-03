@@ -1,0 +1,4 @@
+//MO313-314.TXT ANA00313 TO ANA00314
+Equil_dinam_temp_imp		TAR	709	new record size: 709
+Equil_dinam_temp_imp	Imagen_Despues	RUB+		Imagen_Despues is a new item
+Equil_dinam_temp_imp	Imagen_Antes	RUB+		Imagen_Antes is a new item

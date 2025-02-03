@@ -1,0 +1,7 @@
+//MO269-270.TXT ANA00269 TO ANA00270
+Objetos_de_Prueba		TAR	143	new record size: 143
+Objetos_de_Prueba	Elementos_de_VerificacoinID	RUB+		Elementos_de_VerificacoinID is a new key
+Verificaciones_realizadas		TAR	293	new record size: 293
+Verificaciones_realizadas	Objetos_de_PruebaID	RUB+		Objetos_de_PruebaID is a new key
+Constraint_Elementos_de_Verificacion_Objetos_de_Prueba		NWL	Elementos_de_Verificacion (Elementos_de_VerificacoinID) and Objetos_de_Prueba (Elementos_de_VerificacoinID)	New link between Elementos_de_Verificacion (Elementos_de_VerificacoinID) and Objetos_de_Prueba (Elementos_de_VerificacoinID) files
+Constraint_Objetos_de_Prueba_Verificaciones_realizadas		NWL	Objetos_de_Prueba (Objetos_de_PruebaID) and Verificaciones_realizadas (Objetos_de_PruebaID)	New link between Objetos_de_Prueba (Objetos_de_PruebaID) and Verificaciones_realizadas (Objetos_de_PruebaID) files

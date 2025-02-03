@@ -1,0 +1,3 @@
+//MO391-392.TXT ANA00391 TO ANA00392
+Comparativa		TAR	621	new record size: 621
+Comparativa	comparativa_original	RUB+		comparativa_original is a new key

@@ -1,0 +1,7 @@
+//MO510-511.TXT ANA00510 TO ANA00511
+Elem_de_Producto		TAR	218	new record size: 218
+Elem_de_Producto	UN_alto	TAI-	47	UN_alto item has been resized: 4 (instead of 51)
+Elem_de_Producto	UN_ancho	TAI-	47	UN_ancho item has been resized: 4 (instead of 51)
+Elem_de_Producto	UN_espesor	TAI-	47	UN_espesor item has been resized: 4 (instead of 51)
+Elem_de_Producto	UN_peso	TAI-	47	UN_peso item has been resized: 4 (instead of 51)
+Elem_de_Producto	Legajo_modifica	RUB+		Legajo_modifica is a new item

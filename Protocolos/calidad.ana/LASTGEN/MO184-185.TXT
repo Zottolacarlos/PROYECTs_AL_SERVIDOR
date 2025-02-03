@@ -1,0 +1,7 @@
+//MO184-185.TXT ANA00184 TO ANA00185
+acciones_correct		TAR	1232	new record size: 1232
+acciones_correct	Evidencia1	RUB+		Evidencia1 is a new item
+acciones_correct	Evidencia2	RUB+		Evidencia2 is a new item
+acciones_correct	Evidencia3	RUB+		Evidencia3 is a new item
+acciones_correct	Evidencia4	RUB+		Evidencia4 is a new item
+acciones_correct	Evidencia5	RUB+		Evidencia5 is a new item

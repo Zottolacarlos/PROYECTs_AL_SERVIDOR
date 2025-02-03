@@ -1,0 +1,3 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Usuarios	Nombre_apellido	CLEU*		Nombre_apellido item is now key
+Usuarios	Legajo	CLEU*		Legajo item is now key

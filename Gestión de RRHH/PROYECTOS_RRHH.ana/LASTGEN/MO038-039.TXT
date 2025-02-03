@@ -1,0 +1,5 @@
+//MO038-039.TXT ANA00038 TO ANA00039
+Pedido_de_Contratación		TAR	197	new record size: 197
+Pedido_de_Contratación	Fecha_entrevistas	RUB-		item Fecha_entrevistas deleted
+Preseleccionados		TAR	91	new record size: 91
+Preseleccionados	Hora_entrevista	RUB+		Hora_entrevista is a new item

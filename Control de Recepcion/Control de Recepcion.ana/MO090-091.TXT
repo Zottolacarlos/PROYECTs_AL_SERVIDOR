@@ -1,0 +1,3 @@
+//MO090-091.TXT ANA00090 TO ANA00091
+All_recepciones		TAR	1135	new record size: 1135
+All_recepciones	Detalle_recepcion	RUB+		Detalle_recepcion is a new item

@@ -1,0 +1,3 @@
+//MO567-568.TXT ANA00567 TO ANA00568
+Passwords		TAR	44	new record size: 44
+Passwords	Sector	RUB+		Sector is a new item

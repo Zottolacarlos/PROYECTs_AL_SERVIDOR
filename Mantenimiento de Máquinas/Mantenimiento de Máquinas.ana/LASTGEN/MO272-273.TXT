@@ -1,0 +1,2 @@
+//MO272-273.TXT ANA00272 TO ANA00273
+Elementos_de_Verificacion	Elemento_de_VerificacionID	NNR	Elementos_de_VerificacoinID	CAUTION: key Elementos_de_VerificacoinID renamed Elemento_de_VerificacionID

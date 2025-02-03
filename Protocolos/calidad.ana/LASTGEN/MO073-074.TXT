@@ -1,0 +1,6 @@
+//MO073-074.TXT ANA00073 TO ANA00074
+Archivo		TAR	4021	new record size: 4021
+Archivo	direccion	TAI+	745	direccion item has been resized: 1001 (instead of 256)
+Archivo	direccion2	TAI+	745	direccion2 item has been resized: 1001 (instead of 256)
+Archivo	plano	TAI+	745	plano item has been resized: 1001 (instead of 256)
+Archivo	nombrePDF	TAI+	700	nombrePDF item has been resized: 1001 (instead of 301)

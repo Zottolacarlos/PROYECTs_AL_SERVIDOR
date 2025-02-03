@@ -1,0 +1,3 @@
+//MO128-129.TXT ANA00128 TO ANA00129
+Recepcion		TAR	636	new record size: 636
+Recepcion	Marca	TAI+	6	Marca item has been resized: 22 (instead of 16)

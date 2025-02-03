@@ -1,0 +1,3 @@
+//MO146-147.TXT ANA00146 TO ANA00147
+acc_correct_redireccionada		TAR	97	new record size: 97
+acc_correct_redireccionada	Motivo_cambio	CNW	Text Memo$String	new type for Motivo_cambio item: Text Memo

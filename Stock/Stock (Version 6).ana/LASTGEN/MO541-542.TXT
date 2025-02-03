@@ -1,0 +1,9 @@
+//MO541-542.TXT ANA00541 TO ANA00542
+Control_de_Recepciones		TAR	186	new record size: 186
+Control_de_Recepciones	Controles_recep_PedidosID	RUB+		Controles_recep_PedidosID is a new key
+Controles_recep_Pedidos		TAR	272	new record size: 272
+Controles_recep_Pedidos	Elemento_del_Pedido_ID	RUB+		Elemento_del_Pedido_ID is a new key
+Controles_recep_Pedidos	Control_de_RecepcionesID	RUB-		key Control_de_RecepcionesID deleted
+Constraint_Elem_del_Pedido_Controles_recep_Pedidos		NWL	Elem_del_Pedido (Elemento_del_Pedido_ID) and Controles_recep_Pedidos (Elemento_del_Pedido_ID)	New link between Elem_del_Pedido (Elemento_del_Pedido_ID) and Controles_recep_Pedidos (Elemento_del_Pedido_ID) files
+Constraint_Controles_recep_Pedidos_Control_de_Recepciones		NWL	Controles_recep_Pedidos (Controles_recep_PedidosID) and Control_de_Recepciones (Controles_recep_PedidosID)	New link between Controles_recep_Pedidos (Controles_recep_PedidosID) and Control_de_Recepciones (Controles_recep_PedidosID) files
+Constraint_Control_de_Recepciones_Controles_recep_Pedidos		DEL	Control_de_Recepciones (Control_de_RecepcionesID) and Controles_recep_Pedidos (Control_de_RecepcionesID)	Link deleted between Control_de_Recepciones (Control_de_RecepcionesID) and Controles_recep_Pedidos (Control_de_RecepcionesID) files

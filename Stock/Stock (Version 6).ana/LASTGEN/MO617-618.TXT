@@ -1,0 +1,10 @@
+//MO617-618.TXT ANA00617 TO ANA00618
+Devoluciones_Operario_Unix		TAR	211	new record size: 211
+Devoluciones_Operario_Unix	A_cargo_UnixID	RUB+		A_cargo_UnixID is a new key
+Auditoria_Codigos		FIC-	Auditoria_Codigos	Auditoria_Codigos file deleted
+Permisos		FIC-	Permisos	Permisos file deleted
+Constraint_Pedido_Auditoria_pedidos		NWL	Pedido (PedidoID) and Auditoria_pedidos (PedidoID)	New link between Pedido (PedidoID) and Auditoria_pedidos (PedidoID) files
+Constraint_Producto_Auditoria_Stock		NWL	Producto (ProductoID) and Auditoria_Stock (ProductoID)	New link between Producto (ProductoID) and Auditoria_Stock (ProductoID) files
+Constraint_Sectores_Control_Recep_Sector		NWL	Sectores (SectoresID) and Control_Recep_Sector (SectoresID)	New link between Sectores (SectoresID) and Control_Recep_Sector (SectoresID) files
+Constraint_Producto_a_cargo_unix		NWL	Producto (ProductoID) and a_cargo_unix (ProductoID)	New link between Producto (ProductoID) and a_cargo_unix (ProductoID) files
+Constraint_a_cargo_unix_Devoluciones_Operario_Unix		NWL	a_cargo_unix (A_cargo_UnixID) and Devoluciones_Operario_Unix (A_cargo_UnixID)	New link between a_cargo_unix (A_cargo_UnixID) and Devoluciones_Operario_Unix (A_cargo_UnixID) files

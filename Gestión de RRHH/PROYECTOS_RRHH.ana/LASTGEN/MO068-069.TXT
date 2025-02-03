@@ -1,0 +1,3 @@
+//MO068-069.TXT ANA00068 TO ANA00069
+Sectores_Puestos		NFI		new file
+Constraint_Sectores_Sectores_Puestos		NWL	Sectores (SectoresID) and Sectores_Puestos (SectoresID)	New link between Sectores (SectoresID) and Sectores_Puestos (SectoresID) files

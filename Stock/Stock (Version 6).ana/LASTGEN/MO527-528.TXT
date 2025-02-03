@@ -1,0 +1,5 @@
+//MO527-528.TXT ANA00527 TO ANA00528
+Impresion_Comparativa		TAR	1228	new record size: 1228
+Impresion_Comparativa	plazo_en_dias1	RUB+		plazo_en_dias1 is a new item
+Impresion_Comparativa	plazo_en_dias2	RUB+		plazo_en_dias2 is a new item
+Impresion_Comparativa	plazo_en_dias3	RUB+		plazo_en_dias3 is a new item

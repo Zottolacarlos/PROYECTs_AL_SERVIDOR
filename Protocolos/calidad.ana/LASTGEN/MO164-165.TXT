@@ -1,0 +1,2 @@
+//MO164-165.TXT ANA00164 TO ANA00165
+Equil_Desbalanceo_Perm	Grado_de_calidadRPM	RUB+		Grado_de_calidadRPM is a new key

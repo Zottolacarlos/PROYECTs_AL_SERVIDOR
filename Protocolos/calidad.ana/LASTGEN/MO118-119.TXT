@@ -1,0 +1,3 @@
+//MO118-119.TXT ANA00118 TO ANA00119
+historico_acc_correct		NFI		new file
+historico_acc_correct		FRN		

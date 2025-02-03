@@ -1,0 +1,3 @@
+//MO093-094.TXT ANA00093 TO ANA00094
+Contratos		NFI		new file
+Constraint_Personal_IMSA_rrhh_Contratos		NWL	Personal_IMSA_rrhh (Legajo) and Contratos (Legajo)	New link between Personal_IMSA_rrhh (Legajo) and Contratos (Legajo) files

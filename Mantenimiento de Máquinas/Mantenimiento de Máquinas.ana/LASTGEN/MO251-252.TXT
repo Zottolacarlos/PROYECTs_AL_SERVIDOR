@@ -1,0 +1,2 @@
+//MO251-252.TXT ANA00251 TO ANA00252
+Elem_del_Pedido		NFI		new file

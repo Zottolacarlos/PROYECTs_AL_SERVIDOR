@@ -1,0 +1,3 @@
+//MO192-193.TXT ANA00192 TO ANA00193
+Bajas		NFI		new file
+Constraint_Personal_IMSA_rrhh_Bajas		NWL	Personal_IMSA_rrhh (Legajo) and Bajas (Legajo)	New link between Personal_IMSA_rrhh (Legajo) and Bajas (Legajo) files

@@ -1,0 +1,7 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Operarios$		NFI		new file
+Tarea_Extra		TAR	211	new record size: 211
+Tarea_Extra	Legajo	RUB-		key Legajo deleted
+Tarea_Extra		FIC-	Operarios2$	Operarios2$ file deleted
+Tarea_Extra		FIC-	Operarios	Operarios file deleted
+Operarios		DEL	Operarios (Legajo) and Tarea_Extra (Legajo)	Link deleted between Operarios (Legajo) and Tarea_Extra (Legajo) files

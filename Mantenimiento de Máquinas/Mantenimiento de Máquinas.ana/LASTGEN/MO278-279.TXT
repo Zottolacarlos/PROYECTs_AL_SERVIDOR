@@ -1,0 +1,4 @@
+//MO278-279.TXT ANA00278 TO ANA00279
+Verificaciones_realizadas		TAR	181	new record size: 181
+Verificaciones_realizadas	Objetos_de_PruebaID	RUB+		Objetos_de_PruebaID is a new key
+Constraint_Objetos_de_Prueba_Verificaciones_realizadas		NWL	Objetos_de_Prueba (Objetos_de_PruebaID) and Verificaciones_realizadas (Objetos_de_PruebaID)	New link between Objetos_de_Prueba (Objetos_de_PruebaID) and Verificaciones_realizadas (Objetos_de_PruebaID) files

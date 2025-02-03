@@ -1,0 +1,3 @@
+//MO154-155.TXT ANA00154 TO ANA00155
+Personal_IMSA_rrhh		TAR	711	new record size: 711
+Personal_IMSA_rrhh	Foto_Perfil	RUB+		Foto_Perfil is a new item

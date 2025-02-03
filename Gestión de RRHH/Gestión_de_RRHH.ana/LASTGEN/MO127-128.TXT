@@ -1,0 +1,5 @@
+//MO127-128.TXT ANA00127 TO ANA00128
+Preseleccionados		TAR	438	new record size: 438
+Preseleccionados	Contrato	RUB-		item Contrato deleted
+Preseleccionados	Fecha_Vence_contrato	RUB-		item Fecha_Vence_contrato deleted
+Preseleccionados	Finaliza_Contrato	RUB-		item Finaliza_Contrato deleted

@@ -1,0 +1,3 @@
+//MO131-132.TXT ANA00131 TO ANA00132
+Contratos	Decisión_Responsable_Sector	NNR	Decisión_Ger_Ind	CAUTION: item Decisión_Ger_Ind renamed Decisión_Responsable_Sector
+Contratos	Decisión_Contrato_rrhh	NNR	Decisión_Contrato	CAUTION: item Decisión_Contrato renamed Decisión_Contrato_rrhh

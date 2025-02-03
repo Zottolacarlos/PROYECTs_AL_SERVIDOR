@@ -1,0 +1,2 @@
+//MO379-380.TXT ANA00379 TO ANA00380
+Constraint_Datos_sector_Maquina		DEL	Datos_sector (Datos_sectorID) and Maquina (Datos_sectorID)	Link deleted between Datos_sector (Datos_sectorID) and Maquina (Datos_sectorID) files

@@ -1,0 +1,6 @@
+//MO256-257.TXT ANA00256 TO ANA00257
+Personal_config		TAR	175	new record size: 175
+Personal_config	Pantalla_Inicial	NNR	Pantalla	CAUTION: item Pantalla renamed Pantalla_Inicial
+Personal_config	Permiso_Proto	RUB+		Permiso_Proto is a new item
+Personal_config	Permiso_AC	RUB+		Permiso_AC is a new item
+Personal_config	Permiso_Instrum	RUB+		Permiso_Instrum is a new item

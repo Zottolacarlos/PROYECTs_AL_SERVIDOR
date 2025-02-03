@@ -1,0 +1,3 @@
+//MO123-124.TXT ANA00123 TO ANA00124
+Preseleccionados		TAR	451	new record size: 451
+Preseleccionados	Realiza_Entrevista	RUB+		Realiza_Entrevista is a new item

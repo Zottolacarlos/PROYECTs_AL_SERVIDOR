@@ -1,0 +1,6 @@
+//MO100-101.TXT ANA00100 TO ANA00101
+Oftec		TAR	351	new record size: 351
+Oftec	Decision_dep	TAI-	1	Decision_dep item has been resized: 10 (instead of 11)
+Oftec	decision_fund	TAI-	1	decision_fund item has been resized: 10 (instead of 11)
+Oftec	decision_calidad	TAI-	1	decision_calidad item has been resized: 10 (instead of 11)
+Oftec	decision_ing	TAI-	1	decision_ing item has been resized: 10 (instead of 11)

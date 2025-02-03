@@ -1,0 +1,2 @@
+//MO324-325.TXT ANA00324 TO ANA00325
+Procedimiento_Fabricacion		NFI		new file

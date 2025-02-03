@@ -1,0 +1,15 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Hoja1$		TAR	1512	new record size: 1512
+Hoja1$	Protocolo Nº	CLEU*		Protocolo Nº item is now key
+Hoja1$	Protocolo Nº	CNW	String$Unicode	new type for Protocolo Nº item: String
+Hoja1$	Orden de Fabricacion	CNW	String$8-byte real	new type for Orden de Fabricacion item: String
+Hoja1$	Cotización	CNW	String$8-byte real	new type for Cotización item: String
+Hoja1$	Cliente	CNW	String$Unicode	new type for Cliente item: String
+Hoja1$	Fecha de Pedido	CNW	Date (yyyymmdd)$Date and Time (yyyymmddhhmmsslll)	new type for Fecha de Pedido item: Date (yyyymmdd)
+Hoja1$	Elemento Controlado	CNW	String$Unicode	new type for Elemento Controlado item: String
+Hoja1$	Tipo de Control	CNW	String$Unicode	new type for Tipo de Control item: String
+Hoja1$	Fecha del control	CNW	Date (yyyymmdd)$Date and Time (yyyymmddhhmmsslll)	new type for Fecha del control item: Date (yyyymmdd)
+Hoja1$	Situación Actual Control	CNW	String$Unicode	new type for Situación Actual Control item: String
+Hoja1$	Disposición Gcia# Ind#	CNW	String$Unicode	new type for Disposición Gcia# Ind# item: String
+Hoja1$	Observaciones	CNW	String$Unicode	new type for Observaciones item: String
+Hoja1$	Cotización	RRM		

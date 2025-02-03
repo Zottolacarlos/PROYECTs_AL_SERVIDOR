@@ -1,0 +1,3 @@
+//MO494-495.TXT ANA00494 TO ANA00495
+Reclamo_Recepcion		TAR	97	new record size: 97
+Reclamo_Recepcion	Observaciones	RUB+		Observaciones is a new item

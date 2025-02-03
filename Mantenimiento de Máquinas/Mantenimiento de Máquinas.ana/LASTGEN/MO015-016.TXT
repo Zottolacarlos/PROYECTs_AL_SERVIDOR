@@ -1,0 +1,2 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Detalle_Preventivo	Fecha_Actual	CLEN*		Fecha_Actual item is now key

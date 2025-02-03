@@ -1,0 +1,5 @@
+//MO034-035.TXT ANA00034 TO ANA00035
+Detalle_Preventivo		TAR	991	new record size: 991
+Detalle_Preventivo	tareas	TAB+	10	tareas item is now an array of 25 elements instead of 15
+Detalle_Preventivo	tareas	TAI-	15	tareas item has been resized: 26 (instead of 41)
+Detalle_Preventivo	horas_x_tarea	TAB+	10	horas_x_tarea item is now an array of 25 elements instead of 15

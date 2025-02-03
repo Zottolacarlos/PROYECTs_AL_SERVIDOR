@@ -1,0 +1,3 @@
+//MO543-544.TXT ANA00543 TO ANA00544
+Controles_recep_Pedidos		TAR	281	new record size: 281
+Controles_recep_Pedidos	ProductoID	RUB+		ProductoID is a new key

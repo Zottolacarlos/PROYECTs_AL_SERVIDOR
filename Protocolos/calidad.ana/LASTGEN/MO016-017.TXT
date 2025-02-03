@@ -1,0 +1,4 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Hoja1$		NFI		new file
+Hoja1$		FIC-	Hoja1$	Hoja1$ file deleted
+Connection to 'W:\Publico\Sistemas Informaticos\end protocolos.xls'		CNX+		

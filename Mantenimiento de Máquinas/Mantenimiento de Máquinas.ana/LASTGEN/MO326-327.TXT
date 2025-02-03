@@ -1,0 +1,3 @@
+//MO326-327.TXT ANA00326 TO ANA00327
+Impresion_Correctivos_activos		TAR	609	new record size: 609
+Impresion_Correctivos_activos	Repar_Procentual	RUB+		Repar_Procentual is a new item

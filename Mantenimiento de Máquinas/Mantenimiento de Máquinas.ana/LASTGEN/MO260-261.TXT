@@ -1,0 +1,4 @@
+//MO260-261.TXT ANA00260 TO ANA00261
+Geometria_de_Maquinas		NFI		new file
+Elementos_de_Geometria		NFI		new file
+Tipos_de_Verif_Geometria		NFI		new file

@@ -1,0 +1,3 @@
+//MO248-249.TXT ANA00248 TO ANA00249
+Sectores_Responsable		NFI		new file
+Constraint_Sectores_Sectores_Responsable		NWL	Sectores (SectoresID) and Sectores_Responsable (SectoresID)	New link between Sectores (SectoresID) and Sectores_Responsable (SectoresID) files

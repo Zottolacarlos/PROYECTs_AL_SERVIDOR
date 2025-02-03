@@ -1,0 +1,4 @@
+//MO219-220.TXT ANA00219 TO ANA00220
+acciones_correct		TAR	1144	new record size: 1144
+acciones_correct	Protocolos_asociado	CNW	String$4-byte unsigned integer	new type for Protocolos_asociado item: String
+acciones_correct	cotizacion_asociada	TAI-	44	cotizacion_asociada item has been resized: 7 (instead of 51)

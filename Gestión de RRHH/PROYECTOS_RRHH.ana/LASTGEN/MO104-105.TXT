@@ -1,0 +1,2 @@
+//MO104-105.TXT ANA00104 TO ANA00105
+Constraint_Personal_IMSA_rrhh_Estados_Personal_IMSA		DEL	Estados_Personal_IMSA (Estados_Personal_IMSAID) and Personal_IMSA_rrhh (Estados_Personal_IMSAID)	Link deleted between Estados_Personal_IMSA (Estados_Personal_IMSAID) and Personal_IMSA_rrhh (Estados_Personal_IMSAID) files

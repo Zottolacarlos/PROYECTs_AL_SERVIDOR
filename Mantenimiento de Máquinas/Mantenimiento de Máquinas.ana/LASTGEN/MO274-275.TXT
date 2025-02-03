@@ -1,0 +1,4 @@
+//MO274-275.TXT ANA00274 TO ANA00275
+Elementos_de_Verificacion		TAR	68	new record size: 68
+Elementos_de_Verificacion	Verificacion_de_MaquinasID	RUB-		key Verificacion_de_MaquinasID deleted
+Constraint_Verificacion_de_Maquinas_Elementos_de_Verificacion		DEL	Verificacion_de_Maquinas (Verificacion_de_MaquinasID) and Elementos_de_Verificacion (Verificacion_de_MaquinasID)	Link deleted between Verificacion_de_Maquinas (Verificacion_de_MaquinasID) and Elementos_de_Verificacion (Verificacion_de_MaquinasID) files

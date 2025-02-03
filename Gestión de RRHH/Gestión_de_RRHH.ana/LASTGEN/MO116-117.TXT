@@ -1,0 +1,2 @@
+//MO116-117.TXT ANA00116 TO ANA00117
+Personal_IMSA_rrhh		REP*	W:\BD\RRHH	new directory W:\BD\RRHH

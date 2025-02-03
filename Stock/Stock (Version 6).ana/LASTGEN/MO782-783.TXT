@@ -1,0 +1,13 @@
+//MO782-783.TXT ANA00782 TO ANA00783
+Proveedores_stock		TAR	733	new record size: 733
+Proveedores_stock	ProveedorID	NNR	codigo	CAUTION: key codigo renamed ProveedorID
+Proveedores_stock	ProveedorID	CLEU		ProveedorID item is now key
+Proveedores_stock	ProveedorID	CNW	4-byte unsigned integer$4-byte integer	new type for ProveedorID item: 4-byte unsigned integer
+Proveedores_stock	Razon_Social	NNR	descripcion	CAUTION: key descripcion renamed Razon_Social
+Proveedores_stock	Razon_Social	CLEU		Razon_Social item is now key
+Proveedores_stock	CUIT_CUIL	CLEU		CUIT_CUIL item is now key
+Proveedores_stock	Nombre_Fantasia	NNR	propietario	CAUTION: item propietario renamed Nombre_Fantasia
+Proveedores_stock	Descripcion	RUB+		Descripcion is a new item
+Proveedores_stock	CPpostal	NNR	cpostal	CAUTION: item cpostal renamed CPpostal
+Proveedores_stock	Forma_pago	NNR	formadepago	CAUTION: item formadepago renamed Forma_pago
+Proveedores_stock	Activo	CNW	Boolean$4-byte integer	new type for Activo item: Boolean

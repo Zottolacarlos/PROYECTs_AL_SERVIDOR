@@ -1,0 +1,5 @@
+//MO087-088.TXT ANA00087 TO ANA00088
+Personal_IMSA_rrhh		TAR	612	new record size: 612
+Personal_IMSA_rrhh	Preocupacional	RUB-		item Preocupacional deleted
+Personal_IMSA_rrhh	Policia_antecedentes	RUB-		item Policia_antecedentes deleted
+Personal_IMSA_rrhh	Psicotecnico	RUB-		item Psicotecnico deleted

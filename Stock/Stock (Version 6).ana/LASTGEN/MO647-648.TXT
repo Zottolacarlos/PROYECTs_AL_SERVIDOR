@@ -1,0 +1,4 @@
+//MO647-648.TXT ANA00647 TO ANA00648
+Polizas_de_Caución		TAR	236	new record size: 236
+Polizas_de_Caución	Remito_de_Calle	RUB+		Remito_de_Calle is a new key
+Polizas_de_Caución	Estado	RUB+		Estado is a new item

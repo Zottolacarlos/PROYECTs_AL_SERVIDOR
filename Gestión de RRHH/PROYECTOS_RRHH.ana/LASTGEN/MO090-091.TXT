@@ -1,0 +1,3 @@
+//MO090-091.TXT ANA00090 TO ANA00091
+Preseleccionados		TAR	387	new record size: 387
+Preseleccionados	Fecha_Vence_contrato	RUB+		Fecha_Vence_contrato is a new item

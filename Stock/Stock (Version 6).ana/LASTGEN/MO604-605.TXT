@@ -1,0 +1,4 @@
+//MO604-605.TXT ANA00604 TO ANA00605
+Stock_xa_Supervisores		TAR	171	new record size: 171
+Stock_xa_Supervisores	Tipo_de_movimiento	RUB+		Tipo_de_movimiento is a new item
+Stock_xa_Supervisores	Nro_movimiento	RUB+		Nro_movimiento is a new item

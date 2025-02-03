@@ -1,0 +1,4 @@
+//MO369-370.TXT ANA00369 TO ANA00370
+Maquina		TAR	112	new record size: 112
+Maquina		TYPE		File type changed from Native access/Other OLE DB access to HyperFileSQL
+Maquina		FCNX-	Connection to bdcontabilidad	

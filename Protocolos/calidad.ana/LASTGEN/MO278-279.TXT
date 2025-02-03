@@ -1,0 +1,3 @@
+//MO278-279.TXT ANA00278 TO ANA00279
+Audita_Email		TAR	213	new record size: 213
+Audita_Email	Nro_accion_correct	RUB+		Nro_accion_correct is a new key

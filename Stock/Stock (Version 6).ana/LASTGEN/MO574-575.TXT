@@ -1,0 +1,3 @@
+//MO574-575.TXT ANA00574 TO ANA00575
+Retorno_de_Materiales		TAR	173	new record size: 173
+Retorno_de_Materiales	Elemen_del_RetiroID	RUB+		Elemen_del_RetiroID is a new key

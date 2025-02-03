@@ -1,0 +1,6 @@
+//MO069-070.TXT ANA00069 TO ANA00070
+Detalle_Preventivo		TAR	436	new record size: 436
+Detalle_Preventivo	Observaciones_finales	NNR	Observaciónes_final	CAUTION: item Observaciónes_final renamed Observaciones_finales
+Detalle_Preventivo	Observaciones_finales	TAI-	155	Observaciones_finales item has been resized: 101 (instead of 256)
+Detalle_Preventivo	ID_PREVENTIVO_anterior	RUB+		ID_PREVENTIVO_anterior is a new key
+Detalle_Preventivo	tareas	RUB-		item tareas deleted

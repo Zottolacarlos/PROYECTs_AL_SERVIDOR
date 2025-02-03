@@ -1,0 +1,4 @@
+//MO082-083.TXT ANA00082 TO ANA00083
+Detalle_Correctivo		TAR	753	new record size: 753
+Detalle_Correctivo	reparacion_porcentual	RUB+		reparacion_porcentual is a new item
+Detalle_Correctivo	explicacion_porcentual	RUB+		explicacion_porcentual is a new item

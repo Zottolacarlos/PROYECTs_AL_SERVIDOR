@@ -1,0 +1,8 @@
+//MO190-191.TXT ANA00190 TO ANA00191
+fotos_maq		TAR	223	new record size: 223
+fotos_maq	Dir_foto	TAI-	128	Dir_foto item has been resized: 129 (instead of 257)
+manuales		TAR	199	new record size: 199
+manuales	Dir_manual	NNR	Dir	CAUTION: item Dir renamed Dir_manual
+manuales	Dir_manual	TAI-	128	Dir_manual item has been resized: 129 (instead of 257)
+manuales	Name_manual	NNR	Nombre	CAUTION: key Nombre renamed Name_manual
+manuales	Name_manual	TAI+	10	Name_manual item has been resized: 41 (instead of 31)

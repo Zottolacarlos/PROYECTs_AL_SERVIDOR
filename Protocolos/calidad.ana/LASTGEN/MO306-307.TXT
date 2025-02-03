@@ -1,0 +1,3 @@
+//MO306-307.TXT ANA00306 TO ANA00307
+acciones_correct		TAR	1275	new record size: 1275
+acciones_correct	Tipo_Trabajo	RUB+		Tipo_Trabajo is a new item

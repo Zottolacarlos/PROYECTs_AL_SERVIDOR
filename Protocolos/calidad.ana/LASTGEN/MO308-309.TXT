@@ -1,0 +1,12 @@
+//MO308-309.TXT ANA00308 TO ANA00309
+acc_correct_PRECARGA		TAR	443	new record size: 443
+acc_correct_PRECARGA	CotizacionID	RUB+		CotizacionID is a new key
+acc_correct_PRECARGA	Nro_cotizacion	RUB+		Nro_cotizacion is a new key
+acc_correct_PRECARGA	cotizacion_asociada	RUB+		cotizacion_asociada is a new item
+acc_correct_PRECARGA	Cliente	RUB+		Cliente is a new item
+acc_correct_PRECARGA	Estado	RUB+		Estado is a new item
+acc_correct_PRECARGA	Fecha_Apertura	RUB+		Fecha_Apertura is a new item
+acc_correct_PRECARGA	Legajo_carga	RUB+		Legajo_carga is a new item
+acc_correct_PRECARGA	Pieza_Evidencia	RUB+		Pieza_Evidencia is a new item
+acc_correct_PRECARGA	Solicitada_Detectada	RUB+		Solicitada_Detectada is a new item
+acc_correct_PRECARGA	Tipo_reclamo	RUB+		Tipo_reclamo is a new item

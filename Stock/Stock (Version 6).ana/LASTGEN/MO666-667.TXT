@@ -1,0 +1,3 @@
+//MO666-667.TXT ANA00666 TO ANA00667
+Impresion_Costos_x_COT		TAR	104	new record size: 104
+Impresion_Costos_x_COT	costo_flete	RUB+		costo_flete is a new item

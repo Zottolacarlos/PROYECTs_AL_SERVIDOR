@@ -1,0 +1,3 @@
+//MO637-638.TXT ANA00637 TO ANA00638
+Archivos_de_Pedidos		TAR	792	new record size: 792
+Archivos_de_Pedidos	Audio	RUB+		Audio is a new item

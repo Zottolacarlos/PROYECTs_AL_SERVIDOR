@@ -1,0 +1,7 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+Tickets		TAR	289	new record size: 289
+Tickets	Estado	TAI+	5	Estado item has been resized: 31 (instead of 26)
+Tickets	Obs_Cierre_Usuario	RUB+		Obs_Cierre_Usuario is a new item
+Tickets	Obs_Reclamo_Usuario	RUB+		Obs_Reclamo_Usuario is a new item
+Tickets	Acepta_Usuario	RUB-		item Acepta_Usuario deleted
+Tickets	Razon_Rechazo_Acepta	RUB-		item Razon_Rechazo_Acepta deleted

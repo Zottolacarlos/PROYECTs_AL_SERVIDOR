@@ -1,0 +1,5 @@
+//MO244-245.TXT ANA00244 TO ANA00245
+Personal_config		TAR	170	new record size: 170
+Personal_config	Legajo	RUB+		Legajo is a new key
+Constraint_Personal_IMSA_rrhh_Personal_config		NWL	Personal_IMSA_rrhh (Legajo) and Personal_config (Legajo)	New link between Personal_IMSA_rrhh (Legajo) and Personal_config (Legajo) files
+Constraint_Personal_IMSA_rrhh_Sectores		NWL	Sectores (SectoresID) and Personal_IMSA_rrhh (SectoresID)	New link between Sectores (SectoresID) and Personal_IMSA_rrhh (SectoresID) files

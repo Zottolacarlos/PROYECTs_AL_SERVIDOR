@@ -1,0 +1,3 @@
+//MO074-075.TXT ANA00074 TO ANA00075
+All_recepciones		NFI		new file
+All_recepciones		FRN		

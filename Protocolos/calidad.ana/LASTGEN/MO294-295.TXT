@@ -1,0 +1,3 @@
+//MO294-295.TXT ANA00294 TO ANA00295
+acc_correct_causas		TAR	307	new record size: 307
+acc_correct_causas	Causa_Nro	RUB+		Causa_Nro is a new item

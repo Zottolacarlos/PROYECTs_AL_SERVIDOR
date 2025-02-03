@@ -1,0 +1,5 @@
+//MO375-376.TXT ANA00375 TO ANA00376
+Producto		NFI		new file
+Elem_del_Pedido		NFI		new file
+Producto		FIC-	Producto	Producto file deleted
+Elem_del_Pedido		FIC-	Elem_del_Pedido	Elem_del_Pedido file deleted

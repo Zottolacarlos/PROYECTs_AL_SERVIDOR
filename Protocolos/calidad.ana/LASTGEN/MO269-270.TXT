@@ -1,0 +1,3 @@
+//MO269-270.TXT ANA00269 TO ANA00270
+acciones_correct		TAR	1169	new record size: 1169
+acciones_correct	Sector	TAI+	5	Sector item has been resized: 26 (instead of 21)

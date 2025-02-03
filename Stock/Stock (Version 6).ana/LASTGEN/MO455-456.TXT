@@ -1,0 +1,2 @@
+//MO455-456.TXT ANA00455 TO ANA00456
+Bajas	Herramientas_de_devolucionID	NNR	DevolucionesID	CAUTION: key DevolucionesID renamed Herramientas_de_devolucionID

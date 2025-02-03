@@ -1,0 +1,12 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Oftec	Obs_espectro	NNR	Observación	CAUTION: item Observación renamed Obs_espectro
+Fundicion		TAR	533	new record size: 533
+Fundicion	Obs_espectro	NNR	Observación	CAUTION: item Observación renamed Obs_espectro
+Fundicion	Obs_espectro	TAI+	200	Obs_espectro item has been resized: 301 (instead of 101)
+Fundicion	Responsable_espectro	NNR	Responsable	CAUTION: item Responsable renamed Responsable_espectro
+Fundicion	Decision_espectro	NNR	Decision	CAUTION: item Decision renamed Decision_espectro
+Fundicion	obs_trata	RUB+		obs_trata is a new item
+Fundicion	Decosion_trata	RUB+		Decosion_trata is a new item
+Fundicion	Responsable_trata	RUB+		Responsable_trata is a new item
+Calidad	Obs_espectro	NNR	Observación	CAUTION: item Observación renamed Obs_espectro
+Deposito	Obs_espectro	NNR	Observación	CAUTION: item Observación renamed Obs_espectro

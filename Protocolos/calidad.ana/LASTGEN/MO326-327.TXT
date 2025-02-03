@@ -1,0 +1,13 @@
+//MO326-327.TXT ANA00326 TO ANA00327
+acciones_correct		REP*	W:\BD\PROTOCOLOS	new directory W:\BD\PROTOCOLOS
+acc_correct_redireccionada		REP*	W:\BD\PROTOCOLOS	new directory W:\BD\PROTOCOLOS
+acc_corrct_respuestas		REP*	W:\BD\PROTOCOLOS	new directory W:\BD\PROTOCOLOS
+acc_correct_archivos		REP*	W:\BD\PROTOCOLOS	new directory W:\BD\PROTOCOLOS
+acc_correct_evidencias		REP*	W:\BD\PROTOCOLOS	new directory W:\BD\PROTOCOLOS
+acc_correct_Detalle_largo_plazo		REP*	W:\BD\PROTOCOLOS	new directory W:\BD\PROTOCOLOS
+acc_correct_auditoria		REP*	W:\BD\PROTOCOLOS	new directory W:\BD\PROTOCOLOS
+acc_correct_causas		REP*	W:\BD\PROTOCOLOS	new directory W:\BD\PROTOCOLOS
+acc_correct_8M		REP*	W:\BD\PROTOCOLOS	new directory W:\BD\PROTOCOLOS
+acc_correct_evidencias		FRN		
+acc_correct_auditoria		FRN		
+acc_correct_causas		FRN		

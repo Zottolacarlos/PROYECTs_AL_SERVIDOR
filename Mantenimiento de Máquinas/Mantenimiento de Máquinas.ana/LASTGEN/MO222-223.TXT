@@ -1,0 +1,4 @@
+//MO222-223.TXT ANA00222 TO ANA00223
+repuestos		TAR	206	new record size: 206
+repuestos	Repuesto_Pedido	CNW	Text Memo$String	new type for Repuesto_Pedido item: Text Memo
+repuestos	Detalle_Fabricacion	CNW	Text Memo$String	new type for Detalle_Fabricacion item: Text Memo

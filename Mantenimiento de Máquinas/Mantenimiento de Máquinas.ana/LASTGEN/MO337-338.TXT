@@ -1,0 +1,3 @@
+//MO337-338.TXT ANA00337 TO ANA00338
+mails		NFI		new file
+mails		FIC-	mails	mails file deleted

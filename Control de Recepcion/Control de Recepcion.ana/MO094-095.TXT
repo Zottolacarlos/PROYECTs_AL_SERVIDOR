@@ -1,0 +1,14 @@
+//MO094-095.TXT ANA00094 TO ANA00095
+Fundicion		TAR	167	new record size: 167
+Fundicion	Obs_espectro	TAI-	25	Obs_espectro item has been resized: 51 (instead of 76)
+Fundicion	obs_trata	TAI-	25	obs_trata item has been resized: 51 (instead of 76)
+Fundicion	Responsable	TAI-	35	Responsable item has been resized: 16 (instead of 51)
+Deposito		TAR	210	new record size: 210
+Deposito	Observación	TAI+	60	Observación item has been resized: 151 (instead of 91)
+Recepcion		TAR	612	new record size: 612
+Recepcion	FechaRecepcion	TAI-	40	FechaRecepcion item has been resized: 16 (instead of 56)
+Recepcion	Certificado	TAI-	10	Certificado item has been resized: 16 (instead of 26)
+Recepcion	item	TAI+	10	item item has been resized: 91 (instead of 81)
+Recepcion	cantidad_item	TAI-	5	cantidad_item item has been resized: 11 (instead of 16)
+Recepcion	recep	TAI+	10	recep item has been resized: 91 (instead of 81)
+Recepcion	cantidad_recep	TAI-	5	cantidad_recep item has been resized: 11 (instead of 16)

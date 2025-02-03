@@ -1,0 +1,9 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+Mantenimientos		TAR	293	new record size: 293
+Mantenimientos	Denominacion_Interna	RUB+		Denominacion_Interna is a new key
+Mantenimientos	Equipo	RUB-		key Equipo deleted
+Proyectos_Sistemas		NFI		new file
+Proyect_Entrevistas		NFI		new file
+Constraint_Proyectos_Sistemas_Proyect_Entrevistas		NWL	Proyectos_Sistemas (Proyectos_SistemasID) and Proyect_Entrevistas (Proyectos_SistemasID)	New link between Proyectos_Sistemas (Proyectos_SistemasID) and Proyect_Entrevistas (Proyectos_SistemasID) files
+Constraint_Mantenimientos_Equipo_TI		NWL	Equipo_TI (Denominacion_Interna) and Mantenimientos (Denominacion_Interna)	New link between Equipo_TI (Denominacion_Interna) and Mantenimientos (Denominacion_Interna) files
+TECNO CLIENTE SERVIDOR		CNX+		

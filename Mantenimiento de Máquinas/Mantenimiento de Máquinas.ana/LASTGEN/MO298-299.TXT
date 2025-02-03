@@ -1,0 +1,4 @@
+//MO298-299.TXT ANA00298 TO ANA00299
+Usuarios		TAR	107	new record size: 107
+Usuarios	Datos_sectorID	RUB+		Datos_sectorID is a new key
+Constraint_Datos_sector_Usuarios		NWL	Datos_sector (Datos_sectorID) and Usuarios (Datos_sectorID)	New link between Datos_sector (Datos_sectorID) and Usuarios (Datos_sectorID) files

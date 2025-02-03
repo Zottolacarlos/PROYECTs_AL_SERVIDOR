@@ -1,0 +1,2 @@
+//MO572-573.TXT ANA00572 TO ANA00573
+Control_Recep_Sector	Control_de_RecepcionesIDSectoresID	RUB+		Control_de_RecepcionesIDSectoresID is a new key

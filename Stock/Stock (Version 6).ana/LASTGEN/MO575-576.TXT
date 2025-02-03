@@ -1,0 +1,3 @@
+//MO575-576.TXT ANA00575 TO ANA00576
+Elem_de_Recepcion		TAR	483	new record size: 483
+Elem_de_Recepcion	obs_xa_gerencia	RUB+		obs_xa_gerencia is a new item

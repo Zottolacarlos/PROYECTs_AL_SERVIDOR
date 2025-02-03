@@ -1,0 +1,7 @@
+//MO063-064.TXT ANA00063 TO ANA00064
+Deposito		TAR	326	new record size: 326
+Deposito	Secuencia	RUB-		item Secuencia deleted
+Deposito	Certificado	RUB-		item Certificado deleted
+Recepcion		TAR	800	new record size: 800
+Recepcion	Secuencia_array_orden	RUB+		Secuencia_array_orden is a new item
+Recepcion	Certificado	RUB+		Certificado is a new item

@@ -1,0 +1,2 @@
+//MO232-233.TXT ANA00232 TO ANA00233
+Maquina		DEL	Maquina (Denominación_Int) and componentes (Denominación_Int)	Link deleted between Maquina (Denominación_Int) and componentes (Denominación_Int) files

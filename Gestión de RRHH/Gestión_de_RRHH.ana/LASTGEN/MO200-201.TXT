@@ -1,0 +1,7 @@
+//MO200-201.TXT ANA00200 TO ANA00201
+Sectores		TAR	112	new record size: 112
+Sectores	Max_Personas	RUB+		Max_Personas is a new item
+Sectores	Min_Personas	RUB+		Min_Personas is a new item
+Sectores	Max_Aprendices	RUB+		Max_Aprendices is a new item
+Sectores	Min_Calificados	RUB+		Min_Calificados is a new item
+Sectores	Calificacion_Necesaria	RUB+		Calificacion_Necesaria is a new item

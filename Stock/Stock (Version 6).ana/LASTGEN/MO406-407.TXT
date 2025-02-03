@@ -1,0 +1,2 @@
+//MO406-407.TXT ANA00406 TO ANA00407
+Constraint_Entregas_y_Prestamos_Herramientas_de_Entregas_y_Prestamos		DEL	Entregas_y_Prestamos (Entregas_y_PrestamosID) and Herramientas_de_Entregas_y_Prestamos (Entregas_y_PrestamosID)	Link deleted between Entregas_y_Prestamos (Entregas_y_PrestamosID) and Herramientas_de_Entregas_y_Prestamos (Entregas_y_PrestamosID) files

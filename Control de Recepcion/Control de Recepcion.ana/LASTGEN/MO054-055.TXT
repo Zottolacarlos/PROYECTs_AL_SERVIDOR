@@ -1,0 +1,2 @@
+//MO054-055.TXT ANA00054 TO ANA00055
+Califica_Proveedor		DEL	Califica_Proveedor (Califica_ProveedorID) and Recepcion (Califica_ProveedorID)	Link deleted between Califica_Proveedor (Califica_ProveedorID) and Recepcion (Califica_ProveedorID) files

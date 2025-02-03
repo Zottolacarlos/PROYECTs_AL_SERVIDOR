@@ -1,0 +1,3 @@
+//MO137-138.TXT ANA00137 TO ANA00138
+Recepcion_de_Materiales		TAR	755	new record size: 755
+Recepcion_de_Materiales	Tiene_control	RUB+		Tiene_control is a new item

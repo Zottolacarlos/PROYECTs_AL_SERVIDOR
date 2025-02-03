@@ -1,0 +1,7 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Calidad		TAR	179	new record size: 179
+Calidad	NrodeControl	RUB+		NrodeControl is a new key
+Recepcion		TAR	147	new record size: 147
+Recepcion	CalidadID	RUB-		key CalidadID deleted
+Recepcion		NWL	Recepcion (NrodeControl) and Calidad (NrodeControl)	New link between Recepcion (NrodeControl) and Calidad (NrodeControl) files
+Calidad		DEL	Calidad (CalidadID) and Recepcion (CalidadID)	Link deleted between Calidad (CalidadID) and Recepcion (CalidadID) files

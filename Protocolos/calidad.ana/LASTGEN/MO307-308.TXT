@@ -1,0 +1,2 @@
+//MO307-308.TXT ANA00307 TO ANA00308
+acc_correct_PRECARGA		NFI		new file

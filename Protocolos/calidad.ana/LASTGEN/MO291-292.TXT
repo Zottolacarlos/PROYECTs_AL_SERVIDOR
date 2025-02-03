@@ -1,0 +1,3 @@
+//MO291-292.TXT ANA00291 TO ANA00292
+Cliente		NFI		new file
+Cliente		FIC-	Cliente	Cliente file deleted

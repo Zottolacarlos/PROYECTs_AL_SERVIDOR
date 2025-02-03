@@ -1,0 +1,4 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+actualiza_hs		NFI		new file
+Tarea_Extra		NWL	Tarea_Extra (Tarea_ExtraID) and actualiza_hs (Tarea_ExtraID)	New link between Tarea_Extra (Tarea_ExtraID) and actualiza_hs (Tarea_ExtraID) files
+actualiza_hs		FRN		

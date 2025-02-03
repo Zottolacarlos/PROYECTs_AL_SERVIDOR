@@ -1,0 +1,5 @@
+//MO109-110.TXT ANA00109 TO ANA00110
+Instrumentos		TAR	457	new record size: 457
+Instrumentos	sin_proto	RUB+		sin_proto is a new item
+Instrumentos	A_cargo	RUB+		A_cargo is a new item
+Instrumentos	Sector	RUB+		Sector is a new item

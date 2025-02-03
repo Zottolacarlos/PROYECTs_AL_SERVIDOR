@@ -1,0 +1,4 @@
+//MO181-182.TXT ANA00181 TO ANA00182
+acc_correct_evidencias		NFI		new file
+Constraint_acc_correct_evidencias_acciones_correct		NWL	acciones_correct (acciones_correctID) and acc_correct_evidencias (Acciones_correctID)	New link between acciones_correct (acciones_correctID) and acc_correct_evidencias (Acciones_correctID) files
+acc_correct_evidencias	Observaciones	RRN		

@@ -1,0 +1,13 @@
+//MO199-200.TXT ANA00199 TO ANA00200
+acc_corrct_respuestas		TAR	227	new record size: 227
+acc_corrct_respuestas	fecha_inicio_largo_plazo	NNR	fecha_largo_plazo	CAUTION: item fecha_largo_plazo renamed fecha_inicio_largo_plazo
+acc_corrct_respuestas	fecha_fin_largo_plazo	RUB+		fecha_fin_largo_plazo is a new item
+acc_corrct_respuestas	Como_será_medida_alp	RUB+		Como_será_medida_alp is a new item
+acc_corrct_respuestas	Resultado_esperado	RUB+		Resultado_esperado is a new item
+Detalle_largo_plazo		TAR	1684	new record size: 1684
+Detalle_largo_plazo	Tareas	TAB+	9	Tareas item is now an array of 10 elements 
+Detalle_largo_plazo	Recursos	TAB+	9	Recursos item is now an array of 10 elements 
+Detalle_largo_plazo	Como_sera	RUB-		item Como_sera deleted
+Detalle_largo_plazo	Cuantifica_resultado	RUB-		item Cuantifica_resultado deleted
+Detalle_largo_plazo	fecha_inicio	RUB-		item fecha_inicio deleted
+Detalle_largo_plazo	fecha_fin	RUB-		item fecha_fin deleted

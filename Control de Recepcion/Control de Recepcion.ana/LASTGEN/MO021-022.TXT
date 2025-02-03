@@ -1,0 +1,4 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Fundicion		TAR	483	new record size: 483
+Fundicion	Decision_trata	CNW	Boolean$String	new type for Decision_trata item: Boolean
+Deposito	Secuencia	CNW	1-byte unsigned integer$Boolean	new type for Secuencia item: 1-byte unsigned integer

@@ -1,0 +1,3 @@
+//MO555-556.TXT ANA00555 TO ANA00556
+Elem_de_Recepcion		TAR	432	new record size: 432
+Elem_de_Recepcion	Dir_remito_pdf	RUB+		Dir_remito_pdf is a new item

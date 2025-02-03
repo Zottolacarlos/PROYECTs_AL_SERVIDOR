@@ -1,0 +1,4 @@
+//MO258-259.TXT ANA00258 TO ANA00259
+Tareas_Preventivo_cantidad		NFI		new file
+Preventivo_por_cantidad		NWL	Preventivo_por_cantidad (Preventivo_por_cantidadID) and Tareas_Preventivo_cantidad (Preventivo_por_cantidadID)	New link between Preventivo_por_cantidad (Preventivo_por_cantidadID) and Tareas_Preventivo_cantidad (Preventivo_por_cantidadID) files
+Tareas_Preventivo_cantidad		FRN		

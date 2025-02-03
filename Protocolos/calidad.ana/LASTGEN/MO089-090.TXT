@@ -1,0 +1,2 @@
+//MO089-090.TXT ANA00089 TO ANA00090
+Archivo	dir_nom_orig	NNR	direccion	CAUTION: item direccion renamed dir_nom_orig

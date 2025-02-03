@@ -1,0 +1,3 @@
+//MO254-255.TXT ANA00254 TO ANA00255
+Personal_config		TAR	171	new record size: 171
+Personal_config	Protocolos_Pend_Sector	RUB+		Protocolos_Pend_Sector is a new item

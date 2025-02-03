@@ -1,0 +1,3 @@
+//MO173-174.TXT ANA00173 TO ANA00174
+conectados_cdr		TAR	79	new record size: 79
+conectados_cdr	fecha_conexion	RUB-		item fecha_conexion deleted

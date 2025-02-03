@@ -1,0 +1,6 @@
+//MO198-199.TXT ANA00198 TO ANA00199
+Capacitaciones_Certificados		NFI		new file
+Capacitaciones_Material		NFI		new file
+Constraint_Capacitaciones_Capacitaciones_Certificados		NWL	Capacitaciones (CapacitacionesID) and Capacitaciones_Certificados (CapacitacionesID)	New link between Capacitaciones (CapacitacionesID) and Capacitaciones_Certificados (CapacitacionesID) files
+Constraint_Personal_IMSA_rrhh_Capacitaciones_Certificados		NWL	Personal_IMSA_rrhh (Legajo) and Capacitaciones_Certificados (Legajo)	New link between Personal_IMSA_rrhh (Legajo) and Capacitaciones_Certificados (Legajo) files
+Constraint_Capacitaciones_Certificados_Capacitaciones_Material		NWL	Capacitaciones_Certificados (Capacitaciones_CertificadosID) and Capacitaciones_Material (Capacitaciones_CertificadosID)	New link between Capacitaciones_Certificados (Capacitaciones_CertificadosID) and Capacitaciones_Material (Capacitaciones_CertificadosID) files

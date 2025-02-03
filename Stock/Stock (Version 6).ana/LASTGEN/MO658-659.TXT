@@ -1,0 +1,2 @@
+//MO658-659.TXT ANA00658 TO ANA00659
+movicontable		NFI		new file

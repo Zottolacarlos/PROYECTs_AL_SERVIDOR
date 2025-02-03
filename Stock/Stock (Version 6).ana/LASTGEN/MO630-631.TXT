@@ -1,0 +1,3 @@
+//MO630-631.TXT ANA00630 TO ANA00631
+Materiales_Provistos		TAR	106	new record size: 106
+Materiales_Provistos	ultima_recep	RUB+		ultima_recep is a new item

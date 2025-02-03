@@ -1,0 +1,6 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+Preseleccionados		TAR	70	new record size: 70
+Preseleccionados	Estados_PreseleccionadosID	CNW	2-byte unsigned integer$8-byte integer	new type for Estados_PreseleccionadosID item: 2-byte unsigned integer
+Estados_Preseleccionados		TAR	62	new record size: 62
+Estados_Preseleccionados		IDE-*		file without identifier
+Estados_Preseleccionados	Estados_PreseleccionadosID	CNW	2-byte unsigned integer$Automatic Identifier (8 bytes)	new type for Estados_PreseleccionadosID item: 2-byte unsigned integer

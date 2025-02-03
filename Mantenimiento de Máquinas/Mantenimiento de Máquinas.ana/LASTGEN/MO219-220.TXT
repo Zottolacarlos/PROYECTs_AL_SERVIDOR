@@ -1,0 +1,3 @@
+//MO219-220.TXT ANA00219 TO ANA00220
+preventivo_postergado		TAR	214	new record size: 214
+preventivo_postergado	reactivado	RUB+		reactivado is a new item

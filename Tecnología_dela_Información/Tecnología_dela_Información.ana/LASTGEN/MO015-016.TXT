@@ -1,0 +1,6 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Tickets		TAR	299	new record size: 299
+Tickets	Resuelve	RUB+		Resuelve is a new item
+Tickets	Proveedor	RUB+		Proveedor is a new item
+Tickets	Explica_Tercerizacion	RUB+		Explica_Tercerizacion is a new item
+Tickets	Codigo_Contab_Proveedor	RUB+		Codigo_Contab_Proveedor is a new key

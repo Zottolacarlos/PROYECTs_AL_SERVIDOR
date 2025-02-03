@@ -1,0 +1,3 @@
+//MO228-229.TXT ANA00228 TO ANA00229
+Detalle_Correctivo		TAR	1280	new record size: 1280
+Detalle_Correctivo	Reclamo_de	RUB+		Reclamo_de is a new item

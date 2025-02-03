@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Operarios2$		NFI		new file
+Operarios2$		FIC-	Control_de_liquidaciones$	Control_de_liquidaciones$ file deleted

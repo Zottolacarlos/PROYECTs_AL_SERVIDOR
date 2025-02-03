@@ -1,0 +1,5 @@
+//MO266-267.TXT ANA00266 TO ANA00267
+Sectores_Responsable		REP*	W:\BD\PROTOCOLOS	new directory W:\BD\PROTOCOLOS
+Puestos_Responsable		REP*	W:\BD\PROTOCOLOS	new directory W:\BD\PROTOCOLOS
+Sectores_Responsable		FRN		
+Puestos_Responsable		FRN		

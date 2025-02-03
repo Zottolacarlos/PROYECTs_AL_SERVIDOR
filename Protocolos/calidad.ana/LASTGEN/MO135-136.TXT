@@ -1,0 +1,5 @@
+//MO135-136.TXT ANA00135 TO ANA00136
+acciones_correct		TAR	1416	new record size: 1416
+acciones_correct	Causa_Raiz	RUB+		Causa_Raiz is a new item
+acc_corrct_respuestas		TAR	759	new record size: 759
+acc_corrct_respuestas	razon_raiz	RUB-		item razon_raiz deleted

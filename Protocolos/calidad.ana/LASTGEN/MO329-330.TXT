@@ -1,0 +1,4 @@
+//MO329-330.TXT ANA00329 TO ANA00330
+Equil_dinam_temp_imp		TAR	723	new record size: 723
+Equil_dinam_temp_imp	W	RUB+		W is a new item
+Equil_dinam_temp_imp	DRP_Plano	RUB+		DRP_Plano is a new item

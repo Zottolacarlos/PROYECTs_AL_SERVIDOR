@@ -1,0 +1,3 @@
+//MO223-224.TXT ANA00223 TO ANA00224
+repuestos		TAR	210	new record size: 210
+repuestos	Detalle_ProactivoID	RUB+		Detalle_ProactivoID is a new key

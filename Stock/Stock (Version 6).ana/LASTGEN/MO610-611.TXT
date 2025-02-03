@@ -1,0 +1,3 @@
+//MO610-611.TXT ANA00610 TO ANA00611
+Auditoria_deposito		TAR	31	new record size: 31
+Auditoria_deposito	Controles_REalizados	RUB-		item Controles_REalizados deleted

@@ -1,0 +1,14 @@
+//MO110-111.TXT ANA00110 TO ANA00111
+acciones_correct		TAR	687	new record size: 687
+acciones_correct	Pieza_Evidencia	NNR	Evidencia	CAUTION: item Evidencia renamed Pieza_Evidencia
+acciones_correct	Pieza_Evidencia	TAI+	100	Pieza_Evidencia item has been resized: 251 (instead of 151)
+acciones_correct	Sectores_acc_correcID	RUB+		Sectores_acc_correcID is a new key
+acciones_correct	Fecha_verificación	NNR	fecha_cierre	CAUTION: item fecha_cierre renamed Fecha_verificación
+acciones_correct	Fecha_contestacion	NNR	Fecha_notificacion	CAUTION: item Fecha_notificacion renamed Fecha_contestacion
+acciones_correct	Fecha_postergación	RUB+		Fecha_postergación is a new item
+acciones_correct	Fecha_Redirección	RUB+		Fecha_Redirección is a new item
+acciones_correct	fecha_cierre	RUB+		fecha_cierre is a new item
+acciones_correct	Sector_causa	RUB-		item Sector_causa deleted
+sectores_acc_correc		NFI		new file
+sectores_acc_correc		NWL	sectores_acc_correc (sectores_acc_correcID) and acciones_correct (Sectores_acc_correcID)	New link between sectores_acc_correc (sectores_acc_correcID) and acciones_correct (Sectores_acc_correcID) files
+sectores_acc_correc		FRN		

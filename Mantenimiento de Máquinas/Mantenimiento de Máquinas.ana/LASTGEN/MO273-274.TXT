@@ -1,0 +1,3 @@
+//MO273-274.TXT ANA00273 TO ANA00274
+Constraint_Verificacion_de_Maquinas_Elementos_de_Verificacion		NWL	Verificacion_de_Maquinas (Verificacion_de_MaquinasID) and Elementos_de_Verificacion (Verificacion_de_MaquinasID)	New link between Verificacion_de_Maquinas (Verificacion_de_MaquinasID) and Elementos_de_Verificacion (Verificacion_de_MaquinasID) files
+Constraint_Verificacion_de_Maquinas_Elementos_de_Verificacion		DEL	Verificacion_de_Maquinas (Verificacion_de_MaquinasID) and Elementos_de_Verificacion (Verificacion_de_MaquinasID)	Link deleted between Verificacion_de_Maquinas (Verificacion_de_MaquinasID) and Elementos_de_Verificacion (Verificacion_de_MaquinasID) files

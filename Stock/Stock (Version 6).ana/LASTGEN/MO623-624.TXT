@@ -1,0 +1,14 @@
+//MO623-624.TXT ANA00623 TO ANA00624
+empleados		TAR	376	new record size: 376
+empleados	dni	CLEU		dni item is now key
+empleados	legajo	CLEU		legajo item is now key
+empleados	codigofichad	RUB+		codigofichad is a new key
+empleados	superv	RUB+		superv is a new item
+empleados	fechamodificlave	RUB+		fechamodificlave is a new item
+empleados	idempleamodificlave	RUB+		idempleamodificlave is a new item
+presupuestos		NFI		new file
+presupuestos		FIC-	presupuestos	presupuestos file deleted
+fk_presupuestos_r_ordenescomprasclientes		NWL	ordenescomprasclientes (idordencompraclient) and presupuestos (idordencompraclient)	New link between ordenescomprasclientes (idordencompraclient) and presupuestos (idordencompraclient) files
+fk_presupuestos_r_estadospresupuestos		NWL	estadospresupuestos (idestadopresup) and presupuestos (idestadopresup)	New link between estadospresupuestos (idestadopresup) and presupuestos (idestadopresup) files
+fk_presupuestos_r_cotizaciones		NWL	cotizaciones (idcotiza) and presupuestos (idcotiza)	New link between cotizaciones (idcotiza) and presupuestos (idcotiza) files
+fk_ordenesfabricacion_r_presupuestos		DEL	presupuestos (idpresup) and ordenesfabricacion (idpresup)	Link deleted between presupuestos (idpresup) and ordenesfabricacion (idpresup) files

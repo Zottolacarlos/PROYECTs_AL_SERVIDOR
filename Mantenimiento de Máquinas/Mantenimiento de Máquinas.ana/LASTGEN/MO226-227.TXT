@@ -1,0 +1,3 @@
+//MO226-227.TXT ANA00226 TO ANA00227
+Detalle_Correctivo		TAR	1267	new record size: 1267
+Detalle_Correctivo	obs_finales_sup	RUB+		obs_finales_sup is a new item

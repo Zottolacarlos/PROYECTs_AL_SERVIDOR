@@ -1,0 +1,4 @@
+//MO079-080.TXT ANA00079 TO ANA00080
+repuestos		TAR	310	new record size: 310
+repuestos	Detalle_Fabricacion	NNR	Nro_Tarjeta_Fab	CAUTION: item Nro_Tarjeta_Fab renamed Detalle_Fabricacion
+repuestos	Detalle_Fabricacion	CNW	String$4-byte unsigned integer	new type for Detalle_Fabricacion item: String

@@ -1,0 +1,5 @@
+//MO169-170.TXT ANA00169 TO ANA00170
+fotos_maq		NFI		new file
+manuales		NFI		new file
+manuales		FRN		
+fotos_maq		FRN		

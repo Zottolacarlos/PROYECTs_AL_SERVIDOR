@@ -1,0 +1,7 @@
+//MO110-111.TXT ANA00110 TO ANA00111
+Preseleccionados		TAR	400	new record size: 400
+Preseleccionados	Legajo	CNW	2-byte unsigned integer$String	new type for Legajo item: 2-byte unsigned integer
+Personal_IMSA_rrhh		TAR	643	new record size: 643
+Personal_IMSA_rrhh	Legajo	CNW	2-byte unsigned integer$String	new type for Legajo item: 2-byte unsigned integer
+Contratos		TAR	107	new record size: 107
+Contratos	Legajo	CNW	2-byte unsigned integer$String	new type for Legajo item: 2-byte unsigned integer

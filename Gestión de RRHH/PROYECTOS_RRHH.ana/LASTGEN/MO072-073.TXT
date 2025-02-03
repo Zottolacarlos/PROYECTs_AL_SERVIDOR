@@ -1,0 +1,9 @@
+//MO072-073.TXT ANA00072 TO ANA00073
+Pedido_de_Contratación		TAR	180	new record size: 180
+Pedido_de_Contratación	SectoresID	NNR	SectorID	CAUTION: key SectorID renamed SectoresID
+Pedido_de_Contratación	SectoresID	CNW	8-byte integer$String	new type for SectoresID item: 8-byte integer
+Ingreso_Candidato		TAR	106	new record size: 106
+Ingreso_Candidato	SectoresID	NNR	SectorID	CAUTION: key SectorID renamed SectoresID
+Ingreso_Candidato	SectoresID	CNW	8-byte unsigned integer$String	new type for SectoresID item: 8-byte unsigned integer
+Personal_imsa		TAR	31	new record size: 31
+Personal_imsa	SectoresID	RUB+		SectoresID is a new key

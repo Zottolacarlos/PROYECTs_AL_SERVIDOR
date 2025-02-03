@@ -1,0 +1,3 @@
+//MO263-264.TXT ANA00263 TO ANA00264
+Instrumentos_verificacion		TAR	414	new record size: 414
+Instrumentos_verificacion	Legajo_responsable	RUB+		Legajo_responsable is a new key

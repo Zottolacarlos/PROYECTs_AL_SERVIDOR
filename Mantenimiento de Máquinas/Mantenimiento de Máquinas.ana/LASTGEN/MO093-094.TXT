@@ -1,0 +1,7 @@
+//MO093-094.TXT ANA00093 TO ANA00094
+Elementos_de_arbol		NNF*	Arbol_de_elementos	new name Elementos_de_arbol
+Elementos_de_arbol	Elementos_de_arbolID	NNR	Arbol_de_elementosID	CAUTION: key Arbol_de_elementosID renamed Elementos_de_arbolID
+Arbol_de_Preventivo		NFI		new file
+Elementos_de_arbol		NWL	Elementos_de_arbol (Elementos_de_arbolID) and Arbol_de_Preventivo (Elementos_de_arbolID)	New link between Elementos_de_arbol (Elementos_de_arbolID) and Arbol_de_Preventivo (Elementos_de_arbolID) files
+Detalle_Preventivo		NWL	Detalle_Preventivo (Detalle_PreventivoID) and Arbol_de_Preventivo (Detalle_PreventivoID)	New link between Detalle_Preventivo (Detalle_PreventivoID) and Arbol_de_Preventivo (Detalle_PreventivoID) files
+Arbol_de_Preventivo		FRN		

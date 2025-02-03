@@ -1,0 +1,2 @@
+//MO787-788.TXT ANA00787 TO ANA00788
+subcuentas		NFI		new file

@@ -1,0 +1,17 @@
+//MO144-145.TXT ANA00144 TO ANA00145
+Elem_del_Pedido		TAR	961	new record size: 961
+Elem_del_Pedido	Tomado_por	RUB+		Tomado_por is a new item
+Elem_del_Pedido	fecha_valoriza_cotizacion	RUB+		fecha_valoriza_cotizacion is a new item
+Elem_del_Pedido	Fecha_tomado	RUB+		Fecha_tomado is a new item
+Elem_del_Pedido	Material_en_Transito	RUB+		Material_en_Transito is a new item
+Elem_del_Pedido	Fecha_limite_en_transito	RUB+		Fecha_limite_en_transito is a new item
+Producto		TAR	353	new record size: 353
+Producto	tipo_origen_costo_actual	RUB-		item tipo_origen_costo_actual deleted
+Producto	codigoID_origen_costo_actual	RUB-		item codigoID_origen_costo_actual deleted
+Producto	tipo_origen_costo_anterior	RUB-		item tipo_origen_costo_anterior deleted
+Producto	tipo_origen_costo_antiguo	RUB-		item tipo_origen_costo_antiguo deleted
+Recepcion_de_Materiales		TAR	985	new record size: 985
+Recepcion_de_Materiales	Remito_imsa	RUB+		Remito_imsa is a new item
+Recepcion_de_Materiales	tipo_remito_imsa	RUB+		tipo_remito_imsa is a new item
+Recepcion_de_Materiales	fecha_remito_imsa	RUB+		fecha_remito_imsa is a new item
+Recepcion_de_Materiales	Legajo	RUB+		Legajo is a new item

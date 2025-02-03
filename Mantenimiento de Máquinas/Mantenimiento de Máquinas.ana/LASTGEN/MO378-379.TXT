@@ -1,0 +1,4 @@
+//MO378-379.TXT ANA00378 TO ANA00379
+Datos_Prog		TAR	28	new record size: 28
+Datos_Prog	Datos_sectorID	RUB-		key Datos_sectorID deleted
+Constraint_Datos_sector_Datos_Prog		DEL	Datos_sector (Datos_sectorID) and Datos_Prog (Datos_sectorID)	Link deleted between Datos_sector (Datos_sectorID) and Datos_Prog (Datos_sectorID) files

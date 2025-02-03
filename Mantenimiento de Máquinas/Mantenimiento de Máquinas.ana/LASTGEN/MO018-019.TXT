@@ -1,0 +1,4 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Detalle_Correctivo		TAR	173	new record size: 173
+Detalle_Correctivo	fecha_ticket	RUB+		fecha_ticket is a new item
+Detalle_Correctivo	supervisor	RUB+		supervisor is a new item

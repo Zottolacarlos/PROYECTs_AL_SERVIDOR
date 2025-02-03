@@ -1,0 +1,3 @@
+//MO376-377.TXT ANA00376 TO ANA00377
+Maquina		TAR	282	new record size: 282
+Maquina	Traduccion_DenInt_PRODUCCION	RUB+		Traduccion_DenInt_PRODUCCION is a new key

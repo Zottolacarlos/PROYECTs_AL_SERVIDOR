@@ -1,0 +1,7 @@
+//MO151-152.TXT ANA00151 TO ANA00152
+Temp_Imp_ACC		TAR	344	new record size: 344
+Temp_Imp_ACC	Observaciones	RUB+		Observaciones is a new item
+Temp_Imp_ACC	Fecha_Contestacion	RUB-		item Fecha_Contestacion deleted
+Temp_Imp_ACC	Fecha_Postergación	RUB-		item Fecha_Postergación deleted
+Temp_Imp_ACC	razon_raiz	RUB-		item razon_raiz deleted
+Temp_Imp_ACC	Fecha_notificacion	RUB-		item Fecha_notificacion deleted

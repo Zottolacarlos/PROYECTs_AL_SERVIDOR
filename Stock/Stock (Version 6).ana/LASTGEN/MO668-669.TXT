@@ -1,0 +1,6 @@
+//MO668-669.TXT ANA00668 TO ANA00669
+Producto		TAR	228	new record size: 228
+Producto	Unidad_Compra	RUB+		Unidad_Compra is a new item
+Producto	Unidad_de_Uso	RUB+		Unidad_de_Uso is a new item
+Producto	Equivalencia_Compra	RUB+		Equivalencia_Compra is a new item
+Producto	Equivalencia_Uso	RUB+		Equivalencia_Uso is a new item

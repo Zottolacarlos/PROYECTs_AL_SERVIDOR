@@ -1,0 +1,3 @@
+//MO297-298.TXT ANA00297 TO ANA00298
+Usuarios		TAR	99	new record size: 99
+Usuarios	password	RUB+		password is a new item

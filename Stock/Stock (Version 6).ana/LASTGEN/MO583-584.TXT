@@ -1,0 +1,3 @@
+//MO583-584.TXT ANA00583 TO ANA00584
+Control_Recep_Sector		TAR	116	new record size: 116
+Control_Recep_Sector	Responsable	CNW	String$4-byte unsigned integer	new type for Responsable item: String

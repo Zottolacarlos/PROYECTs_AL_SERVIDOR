@@ -1,0 +1,3 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+Hoja1$	Fecha del control	CLEN*		Fecha del control item is now key
+Hoja1$	Situación Actual Control	CLEN*		Situación Actual Control item is now key

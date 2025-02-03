@@ -1,0 +1,3 @@
+//MO255-256.TXT ANA00255 TO ANA00256
+lectura_hs		TAR	61	new record size: 61
+lectura_hs	termino_mal	RUB+		termino_mal is a new item

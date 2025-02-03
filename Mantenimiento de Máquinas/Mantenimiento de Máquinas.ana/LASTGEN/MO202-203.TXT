@@ -1,0 +1,3 @@
+//MO202-203.TXT ANA00202 TO ANA00203
+Detalle_Proactivo		TAR	365	new record size: 365
+Detalle_Proactivo	Maquina_Lugar	RUB-		item Maquina_Lugar deleted

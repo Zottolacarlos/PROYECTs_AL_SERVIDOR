@@ -1,0 +1,4 @@
+//MO062-063.TXT ANA00062 TO ANA00063
+Aprob_Ger_Ind		NFI		new file
+Hoja1$		NWL	Hoja1$ (Protocolo Nº) and Aprob_Ger_Ind (Protocolo Nº)	New link between Hoja1$ (Protocolo Nº) and Aprob_Ger_Ind (Protocolo Nº) files
+Aprob_Ger_Ind		FRN		

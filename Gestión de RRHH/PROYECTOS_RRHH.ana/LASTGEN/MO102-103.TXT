@@ -1,0 +1,4 @@
+//MO102-103.TXT ANA00102 TO ANA00103
+Contratos		TAR	111	new record size: 111
+Contratos	Ger_Industrial_decidio	RUB+		Ger_Industrial_decidio is a new item
+Contratos	Decisión	RUB+		Decisión is a new item

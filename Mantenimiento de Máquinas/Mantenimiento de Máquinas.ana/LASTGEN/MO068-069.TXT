@@ -1,0 +1,2 @@
+//MO068-069.TXT ANA00068 TO ANA00069
+Detalle_Preventivo	Marca_reloj_actual	NNR	Horas_Uso	CAUTION: item Horas_Uso renamed Marca_reloj_actual

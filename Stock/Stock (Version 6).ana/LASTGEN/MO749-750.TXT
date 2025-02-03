@@ -1,0 +1,7 @@
+//MO749-750.TXT ANA00749 TO ANA00750
+Retiro_de_Materiales		TAR	178	new record size: 178
+Retiro_de_Materiales	Complemento	RUB+		Complemento is a new item
+Retiro_de_Materiales	CotizacionID	RUB+		CotizacionID is a new key
+Retorno_de_Materiales		TAR	186	new record size: 186
+Retorno_de_Materiales	Complemento	RUB+		Complemento is a new item
+Retorno_de_Materiales	CotizacionID	RUB+		CotizacionID is a new key

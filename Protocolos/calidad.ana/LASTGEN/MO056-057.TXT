@@ -1,0 +1,4 @@
+//MO056-057.TXT ANA00056 TO ANA00057
+OBSERVACIONES		NFI		new file
+Hoja1$		NWL	Hoja1$ (Protocolo Nº) and OBSERVACIONES (Protocolo Nº)	New link between Hoja1$ (Protocolo Nº) and OBSERVACIONES (Protocolo Nº) files
+OBSERVACIONES		FRN		

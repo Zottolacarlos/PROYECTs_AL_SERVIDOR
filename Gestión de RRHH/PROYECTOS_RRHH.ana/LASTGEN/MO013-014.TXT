@@ -1,0 +1,10 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Pedido_de_Contratación	UsuariosID	NNR	SupervisoresID	CAUTION: key SupervisoresID renamed UsuariosID
+Usuarios		NNF*	Supervisores	new name Usuarios
+Usuarios		TAR	243	new record size: 243
+Usuarios	UsuariosID	NNR	SupervisoresID	CAUTION: key SupervisoresID renamed UsuariosID
+Usuarios	Cargo	RUB+		Cargo is a new item
+Usuarios	Passw	RUB+		Passw is a new item
+Usuarios	Legajo	RUB+		Legajo is a new item
+Auditoria_Contratacion		NFI		new file
+Usuarios		FRN		

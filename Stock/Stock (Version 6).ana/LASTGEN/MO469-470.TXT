@@ -1,0 +1,2 @@
+//MO469-470.TXT ANA00469 TO ANA00470
+Elem_del_Pedido	ComparativaID	CLEU		ComparativaID item is now key

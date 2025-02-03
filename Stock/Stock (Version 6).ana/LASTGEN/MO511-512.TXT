@@ -1,0 +1,3 @@
+//MO511-512.TXT ANA00511 TO ANA00512
+Elem_de_Producto		TAR	226	new record size: 226
+Elem_de_Producto	Descripción_Individual	RUB+		Descripción_Individual is a new item

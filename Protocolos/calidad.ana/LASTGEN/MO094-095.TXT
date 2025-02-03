@@ -1,0 +1,4 @@
+//MO094-095.TXT ANA00094 TO ANA00095
+Protocolos_verificacion		NNF*	Protocolos_calibracion	new name Protocolos_verificacion
+Protocolos_verificacion	Protocolos_verificacionID	NNR	Protocolos_calibracionID	CAUTION: key Protocolos_calibracionID renamed Protocolos_verificacionID
+Protocolos_verificacion	protocolo_Verif	NNR	protocolo_cal	CAUTION: key protocolo_cal renamed protocolo_Verif

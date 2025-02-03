@@ -1,0 +1,3 @@
+//MO723-724.TXT ANA00723 TO ANA00724
+Comparativa_Aviso		TAR	74	new record size: 74
+Comparativa_Aviso	Resultado	RUB+		Resultado is a new item

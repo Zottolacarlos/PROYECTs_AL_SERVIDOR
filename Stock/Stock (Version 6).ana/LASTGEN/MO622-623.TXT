@@ -1,0 +1,5 @@
+//MO622-623.TXT ANA00622 TO ANA00623
+ordenescomprasclientes		NFI		new file
+fk_ordenescomprasclientes_r_cotizaciones		NWL	cotizaciones (idcotiza) and ordenescomprasclientes (idcotiza)	New link between cotizaciones (idcotiza) and ordenescomprasclientes (idcotiza) files
+fk_ordenescomprasclientes_r_empleados2		NWL	empleados (idemplea) and ordenescomprasclientes (idempleamodifi)	New link between empleados (idemplea) and ordenescomprasclientes (idempleamodifi) files
+fk_ordenescomprasclientes_r_empleados		NWL	empleados (idemplea) and ordenescomprasclientes (idemplea)	New link between empleados (idemplea) and ordenescomprasclientes (idemplea) files

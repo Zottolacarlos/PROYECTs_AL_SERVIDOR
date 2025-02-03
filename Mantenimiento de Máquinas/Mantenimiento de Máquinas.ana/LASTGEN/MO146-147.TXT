@@ -1,0 +1,3 @@
+//MO146-147.TXT ANA00146 TO ANA00147
+repuestos		TAR	365	new record size: 365
+repuestos	Estado	CNW	String$Boolean	new type for Estado item: String

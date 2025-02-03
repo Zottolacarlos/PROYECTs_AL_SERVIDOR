@@ -1,0 +1,8 @@
+//MO257-258.TXT ANA00257 TO ANA00258
+Detalle_Proactivo		TAR	920	new record size: 920
+Detalle_Proactivo	Descripción_lugar	TAI+	204	Descripción_lugar item has been resized: 255 (instead of 51)
+Detalle_Proactivo	Detalle_Tarea	CNW	Text Memo$String	new type for Detalle_Tarea item: Text Memo
+Detalle_Proactivo	Ejecutores	TAI+	10	Ejecutores item has been resized: 31 (instead of 21)
+Detalle_Proactivo	Insumos_Utilizados	CNW	Text Memo$String	new type for Insumos_Utilizados item: Text Memo
+Detalle_Proactivo	Foto_antes	TAI+	179	Foto_antes item has been resized: 255 (instead of 76)
+Detalle_Proactivo	Foto_despues	TAI+	179	Foto_despues item has been resized: 255 (instead of 76)

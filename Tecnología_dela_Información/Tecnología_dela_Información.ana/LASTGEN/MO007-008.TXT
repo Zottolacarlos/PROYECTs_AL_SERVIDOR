@@ -1,0 +1,2 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Equipo_Detalle_PC	Equipo_Detalle_PC	NNR	EquiposID	CAUTION: key EquiposID renamed Equipo_Detalle_PC

@@ -1,0 +1,3 @@
+//MO230-231.TXT ANA00230 TO ANA00231
+cotizaciones		NFI		new file
+ADmin2_Prod		CNX+		

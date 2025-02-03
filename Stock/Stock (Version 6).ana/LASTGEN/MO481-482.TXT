@@ -1,0 +1,8 @@
+//MO481-482.TXT ANA00481 TO ANA00482
+Reclamo_recep		FIC-	Reclamo_recep	Reclamo_recep file deleted
+Control_de_Recepcion		FIC-	Control_de_Recepcion	Control_de_Recepcion file deleted
+Elem_de_Ctrl_de_Recep		FIC-	Elem_de_Ctrl_de_Recep	Elem_de_Ctrl_de_Recep file deleted
+Constraint_Recepcion_de_Materiales_Reclamo_recep		DEL	Recepcion_de_Materiales (Recepcion_de_MaterialesID) and Reclamo_recep (Recepcion_de_MaterialesID)	Link deleted between Recepcion_de_Materiales (Recepcion_de_MaterialesID) and Reclamo_recep (Recepcion_de_MaterialesID) files
+Constraint_Control_de_Recepcion_Elem_de_Ctrl_de_Recep		DEL	Control_de_Recepcion (Control_de_RecepcionID) and Elem_de_Ctrl_de_Recep (Control_de_RecepcionID)	Link deleted between Control_de_Recepcion (Control_de_RecepcionID) and Elem_de_Ctrl_de_Recep (Control_de_RecepcionID) files
+Constraint_Control_de_Recepcion_Reclamo_recep		DEL	Control_de_Recepcion (Control_de_RecepcionID) and Reclamo_recep (Control_de_RecepcionID)	Link deleted between Control_de_Recepcion (Control_de_RecepcionID) and Reclamo_recep (Control_de_RecepcionID) files
+Constraint_Recepcion_de_Materiales_Control_de_Recepcion		DEL	Recepcion_de_Materiales (Recepcion_de_MaterialesID) and Control_de_Recepcion (Recepcion_de_MaterialesID)	Link deleted between Recepcion_de_Materiales (Recepcion_de_MaterialesID) and Control_de_Recepcion (Recepcion_de_MaterialesID) files

@@ -1,0 +1,3 @@
+//MO460-461.TXT ANA00460 TO ANA00461
+Impresion_Comparativa		TAR	1167	new record size: 1167
+Impresion_Comparativa	Estado	RUB+		Estado is a new item

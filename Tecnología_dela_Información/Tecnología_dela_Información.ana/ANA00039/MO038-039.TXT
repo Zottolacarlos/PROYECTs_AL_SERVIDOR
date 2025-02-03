@@ -1,0 +1,5 @@
+//MO038-039.TXT ANA00038 TO ANA00039
+Proyectos_Sistemas		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+Proyectos_Sistemas		FCNX-	TECNO CLIENTE SERVIDOR	
+Proyectos_Entrevistas		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+Proyectos_Entrevistas		FCNX-	TECNO CLIENTE SERVIDOR	

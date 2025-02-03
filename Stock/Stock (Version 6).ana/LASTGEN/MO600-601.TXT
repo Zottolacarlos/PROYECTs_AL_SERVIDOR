@@ -1,0 +1,3 @@
+//MO600-601.TXT ANA00600 TO ANA00601
+Producto		TAR	207	new record size: 207
+Producto	controlado	RUB+		controlado is a new item

@@ -1,0 +1,7 @@
+//MO328-329.TXT ANA00328 TO ANA00329
+Equilibrado_dinamico_datos		TAR	621	new record size: 621
+Equilibrado_dinamico_datos	Planos_Correccion	RUB+		Planos_Correccion is a new item
+Equilibrado_dinamico_datos	Radio_Correcion	RUB+		Radio_Correcion is a new item
+Equil_dinam_temp_imp		TAR	715	new record size: 715
+Equil_dinam_temp_imp	Planos_Correccion	RUB+		Planos_Correccion is a new item
+Equil_dinam_temp_imp	Radio_Correcion	RUB+		Radio_Correcion is a new item

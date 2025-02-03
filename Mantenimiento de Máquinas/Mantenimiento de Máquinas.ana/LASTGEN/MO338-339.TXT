@@ -1,0 +1,3 @@
+//MO338-339.TXT ANA00338 TO ANA00339
+Datos_Prog		REP*	W:\BD\PROTOCOLOS	new directory W:\BD\PROTOCOLOS
+Datos_Prog		FRN		

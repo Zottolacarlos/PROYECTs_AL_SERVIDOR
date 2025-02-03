@@ -1,0 +1,3 @@
+//MO368-369.TXT ANA00368 TO ANA00369
+Auditoria_eventos		TAR	640	new record size: 640
+Auditoria_eventos	recepcion_de_Materiales_Auditada	RUB+		recepcion_de_Materiales_Auditada is a new key

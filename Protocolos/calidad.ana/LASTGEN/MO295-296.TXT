@@ -1,0 +1,7 @@
+//MO295-296.TXT ANA00295 TO ANA00296
+acc_correct_causas		TAR	94	new record size: 94
+acc_correct_causas	Categoría	RUB-		item Categoría deleted
+acc_correct_causas	Causa_Raiz	RUB-		item Causa_Raiz deleted
+acc_correct_causas	Sub_Causa	RUB-		item Sub_Causa deleted
+Espina_Pescado		NFI		new file
+Constraint_acc_corrct_respuestas_Espina_Pescado		NWL	acc_corrct_respuestas (Nro_accion_correct) and Espina_Pescado (Nro_accion_correct)	New link between acc_corrct_respuestas (Nro_accion_correct) and Espina_Pescado (Nro_accion_correct) files

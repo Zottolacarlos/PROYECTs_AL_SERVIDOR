@@ -1,0 +1,5 @@
+//MO135-136.TXT ANA00135 TO ANA00136
+Detalle_Preventivo		TAR	438	new record size: 438
+Detalle_Preventivo	fecha_Actual_Preven	CNW	Date and Time (yyyymmddhhmmsslll)$Date (yyyymmdd)	new type for fecha_Actual_Preven item: Date and Time (yyyymmddhhmmssl
+Detalle_Preventivo	Prox_Preventivo_inicial	CNW	Date and Time (yyyymmddhhmmsslll)$Date (yyyymmdd)	new type for Prox_Preventivo_inicial item: Date and Time (yyyymmddhhmmssl
+Detalle_Preventivo	Prox_Preventivo_actualizado	CNW	Date and Time (yyyymmddhhmmsslll)$Date (yyyymmdd)	new type for Prox_Preventivo_actualizado item: Date and Time (yyyymmddhhmmssl

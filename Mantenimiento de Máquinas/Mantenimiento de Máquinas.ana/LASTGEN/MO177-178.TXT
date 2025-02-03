@@ -1,0 +1,2 @@
+//MO177-178.TXT ANA00177 TO ANA00178
+Detalle_Preventivo	Observaciones	NNR	Observaciones_inicial	CAUTION: item Observaciones_inicial renamed Observaciones

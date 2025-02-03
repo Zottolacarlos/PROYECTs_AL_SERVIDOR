@@ -1,0 +1,6 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=5	;Analysis GUID
+LOCALIZATION_UTF8=2B5D2BF47CA941F8B3AE94BC3DA917AE	Telekinos	\\imsaserver01\f\BD\PRODUCCION\Telekinos.fic
+LOCALIZATION_UTF8=4ACDE06908AE44EB9362F410F7D9887E	Elem_Telekino	\\imsaserver01\f\BD\PRODUCCION\Elem_Telekino.fic
+LOCALIZATION_UTF8=7A0A7FF6AD9346FCA844CD56963415C1	Telekinos_Intervalos	\\imsaserver01\f\BD\PRODUCCION\Telekinos_Intervalos.fic

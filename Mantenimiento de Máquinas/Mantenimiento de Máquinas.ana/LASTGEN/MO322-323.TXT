@@ -1,0 +1,3 @@
+//MO322-323.TXT ANA00322 TO ANA00323
+Impresion_Correctivos_activos		TAR	607	new record size: 607
+Impresion_Correctivos_activos	Estado	RUB+		Estado is a new item

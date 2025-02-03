@@ -1,0 +1,4 @@
+//MO437-438.TXT ANA00437 TO ANA00438
+Comparativa		TAR	608	new record size: 608
+Comparativa	Elem_Orden_de_Compra_ID	RUB-		key Elem_Orden_de_Compra_ID deleted
+Comparativa	comparativa_original	RUB-		key comparativa_original deleted

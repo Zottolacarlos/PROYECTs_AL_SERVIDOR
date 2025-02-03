@@ -1,0 +1,3 @@
+//MO088-089.TXT ANA00088 TO ANA00089
+Detalle_Correctivo		TAR	743	new record size: 743
+Detalle_Correctivo	Fecha_parada	RUB-		item Fecha_parada deleted

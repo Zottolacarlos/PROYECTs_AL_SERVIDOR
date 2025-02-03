@@ -1,0 +1,4 @@
+//MO345-346.TXT ANA00345 TO ANA00346
+Configuraciones_Personales		TAR	25	new record size: 25
+Configuraciones_Personales	Legajo	RUB+		Legajo is a new key
+Constraint_Personal_IMSA_rrhh_Configuraciones_Personales		NWL	Personal_IMSA_rrhh (Legajo) and Configuraciones_Personales (Legajo)	New link between Personal_IMSA_rrhh (Legajo) and Configuraciones_Personales (Legajo) files

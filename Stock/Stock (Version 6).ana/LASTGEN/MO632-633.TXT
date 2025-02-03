@@ -1,0 +1,7 @@
+//MO632-633.TXT ANA00632 TO ANA00633
+Elem_de_Recepcion		TAR	477	new record size: 477
+Elem_de_Recepcion	Materiales_ProvistosID	RUB+		Materiales_ProvistosID is a new key
+Materiales_Provistos		TAR	90	new record size: 90
+Materiales_Provistos	Elem_de_RecepcionID	RUB-		key Elem_de_RecepcionID deleted
+Constraint_Materiales_Provistos_Elem_de_Recepcion		NWL	Materiales_Provistos (Materiales_ProvistosID) and Elem_de_Recepcion (Materiales_ProvistosID)	New link between Materiales_Provistos (Materiales_ProvistosID) and Elem_de_Recepcion (Materiales_ProvistosID) files
+Constraint_Elem_de_Recepcion_Materiales_Provistos		DEL	Elem_de_Recepcion (Elem_de_RecepcionID) and Materiales_Provistos (Elem_de_RecepcionID)	Link deleted between Elem_de_Recepcion (Elem_de_RecepcionID) and Materiales_Provistos (Elem_de_RecepcionID) files

@@ -1,0 +1,3 @@
+//MO351-352.TXT ANA00351 TO ANA00352
+Preventivo_por_cantidad		TAR	344	new record size: 344
+Preventivo_por_cantidad	Estado	RUB+		Estado is a new item

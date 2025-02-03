@@ -1,0 +1,4 @@
+//MO092-093.TXT ANA00092 TO ANA00093
+Instrumentos	Nro_inventario	CLEU*		Nro_inventario item is now key
+Instrumentos	Descripción	CLEN*		Descripción item is now key
+Instrumentos	Marca	CLEN*		Marca item is now key

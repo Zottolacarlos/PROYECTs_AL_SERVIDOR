@@ -1,0 +1,3 @@
+//MO101-102.TXT ANA00101 TO ANA00102
+Recepcion		TAR	623	new record size: 623
+Recepcion	Detalle_recepcion	TAI+	1	Detalle_recepcion item has been resized: 162 (instead of 161)

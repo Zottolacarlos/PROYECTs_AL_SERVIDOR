@@ -1,0 +1,4 @@
+//MO118-119.TXT ANA00118 TO ANA00119
+parte_maquina		TAR	121	new record size: 121
+parte_maquina	Denominación_Int	RUB+		Denominación_Int is a new key
+Maquina		NWL	Maquina (Denominación_Int) and parte_maquina (Denominación_Int)	New link between Maquina (Denominación_Int) and parte_maquina (Denominación_Int) files

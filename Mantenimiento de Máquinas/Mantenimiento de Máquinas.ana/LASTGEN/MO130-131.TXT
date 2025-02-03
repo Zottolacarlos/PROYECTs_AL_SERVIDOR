@@ -1,0 +1,3 @@
+//MO130-131.TXT ANA00130 TO ANA00131
+Detalle_Preventivo	Insumos_Utilizados	NNR	Observaciones_finales	CAUTION: item Observaciones_finales renamed Insumos_Utilizados
+Detalle_Correctivo	Insumos_Utilizados	NNR	Observaciones_finales	CAUTION: item Observaciones_finales renamed Insumos_Utilizados

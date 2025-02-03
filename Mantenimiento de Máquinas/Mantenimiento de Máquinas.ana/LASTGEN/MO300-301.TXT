@@ -1,0 +1,3 @@
+//MO300-301.TXT ANA00300 TO ANA00301
+Usuarios		TAR	109	new record size: 109
+Usuarios	password	TAI+	1	password item has been resized: 7 (instead of 6)

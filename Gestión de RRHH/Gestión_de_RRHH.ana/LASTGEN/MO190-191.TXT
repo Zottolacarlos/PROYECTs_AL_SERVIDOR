@@ -1,0 +1,3 @@
+//MO190-191.TXT ANA00190 TO ANA00191
+Categoria_Operarios		REP*	W:\BD\RRHH	new directory W:\BD\RRHH
+Categoria_Operarios		FRN		

@@ -1,0 +1,3 @@
+//MO544-545.TXT ANA00544 TO ANA00545
+Controles_recep_Pedidos		TAR	289	new record size: 289
+Controles_recep_Pedidos	Obs	RUB+		Obs is a new item

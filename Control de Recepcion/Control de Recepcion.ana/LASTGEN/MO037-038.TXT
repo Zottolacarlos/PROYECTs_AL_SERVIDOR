@@ -1,0 +1,4 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+Ingenieria		NFI		new file
+Recepcion		NWL	Recepcion (NrodeControl) and Ingenieria (NrodeControl)	New link between Recepcion (NrodeControl) and Ingenieria (NrodeControl) files
+Ingenieria		FRN		

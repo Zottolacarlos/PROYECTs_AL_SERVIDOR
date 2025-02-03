@@ -1,0 +1,5 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Preseleccionados		TAR	102	new record size: 102
+Preseleccionados	Tipo_preseleccionID	RUB+		Tipo_preseleccionID is a new key
+Tipo_preseleccion		NFI		new file
+Constraint_Preseleccionados_Tipo_preseleccion		NWL	Tipo_preseleccion (Tipo_preseleccionID) and Preseleccionados (Tipo_preseleccionID)	New link between Tipo_preseleccion (Tipo_preseleccionID) and Preseleccionados (Tipo_preseleccionID) files

@@ -1,0 +1,3 @@
+//MO465-466.TXT ANA00465 TO ANA00466
+Impresion_Comparativa		TAR	1171	new record size: 1171
+Impresion_Comparativa	Reemplaza_a_Comp	RUB+		Reemplaza_a_Comp is a new key

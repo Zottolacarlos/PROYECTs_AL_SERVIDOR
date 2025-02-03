@@ -1,0 +1,4 @@
+//MO039-040.TXT ANA00039 TO ANA00040
+visado		NFI		new file
+Recepcion		NWL	Recepcion (NrodeControl) and visado (NrodeControl)	New link between Recepcion (NrodeControl) and visado (NrodeControl) files
+visado		FRN		

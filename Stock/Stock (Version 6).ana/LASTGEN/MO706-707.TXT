@@ -1,0 +1,3 @@
+//MO706-707.TXT ANA00706 TO ANA00707
+Remitos_Compras		NFI		new file
+Constraint_Elem_del_Pedido_Remitos_Compras		NWL	Elem_del_Pedido (Elemento_del_Pedido_ID) and Remitos_Compras (Elemento_del_Pedido_ID)	New link between Elem_del_Pedido (Elemento_del_Pedido_ID) and Remitos_Compras (Elemento_del_Pedido_ID) files

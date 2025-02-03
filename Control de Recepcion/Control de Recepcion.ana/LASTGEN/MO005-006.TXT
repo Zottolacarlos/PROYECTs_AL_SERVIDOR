@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Recepcion		TAR	155	new record size: 155
+Recepcion	Marca	RUB+		Marca is a new item

@@ -1,0 +1,4 @@
+//MO060-061.TXT ANA00060 TO ANA00061
+Deposito		TAR	358	new record size: 358
+Deposito	Observación	TAB+	2	Observación item is now an array of 3 elements 
+Deposito	Observación	TAI-	360	Observación item has been resized: 91 (instead of 451)

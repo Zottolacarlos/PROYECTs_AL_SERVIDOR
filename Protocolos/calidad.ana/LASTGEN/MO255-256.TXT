@@ -1,0 +1,3 @@
+//MO255-256.TXT ANA00255 TO ANA00256
+PROTOCOLOS		TAR	444	new record size: 444
+PROTOCOLOS	Usuario_Controla	RUB+		Usuario_Controla is a new item

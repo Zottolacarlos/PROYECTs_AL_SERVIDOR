@@ -1,0 +1,2 @@
+//MO099-100.TXT ANA00099 TO ANA00100
+Recepcion	Calificacion	CNW	1-byte integer$1-byte unsigned integer	new type for Calificacion item: 1-byte integer

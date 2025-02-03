@@ -1,0 +1,5 @@
+//MO041-042.TXT ANA00041 TO ANA00042
+Preseleccionados		TAR	122	new record size: 122
+Preseleccionados	Capacidad	RUB+		Capacidad is a new item
+Candidato		TAR	420	new record size: 420
+Candidato	Capacidad	RUB-		item Capacidad deleted

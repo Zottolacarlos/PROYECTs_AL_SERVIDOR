@@ -1,0 +1,3 @@
+//MO299-300.TXT ANA00299 TO ANA00300
+Usuarios		TAR	108	new record size: 108
+Usuarios	menu_inicial	RUB+		menu_inicial is a new item

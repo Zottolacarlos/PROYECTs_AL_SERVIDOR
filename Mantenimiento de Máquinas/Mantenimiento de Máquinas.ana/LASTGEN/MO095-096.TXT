@@ -1,0 +1,7 @@
+//MO095-096.TXT ANA00095 TO ANA00096
+carga_horas		JNL-		unlogged file
+Cambio_fecha_Preven		JNL-		unlogged file
+Detalle_Preventivo		JNL-		unlogged file
+repuestos		JNL-		unlogged file
+Detalle_Correctivo		JNL-		unlogged file
+Maquina		JNL-		unlogged file

@@ -1,0 +1,4 @@
+//MO126-127.TXT ANA00126 TO ANA00127
+reposicion_rechazados		NFI		new file
+Recepcion		NWL	Recepcion (NrodeControl) and reposicion_rechazados (NrodeControl)	New link between Recepcion (NrodeControl) and reposicion_rechazados (NrodeControl) files
+reposicion_rechazados		FRN		

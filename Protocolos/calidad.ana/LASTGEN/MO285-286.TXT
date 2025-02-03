@@ -1,0 +1,3 @@
+//MO285-286.TXT ANA00285 TO ANA00286
+acciones_correct		TAR	1187	new record size: 1187
+acciones_correct	Fecha_Envia_GI	RUB+		Fecha_Envia_GI is a new item

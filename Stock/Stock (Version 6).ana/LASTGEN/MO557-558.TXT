@@ -1,0 +1,3 @@
+//MO557-558.TXT ANA00557 TO ANA00558
+Recepcion_de_Materiales		FIC-	Recepcion_de_Materiales	Recepcion_de_Materiales file deleted
+Constraint_Elem_del_Pedido_Recepcion_de_Materiales		DEL	Elem_del_Pedido (Elemento_del_Pedido_ID) and Recepcion_de_Materiales (Elemento_del_Pedido_ID)	Link deleted between Elem_del_Pedido (Elemento_del_Pedido_ID) and Recepcion_de_Materiales (Elemento_del_Pedido_ID) files

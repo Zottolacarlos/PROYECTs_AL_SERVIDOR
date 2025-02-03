@@ -1,0 +1,4 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+Candidato		TAR	371	new record size: 371
+Candidato	Nombre_apellido	NNR	Apellidos	CAUTION: key Apellidos renamed Nombre_apellido
+Candidato	Nombre_apellido	TAI+	15	Nombre_apellido item has been resized: 76 (instead of 61)

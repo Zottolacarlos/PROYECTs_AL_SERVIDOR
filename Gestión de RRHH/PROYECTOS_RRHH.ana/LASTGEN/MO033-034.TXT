@@ -1,0 +1,3 @@
+//MO033-034.TXT ANA00033 TO ANA00034
+Preseleccionados		TAR	86	new record size: 86
+Preseleccionados	fecha_preselección	RUB+		fecha_preselección is a new item

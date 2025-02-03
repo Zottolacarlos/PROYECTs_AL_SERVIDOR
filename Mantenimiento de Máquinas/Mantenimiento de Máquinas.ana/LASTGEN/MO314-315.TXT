@@ -1,0 +1,5 @@
+//MO314-315.TXT ANA00314 TO ANA00315
+Detalle_Preventivo		TAR	434	new record size: 434
+Detalle_Preventivo	Fecha_anterior_cambio	RUB+		Fecha_anterior_cambio is a new item
+Detalle_Preventivo	aviso_pre_venc	RUB-		item aviso_pre_venc deleted
+Detalle_Preventivo	Fecha_aviso_pre_venc	RUB-		item Fecha_aviso_pre_venc deleted

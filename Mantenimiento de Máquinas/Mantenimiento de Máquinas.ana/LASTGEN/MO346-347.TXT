@@ -1,0 +1,3 @@
+//MO346-347.TXT ANA00346 TO ANA00347
+Personal_Config		NNF*	Configuraciones_Personales	new name Personal_Config
+Personal_Config		FRN		

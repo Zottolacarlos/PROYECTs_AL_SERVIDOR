@@ -1,0 +1,3 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+Hoja1$		TAR	1516	new record size: 1516
+Hoja1$	urgente	RUB+		urgente is a new item

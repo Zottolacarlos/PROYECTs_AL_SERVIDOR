@@ -1,0 +1,2 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+Operarios$	saldo_leche	CNW	2-byte integer$2-byte unsigned integer	new type for saldo_leche item: 2-byte integer

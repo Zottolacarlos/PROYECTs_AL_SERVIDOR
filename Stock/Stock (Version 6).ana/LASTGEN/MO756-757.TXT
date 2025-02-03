@@ -1,0 +1,3 @@
+//MO756-757.TXT ANA00756 TO ANA00757
+Presupuestos_NEW		NFI		new file
+Presupuestos_NEW		FIC-	Presupuestos_NEW	Presupuestos_NEW file deleted

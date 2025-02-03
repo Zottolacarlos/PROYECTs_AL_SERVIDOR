@@ -1,0 +1,3 @@
+//MO086-087.TXT ANA00086 TO ANA00087
+Recepcion		TAR	501	new record size: 501
+Recepcion	Secuencia	CNW	1-byte unsigned integer$String	new type for Secuencia item: 1-byte unsigned integer

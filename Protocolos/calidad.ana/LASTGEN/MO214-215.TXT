@@ -1,0 +1,3 @@
+//MO214-215.TXT ANA00214 TO ANA00215
+PROTOCOLOS		TAR	401	new record size: 401
+PROTOCOLOS	Nro_accion_correct	RUB+		Nro_accion_correct is a new key

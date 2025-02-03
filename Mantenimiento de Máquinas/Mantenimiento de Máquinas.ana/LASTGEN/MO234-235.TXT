@@ -1,0 +1,4 @@
+//MO234-235.TXT ANA00234 TO ANA00235
+Elem_del_Pedido		TAR	920	new record size: 920
+Elem_del_Pedido		BASE		File base changed from Generic SQL (ANSI 92) to Unknown
+Elem_del_Pedido	Imagen	RUB-		item Imagen deleted

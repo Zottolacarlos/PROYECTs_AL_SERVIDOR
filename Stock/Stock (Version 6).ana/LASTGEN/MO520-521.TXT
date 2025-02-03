@@ -1,0 +1,3 @@
+//MO520-521.TXT ANA00520 TO ANA00521
+Comparativa		TAR	714	new record size: 714
+Comparativa	Es_recorte	RUB+		Es_recorte is a new item

@@ -1,0 +1,2 @@
+//MO061-062.TXT ANA00061 TO ANA00062
+Fundicion	Decision_espectro	CNW	1-byte unsigned integer$Boolean	new type for Decision_espectro item: 1-byte unsigned integer

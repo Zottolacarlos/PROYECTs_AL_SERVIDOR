@@ -1,0 +1,26 @@
+//MO268-269.TXT ANA00268 TO ANA00269
+Verificacion_de_Maquinas		NNF*	Geometria_de_Maquinas	new name Verificacion_de_Maquinas
+Verificacion_de_Maquinas		TAR	51	new record size: 51
+Verificacion_de_Maquinas	Verificacion_de_MaquinasID	NNR	Geometria_de_MaquinasID	CAUTION: key Geometria_de_MaquinasID renamed Verificacion_de_MaquinasID
+Verificacion_de_Maquinas	encargados	RUB-		item encargados deleted
+Verificacion_de_Maquinas	fecha_Ini	RUB-		item fecha_Ini deleted
+Verificacion_de_Maquinas	Fecha_fin	RUB-		item Fecha_fin deleted
+Verificacion_de_Maquinas	supervisor	RUB-		item supervisor deleted
+Elementos_de_Verificacion		NNF*	Elementos_de_Geometria	new name Elementos_de_Verificacion
+Elementos_de_Verificacion		TAR	77	new record size: 77
+Elementos_de_Verificacion	Elementos_de_VerificacoinID	NNR	Elementos_de_GeometriaID	CAUTION: key Elementos_de_GeometriaID renamed Elementos_de_VerificacoinID
+Elementos_de_Verificacion	Codigo_Objeto	NNR	Nro_de_objetos	CAUTION: item Nro_de_objetos renamed Codigo_Objeto
+Elementos_de_Verificacion	Verificacion_de_MaquinasID	RUB+		Verificacion_de_MaquinasID is a new key
+Elementos_de_Verificacion	Descripción_de_Objetos	RUB-		item Descripción_de_Objetos deleted
+Elementos_de_Verificacion	Admisible	RUB-		item Admisible deleted
+Objetos_de_Prueba		TAR	135	new record size: 135
+Objetos_de_Prueba	Admisible	RUB+		Admisible is a new item
+Objetos_de_Prueba	Tipo_de_Carga	RUB+		Tipo_de_Carga is a new item
+Objetos_de_Prueba	Imagen	RUB+		Imagen is a new item
+Objetos_de_Prueba	Denominación_Int	RUB-		key Denominación_Int deleted
+Verificaciones_realizadas		NFI		new file
+Tipos_de_Verif_Geometria		FIC-	Tipos_de_Verif_Geometria	Tipos_de_Verif_Geometria file deleted
+Constraint_Maquina_Verificacion_de_Maquinas		NWL	Maquina (MáquinaID) and Verificacion_de_Maquinas (MáquinaID)	New link between Maquina (MáquinaID) and Verificacion_de_Maquinas (MáquinaID) files
+Constraint_Verificacion_de_Maquinas_Elementos_de_Verificacion		NWL	Verificacion_de_Maquinas (Verificacion_de_MaquinasID) and Elementos_de_Verificacion (Verificacion_de_MaquinasID)	New link between Verificacion_de_Maquinas (Verificacion_de_MaquinasID) and Elementos_de_Verificacion (Verificacion_de_MaquinasID) files
+Verificacion_de_Maquinas		FRN		
+Elementos_de_Verificacion		FRN		

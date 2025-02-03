@@ -1,0 +1,10 @@
+//MO763-764.TXT ANA00763 TO ANA00764
+Retorno_de_Materiales		TAR	190	new record size: 190
+Retorno_de_Materiales	ORDFAB	RUB+		ORDFAB is a new key
+Impresion_retiros		TAR	316	new record size: 316
+Impresion_retiros	ORDFAB	RUB+		ORDFAB is a new key
+Elem_del_Retiro		TAR	247	new record size: 247
+Elem_del_Retiro	ORDFAB	RUB+		ORDFAB is a new key
+Impresion_Costos_x_COT		TAR	108	new record size: 108
+Impresion_Costos_x_COT	ORDFAB	RUB+		ORDFAB is a new key
+Ordenes_de_Fabricación		NFI		new file

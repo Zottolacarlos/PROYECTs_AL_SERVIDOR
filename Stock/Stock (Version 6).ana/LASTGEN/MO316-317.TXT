@@ -1,0 +1,6 @@
+//MO316-317.TXT ANA00316 TO ANA00317
+Impresion_Recepcion_de_Materiales		TAR	666	new record size: 666
+Impresion_Recepcion_de_Materiales	Observaciones_PM	RUB+		Observaciones_PM is a new item
+Impresion_Recepcion_de_Materiales	Asociado_PM	RUB+		Asociado_PM is a new item
+Impresion_Recepcion_de_Materiales	cotizacion_PM	RUB+		cotizacion_PM is a new item
+Impresion_Recepcion_de_Materiales	Presupuesto_PM	RUB+		Presupuesto_PM is a new item

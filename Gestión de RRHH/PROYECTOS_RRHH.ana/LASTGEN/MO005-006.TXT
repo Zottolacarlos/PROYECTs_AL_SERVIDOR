@@ -1,0 +1,5 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Pedido_de_Contratación		TAR	147	new record size: 147
+Pedido_de_Contratación	SupervisoresID	RUB+		SupervisoresID is a new key
+Supervisores		NFI		new file
+Constraint_Supervisores_Pedido_de_Contratación		NWL	Supervisores (SupervisoresID) and Pedido_de_Contratación (SupervisoresID)	New link between Supervisores (SupervisoresID) and Pedido_de_Contratación (SupervisoresID) files

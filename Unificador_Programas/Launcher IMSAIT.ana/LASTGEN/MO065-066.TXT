@@ -1,0 +1,3 @@
+//MO065-066.TXT ANA00065 TO ANA00066
+acciones_correct		FIC-	acciones_correct	acciones_correct file deleted
+acc_correct_PRECARGA		FIC-	acc_correct_PRECARGA	acc_correct_PRECARGA file deleted

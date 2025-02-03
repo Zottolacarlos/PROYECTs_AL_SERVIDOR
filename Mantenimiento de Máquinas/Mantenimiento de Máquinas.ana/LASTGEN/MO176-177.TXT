@@ -1,0 +1,5 @@
+//MO176-177.TXT ANA00176 TO ANA00177
+Detalle_Preventivo		TAR	430	new record size: 430
+Detalle_Preventivo	fecha_Inicio_Mant	NNR	fecha_Actual_Preven	CAUTION: key fecha_Actual_Preven renamed fecha_Inicio_Mant
+Detalle_Preventivo	Prox_Preventivo_inicial	RUB-		item Prox_Preventivo_inicial deleted
+Detalle_Preventivo	Prox_Preventivo_actualizado	RUB-		key Prox_Preventivo_actualizado deleted

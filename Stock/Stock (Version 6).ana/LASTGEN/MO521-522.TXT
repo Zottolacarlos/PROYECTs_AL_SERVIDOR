@@ -1,0 +1,4 @@
+//MO521-522.TXT ANA00521 TO ANA00522
+Precios_deReferencia		TAR	276	new record size: 276
+Precios_deReferencia	Urgente	RUB+		Urgente is a new item
+Precios_deReferencia	Es_recorte	RUB+		Es_recorte is a new item

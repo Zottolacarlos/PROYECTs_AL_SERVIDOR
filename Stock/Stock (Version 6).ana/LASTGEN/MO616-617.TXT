@@ -1,0 +1,2 @@
+//MO616-617.TXT ANA00616 TO ANA00617
+Control_colada	Fecha_colada	NNR	Fecha_control	CAUTION: item Fecha_control renamed Fecha_colada

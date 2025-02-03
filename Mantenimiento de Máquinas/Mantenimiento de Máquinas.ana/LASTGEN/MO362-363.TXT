@@ -1,0 +1,3 @@
+//MO362-363.TXT ANA00362 TO ANA00363
+Preventivo_por_cantidad		TAR	389	new record size: 389
+Preventivo_por_cantidad	Fecha_Finaliza	RUB+		Fecha_Finaliza is a new item

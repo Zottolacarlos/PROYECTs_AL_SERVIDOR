@@ -1,0 +1,4 @@
+//MO171-172.TXT ANA00171 TO ANA00172
+Capacitaciones		TAR	566	new record size: 566
+Capacitaciones	Fecha_Sugerida	RUB+		Fecha_Sugerida is a new item
+Capacitaciones	Duracion_estimada	RUB+		Duracion_estimada is a new item

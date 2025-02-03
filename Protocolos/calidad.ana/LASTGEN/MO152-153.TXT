@@ -1,0 +1,3 @@
+//MO152-153.TXT ANA00152 TO ANA00153
+Equilibrado_dinamico_datos		TAR	580	new record size: 580
+Equilibrado_dinamico_datos	Nro_identificacion	CNW	String$4-byte unsigned integer	new type for Nro_identificacion item: String

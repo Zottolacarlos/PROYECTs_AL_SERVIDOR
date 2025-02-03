@@ -1,0 +1,3 @@
+//MO349-350.TXT ANA00349 TO ANA00350
+Impresion_Comparativa		TAR	1128	new record size: 1128
+Impresion_Comparativa	obs_pedido	RUB+		obs_pedido is a new item

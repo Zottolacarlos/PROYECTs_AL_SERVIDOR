@@ -1,0 +1,3 @@
+//MO468-469.TXT ANA00468 TO ANA00469
+Stock_xa_Supervisores		TAR	125	new record size: 125
+Stock_xa_Supervisores	Recepcion_de_MaterialesID	RUB+		Recepcion_de_MaterialesID is a new key

@@ -1,0 +1,3 @@
+//MO133-134.TXT ANA00133 TO ANA00134
+acciones_correct		TAR	1107	new record size: 1107
+acciones_correct	Observaciones	TAI+	150	Observaciones item has been resized: 301 (instead of 151)

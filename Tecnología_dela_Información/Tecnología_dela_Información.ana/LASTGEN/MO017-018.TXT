@@ -1,0 +1,3 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Tickets		TAR	300	new record size: 300
+Tickets	Recibir_Novedades	RUB+		Recibir_Novedades is a new item

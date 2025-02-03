@@ -1,0 +1,3 @@
+//MO193-194.TXT ANA00193 TO ANA00194
+lectura_hs		TAR	64	new record size: 64
+lectura_hs	Prom_hs_xdia_sem_actual	CNW	8-byte real$4-byte real	new type for Prom_hs_xdia_sem_actual item: 8-byte real

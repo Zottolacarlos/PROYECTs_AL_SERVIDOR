@@ -1,0 +1,3 @@
+//MO506-507.TXT ANA00506 TO ANA00507
+Control_Recep_Calidad	Requiere_Certificado1	RUB+		Requiere_Certificado1 is a new item
+Control_Recep_Calidad	Requiere_Certificado	RUB-		item Requiere_Certificado deleted

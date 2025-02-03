@@ -1,0 +1,2 @@
+//MO309-310.TXT ANA00309 TO ANA00310
+Constraint_tareas_parte_maquina		MCL	1,1->0,1	

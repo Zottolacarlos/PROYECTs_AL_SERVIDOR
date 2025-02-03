@@ -1,0 +1,2 @@
+//MO348-349.TXT ANA00348 TO ANA00349
+Constraint_Personal_IMSA_rrhh_Configuraciones_Personales		DEL	Personal_IMSA_rrhh (Legajo) and Personal_Config (Legajo)	Link deleted between Personal_IMSA_rrhh (Legajo) and Personal_Config (Legajo) files

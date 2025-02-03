@@ -1,0 +1,3 @@
+//MO283-284.TXT ANA00283 TO ANA00284
+Verificacion_de_Maquinas		TAR	191	new record size: 191
+Verificacion_de_Maquinas	Verificacion_anterior	CNW	8-byte unsigned integer$String	new type for Verificacion_anterior item: 8-byte unsigned integer

@@ -1,0 +1,2 @@
+//MO220-221.TXT ANA00220 TO ANA00221
+Constraint_acc_correct_auditoria_acc_corrct_respuestas		MCL	1,1->0,1	

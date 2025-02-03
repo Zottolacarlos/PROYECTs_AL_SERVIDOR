@@ -1,0 +1,4 @@
+//MO186-187.TXT ANA00186 TO ANA00187
+Control_Tableros		TAR	213	new record size: 213
+Control_Tableros	Fecha_prox_control	NNR	Fecha	CAUTION: key Fecha renamed Fecha_prox_control
+Control_Tableros	Fecha_Controlado	RUB+		Fecha_Controlado is a new item

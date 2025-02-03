@@ -1,0 +1,7 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Preseleccionados		TAR	117	new record size: 117
+Preseleccionados	observaciones	CNW	Text Memo$String	new type for observaciones item: Text Memo
+Preseleccionados	Fecha_entrevista	RUB+		Fecha_entrevista is a new item
+Preseleccionados	Resultado_Entrevista	RUB+		Resultado_Entrevista is a new item
+Preseleccionados	Fecha_resultado	RUB+		Fecha_resultado is a new item
+Preseleccionados	Obs_entrevista	RUB+		Obs_entrevista is a new item

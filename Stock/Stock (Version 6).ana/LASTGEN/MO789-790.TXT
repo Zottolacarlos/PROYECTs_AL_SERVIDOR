@@ -1,0 +1,3 @@
+//MO789-790.TXT ANA00789 TO ANA00790
+Orden_de_compra		TAR	559	new record size: 559
+Orden_de_compra	Forma_pago	RUB+		Forma_pago is a new item

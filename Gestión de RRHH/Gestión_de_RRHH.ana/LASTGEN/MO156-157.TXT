@@ -1,0 +1,2 @@
+//MO156-157.TXT ANA00156 TO ANA00157
+conectados_rrhh	usuario	CLEN*		usuario item is now key

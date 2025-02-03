@@ -1,0 +1,2 @@
+//MO101-102.TXT ANA00101 TO ANA00102
+acciones_correct	Nro_accion_correct	CLEU*		Nro_accion_correct item is now key

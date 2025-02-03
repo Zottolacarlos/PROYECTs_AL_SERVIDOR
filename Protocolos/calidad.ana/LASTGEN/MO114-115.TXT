@@ -1,0 +1,4 @@
+//MO114-115.TXT ANA00114 TO ANA00115
+acciones_correct		TAR	704	new record size: 704
+acciones_correct	Sector	RUB+		Sector is a new item
+acciones_correct	Sectores_acc_correcID	RUB-		key Sectores_acc_correcID deleted

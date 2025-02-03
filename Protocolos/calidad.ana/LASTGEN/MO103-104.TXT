@@ -1,0 +1,10 @@
+//MO103-104.TXT ANA00103 TO ANA00104
+Instrumentos_verificacion		NNF*	Protocolos_verificacion	new name Instrumentos_verificacion
+Instrumentos_verificacion	Instrumentos_verificacionID	NNR	Protocolos_verificacionID	CAUTION: key Protocolos_verificacionID renamed Instrumentos_verificacionID
+Instrumentos		TAR	414	new record size: 414
+Instrumentos	Ubicación	RUB+		Ubicación is a new item
+Instrumentos	Motivo_Baja	RUB+		Motivo_Baja is a new item
+Instrumentos	Fecha_Baja	RUB+		Fecha_Baja is a new item
+Instrumentos_incidentes		NFI		new file
+Instrumentos		NWL	Instrumentos (Nro_inventario) and Instrumentos_incidentes (Nro_inventario)	New link between Instrumentos (Nro_inventario) and Instrumentos_incidentes (Nro_inventario) files
+Instrumentos_incidentes		FRN		

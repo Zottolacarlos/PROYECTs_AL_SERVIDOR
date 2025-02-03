@@ -1,0 +1,3 @@
+//MO639-640.TXT ANA00639 TO ANA00640
+Materiales_Provistos		TAR	102	new record size: 102
+Materiales_Provistos	Observaciones	RUB+		Observaciones is a new item

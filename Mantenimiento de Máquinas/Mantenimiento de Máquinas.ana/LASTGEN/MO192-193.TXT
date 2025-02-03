@@ -1,0 +1,2 @@
+//MO192-193.TXT ANA00192 TO ANA00193
+lectura_hs	Prom_hs_xdia_sem_actual	NNR	Promedio_hs_semana_carg	CAUTION: item Promedio_hs_semana_carg renamed Prom_hs_xdia_sem_actual

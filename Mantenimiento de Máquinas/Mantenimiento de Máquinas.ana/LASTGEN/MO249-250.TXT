@@ -1,0 +1,3 @@
+//MO249-250.TXT ANA00249 TO ANA00250
+ejecutores		TAR	69	new record size: 69
+ejecutores	Activo	RUB+		Activo is a new item

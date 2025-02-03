@@ -1,0 +1,15 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=E	;Analysis GUID
+LOCALIZATION_UTF8=8F29773E218249E7938A027F83912758	Deposito	D:\My Projects\Control de Recepcion\EXE\Deposito.FIC
+LOCALIZATION_UTF8=BDCEE3292B8C4093B19560EA9AECC749	Recepcion	D:\My Projects\Control de Recepcion\EXE\Recepcion.FIC
+LOCALIZATION_UTF8=715E960EFD67446782C1AA9434128F5D	Calidad	D:\My Projects\Control de Recepcion\EXE\Calidad.FIC
+LOCALIZATION_UTF8=D9C53EA8D5F94B1B87D746E344B8B278	Fundicion	D:\My Projects\Control de Recepcion\EXE\Fundicion.FIC
+LOCALIZATION_UTF8=7C0768396ED94EE1A3B5A24236FA4190	All_recepciones	D:\My Projects\Control de Recepcion\EXE\All_recepciones.FIC
+LOCALIZATION_UTF8=9B74BFC763D54B1C95EACD3E21FBA104	Califica_Proveedor	D:\My Projects\Control de Recepcion\EXE\Califica_Proveedor.FIC
+LOCALIZATION_UTF8=FD1D1892AA2B4DBB957832615B2C5F7C	Oftec	D:\My Projects\Control de Recepcion\EXE\Oftec.FIC
+LOCALIZATION_UTF8=9B74BFC763D54B1C95EACD3E21FBA104	Proveedores	D:\My Projects\Control de Recepcion\EXE\Proveedores.FIC
+LOCALIZATION_UTF8=082799D198694506AF87FE1027019323	version	D:\My Projects\Control de Recepcion\Exe\version.FIC
+LOCALIZATION_UTF8=082799D198694506AF87FE1027019323	version	E:\My Projects\Control de Recepcion\EXE\version.FIC
+LOCALIZATION_UTF8=BDCEE3292B8C4093B19560EA9AECC749	Recepcion	E:\My Projects\Control de Recepcion\EXE\Recepcion.FIC
+LOCALIZATION_UTF8=4701EF231E914241AA4442C59EB56F8B	Calif_Individuales	E:\My Projects\Control de Recepcion\EXE\Calif_Individuales.FIC

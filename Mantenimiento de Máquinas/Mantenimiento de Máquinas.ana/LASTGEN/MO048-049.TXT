@@ -1,0 +1,2 @@
+//MO048-049.TXT ANA00048 TO ANA00049
+Detalle_Correctivo	Observaciones_finales	NNR	Observaciónes_inales	CAUTION: item Observaciónes_inales renamed Observaciones_finales

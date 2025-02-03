@@ -1,0 +1,4 @@
+//MO125-126.TXT ANA00125 TO ANA00126
+ejecutadores		TAR	50	new record size: 50
+ejecutadores	Nombre	CLEU*		Nombre item is now key
+ejecutadores	Nombre	TAB-	4	Nombre item is no longer an array

@@ -1,0 +1,3 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Mantenimientos		TAR	345	new record size: 345
+Mantenimientos	intervalo_meses	RUB+		intervalo_meses is a new item

@@ -1,0 +1,3 @@
+//MO462-463.TXT ANA00462 TO ANA00463
+Elem_del_Pedido		TAR	541	new record size: 541
+Elem_del_Pedido	Urgente	RUB+		Urgente is a new item

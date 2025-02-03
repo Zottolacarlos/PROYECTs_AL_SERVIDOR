@@ -1,0 +1,10 @@
+//MO179-180.TXT ANA00179 TO ANA00180
+Capacitaciones		TAR	1968	new record size: 1968
+Capacitaciones	Archivo_info	TAI+	200	Archivo_info item has been resized: 251 (instead of 51)
+Capacitaciones	Archivo_Presupuesto	TAB+	2	Archivo_Presupuesto item is now an array of 3 elements 
+Capacitaciones	Archivo_Presupuesto	CNW	String$Text Memo	new type for Archivo_Presupuesto item: String
+Capacitaciones_Original		TAR	1726	new record size: 1726
+Capacitaciones_Original	Archivo_info	TAB+	2	Archivo_info item is now an array of 3 elements 
+Capacitaciones_Original	Archivo_info	CNW	String$Text Memo	new type for Archivo_info item: String
+Capacitaciones_Original	Archivo_Presupuesto	TAB+	2	Archivo_Presupuesto item is now an array of 3 elements 
+Capacitaciones_Original	Archivo_Presupuesto	CNW	String$Text Memo	new type for Archivo_Presupuesto item: String

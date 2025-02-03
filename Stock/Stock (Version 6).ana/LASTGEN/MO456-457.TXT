@@ -1,0 +1,6 @@
+//MO456-457.TXT ANA00456 TO ANA00457
+Bajas	Elem_de_devolucionID	NNR	Herramientas_de_devolucionID	CAUTION: key Herramientas_de_devolucionID renamed Elem_de_devolucionID
+Impresion_Devoluciones	Elem_de_devolucionID	NNR	Herramientas_de_devolucionID	CAUTION: key Herramientas_de_devolucionID renamed Elem_de_devolucionID
+Elem_de_Entregas_y_Prestamos		NNF	Herramientas_de_Entregas_y_Prestamos	new name Elem_de_Entregas_y_Prestamos
+Elem_de_devolucion		NNF	Herramientas_de_devolucion	new name Elem_de_devolucion
+Elem_de_devolucion	Elem_de_devolucionID	NNR	Herramientas_de_devolucionID	CAUTION: key Herramientas_de_devolucionID renamed Elem_de_devolucionID

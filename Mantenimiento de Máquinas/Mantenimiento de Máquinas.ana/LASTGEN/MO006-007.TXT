@@ -1,0 +1,6 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Detalle_Correctivo		TAR	131	new record size: 131
+Detalle_Correctivo	Denominación_Int	CLEN*		Denominación_Int item is now key
+Detalle_Correctivo	Mant_CorrectivoID	RUB-		key Mant_CorrectivoID deleted
+Constraint_Mant_Correctivo_Detalle_Correctivo		LMC	Mant_Correctivo$Denominación_Int$Mant_CorrectivoID	
+Constraint_Mant_Correctivo_Detalle_Correctivo		LMC	Detalle_Correctivo$Denominación_Int$Mant_CorrectivoID	

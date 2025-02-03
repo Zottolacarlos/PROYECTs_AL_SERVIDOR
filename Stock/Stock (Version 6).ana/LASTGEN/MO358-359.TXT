@@ -1,0 +1,15 @@
+//MO358-359.TXT ANA00358 TO ANA00359
+Auditoria_eventos		FCNX+	Connection to IMSASERVER03 - STOCK	
+Pedido		FCNX+	Connection to IMSASERVER03 - STOCK	
+Elem_del_Pedido		FCNX+	Connection to IMSASERVER03 - STOCK	
+Producto		FCNX+	Connection to IMSASERVER03 - STOCK	
+Comparativa		FCNX+	Connection to IMSASERVER03 - STOCK	
+Orden_de_compra		FCNX+	Connection to IMSASERVER03 - STOCK	
+Elem_Orden_de_Compra		FCNX+	Connection to IMSASERVER03 - STOCK	
+tipodesubcuentas		FCNX+	Connection to bdcontabilidad	
+subcuentatipo		FCNX+	Connection to bdcontabilidad	
+subcuentas		FCNX+	Connection to bdcontabilidad	
+empleados_areas		FCNX+	Connection to AdministradorMT \\175.1.1.4:5432	
+empleados		FCNX+	Connection to AdministradorMT \\175.1.1.4:5432	
+Precios_deReferencia		FCNX+	Connection to IMSASERVER03 - STOCK	
+Impresion_Comparativa		FCNX+	Connection to IMSASERVER03 - STOCK	

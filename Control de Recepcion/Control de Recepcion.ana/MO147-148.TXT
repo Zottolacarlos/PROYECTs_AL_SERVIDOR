@@ -1,0 +1,3 @@
+//MO147-148.TXT ANA00147 TO ANA00148
+Recepcion_de_Materiales		IDE+		file with identifier
+Recepcion_de_Materiales	Recepcion_de_MaterialesID	CNW	Automatic Identifier (4 bytes)$4-byte integer	new type for Recepcion_de_MaterialesID item: Automatic Identifier (4 bytes)

@@ -1,0 +1,4 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Detalle_Correctivo		TAR	136	new record size: 136
+Detalle_Correctivo	Inicio_Mant	CNW	Date and Time (yyyymmddhhmmsslll)$Time (hhmm)	new type for Inicio_Mant item: Date and Time (yyyymmddhhmmssl
+Detalle_Correctivo	Fin_Mant	CNW	Date and Time (yyyymmddhhmmsslll)$Time (hhmm)	new type for Fin_Mant item: Date and Time (yyyymmddhhmmssl

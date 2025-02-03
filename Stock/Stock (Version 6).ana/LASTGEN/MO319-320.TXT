@@ -1,0 +1,3 @@
+//MO319-320.TXT ANA00319 TO ANA00320
+Recepcion_de_Materiales		TAR	543	new record size: 543
+Recepcion_de_Materiales	Decision_Recep_Deposito	CNW	String$1-byte unsigned integer	new type for Decision_Recep_Deposito item: String

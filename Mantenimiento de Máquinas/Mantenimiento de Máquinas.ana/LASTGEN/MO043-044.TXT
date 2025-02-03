@@ -1,0 +1,4 @@
+//MO043-044.TXT ANA00043 TO ANA00044
+Arbol_repuestos		NFI		new file
+Detalle_Preventivo		NWL	Detalle_Preventivo (Detalle_PreventivoID) and Arbol_repuestos (Detalle_PreventivoID)	New link between Detalle_Preventivo (Detalle_PreventivoID) and Arbol_repuestos (Detalle_PreventivoID) files
+Arbol_repuestos		FRN		

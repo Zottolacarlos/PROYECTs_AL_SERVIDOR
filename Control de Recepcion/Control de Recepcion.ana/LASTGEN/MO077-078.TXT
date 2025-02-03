@@ -1,0 +1,4 @@
+//MO077-078.TXT ANA00077 TO ANA00078
+All_recepciones		TAR	983	new record size: 983
+All_recepciones	cantidad_item	RUB+		cantidad_item is a new item
+All_recepciones	cantidad_recep	RUB+		cantidad_recep is a new item

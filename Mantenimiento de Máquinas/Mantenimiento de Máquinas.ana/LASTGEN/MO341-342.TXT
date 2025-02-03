@@ -1,0 +1,2 @@
+//MO341-342.TXT ANA00341 TO ANA00342
+Usuarios		RPP		program directory

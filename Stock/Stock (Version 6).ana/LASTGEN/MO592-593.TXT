@@ -1,0 +1,4 @@
+//MO592-593.TXT ANA00592 TO ANA00593
+Elem_del_Pedido		TAR	600	new record size: 600
+Elem_del_Pedido	plazo_cp_en_oc	RUB+		plazo_cp_en_oc is a new item
+Elem_del_Pedido	mantuvo_fecha_cp	RUB+		mantuvo_fecha_cp is a new item

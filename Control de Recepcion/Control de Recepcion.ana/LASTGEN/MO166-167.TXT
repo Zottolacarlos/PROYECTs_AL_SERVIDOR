@@ -1,0 +1,6 @@
+//MO166-167.TXT ANA00166 TO ANA00167
+Producto		FIC-	Producto	Producto file deleted
+Elem_del_Pedido		FIC-	Elem_del_Pedido	Elem_del_Pedido file deleted
+Elem_de_Recepcion		FIC-	Elem_de_Recepcion	Elem_de_Recepcion file deleted
+Recepcion_de_Materiales_2		FIC-	Recepcion_de_Materiales_2	Recepcion_de_Materiales_2 file deleted
+Elem_de_Recepcion_Recepcion_de_Materiales_2ID_fkey		DEL	Recepcion_de_Materiales_2 (Recepcion_de_Materiales_2ID) and Elem_de_Recepcion (Recepcion_de_Materiales_2ID)	Link deleted between Recepcion_de_Materiales_2 (Recepcion_de_Materiales_2ID) and Elem_de_Recepcion (Recepcion_de_Materiales_2ID) files

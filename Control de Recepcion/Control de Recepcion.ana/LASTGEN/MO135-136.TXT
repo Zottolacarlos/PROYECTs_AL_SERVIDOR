@@ -1,0 +1,3 @@
+//MO135-136.TXT ANA00135 TO ANA00136
+Recepcion_de_Materiales		NFI		new file
+Connection to 'IMSASERVER03'		CNX+		

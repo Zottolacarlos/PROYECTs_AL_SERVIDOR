@@ -1,0 +1,4 @@
+//MO275-276.TXT ANA00275 TO ANA00276
+Elementos_de_Verificacion		TAR	76	new record size: 76
+Elementos_de_Verificacion	Verificacion_de_MaquinasID	RUB+		Verificacion_de_MaquinasID is a new key
+Constraint_Verificacion_de_Maquinas_Elementos_de_Verificacion		NWL	Verificacion_de_Maquinas (Verificacion_de_MaquinasID) and Elementos_de_Verificacion (Verificacion_de_MaquinasID)	New link between Verificacion_de_Maquinas (Verificacion_de_MaquinasID) and Elementos_de_Verificacion (Verificacion_de_MaquinasID) files

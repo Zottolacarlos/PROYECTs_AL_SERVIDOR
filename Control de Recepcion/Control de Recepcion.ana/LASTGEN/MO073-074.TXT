@@ -1,0 +1,29 @@
+//MO073-074.TXT ANA00073 TO ANA00074
+Ingenieria		TAR	169	new record size: 169
+Ingenieria	observación_I	TAB-	2	observación_I item is no longer an array
+Ingenieria	Decision_I	TAB-	2	Decision_I item is no longer an array
+Oftec		TAR	355	new record size: 355
+Oftec	Observación_dep	TAB-	2	Observación_dep item is no longer an array
+Oftec	Decision_dep	TAB-	2	Decision_dep item is no longer an array
+Oftec	obs_fund	TAB-	2	obs_fund item is no longer an array
+Oftec	decision_fund	TAB-	2	decision_fund item is no longer an array
+Oftec	obs_calidad	TAB-	2	obs_calidad item is no longer an array
+Oftec	decision_calidad	TAB-	2	decision_calidad item is no longer an array
+Oftec	obs_ing	TAB-	2	obs_ing item is no longer an array
+Oftec	decision_ing	TAB-	2	decision_ing item is no longer an array
+Fundicion		TAR	252	new record size: 252
+Fundicion	Obs_espectro	TAB-	2	Obs_espectro item is no longer an array
+Fundicion	Decision_espectro	TAB-	2	Decision_espectro item is no longer an array
+Fundicion	obs_trata	TAB-	2	obs_trata item is no longer an array
+Fundicion	Decision_trata	TAB-	2	Decision_trata item is no longer an array
+Calidad		TAR	169	new record size: 169
+Calidad	Observación	TAB-	2	Observación item is no longer an array
+Calidad	Decision	TAB-	2	Decision item is no longer an array
+Deposito		TAR	150	new record size: 150
+Deposito	Parametros	TAB-	2	Parametros item is no longer an array
+Deposito	Decision	TAB-	2	Decision item is no longer an array
+Deposito	Observación	TAB-	2	Observación item is no longer an array
+Recepcion		TAR	481	new record size: 481
+Recepcion	Cantidad	TAB-	2	Cantidad item is no longer an array
+Recepcion	item	TAB-	2	item item is no longer an array
+Recepcion	recep	TAB-	2	recep item is no longer an array

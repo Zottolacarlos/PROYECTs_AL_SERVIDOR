@@ -1,0 +1,6 @@
+//MO047-048.TXT ANA00047 TO ANA00048
+Auditoria_Contratacion		TAR	174	new record size: 174
+Auditoria_Contratacion	Legajo	RUB+		Legajo is a new key
+Auditoria_Contratacion	UsuariosID	RUB-		key UsuariosID deleted
+Constraint_Usuarios_Auditoria_Contratacion		NWL	Usuarios (Legajo) and Auditoria_Contratacion (Legajo)	New link between Usuarios (Legajo) and Auditoria_Contratacion (Legajo) files
+Constraint_Auditoria_Contratacion_Usuarios		DEL	Usuarios (UsuariosID) and Auditoria_Contratacion (UsuariosID)	Link deleted between Usuarios (UsuariosID) and Auditoria_Contratacion (UsuariosID) files

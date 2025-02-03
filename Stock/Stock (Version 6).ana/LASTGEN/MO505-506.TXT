@@ -1,0 +1,3 @@
+//MO505-506.TXT ANA00505 TO ANA00506
+Control_Recep_Calidad		TAR	143	new record size: 143
+Control_Recep_Calidad	Requiere_Certificado	CNW	Boolean$String	new type for Requiere_Certificado item: Boolean

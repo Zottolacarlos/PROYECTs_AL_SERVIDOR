@@ -1,0 +1,8 @@
+//MO029-030.TXT ANA00029 TO ANA00030
+saldos_leche		TAR	36	new record size: 36
+saldos_leche	saldo_leche	NNR	saldo	CAUTION: item saldo renamed saldo_leche
+saldos_leche	cerrada	RUB-		item cerrada deleted
+Leche		TAR	43	new record size: 43
+Leche	cerrada	RUB+		cerrada is a new item
+Operarios$		TAR	181	new record size: 181
+Operarios$	saldo	RUB-		item saldo deleted

@@ -1,0 +1,4 @@
+//MO149-150.TXT ANA00149 TO ANA00150
+Elem_del_Pedido		TAR	994	new record size: 994
+Elem_del_Pedido	Supera_Precio_Cotizado	RUB-		item Supera_Precio_Cotizado deleted
+Elem_del_Pedido	Motivo_demora_aprobacion_PM	RUB-		item Motivo_demora_aprobacion_PM deleted

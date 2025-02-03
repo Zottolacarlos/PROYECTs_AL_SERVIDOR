@@ -1,0 +1,4 @@
+//MO109-110.TXT ANA00109 TO ANA00110
+Maquina		TAR	128	new record size: 128
+Maquina	ultima_fecha_carga	NNR	semana_cargada	CAUTION: item semana_cargada renamed ultima_fecha_carga
+Maquina	ultima_fecha_carga	CNW	Date (yyyymmdd)$4-byte integer	new type for ultima_fecha_carga item: Date (yyyymmdd)

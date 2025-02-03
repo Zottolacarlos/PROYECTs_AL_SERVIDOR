@@ -1,0 +1,3 @@
+//MO495-496.TXT ANA00495 TO ANA00496
+Impresion_Recepcion_de_Materiales		TAR	733	new record size: 733
+Impresion_Recepcion_de_Materiales	Elem_de_RecepcionID	RUB+		Elem_de_RecepcionID is a new key

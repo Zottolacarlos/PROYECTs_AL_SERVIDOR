@@ -1,0 +1,3 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+Maquina		TAR	152	new record size: 152
+Maquina	Maquina	TAI+	50	Maquina item has been resized: 101 (instead of 51)

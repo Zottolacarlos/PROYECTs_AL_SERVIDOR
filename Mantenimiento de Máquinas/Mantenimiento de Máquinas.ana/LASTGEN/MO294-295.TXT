@@ -1,0 +1,3 @@
+//MO294-295.TXT ANA00294 TO ANA00295
+Maquina		TAR	238	new record size: 238
+Maquina	Ubicación_fisica	RUB+		Ubicación_fisica is a new item

@@ -1,0 +1,3 @@
+//MO158-159.TXT ANA00158 TO ANA00159
+conectados		NFI		new file
+conectados		FRN		

@@ -1,0 +1,3 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Tarea_Extra		TAR	466	new record size: 466
+Tarea_Extra	total_inicial	RUB+		total_inicial is a new item

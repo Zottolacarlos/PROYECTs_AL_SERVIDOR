@@ -1,0 +1,4 @@
+//MO022-023.TXT ANA00022 TO ANA00023
+Deposito		TAR	414	new record size: 414
+Deposito	Parametros	TAB-	1	Parametros item is now an array of 3 elements instead of 4
+Deposito	Certificado	RUB+		Certificado is a new item

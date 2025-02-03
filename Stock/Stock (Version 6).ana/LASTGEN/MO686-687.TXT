@@ -1,0 +1,3 @@
+//MO686-687.TXT ANA00686 TO ANA00687
+Producto		TAR	214	new record size: 214
+Producto	Medida_Unitaria	RUB+		Medida_Unitaria is a new item

@@ -1,0 +1,3 @@
+//MO113-114.TXT ANA00113 TO ANA00114
+Detalle_Preventivo		TAR	440	new record size: 440
+Detalle_Preventivo	cuenta_hs_actualizado	RUB-		item cuenta_hs_actualizado deleted

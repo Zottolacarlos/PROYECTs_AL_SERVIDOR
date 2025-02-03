@@ -1,0 +1,3 @@
+//MO691-692.TXT ANA00691 TO ANA00692
+Maquina		REP*	W:\BD\Mantenimiento	new directory W:\BD\Mantenimiento
+Maquina		FRN		

@@ -1,0 +1,4 @@
+//MO415-416.TXT ANA00415 TO ANA00416
+Auditoria_eventos		TAR	644	new record size: 644
+Auditoria_eventos		IDE+		file with identifier
+Auditoria_eventos	auditoria_eventosID	RUB+		auditoria_eventosID is a new key
