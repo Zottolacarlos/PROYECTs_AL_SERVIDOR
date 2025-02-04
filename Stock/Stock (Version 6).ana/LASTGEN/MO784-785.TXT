@@ -1,0 +1,4 @@
+//MO784-785.TXT ANA00784 TO ANA00785
+Remesa_Salida		TAR	213	new record size: 213
+Remesa_Salida	Dir_PDF_Original	RUB+		Dir_PDF_Original is a new item
+Remesa_Salida	Dir_PDF_Firmado	RUB+		Dir_PDF_Firmado is a new item

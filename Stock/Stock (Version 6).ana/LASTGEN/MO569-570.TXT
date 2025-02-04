@@ -1,0 +1,3 @@
+//MO569-570.TXT ANA00569 TO ANA00570
+Passwords		TAR	19	new record size: 19
+Passwords	Sector	RUB-		item Sector deleted

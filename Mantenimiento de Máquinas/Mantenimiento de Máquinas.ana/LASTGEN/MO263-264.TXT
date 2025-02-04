@@ -1,0 +1,7 @@
+//MO263-264.TXT ANA00263 TO ANA00264
+Detalle_Correctivo		TAR	1357	new record size: 1357
+Detalle_Correctivo	fotos_maqID	RUB+		fotos_maqID is a new item
+Detalle_Preventivo		TAR	682	new record size: 682
+Detalle_Preventivo	fotos_maqID	RUB+		fotos_maqID is a new item
+Preventivo_por_cantidad		TAR	570	new record size: 570
+Preventivo_por_cantidad	fotos_maqID	RUB+		fotos_maqID is a new item

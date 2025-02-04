@@ -1,0 +1,2 @@
+//MO507-508.TXT ANA00507 TO ANA00508
+Elem_de_Stock		NFI		new file

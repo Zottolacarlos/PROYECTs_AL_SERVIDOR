@@ -1,0 +1,6 @@
+//MO119-120.TXT ANA00119 TO ANA00120
+Calif_Individuales	Calif_dep	CNW	2-byte integer$2-byte unsigned integer	new type for Calif_dep item: 2-byte integer
+Calif_Individuales	calif_fund	CNW	2-byte integer$2-byte unsigned integer	new type for calif_fund item: 2-byte integer
+Calif_Individuales	calif_calidad	CNW	2-byte integer$2-byte unsigned integer	new type for calif_calidad item: 2-byte integer
+Calif_Individuales	calif_inge	CNW	2-byte integer$2-byte unsigned integer	new type for calif_inge item: 2-byte integer
+Calif_Individuales	calif_oftec	CNW	2-byte integer$2-byte unsigned integer	new type for calif_oftec item: 2-byte integer

@@ -1,0 +1,55 @@
+//MO056-057.TXT ANA00056 TO ANA00057
+Ingenieria		TAR	323	new record size: 323
+Ingenieria	observación_I	TAB+	2	observación_I item is now an array of 3 elements 
+Ingenieria	observación_I	TAI-	220	observación_I item has been resized: 81 (instead of 301)
+Ingenieria	Decision_I	TAB+	2	Decision_I item is now an array of 3 elements 
+Ingenieria	Decision_I	CNW	Boolean$String	new type for Decision_I item: Boolean
+Oftec		TAR	731	new record size: 731
+Oftec	Observación_dep	TAB+	2	Observación_dep item is now an array of 3 elements 
+Oftec	Observación_dep	TAI-	250	Observación_dep item has been resized: 51 (instead of 301)
+Oftec	Decision_dep	TAB+	2	Decision_dep item is now an array of 3 elements 
+Oftec	Decision_dep	CNW	Boolean$String	new type for Decision_dep item: Boolean
+Oftec	obs_fund	TAB+	2	obs_fund item is now an array of 3 elements 
+Oftec	obs_fund	TAI-	150	obs_fund item has been resized: 51 (instead of 201)
+Oftec	obs_calidad	TAB+	2	obs_calidad item is now an array of 3 elements 
+Oftec	obs_calidad	TAI-	150	obs_calidad item has been resized: 51 (instead of 201)
+Oftec	decision_fund	TAB+	2	decision_fund item is now an array of 3 elements 
+Oftec	decision_fund	CNW	Boolean$String	new type for decision_fund item: Boolean
+Oftec	decision_calidad	TAB+	2	decision_calidad item is now an array of 3 elements 
+Oftec	decision_calidad	CNW	Boolean$String	new type for decision_calidad item: Boolean
+Oftec	obs_ing	TAB+	2	obs_ing item is now an array of 3 elements 
+Oftec	obs_ing	TAI-	150	obs_ing item has been resized: 51 (instead of 201)
+Oftec	decision_ing	TAB+	2	decision_ing item is now an array of 3 elements 
+Oftec	decision_ing	CNW	Boolean$String	new type for decision_ing item: Boolean
+Fundicion		TAR	532	new record size: 532
+Fundicion	Obs_espectro	TAB+	2	Obs_espectro item is now an array of 3 elements 
+Fundicion	Obs_espectro	TAI-	225	Obs_espectro item has been resized: 76 (instead of 301)
+Fundicion	Responsable_espectro	TAI-	30	Responsable_espectro item has been resized: 21 (instead of 51)
+Fundicion	Decision_espectro	TAB+	2	Decision_espectro item is now an array of 3 elements 
+Fundicion	Decision_espectro	CNW	Boolean$String	new type for Decision_espectro item: Boolean
+Fundicion	obs_trata	TAB+	2	obs_trata item is now an array of 3 elements 
+Fundicion	obs_trata	TAI+	25	obs_trata item has been resized: 76 (instead of 51)
+Fundicion	Decision_trata	TAB+	2	Decision_trata item is now an array of 3 elements 
+Fundicion	Decision_trata	CNW	Boolean$String	new type for Decision_trata item: Boolean
+Fundicion	Responsable_trata	TAI-	30	Responsable_trata item has been resized: 21 (instead of 51)
+Calidad		TAR	323	new record size: 323
+Calidad	Observación	TAB+	2	Observación item is now an array of 3 elements 
+Calidad	Observación	TAI-	220	Observación item has been resized: 81 (instead of 301)
+Calidad	Decision	TAB+	2	Decision item is now an array of 3 elements 
+Calidad	Decision	CNW	Boolean$String	new type for Decision item: Boolean
+Deposito		TAR	1022	new record size: 1022
+Deposito	Decision	NNR	Decision_1	CAUTION: item Decision_1 renamed Decision
+Deposito	Decision	TAB+	2	Decision item is now an array of 3 elements 
+Deposito	Responsable	TAI-	30	Responsable item has been resized: 21 (instead of 51)
+Deposito	item	NNR	item1	CAUTION: item item1 renamed item
+Deposito	item	TAB+	2	item item is now an array of 3 elements 
+Deposito	item	TAI+	5	item item has been resized: 81 (instead of 76)
+Deposito	recep	NNR	recep1	CAUTION: item recep1 renamed recep
+Deposito	recep	TAB+	2	recep item is now an array of 3 elements 
+Deposito	recep	TAI+	5	recep item has been resized: 81 (instead of 76)
+Deposito	item2	RUB-		item item2 deleted
+Deposito	item3	RUB-		item item3 deleted
+Deposito	recep2	RUB-		item recep2 deleted
+Deposito	recep3	RUB-		item recep3 deleted
+Deposito	Decision_2	RUB-		item Decision_2 deleted
+Deposito	Decision_3	RUB-		item Decision_3 deleted

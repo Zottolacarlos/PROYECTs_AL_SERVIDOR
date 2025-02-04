@@ -1,0 +1,5 @@
+//MO364-365.TXT ANA00364 TO ANA00365
+Maquina		TAR	265	new record size: 265
+Maquina	SectoresID	RUB+		SectoresID is a new key
+Sectores		NFI		new file
+Constraint_Maquina_Sectores		NWL	Sectores (SectoresID) and Maquina (SectoresID)	New link between Sectores (SectoresID) and Maquina (SectoresID) files

@@ -1,0 +1,3 @@
+//MO204-205.TXT ANA00204 TO ANA00205
+Detalle_Proactivo		TAR	687	new record size: 687
+Detalle_Proactivo	fecha_mant	RUB+		fecha_mant is a new key

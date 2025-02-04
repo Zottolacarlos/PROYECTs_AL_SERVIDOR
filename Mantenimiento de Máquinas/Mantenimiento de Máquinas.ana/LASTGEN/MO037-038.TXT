@@ -1,0 +1,4 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+Detalle_Correctivo		TAR	349	new record size: 349
+Detalle_Correctivo	Motivo	TAI+	75	Motivo item has been resized: 126 (instead of 51)
+Detalle_Correctivo	Observaciónes_inales	TAI+	50	Observaciónes_inales item has been resized: 101 (instead of 51)

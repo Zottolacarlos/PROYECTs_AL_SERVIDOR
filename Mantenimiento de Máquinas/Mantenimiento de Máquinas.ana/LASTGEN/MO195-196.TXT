@@ -1,0 +1,3 @@
+//MO195-196.TXT ANA00195 TO ANA00196
+impresion		NFI		new file
+impresion		FRN		

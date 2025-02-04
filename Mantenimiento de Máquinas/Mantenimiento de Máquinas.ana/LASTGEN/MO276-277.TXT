@@ -1,0 +1,15 @@
+//MO276-277.TXT ANA00276 TO ANA00277
+Verificacion_de_Maquinas		TAR	162	new record size: 162
+Verificacion_de_Maquinas	Encargado1	RUB+		Encargado1 is a new item
+Verificacion_de_Maquinas	Encargado2	RUB+		Encargado2 is a new item
+Verificacion_de_Maquinas	supervisor	RUB+		supervisor is a new item
+Verificacion_de_Maquinas	Fecha_inicio	RUB+		Fecha_inicio is a new item
+Verificacion_de_Maquinas	Fecha_fin	RUB+		Fecha_fin is a new item
+Objetos_de_Prueba		TAR	92	new record size: 92
+Objetos_de_Prueba	Admisible	RUB-		item Admisible deleted
+Verificaciones_realizadas		TAR	181	new record size: 181
+Verificaciones_realizadas	Encargado1	RUB-		item Encargado1 deleted
+Verificaciones_realizadas	Encargado2	RUB-		item Encargado2 deleted
+Verificaciones_realizadas	supervisor	RUB-		item supervisor deleted
+Verificaciones_realizadas	Fecha_inicio	RUB-		item Fecha_inicio deleted
+Verificaciones_realizadas	Fecha_fin	RUB-		item Fecha_fin deleted

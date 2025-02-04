@@ -1,0 +1,3 @@
+//MO198-199.TXT ANA00198 TO ANA00199
+temp_imp		TAR	232	new record size: 232
+temp_imp	Detalle_PreventivoID	RUB+		Detalle_PreventivoID is a new key

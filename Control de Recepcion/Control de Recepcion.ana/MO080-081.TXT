@@ -1,0 +1,4 @@
+//MO080-081.TXT ANA00080 TO ANA00081
+Recepcion		TAR	491	new record size: 491
+Recepcion	cantidad_item	TAB-	2	cantidad_item item is no longer an array
+Recepcion	cantidad_recep	TAB-	2	cantidad_recep item is no longer an array

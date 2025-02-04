@@ -1,0 +1,3 @@
+//MO368-369.TXT ANA00368 TO ANA00369
+conectados_manten		NNF*	conectados	new name conectados_manten
+conectados_manten		FRN		

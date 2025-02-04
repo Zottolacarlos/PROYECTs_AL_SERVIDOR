@@ -1,0 +1,4 @@
+//MO328-329.TXT ANA00328 TO ANA00329
+Impresion_Comparativa		TAR	1058	new record size: 1058
+Impresion_Comparativa	ProductoID	RUB+		ProductoID is a new key
+Maquina		TAR	112	new record size: 112

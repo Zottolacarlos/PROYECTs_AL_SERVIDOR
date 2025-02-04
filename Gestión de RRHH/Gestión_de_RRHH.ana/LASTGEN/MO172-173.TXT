@@ -1,0 +1,5 @@
+//MO172-173.TXT ANA00172 TO ANA00173
+Capacitaciones_Auditoria		NFI		new file
+Capacitaciones_Original		NFI		new file
+Constraint_Capacitaciones_Auditoria_Capacitaciones		NWL	Capacitaciones (CapacitacionesID) and Capacitaciones_Auditoria (CapacitacionesID)	New link between Capacitaciones (CapacitacionesID) and Capacitaciones_Auditoria (CapacitacionesID) files
+Constraint_Capacitaciones_Original_Capacitaciones		NWL	Capacitaciones (CapacitacionesID) and Capacitaciones_Original (CapacitacionesID)	New link between Capacitaciones (CapacitacionesID) and Capacitaciones_Original (CapacitacionesID) files

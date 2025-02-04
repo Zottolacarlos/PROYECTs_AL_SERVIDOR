@@ -1,0 +1,3 @@
+//MO140-141.TXT ANA00140 TO ANA00141
+acc_corrct_respuestas		TAR	116	new record size: 116
+acc_corrct_respuestas	NOta_reunion	RUB+		NOta_reunion is a new item

@@ -1,0 +1,5 @@
+//MO498-499.TXT ANA00498 TO ANA00499
+Auditoria_Stock		TAR	123	new record size: 123
+Auditoria_Stock	Cantidad_movida	CNW	String$8-byte real	new type for Cantidad_movida item: String
+Stock_xa_Supervisores		TAR	137	new record size: 137
+Stock_xa_Supervisores	Recepcion_de_MaterialesID	CNW	String$4-byte integer	new type for Recepcion_de_MaterialesID item: String

@@ -1,0 +1,3 @@
+//MO099-100.TXT ANA00099 TO ANA00100
+Hoja1		NNF*	Hoja1$	new name Hoja1
+Hoja1		FRN		

@@ -1,0 +1,4 @@
+//MO248-249.TXT ANA00248 TO ANA00249
+ejecutores		TAR	68	new record size: 68
+ejecutores	Legajo	RUB+		Legajo is a new key
+ejecutores	Ingreso	RUB+		Ingreso is a new item

@@ -1,0 +1,5 @@
+//MO331-332.TXT ANA00331 TO ANA00332
+Precios_deReferencia		TAR	264	new record size: 264
+Precios_deReferencia	legajo_q_carga	RUB+		legajo_q_carga is a new item
+Precios_deReferencia	fecha_carga	RUB+		fecha_carga is a new item
+Maquina		TAR	112	new record size: 112

@@ -1,0 +1,3 @@
+//MO320-321.TXT ANA00320 TO ANA00321
+Auditoria_Stock		TAR	107	new record size: 107
+Auditoria_Stock	stock_del_supervisor	RUB+		stock_del_supervisor is a new item

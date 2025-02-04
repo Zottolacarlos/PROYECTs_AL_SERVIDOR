@@ -1,0 +1,9 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Personal_IMSA_rrhh		NFI		new file
+Sectores		NFI		new file
+Sectores_Puestos		NFI		new file
+Sectores_Usuarios		NFI		new file
+Datos_Prog		NFI		new file
+Equipo		NFI		new file
+Programas		NFI		new file
+Datos_Prog		FRN		

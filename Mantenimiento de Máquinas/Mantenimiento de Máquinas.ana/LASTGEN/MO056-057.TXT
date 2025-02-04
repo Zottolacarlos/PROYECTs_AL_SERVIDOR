@@ -1,0 +1,2 @@
+//MO056-057.TXT ANA00056 TO ANA00057
+Maquina	Reloj_cuenta_hr	NNR	Hora_inicial	CAUTION: item Hora_inicial renamed Reloj_cuenta_hr

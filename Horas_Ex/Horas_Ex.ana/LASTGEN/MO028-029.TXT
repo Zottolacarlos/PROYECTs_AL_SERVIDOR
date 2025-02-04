@@ -1,0 +1,3 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+saldos_leche		TAR	37	new record size: 37
+saldos_leche	cerrada	RUB+		cerrada is a new item

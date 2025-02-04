@@ -1,0 +1,4 @@
+//MO293-294.TXT ANA00293 TO ANA00294
+Maquina		TAR	187	new record size: 187
+Maquina	Marca	RUB+		Marca is a new item
+Maquina	Potencia	RUB+		Potencia is a new item

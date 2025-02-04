@@ -1,0 +1,4 @@
+//MO184-185.TXT ANA00184 TO ANA00185
+Categoria_Operarios		TAR	131	new record size: 131
+Categoria_Operarios	Nueva_Categoria	RUB+		Nueva_Categoria is a new item
+Categoria_Operarios	Categoria_Actual	RUB+		Categoria_Actual is a new item

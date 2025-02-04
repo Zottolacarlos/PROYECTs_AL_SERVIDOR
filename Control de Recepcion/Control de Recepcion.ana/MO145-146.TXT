@@ -1,0 +1,4 @@
+//MO145-146.TXT ANA00145 TO ANA00146
+Producto		TAR	345	new record size: 345
+Producto	codigoID_origen_costo_anterior	RUB-		item codigoID_origen_costo_anterior deleted
+Producto	codigoID_origen_costo_antiguo	RUB-		item codigoID_origen_costo_antiguo deleted

@@ -1,0 +1,4 @@
+//MO716-717.TXT ANA00716 TO ANA00717
+Elem_de_remitos_compras		TAR	149	new record size: 149
+Elem_de_remitos_compras	Elem_de_RecepcionID	RUB+		Elem_de_RecepcionID is a new key
+Constraint_Elem_de_remitos_compras_Elem_de_Recepcion		NWL	Elem_de_Recepcion (Elem_de_RecepcionID) and Elem_de_remitos_compras (Elem_de_RecepcionID)	New link between Elem_de_Recepcion (Elem_de_RecepcionID) and Elem_de_remitos_compras (Elem_de_RecepcionID) files

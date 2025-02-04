@@ -1,0 +1,4 @@
+//MO077-078.TXT ANA00077 TO ANA00078
+Tableros		TAR	36	new record size: 36
+Tableros	Control_Semestral	RUB-		item Control_Semestral deleted
+Tableros	Estado	RUB-		item Estado deleted

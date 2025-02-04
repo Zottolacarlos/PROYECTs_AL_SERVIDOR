@@ -1,0 +1,4 @@
+//MO586-587.TXT ANA00586 TO ANA00587
+Control_de_Recepciones		TAR	124	new record size: 124
+Control_de_Recepciones	Resultado	CNW	4-byte real$String	new type for Resultado item: 4-byte real
+Control_de_Recepciones	Resultado_Parcial	RUB+		Resultado_Parcial is a new item

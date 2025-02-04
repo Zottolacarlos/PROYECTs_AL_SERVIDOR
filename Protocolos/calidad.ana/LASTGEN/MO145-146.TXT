@@ -1,0 +1,12 @@
+//MO145-146.TXT ANA00145 TO ANA00146
+Temp_Imp_ACC		TAR	320	new record size: 320
+Temp_Imp_ACC	Pieza_Evidencia	CNW	Text Memo$String	new type for Pieza_Evidencia item: Text Memo
+Temp_Imp_ACC	Segundo_xq	CNW	Text Memo$String	new type for Segundo_xq item: Text Memo
+Temp_Imp_ACC	Desviación	CNW	Text Memo$String	new type for Desviación item: Text Memo
+Temp_Imp_ACC	Accion_corto_plazo	CNW	Text Memo$String	new type for Accion_corto_plazo item: Text Memo
+Temp_Imp_ACC	Accion_largo_plazo	CNW	Text Memo$String	new type for Accion_largo_plazo item: Text Memo
+Temp_Imp_ACC	primer_xq	CNW	Text Memo$String	new type for primer_xq item: Text Memo
+Temp_Imp_ACC	tercer_xq	CNW	Text Memo$String	new type for tercer_xq item: Text Memo
+Temp_Imp_ACC	cuarto_xq	CNW	Text Memo$String	new type for cuarto_xq item: Text Memo
+Temp_Imp_ACC	quinto_xq	CNW	Text Memo$String	new type for quinto_xq item: Text Memo
+Temp_Imp_ACC	razon_raiz	CNW	Text Memo$String	new type for razon_raiz item: Text Memo

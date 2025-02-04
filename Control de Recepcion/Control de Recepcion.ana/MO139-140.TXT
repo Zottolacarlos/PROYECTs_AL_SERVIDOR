@@ -1,0 +1,2 @@
+//MO139-140.TXT ANA00139 TO ANA00140
+Elem_del_Pedido		NFI		new file

@@ -1,0 +1,5 @@
+//MO096-097.TXT ANA00096 TO ANA00097
+Detalle_Correctivo		TAR	766	new record size: 766
+Detalle_Correctivo	Estado	RUB+		Estado is a new item
+Detalle_Correctivo	Pendiente	RUB-		item Pendiente deleted
+Detalle_Correctivo	Terminado	RUB-		item Terminado deleted

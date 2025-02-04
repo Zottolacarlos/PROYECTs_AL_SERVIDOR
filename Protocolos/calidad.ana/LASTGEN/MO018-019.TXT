@@ -1,0 +1,3 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Hoja1$		TAR	1465	new record size: 1465
+Hoja1$	Protocolo Nº	CNW	4-byte unsigned integer$String	new type for Protocolo Nº item: 4-byte unsigned integer

@@ -1,0 +1,3 @@
+//MO377-378.TXT ANA00377 TO ANA00378
+correctivo_postergado		TAR	232	new record size: 232
+correctivo_postergado	Fecha_Prob_Retoma	RUB+		Fecha_Prob_Retoma is a new item

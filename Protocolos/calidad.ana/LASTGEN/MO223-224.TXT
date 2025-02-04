@@ -1,0 +1,8 @@
+//MO223-224.TXT ANA00223 TO ANA00224
+conectados		TAR	141	new record size: 141
+conectados	conectadosID	CNW	Automatic Identifier (4 bytes)$Automatic Identifier (8 bytes)	new type for conectadosID item: Automatic Identifier (4 bytes)
+conectados	usuario	RUB+		usuario is a new item
+conectados	Fecha	RUB+		Fecha is a new item
+conectados	h_Inicio	RUB+		h_Inicio is a new item
+conectados	h_fin	RUB+		h_fin is a new item
+conectados	ip	RUB+		ip is a new item

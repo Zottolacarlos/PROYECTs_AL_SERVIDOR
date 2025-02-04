@@ -1,0 +1,3 @@
+//MO566-567.TXT ANA00566 TO ANA00567
+Controles_recep_Pedidos		TAR	436	new record size: 436
+Controles_recep_Pedidos	Estado	RUB+		Estado is a new item

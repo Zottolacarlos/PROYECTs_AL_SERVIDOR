@@ -1,0 +1,11 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Pedido_de_Contratación		TAR	155	new record size: 155
+Pedido_de_Contratación	Perfiles_de_ContrataciónID	RUB+		Perfiles_de_ContrataciónID is a new key
+Preseleccionados		TAR	30	new record size: 30
+Preseleccionados	Perfiles_de_ContrataciónID	RUB-		key Perfiles_de_ContrataciónID deleted
+Pedido_de_Contratación_Preseleccionados		NFI		new file
+Constraint_Pedido_de_Contratación_Preseleccionados		NWL	Pedido_de_Contratación (Pedido_de_ContrataciónID) and Pedido_de_Contratación_Preseleccionados (Pedido_de_ContrataciónID)	New link between Pedido_de_Contratación (Pedido_de_ContrataciónID) and Pedido_de_Contratación_Preseleccionados (Pedido_de_ContrataciónID) files
+Constraint_Perfiles_de_Contratación_Pedido_de_Contratación		NWL	Perfiles_de_Contratación (Perfiles_de_ContrataciónID) and Pedido_de_Contratación (Perfiles_de_ContrataciónID)	New link between Perfiles_de_Contratación (Perfiles_de_ContrataciónID) and Pedido_de_Contratación (Perfiles_de_ContrataciónID) files
+Constraint_Preseleccionados_Pedido_de_Contratación		NWL	Preseleccionados (PreseleccionadosID) and Pedido_de_Contratación_Preseleccionados (PreseleccionadosID)	New link between Preseleccionados (PreseleccionadosID) and Pedido_de_Contratación_Preseleccionados (PreseleccionadosID) files
+Constraint_Perfiles_de_Contratación_Preseleccionados		DEL	Perfiles_de_Contratación (Perfiles_de_ContrataciónID) and Preseleccionados (Perfiles_de_ContrataciónID)	Link deleted between Perfiles_de_Contratación (Perfiles_de_ContrataciónID) and Preseleccionados (Perfiles_de_ContrataciónID) files
+Constraint_Pedido_de_Contratación_Perfiles_de_Contratación		DEL	Pedido_de_Contratación (Pedido_de_ContrataciónID) and Perfiles_de_Contratación (Pedido_de_ContrataciónID)	Link deleted between Pedido_de_Contratación (Pedido_de_ContrataciónID) and Perfiles_de_Contratación (Pedido_de_ContrataciónID) files

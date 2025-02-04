@@ -1,0 +1,3 @@
+//MO534-535.TXT ANA00534 TO ANA00535
+Impresion_Comparativa		TAR	1229	new record size: 1229
+Impresion_Comparativa	Version	RUB+		Version is a new key

@@ -1,0 +1,3 @@
+//MO752-753.TXT ANA00752 TO ANA00753
+Elem_del_Retiro		TAR	243	new record size: 243
+Elem_del_Retiro	Asociado	RUB+		Asociado is a new item

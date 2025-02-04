@@ -1,0 +1,5 @@
+//MO360-361.TXT ANA00360 TO ANA00361
+Detalle_Preventivo		TAR	467	new record size: 467
+Detalle_Preventivo	Time_ejec_estimado	NNR	Time_ejec_prom	CAUTION: item Time_ejec_prom renamed Time_ejec_estimado
+Detalle_Preventivo	Time_ejec_estimado	CNW	2-byte unsigned integer$1-byte unsigned integer	new type for Time_ejec_estimado item: 2-byte unsigned integer
+Detalle_Preventivo	Tiempo_ejecución_realizado	RUB+		Tiempo_ejecución_realizado is a new item

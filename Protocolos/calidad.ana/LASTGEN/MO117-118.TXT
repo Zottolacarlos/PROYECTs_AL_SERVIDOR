@@ -1,0 +1,7 @@
+//MO117-118.TXT ANA00117 TO ANA00118
+Usuarios		TAR	274	new record size: 274
+Usuarios	encargado	RUB+		encargado is a new item
+Usuarios	operario	RUB+		operario is a new item
+Usuarios	mail_1	RUB+		mail_1 is a new item
+Usuarios	mail_2	RUB+		mail_2 is a new item
+Instrumentos_incidentes		FIC-	acc_correc_SECTORES	acc_correc_SECTORES file deleted

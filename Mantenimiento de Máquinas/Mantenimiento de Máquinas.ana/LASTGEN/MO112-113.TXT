@@ -1,0 +1,2 @@
+//MO112-113.TXT ANA00112 TO ANA00113
+Detalle_Preventivo	Prox_Preventivo_actualizado	NNR	Proximo_Preventivo	CAUTION: key Proximo_Preventivo renamed Prox_Preventivo_actualizado

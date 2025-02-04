@@ -1,0 +1,6 @@
+//MO212-213.TXT ANA00212 TO ANA00213
+acc_correct_auditoria		TAR	190	new record size: 190
+acc_correct_auditoria	Nombre	RUB+		Nombre is a new key
+acc_correct_auditoria	UsuariosID	RUB-		key UsuariosID deleted
+Constraint_Usuarios_acc_correct_auditoria		NWL	Usuarios (nombre) and acc_correct_auditoria (Nombre)	New link between Usuarios (nombre) and acc_correct_auditoria (Nombre) files
+Constraint_acc_correct_auditoria_Usuarios		DEL	Usuarios (UsuariosID) and acc_correct_auditoria (UsuariosID)	Link deleted between Usuarios (UsuariosID) and acc_correct_auditoria (UsuariosID) files

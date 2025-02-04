@@ -1,0 +1,4 @@
+//MO361-362.TXT ANA00361 TO ANA00362
+Preventivo_por_cantidad		TAR	381	new record size: 381
+Preventivo_por_cantidad	Tiempo_ejec_estimado	RUB+		Tiempo_ejec_estimado is a new item
+Preventivo_por_cantidad	Tiempo_ejec_realizado	RUB+		Tiempo_ejec_realizado is a new item

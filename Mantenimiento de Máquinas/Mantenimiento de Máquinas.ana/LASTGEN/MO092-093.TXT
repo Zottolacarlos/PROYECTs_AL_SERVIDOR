@@ -1,0 +1,7 @@
+//MO092-093.TXT ANA00092 TO ANA00093
+Arbol_de_elementos		TAR	80	new record size: 80
+Arbol_de_elementos	Categoría	CLEN*		Categoría item is now key
+Arbol_de_elementos	Elem_Padre	RUB-		item Elem_Padre deleted
+Maquina		FIC-	Maquina_Arbol_de_elementos	Maquina_Arbol_de_elementos file deleted
+Arbol_de_elementos		DEL	Arbol_de_elementos (Arbol_de_elementosID) and Maquina_Arbol_de_elementos (Arbol_de_elementosID)	Link deleted between Arbol_de_elementos (Arbol_de_elementosID) and Maquina_Arbol_de_elementos (Arbol_de_elementosID) files
+Maquina		DEL	Maquina (Denominación_Int) and Maquina_Arbol_de_elementos (Denominación_Int)	Link deleted between Maquina (Denominación_Int) and Maquina_Arbol_de_elementos (Denominación_Int) files

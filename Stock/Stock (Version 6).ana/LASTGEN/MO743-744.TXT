@@ -1,0 +1,4 @@
+//MO743-744.TXT ANA00743 TO ANA00744
+Materiales_Provistos_Presupuestos		TAR	45	new record size: 45
+Materiales_Provistos_Presupuestos	ProductoID	RUB+		ProductoID is a new key
+Materiales_Provistos_Presupuestos	Descripcion_Prod	RUB+		Descripcion_Prod is a new item

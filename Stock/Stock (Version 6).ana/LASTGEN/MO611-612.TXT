@@ -1,0 +1,5 @@
+//MO611-612.TXT ANA00611 TO ANA00612
+Auditoria_deposito		TAR	42	new record size: 42
+Auditoria_deposito	Stock_en_Dep	RUB+		Stock_en_Dep is a new item
+Auditoria_deposito	Observaciones	RUB+		Observaciones is a new item
+Auditoria_deposito	Resultado	RUB-		item Resultado deleted

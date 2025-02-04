@@ -1,0 +1,4 @@
+//MO183-184.TXT ANA00183 TO ANA00184
+acc_correct_evidencias		TAR	114	new record size: 114
+acc_correct_evidencias	fecha_evidencia	RUB+		fecha_evidencia is a new item
+acc_correct_evidencias	fecha_calidad	RUB+		fecha_calidad is a new item

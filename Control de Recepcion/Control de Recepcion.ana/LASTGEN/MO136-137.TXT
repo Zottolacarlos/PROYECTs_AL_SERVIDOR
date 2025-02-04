@@ -1,0 +1,2 @@
+//MO136-137.TXT ANA00136 TO ANA00137
+Recepcion_de_Materiales		BASE		File base changed from Generic SQL (ANSI 92) to Unknown

@@ -1,0 +1,4 @@
+//MO722-723.TXT ANA00722 TO ANA00723
+Comparativa_Aviso		TAR	70	new record size: 70
+Comparativa_Aviso	Listo_xa_Mandar	RUB+		Listo_xa_Mandar is a new item
+Comparativa_Aviso	Error_PM	RUB+		Error_PM is a new item

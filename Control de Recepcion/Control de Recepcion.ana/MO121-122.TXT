@@ -1,0 +1,3 @@
+//MO121-122.TXT ANA00121 TO ANA00122
+Clasificacion_proveedores		TAR	33	new record size: 33
+Clasificacion_proveedores	año_control	CNW	2-byte unsigned integer$String	new type for año_control item: 2-byte unsigned integer

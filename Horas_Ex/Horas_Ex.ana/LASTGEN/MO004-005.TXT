@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Control_de_liquidaciones$		NFI		new file
+Connection to 'C:\Users\czottola\Desktop\operarios2.xls'		CNX+		

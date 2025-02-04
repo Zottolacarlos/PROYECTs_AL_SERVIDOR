@@ -1,0 +1,3 @@
+//MO205-206.TXT ANA00205 TO ANA00206
+Detalle_Proactivo		TAR	689	new record size: 689
+Detalle_Proactivo	Tiempo_ejecución	CNW	String$Time (hhmm)	new type for Tiempo_ejecución item: String

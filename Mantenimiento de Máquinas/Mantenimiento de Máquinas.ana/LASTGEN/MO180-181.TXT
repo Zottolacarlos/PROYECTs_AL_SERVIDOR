@@ -1,0 +1,2 @@
+//MO180-181.TXT ANA00180 TO ANA00181
+entrega_parcial	fecha_q_se_cerró	NNR	fecha_cierre	CAUTION: item fecha_cierre renamed fecha_q_se_cerró

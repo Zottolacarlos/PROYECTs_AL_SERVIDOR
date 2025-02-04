@@ -1,0 +1,4 @@
+//MO550-551.TXT ANA00550 TO ANA00551
+Elem_de_Producto		TAR	271	new record size: 271
+Elem_de_Producto	Diametro	RUB+		Diametro is a new item
+Elem_de_Producto	Largo	RUB+		Largo is a new item

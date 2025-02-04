@@ -1,0 +1,5 @@
+//MO310-311.TXT ANA00310 TO ANA00311
+Detalle_Proactivo		TAR	988	new record size: 988
+Detalle_Proactivo	fecha_ticket	RUB+		fecha_ticket is a new item
+Detalle_Proactivo	Responsable_ticket	RUB+		Responsable_ticket is a new item
+Detalle_Proactivo	Descripción_del_Ticket	RUB+		Descripción_del_Ticket is a new item

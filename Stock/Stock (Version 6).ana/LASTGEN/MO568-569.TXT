@@ -1,0 +1,7 @@
+//MO568-569.TXT ANA00568 TO ANA00569
+Passwords		TAR	45	new record size: 45
+Passwords	SectoresID	RUB+		SectoresID is a new key
+Sectores		NFI		new file
+Sectores_Que_Controlan		FIC-	Sectores_Que_Controlan	Sectores_Que_Controlan file deleted
+Constraint_Passwords_Sectores		NWL	Sectores (SectoresID) and Passwords (SectoresID)	New link between Sectores (SectoresID) and Passwords (SectoresID) files
+Constraint_Sectores_Que_Controlan_Control_Recep_Sector		DEL	Sectores_Que_Controlan (Sectores_Que_ControlanID) and Control_Recep_Sector (Sectores_Que_ControlanID)	Link deleted between Sectores_Que_Controlan (Sectores_Que_ControlanID) and Control_Recep_Sector (Sectores_Que_ControlanID) files

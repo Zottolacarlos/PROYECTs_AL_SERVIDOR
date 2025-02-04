@@ -1,0 +1,3 @@
+//MO327-328.TXT ANA00327 TO ANA00328
+PROTOCOLOS		TAR	447	new record size: 447
+PROTOCOLOS	Usuario_Decide_GI	RUB+		Usuario_Decide_GI is a new item

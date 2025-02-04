@@ -1,0 +1,3 @@
+//MO762-763.TXT ANA00762 TO ANA00763
+Elem_de_Remesa_Salida		TAR	175	new record size: 175
+Elem_de_Remesa_Salida	PV_Factura	RUB+		PV_Factura is a new key

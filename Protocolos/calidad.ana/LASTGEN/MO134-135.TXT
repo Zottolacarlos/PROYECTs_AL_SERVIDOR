@@ -1,0 +1,3 @@
+//MO134-135.TXT ANA00134 TO ANA00135
+acciones_correct		TAR	1364	new record size: 1364
+acciones_correct	Prueba_archivo	RUB+		Prueba_archivo is a new item

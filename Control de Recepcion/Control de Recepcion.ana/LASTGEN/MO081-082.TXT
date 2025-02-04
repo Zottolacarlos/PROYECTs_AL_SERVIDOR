@@ -1,0 +1,3 @@
+//MO081-082.TXT ANA00081 TO ANA00082
+All_recepciones		TAR	984	new record size: 984
+All_recepciones	cargado	RUB+		cargado is a new item

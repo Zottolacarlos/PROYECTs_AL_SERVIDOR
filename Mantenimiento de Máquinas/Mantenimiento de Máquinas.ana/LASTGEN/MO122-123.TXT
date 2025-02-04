@@ -1,0 +1,2 @@
+//MO122-123.TXT ANA00122 TO ANA00123
+tareas	Descripción	CLEN*		Descripción item is now key

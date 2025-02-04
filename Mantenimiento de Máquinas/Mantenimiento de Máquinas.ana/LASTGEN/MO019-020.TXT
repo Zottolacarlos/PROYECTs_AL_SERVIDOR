@@ -1,0 +1,5 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Detalle_Preventivo		TAR	165	new record size: 165
+Detalle_Preventivo	fecha_Actual_Preven	NNR	Fecha_Actual	CAUTION: key Fecha_Actual renamed fecha_Actual_Preven
+Detalle_Preventivo	fecha_vieja	RUB+		fecha_vieja is a new item
+Detalle_Preventivo	Motivo_Cambio_fecha	RUB+		Motivo_Cambio_fecha is a new item

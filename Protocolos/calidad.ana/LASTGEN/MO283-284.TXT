@@ -1,0 +1,3 @@
+//MO283-284.TXT ANA00283 TO ANA00284
+Personal_IMSA_rrhh		NFI		new file
+Personal_IMSA_rrhh		FIC-	Personal_IMSA_rrhh	Personal_IMSA_rrhh file deleted

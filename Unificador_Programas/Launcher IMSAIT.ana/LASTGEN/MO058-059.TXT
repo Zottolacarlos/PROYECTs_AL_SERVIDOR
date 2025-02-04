@@ -1,0 +1,2 @@
+//MO058-059.TXT ANA00058 TO ANA00059
+acciones_correct		FIC-	acciones_correct	acciones_correct file deleted

@@ -1,0 +1,5 @@
+//MO116-117.TXT ANA00116 TO ANA00117
+ejecutadores		NFI		new file
+tareas		NFI		new file
+tareas		FRN		
+ejecutadores		FRN		

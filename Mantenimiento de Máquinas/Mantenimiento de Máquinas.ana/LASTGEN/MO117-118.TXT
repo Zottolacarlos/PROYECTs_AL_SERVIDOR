@@ -1,0 +1,6 @@
+//MO117-118.TXT ANA00117 TO ANA00118
+parte_maquina		NFI		new file
+ejecutadores		NWL	ejecutadores (ejecutadoresID) and parte_maquina (EjecutadoresID)	New link between ejecutadores (ejecutadoresID) and parte_maquina (EjecutadoresID) files
+tareas		NWL	tareas (tareasID) and parte_maquina (TareasID)	New link between tareas (tareasID) and parte_maquina (TareasID) files
+Detalle_Preventivo		NWL	Detalle_Preventivo (Detalle_PreventivoID) and parte_maquina (Detalle_PreventivoID)	New link between Detalle_Preventivo (Detalle_PreventivoID) and parte_maquina (Detalle_PreventivoID) files
+parte_maquina		FRN		

@@ -1,0 +1,5 @@
+//MO383-384.TXT ANA00383 TO ANA00384
+Comparativa		TAR	617	new record size: 617
+Comparativa	Item_cotizado	CNW	Text Memo$String	new type for Item_cotizado item: Text Memo
+Comparativa	cantidad_cotizada	CNW	Decimal$String	new type for cantidad_cotizada item: Decimal
+Comparativa	Precio_total_compras	CNW	Currency$String	new type for Precio_total_compras item: Currency

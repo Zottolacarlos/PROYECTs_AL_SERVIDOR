@@ -1,0 +1,12 @@
+//MO596-597.TXT ANA00596 TO ANA00597
+articulos		FCNX+	la de saborido	
+cotizaciones		FCNX+	la de saborido	
+presupuestos		FCNX+	la de saborido	
+presupuestos_articulos		FCNX+	la de saborido	
+empleados		FCNX+	la de saborido	
+empleados_areas		FCNX+	la de saborido	
+areas		FCNX+	la de saborido	
+cuentasclientes		FCNX+	la de saborido	
+ordenesfabricacion		FCNX+	la de saborido	
+estadospresupuestos		FCNX+	la de saborido	
+la de saborido		CNX+		

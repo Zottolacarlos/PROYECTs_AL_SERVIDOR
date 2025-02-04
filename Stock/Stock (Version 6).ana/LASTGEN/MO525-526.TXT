@@ -1,0 +1,3 @@
+//MO525-526.TXT ANA00525 TO ANA00526
+Elem_Orden_de_Compra		TAR	127	new record size: 127
+Elem_Orden_de_Compra	plazo_en_dias	RUB+		plazo_en_dias is a new item

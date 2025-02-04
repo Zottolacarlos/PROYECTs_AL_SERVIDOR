@@ -1,0 +1,3 @@
+//MO466-467.TXT ANA00466 TO ANA00467
+Elem_del_Pedido		TAR	545	new record size: 545
+Elem_del_Pedido	ComparativaID	RUB+		ComparativaID is a new key

@@ -1,0 +1,3 @@
+//MO108-109.TXT ANA00108 TO ANA00109
+lectura_hs		TAR	60	new record size: 60
+lectura_hs	Promedio_hs_total	RUB+		Promedio_hs_total is a new item

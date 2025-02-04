@@ -1,0 +1,5 @@
+//MO229-230.TXT ANA00229 TO ANA00230
+Instrumentos		TAR	736	new record size: 736
+Instrumentos	Archivo_baja	RUB+		Archivo_baja is a new item
+Instrumentos	Fecha_archivo_baja	RUB+		Fecha_archivo_baja is a new item
+Instrumentos	Observaciones_archivo_baja	RUB+		Observaciones_archivo_baja is a new item

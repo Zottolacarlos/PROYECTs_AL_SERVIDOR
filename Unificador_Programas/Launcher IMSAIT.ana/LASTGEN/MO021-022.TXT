@@ -1,0 +1,3 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+conectados_rrhh		NFI		new file
+conectados_rrhh		FIC-	conectados_rrhh	conectados_rrhh file deleted

@@ -1,0 +1,4 @@
+//MO178-179.TXT ANA00178 TO ANA00179
+Capacitaciones		TAR	623	new record size: 623
+Capacitaciones	Archivo_info	TAB+	2	Archivo_info item is now an array of 3 elements 
+Capacitaciones	Archivo_info	CNW	String$Text Memo	new type for Archivo_info item: String

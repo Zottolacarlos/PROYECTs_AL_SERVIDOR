@@ -1,0 +1,3 @@
+//MO213-214.TXT ANA00213 TO ANA00214
+acc_correct_auditoria		TAR	189	new record size: 189
+acc_correct_auditoria	Fecha	CNW	Date and Time (yyyymmddhhmmssccc)$Date (yyyymmdd)	new type for Fecha item: Date and Time (yyyymmddhhmmssc

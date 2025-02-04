@@ -1,0 +1,4 @@
+//MO257-258.TXT ANA00257 TO ANA00258
+acciones_correct		TAR	1156	new record size: 1156
+acciones_correct	Legajo_responsable	RUB+		Legajo_responsable is a new item
+acciones_correct	Legajo_carga	RUB+		Legajo_carga is a new item

@@ -1,0 +1,4 @@
+//MO173-174.TXT ANA00173 TO ANA00174
+Detalle_Preventivo		TAR	446	new record size: 446
+Detalle_Preventivo	idparte_maq_heredada	RUB-		item idparte_maq_heredada deleted
+parte_maquina	Detalle_PreventivoID	NNR	Detalle_PreventivoID_inicial	CAUTION: key Detalle_PreventivoID_inicial renamed Detalle_PreventivoID

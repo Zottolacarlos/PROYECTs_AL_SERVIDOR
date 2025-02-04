@@ -1,0 +1,3 @@
+//MO552-553.TXT ANA00552 TO ANA00553
+Retorno_de_Materiales		TAR	169	new record size: 169
+Retorno_de_Materiales	Fecha_retorno	CNW	Date and Time (yyyymmddhhmmssccc)$Date (yyyymmdd)	new type for Fecha_retorno item: Date and Time (yyyymmddhhmmssc

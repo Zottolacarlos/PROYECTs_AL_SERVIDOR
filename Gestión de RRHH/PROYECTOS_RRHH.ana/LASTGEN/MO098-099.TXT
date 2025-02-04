@@ -1,0 +1,3 @@
+//MO098-099.TXT ANA00098 TO ANA00099
+Personal_IMSA_rrhh		TAR	621	new record size: 621
+Personal_IMSA_rrhh	SectoresID	RUB-		key SectoresID deleted

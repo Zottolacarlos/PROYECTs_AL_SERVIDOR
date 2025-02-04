@@ -1,0 +1,11 @@
+//MO508-509.TXT ANA00508 TO ANA00509
+Elem_de_Producto		NNF	Elem_de_Stock	new name Elem_de_Producto
+Elem_de_Producto		EXT		new extension 
+Elem_de_Producto		TAR	153	new record size: 153
+Elem_de_Producto	espesor	RUB+		espesor is a new item
+Elem_de_Producto	ProductoID	RUB+		ProductoID is a new key
+Elem_de_Producto	Marca	RUB+		Marca is a new item
+Elem_de_Producto	Fecha_Ingreso	RUB+		Fecha_Ingreso is a new item
+Elem_de_Producto	Ultima_modificacion	RUB+		Ultima_modificacion is a new item
+Constraint_Producto_Elem_de_Producto		NWL	Producto (ProductoID) and Elem_de_Producto (ProductoID)	New link between Producto (ProductoID) and Elem_de_Producto (ProductoID) files
+Elem_de_Producto		FRN		

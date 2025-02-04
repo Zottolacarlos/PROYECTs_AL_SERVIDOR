@@ -1,0 +1,3 @@
+//MO166-167.TXT ANA00166 TO ANA00167
+Temp_Imp_ACC		TAR	372	new record size: 372
+Temp_Imp_ACC	obs_verificacion	RUB+		obs_verificacion is a new item

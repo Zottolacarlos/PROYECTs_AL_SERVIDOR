@@ -1,0 +1,7 @@
+//MO355-356.TXT ANA00355 TO ANA00356
+Detalle_Correctivo		TAR	1208	new record size: 1208
+Detalle_Correctivo	Tipo_mantenimiento	RUB+		Tipo_mantenimiento is a new item
+Detalle_Preventivo		TAR	465	new record size: 465
+Detalle_Preventivo	Tipo_mantenimiento	RUB+		Tipo_mantenimiento is a new item
+Detalle_Proactivo		TAR	992	new record size: 992
+Detalle_Proactivo	Tipo_mantenimiento	RUB+		Tipo_mantenimiento is a new item

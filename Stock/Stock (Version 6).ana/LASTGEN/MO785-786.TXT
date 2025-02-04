@@ -1,0 +1,2 @@
+//MO785-786.TXT ANA00785 TO ANA00786
+subcuentas		FIC-	subcuentas	subcuentas file deleted

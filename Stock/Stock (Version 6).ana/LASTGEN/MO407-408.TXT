@@ -1,0 +1,2 @@
+//MO407-408.TXT ANA00407 TO ANA00408
+Constraint_Entregas_y_Prestamos_Herramientas_de_Entregas_y_Prestamos		NWL	Entregas_y_Prestamos (Entregas_y_PrestamosID) and Herramientas_de_Entregas_y_Prestamos (Entregas_y_PrestamosID)	New link between Entregas_y_Prestamos (Entregas_y_PrestamosID) and Herramientas_de_Entregas_y_Prestamos (Entregas_y_PrestamosID) files

@@ -1,0 +1,7 @@
+//MO579-580.TXT ANA00579 TO ANA00580
+Control_de_Recepciones		TAR	158	new record size: 158
+Control_de_Recepciones	Certificado	RUB+		Certificado is a new item
+Control_de_Recepciones	Dir_Certificado	RUB+		Dir_Certificado is a new item
+Controles_REalizados		TAR	52	new record size: 52
+Controles_REalizados	Certificado	RUB-		item Certificado deleted
+Controles_REalizados	Dir_Certificado	RUB-		item Dir_Certificado deleted

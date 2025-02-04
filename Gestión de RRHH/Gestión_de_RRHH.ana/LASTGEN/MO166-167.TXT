@@ -1,0 +1,3 @@
+//MO166-167.TXT ANA00166 TO ANA00167
+Evaluacion_Desemp		NFI		new file
+Constraint_Personal_IMSA_rrhh_Evaluacion_Desemp		NWL	Personal_IMSA_rrhh (Legajo) and Evaluacion_Desemp (Legajo)	New link between Personal_IMSA_rrhh (Legajo) and Evaluacion_Desemp (Legajo) files

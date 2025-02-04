@@ -1,0 +1,2 @@
+//MO162-163.TXT ANA00162 TO ANA00163
+Constraint_Sectores_Sectores_Usuarios		NWL	Sectores (SectoresID) and Sectores_Usuarios (SectoresID)	New link between Sectores (SectoresID) and Sectores_Usuarios (SectoresID) files

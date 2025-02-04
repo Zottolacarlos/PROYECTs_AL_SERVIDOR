@@ -1,0 +1,3 @@
+//MO553-554.TXT ANA00553 TO ANA00554
+Elem_del_Pedido		TAR	557	new record size: 557
+Elem_del_Pedido	Sector_Encargado	RUB+		Sector_Encargado is a new item

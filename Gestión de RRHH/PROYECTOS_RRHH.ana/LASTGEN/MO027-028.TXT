@@ -1,0 +1,6 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+Preseleccionados		TAR	76	new record size: 76
+Preseleccionados	Estados_PreseleccionadosID	RUB+		Estados_PreseleccionadosID is a new key
+Preseleccionados	Estado	RUB-		item Estado deleted
+Estados_Preseleccionados		NFI		new file
+Constraint_Preseleccionados_Estados_Preseleccionados		NWL	Estados_Preseleccionados (Estados_PreseleccionadosID) and Preseleccionados (Estados_PreseleccionadosID)	New link between Estados_Preseleccionados (Estados_PreseleccionadosID) and Preseleccionados (Estados_PreseleccionadosID) files

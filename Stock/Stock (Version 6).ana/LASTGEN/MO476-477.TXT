@@ -1,0 +1,3 @@
+//MO476-477.TXT ANA00476 TO ANA00477
+Elem_de_Recepcion		NFI		new file
+Constraint_Elem_de_Recepcion_Recepcion_de_Materiales_2		NWL	Recepcion_de_Materiales_2 (Recepcion_de_Materiales_2ID) and Elem_de_Recepcion (Recepcion_de_Materiales_2ID)	New link between Recepcion_de_Materiales_2 (Recepcion_de_Materiales_2ID) and Elem_de_Recepcion (Recepcion_de_Materiales_2ID) files

@@ -1,0 +1,5 @@
+//MO106-107.TXT ANA00106 TO ANA00107
+Instrumentos_verificacion		TAR	406	new record size: 406
+Instrumentos_verificacion	borrar	RUB-		item borrar deleted
+Instrumentos_incidentes		TAR	99	new record size: 99
+Instrumentos_incidentes	bnorar	RUB-		item bnorar deleted

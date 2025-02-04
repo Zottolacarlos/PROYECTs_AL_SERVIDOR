@@ -1,0 +1,2 @@
+//MO060-061.TXT ANA00060 TO ANA00061
+Datos_Prog	Version	CLEU*		Version item is now key

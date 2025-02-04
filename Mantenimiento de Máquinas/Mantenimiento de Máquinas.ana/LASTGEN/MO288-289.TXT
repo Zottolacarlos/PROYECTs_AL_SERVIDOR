@@ -1,0 +1,2 @@
+//MO288-289.TXT ANA00288 TO ANA00289
+Datos_sector		NFI		new file

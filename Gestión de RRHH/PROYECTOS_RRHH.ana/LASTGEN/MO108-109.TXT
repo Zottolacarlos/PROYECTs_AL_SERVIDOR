@@ -1,0 +1,2 @@
+//MO108-109.TXT ANA00108 TO ANA00109
+Personal_IMSA_rrhh		REP*	W:\BD\RRHH	new directory W:\BD\RRHH

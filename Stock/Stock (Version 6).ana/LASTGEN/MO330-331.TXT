@@ -1,0 +1,4 @@
+//MO330-331.TXT ANA00330 TO ANA00331
+Producto		TAR	197	new record size: 197
+Producto	ult_modif_leg	RUB+		ult_modif_leg is a new item
+Maquina		TAR	112	new record size: 112

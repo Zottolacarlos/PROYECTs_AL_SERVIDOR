@@ -1,0 +1,3 @@
+//MO352-353.TXT ANA00352 TO ANA00353
+Preventivo_por_cantidad		TAR	352	new record size: 352
+Preventivo_por_cantidad	Fecha_tomado	RUB+		Fecha_tomado is a new item

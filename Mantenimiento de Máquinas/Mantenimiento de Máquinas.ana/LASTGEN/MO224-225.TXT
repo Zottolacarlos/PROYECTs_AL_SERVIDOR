@@ -1,0 +1,6 @@
+//MO224-225.TXT ANA00224 TO ANA00225
+Detalle_Preventivo		TAR	452	new record size: 452
+Detalle_Preventivo	aviso_pre_venc	RUB+		aviso_pre_venc is a new item
+Detalle_Preventivo	Fecha_aviso_pre_venc	RUB+		Fecha_aviso_pre_venc is a new item
+Detalle_Preventivo	aviso_vencimiento	RUB+		aviso_vencimiento is a new item
+Detalle_Preventivo	fecha_aviso_vencimiento	RUB+		fecha_aviso_vencimiento is a new item

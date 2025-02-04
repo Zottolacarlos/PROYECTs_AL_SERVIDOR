@@ -1,0 +1,3 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Deposito		TAR	386	new record size: 386
+Deposito	Secuencia	TAB+	1	Secuencia item is now an array of 5 elements instead of 4

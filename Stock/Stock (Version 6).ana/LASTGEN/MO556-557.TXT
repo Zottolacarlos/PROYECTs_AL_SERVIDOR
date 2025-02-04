@@ -1,0 +1,3 @@
+//MO556-557.TXT ANA00556 TO ANA00557
+Impresion_Orden_de_Compra		TAR	851	new record size: 851
+Impresion_Orden_de_Compra	Descripción_pedido	CNW	Text Memo$String	new type for Descripción_pedido item: Text Memo

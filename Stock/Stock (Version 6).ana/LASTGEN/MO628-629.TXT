@@ -1,0 +1,11 @@
+//MO628-629.TXT ANA00628 TO ANA00629
+Elem_del_Pedido		TAR	621	new record size: 621
+Elem_del_Pedido	Cotizacion_anterior	RUB+		Cotizacion_anterior is a new item
+Retiro_de_Materiales		TAR	169	new record size: 169
+Retiro_de_Materiales	Cotizacion_anterior	RUB+		Cotizacion_anterior is a new item
+Retorno_de_Materiales		TAR	177	new record size: 177
+Retorno_de_Materiales	Cotizacion_anterior	RUB+		Cotizacion_anterior is a new item
+Elem_de_devolucion		TAR	303	new record size: 303
+Elem_de_devolucion	Cotizacion_anterior	RUB+		Cotizacion_anterior is a new item
+Elem_de_Recepcion		TAR	469	new record size: 469
+Elem_de_Recepcion	Cotizacion_anterior	RUB+		Cotizacion_anterior is a new item

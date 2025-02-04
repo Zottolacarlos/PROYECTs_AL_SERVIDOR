@@ -1,0 +1,2 @@
+//MO573-574.TXT ANA00573 TO ANA00574
+estadospresupuestos		NFI		new file

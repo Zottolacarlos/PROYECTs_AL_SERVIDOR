@@ -1,0 +1,8 @@
+//MO293-294.TXT ANA00293 TO ANA00294
+acc_corrct_respuestas		TAR	391	new record size: 391
+acc_corrct_respuestas	EP_Categoria	RUB+		EP_Categoria is a new item
+acc_corrct_respuestas	EP_Causa_Raiz	RUB+		EP_Causa_Raiz is a new item
+acc_corrct_respuestas	EP_SubCausa	RUB+		EP_SubCausa is a new item
+acc_correct_causas		TAR	306	new record size: 306
+acc_correct_causas	Nro_accion_correct	RUB+		Nro_accion_correct is a new key
+Constraint_acc_corrct_respuestas_acc_correct_causas		NWL	acc_corrct_respuestas (Nro_accion_correct) and acc_correct_causas (Nro_accion_correct)	New link between acc_corrct_respuestas (Nro_accion_correct) and acc_correct_causas (Nro_accion_correct) files

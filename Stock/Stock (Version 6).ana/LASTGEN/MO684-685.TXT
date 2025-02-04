@@ -1,0 +1,10 @@
+//MO684-685.TXT ANA00684 TO ANA00685
+Elem_de_Producto		TAR	237	new record size: 237
+Elem_de_Producto	Largo	NNR	Alto	CAUTION: item Alto renamed Largo
+Elem_de_Producto	UN_largo	NNR	UN_alto	CAUTION: item UN_alto renamed UN_largo
+Elem_de_Producto	Diametro_exterior	NNR	Diametro	CAUTION: item Diametro renamed Diametro_exterior
+Elem_de_Producto	UN_diametro_ext	NNR	UN_diametro	CAUTION: item UN_diametro renamed UN_diametro_ext
+Elem_de_Producto	largo_acero	NNR	Largo	CAUTION: item Largo renamed largo_acero
+Elem_de_Producto	UN_largo_acero	NNR	UN_largo	CAUTION: item UN_largo renamed UN_largo_acero
+Elem_de_Producto	UN_diametro_int	RUB+		UN_diametro_int is a new item
+Elem_de_Producto	Diametro_Interior	RUB+		Diametro_Interior is a new item

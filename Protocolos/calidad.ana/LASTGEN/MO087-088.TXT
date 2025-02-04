@@ -1,0 +1,3 @@
+//MO087-088.TXT ANA00087 TO ANA00088
+Archivo		TAR	1944	new record size: 1944
+Archivo	direccion	TAI-	1	direccion item has been resized: 512 (instead of 513)

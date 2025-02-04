@@ -1,0 +1,3 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Candidato		TAR	302	new record size: 302
+Candidato	Fecha_Nac	RUB+		Fecha_Nac is a new item

@@ -1,0 +1,2 @@
+//MO038-039.TXT ANA00038 TO ANA00039
+conectados_rrhh		NFI		new file

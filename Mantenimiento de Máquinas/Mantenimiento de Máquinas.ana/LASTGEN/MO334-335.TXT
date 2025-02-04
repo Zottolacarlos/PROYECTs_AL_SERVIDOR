@@ -1,0 +1,10 @@
+//MO334-335.TXT ANA00334 TO ANA00335
+Maquina		TAR	256	new record size: 256
+Maquina	Tipo_de_MáquinaID	RUB+		Tipo_de_MáquinaID is a new key
+Detalle_Correctivo		TAR	1187	new record size: 1187
+Detalle_Correctivo	Tipo_de_mantenimiento	RUB-		item Tipo_de_mantenimiento deleted
+Detalle_Correctivo	Tipo_de_MantenimientoID	RUB-		key Tipo_de_MantenimientoID deleted
+Tipo_de_Máquina		NFI		new file
+Tipo_de_Mantenimiento		FIC-	Tipo_de_Mantenimiento	Tipo_de_Mantenimiento file deleted
+Constraint_Maquina_Tipo_de_Máquina		NWL	Tipo_de_Máquina (Tipo_de_MáquinaID) and Maquina (Tipo_de_MáquinaID)	New link between Tipo_de_Máquina (Tipo_de_MáquinaID) and Maquina (Tipo_de_MáquinaID) files
+Constraint_Detalle_Correctivo_Tipo_de_Mantenimiento		DEL	Tipo_de_Mantenimiento (Tipo_de_MantenimientoID) and Detalle_Correctivo (Tipo_de_MantenimientoID)	Link deleted between Tipo_de_Mantenimiento (Tipo_de_MantenimientoID) and Detalle_Correctivo (Tipo_de_MantenimientoID) files

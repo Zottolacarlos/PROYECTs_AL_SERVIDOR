@@ -1,0 +1,3 @@
+//MO133-134.TXT ANA00133 TO ANA00134
+version		NFI		new file
+version		FRN		

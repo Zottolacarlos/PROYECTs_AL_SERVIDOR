@@ -1,0 +1,5 @@
+//MO080-081.TXT ANA00080 TO ANA00081
+Estados_candidato		NFI		new file
+Estados_candidato		FIC-	Estados_candidato	Estados_candidato file deleted
+Constraint_Candidato_Estados_candidato		NWL	Estados_candidato (Estados_candidatoID) and Candidato (Estados_candidatoID)	New link between Estados_candidato (Estados_candidatoID) and Candidato (Estados_candidatoID) files
+Constraint_Estados_candidato_Candidato		DEL	Estados_candidato (Estados_candidatoID) and Candidato (Estados_candidatoID)	Link deleted between Estados_candidato (Estados_candidatoID) and Candidato (Estados_candidatoID) files

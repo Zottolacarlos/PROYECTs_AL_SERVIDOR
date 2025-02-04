@@ -1,0 +1,3 @@
+//MO408-409.TXT ANA00408 TO ANA00409
+Entregas_y_Prestamos		FCNX+	Connection to IMSASERVER03 - STOCK	
+Herramientas_de_Entregas_y_Prestamos		FCNX+	Connection to IMSASERVER03 - STOCK	

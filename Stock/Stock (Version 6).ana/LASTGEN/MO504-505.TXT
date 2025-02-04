@@ -1,0 +1,6 @@
+//MO504-505.TXT ANA00504 TO ANA00505
+Elem_de_Recepcion		TAR	424	new record size: 424
+Elem_de_Recepcion	Recibio_usuario	RUB+		Recibio_usuario is a new item
+Elem_de_Recepcion	Fecha_recibe_usuario	RUB+		Fecha_recibe_usuario is a new item
+Elem_de_Recepcion	Decision_usuario	RUB+		Decision_usuario is a new item
+Elem_de_Recepcion	obs_usuario	RUB+		obs_usuario is a new item

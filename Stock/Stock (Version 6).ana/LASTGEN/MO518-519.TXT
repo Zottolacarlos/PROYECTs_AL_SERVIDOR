@@ -1,0 +1,3 @@
+//MO518-519.TXT ANA00518 TO ANA00519
+Elem_de_Producto		TAR	246	new record size: 246
+Elem_de_Producto	Derivado_del_Elem	RUB+		Derivado_del_Elem is a new key

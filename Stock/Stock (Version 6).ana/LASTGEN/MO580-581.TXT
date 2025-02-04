@@ -1,0 +1,3 @@
+//MO580-581.TXT ANA00580 TO ANA00581
+Controles_REalizados		TAR	53	new record size: 53
+Controles_REalizados	no_precisa_certificado	RUB+		no_precisa_certificado is a new item

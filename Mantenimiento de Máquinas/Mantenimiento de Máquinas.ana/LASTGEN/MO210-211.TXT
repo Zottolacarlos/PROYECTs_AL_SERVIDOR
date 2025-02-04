@@ -1,0 +1,4 @@
+//MO210-211.TXT ANA00210 TO ANA00211
+Preventivo_por_cantidad		NFI		new file
+Maquina		NWL	Maquina (Denominación_Int) and Preventivo_por_cantidad (Denominación_Int)	New link between Maquina (Denominación_Int) and Preventivo_por_cantidad (Denominación_Int) files
+Preventivo_por_cantidad		FRN		

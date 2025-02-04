@@ -1,0 +1,3 @@
+//MO157-158.TXT ANA00157 TO ANA00158
+conectados_rrhh		TAR	82	new record size: 82
+conectados_rrhh	Legajo	RUB+		Legajo is a new key

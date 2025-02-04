@@ -1,0 +1,2 @@
+//MO070-071.TXT ANA00070 TO ANA00071
+Detalle_Preventivo	Proximo_Preventivo	CLEN*		Proximo_Preventivo item is now key

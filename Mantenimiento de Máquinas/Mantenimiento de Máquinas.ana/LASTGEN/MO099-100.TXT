@@ -1,0 +1,4 @@
+//MO099-100.TXT ANA00099 TO ANA00100
+correctivo_postergado		TAR	222	new record size: 222
+correctivo_postergado	Detalle_CorrectivoID	RUB+		Detalle_CorrectivoID is a new key
+Detalle_Correctivo		NWL	Detalle_Correctivo (Detalle_CorrectivoID) and correctivo_postergado (Detalle_CorrectivoID)	New link between Detalle_Correctivo (Detalle_CorrectivoID) and correctivo_postergado (Detalle_CorrectivoID) files

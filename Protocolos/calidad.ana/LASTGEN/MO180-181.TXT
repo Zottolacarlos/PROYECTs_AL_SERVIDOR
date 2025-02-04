@@ -1,0 +1,3 @@
+//MO180-181.TXT ANA00180 TO ANA00181
+acciones_correct		TAR	1191	new record size: 1191
+acciones_correct	Tipo_reclamo	RUB+		Tipo_reclamo is a new item

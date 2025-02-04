@@ -1,0 +1,3 @@
+//MO536-537.TXT ANA00536 TO ANA00537
+Comparativa	Version	CLE-		Version item is no longer key
+Impresion_Comparativa	Version	CLE-		Version item is no longer key

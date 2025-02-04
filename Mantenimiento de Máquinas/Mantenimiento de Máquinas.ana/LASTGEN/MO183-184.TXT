@@ -1,0 +1,3 @@
+//MO183-184.TXT ANA00183 TO ANA00184
+fotos_maq		TAR	359	new record size: 359
+fotos_maq	name_foto	TAI+	39	name_foto item has been resized: 65 (instead of 26)

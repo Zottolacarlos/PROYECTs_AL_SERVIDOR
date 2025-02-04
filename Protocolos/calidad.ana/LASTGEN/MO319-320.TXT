@@ -1,0 +1,4 @@
+//MO319-320.TXT ANA00319 TO ANA00320
+acciones_correct		TAR	1275	new record size: 1275
+acciones_correct	Detecta_NC	RUB-		item Detecta_NC deleted
+acciones_correct	Obs_Detecta_NC	RUB-		item Obs_Detecta_NC deleted

@@ -1,0 +1,4 @@
+//MO136-137.TXT ANA00136 TO ANA00137
+Detalle_Correctivo		TAR	967	new record size: 967
+Detalle_Correctivo	Motivo	TAI-	50	Motivo item has been resized: 251 (instead of 301)
+Detalle_Correctivo	Obs_inicial_mant	RUB+		Obs_inicial_mant is a new item

@@ -1,0 +1,4 @@
+//MO346-347.TXT ANA00346 TO ANA00347
+Elem_del_Pedido		TAR	506	new record size: 506
+Elem_del_Pedido	Fecha_tomado	RUB+		Fecha_tomado is a new item
+Maquina		TAR	112	new record size: 112

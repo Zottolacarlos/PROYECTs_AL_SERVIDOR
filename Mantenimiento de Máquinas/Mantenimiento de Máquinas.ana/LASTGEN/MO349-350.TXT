@@ -1,0 +1,2 @@
+//MO349-350.TXT ANA00349 TO ANA00350
+Constraint_Personal_IMSA_rrhh_Personal_Config		NWL	Personal_IMSA_rrhh (Legajo) and Personal_Config (Legajo)	New link between Personal_IMSA_rrhh (Legajo) and Personal_Config (Legajo) files

@@ -1,0 +1,4 @@
+//MO118-119.TXT ANA00118 TO ANA00119
+Calif_Individuales		NFI		new file
+Recepcion		NWL	Recepcion (NrodeControl) and Calif_Individuales (NrodeControl)	New link between Recepcion (NrodeControl) and Calif_Individuales (NrodeControl) files
+Calif_Individuales		FRN		

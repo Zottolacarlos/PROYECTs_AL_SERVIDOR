@@ -1,0 +1,5 @@
+//MO348-349.TXT ANA00348 TO ANA00349
+Elem_del_Pedido		TAR	516	new record size: 516
+Elem_del_Pedido	Material_en_Transito	RUB+		Material_en_Transito is a new item
+Elem_del_Pedido	Fecha_limite_en_transito	RUB+		Fecha_limite_en_transito is a new item
+Maquina		TAR	112	new record size: 112

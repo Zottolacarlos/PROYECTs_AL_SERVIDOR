@@ -1,0 +1,3 @@
+//MO055-056.TXT ANA00055 TO ANA00056
+Archivo		TAR	529	new record size: 529
+Archivo	direccion2	RUB+		direccion2 is a new item

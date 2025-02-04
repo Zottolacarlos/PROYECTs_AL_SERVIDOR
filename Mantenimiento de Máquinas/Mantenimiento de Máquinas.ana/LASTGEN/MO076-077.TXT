@@ -1,0 +1,11 @@
+//MO076-077.TXT ANA00076 TO ANA00077
+Control_Semestral		NFI		new file
+Tableros		TAR	96	new record size: 96
+Tableros	Control_Semestral	NNR	Control_Semetral	CAUTION: item Control_Semetral renamed Control_Semestral
+Tableros	Control_Mensual	RUB-		item Control_Mensual deleted
+Maquina		FIC-	control_anual	control_anual file deleted
+Maquina		FIC-	control_mensual	control_mensual file deleted
+Tableros		NWL	Tableros (Tablero_Nro) and Control_Semestral (Tablero_Nro)	New link between Tableros (Tablero_Nro) and Control_Semestral (Tablero_Nro) files
+Tableros		DEL	Tableros (Tablero_Nro) and control_anual (Tablero_Nro)	Link deleted between Tableros (Tablero_Nro) and control_anual (Tablero_Nro) files
+Tableros		DEL	Tableros (Tablero_Nro) and control_mensual (Tablero_Nro)	Link deleted between Tableros (Tablero_Nro) and control_mensual (Tablero_Nro) files
+Control_Semestral		FRN		

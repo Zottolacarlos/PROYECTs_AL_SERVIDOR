@@ -1,0 +1,2 @@
+//MO103-104.TXT ANA00103 TO ANA00104
+Constraint_Sectores_Personal_IMSA_rrhh		DEL	Sectores (SectoresID) and Personal_IMSA_rrhh (SectoresID)	Link deleted between Sectores (SectoresID) and Personal_IMSA_rrhh (SectoresID) files

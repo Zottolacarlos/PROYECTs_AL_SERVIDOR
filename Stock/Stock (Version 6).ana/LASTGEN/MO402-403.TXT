@@ -1,0 +1,53 @@
+//MO402-403.TXT ANA00402 TO ANA00403
+Producto		FCNX+	Connection to IMSASERVER03 - STOCK	
+Elem_del_Pedido		FCNX+	Connection to IMSASERVER03 - STOCK	
+Pedido		FCNX+	Connection to IMSASERVER03 - STOCK	
+Unidad		FCNX+	Connection to IMSASERVER03 - STOCK	
+Familia		FCNX+	Connection to IMSASERVER03 - STOCK	
+Tipo_de_asociado		FCNX+	Connection to IMSASERVER03 - STOCK	
+Auditoria_eventos		FCNX+	Connection to IMSASERVER03 - STOCK	
+Auditoria_pedidos		FCNX+	Connection to IMSASERVER03 - STOCK	
+Estados_de_Pedido		FCNX+	Connection to IMSASERVER03 - STOCK	
+Elem_Orden_de_Compra		FCNX+	Connection to IMSASERVER03 - STOCK	
+Orden_de_compra		FCNX+	Connection to IMSASERVER03 - STOCK	
+Auditoria_Codigos		FCNX+	Connection to IMSASERVER03 - STOCK	
+Incidentes		FCNX+	Connection to IMSASERVER03 - STOCK	
+Recepcion_de_Materiales		FCNX+	Connection to IMSASERVER03 - STOCK	
+Comparativa		FCNX+	Connection to IMSASERVER03 - STOCK	
+Impresion_Orden_de_Compra		FCNX+	Connection to IMSASERVER03 - STOCK	
+Entregas_y_Prestamos		FCNX+	Connection to IMSASERVER03 - STOCK	
+Devoluciones		FCNX+	Connection to IMSASERVER03 - STOCK	
+Retiro_de_Materiales		FCNX+	Connection to IMSASERVER03 - STOCK	
+Retorno_de_Materiales		FCNX+	Connection to IMSASERVER03 - STOCK	
+Impresion_pedido_mat_temp		FCNX+	Connection to IMSASERVER03 - STOCK	
+Datos_Prog		FCNX+	Connection to IMSASERVER03 - STOCK	
+Auditoria_Stock		FCNX+	Connection to IMSASERVER03 - STOCK	
+Bajas		FCNX+	Connection to IMSASERVER03 - STOCK	
+Permisos		FCNX+	Connection to IMSASERVER03 - STOCK	
+subcuentas		FCNX+	Connection to bdcontabilidad	
+subcuentatipo		FCNX+	Connection to bdcontabilidad	
+tipodesubcuentas		FCNX+	Connection to bdcontabilidad	
+articulos		FCNX+	Connection to AdministradorMT \\175.1.1.4:5432	
+cotizaciones		FCNX+	Connection to AdministradorMT \\175.1.1.4:5432	
+presupuestos		FCNX+	Connection to AdministradorMT \\175.1.1.4:5432	
+presupuestos_articulos		FCNX+	Connection to AdministradorMT \\175.1.1.4:5432	
+empleados		FCNX+	Connection to AdministradorMT \\175.1.1.4:5432	
+empleados_areas		FCNX+	Connection to AdministradorMT \\175.1.1.4:5432	
+areas		FCNX+	Connection to AdministradorMT \\175.1.1.4:5432	
+tipos_de_incidentes		FCNX+	Connection to IMSASERVER03 - STOCK	
+Impresion_Recepcion_de_Materiales		FCNX+	Connection to IMSASERVER03 - STOCK	
+a_cargo_unix		FCNX+	Connection to IMSASERVER03 - STOCK	
+Devoluciones_Operario_Unix		FCNX+	Connection to IMSASERVER03 - STOCK	
+Passwords		FCNX+	Connection to IMSASERVER03 - STOCK	
+Impresion_entregas_y_prestamos		FCNX+	Connection to IMSASERVER03 - STOCK	
+Impresion_Devoluciones		FCNX+	Connection to IMSASERVER03 - STOCK	
+Herramientas_de_Entregas_y_Prestamos		FCNX+	Connection to IMSASERVER03 - STOCK	
+Herramientas_de_devolucion		FCNX+	Connection to IMSASERVER03 - STOCK	
+Impresion_retiros		FCNX+	Connection to IMSASERVER03 - STOCK	
+Elem_del_Retiro		FCNX+	Connection to IMSASERVER03 - STOCK	
+cuentasclientes		FCNX+	Connection to AdministradorMT \\175.1.1.4:5432	
+Impresion_bajas		FCNX+	Connection to IMSASERVER03 - STOCK	
+Archivos_de_Pedidos		FCNX+	Connection to IMSASERVER03 - STOCK	
+Impresion_Comparativa		FCNX+	Connection to IMSASERVER03 - STOCK	
+Precios_deReferencia		FCNX+	Connection to IMSASERVER03 - STOCK	
+Novedades		FCNX+	Connection to IMSASERVER03 - STOCK	

@@ -1,0 +1,4 @@
+//MO232-233.TXT ANA00232 TO ANA00233
+PROTOCOLOS		TAR	427	new record size: 427
+PROTOCOLOS	Operario_controla	RUB+		Operario_controla is a new item
+PROTOCOLOS	Fecha_controla	RUB+		Fecha_controla is a new item

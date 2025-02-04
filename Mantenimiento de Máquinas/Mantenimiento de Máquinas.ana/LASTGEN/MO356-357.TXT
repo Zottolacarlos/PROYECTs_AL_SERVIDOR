@@ -1,0 +1,3 @@
+//MO356-357.TXT ANA00356 TO ANA00357
+Preventivo_por_cantidad		TAR	373	new record size: 373
+Preventivo_por_cantidad	Tipo_mantenimiento	RUB+		Tipo_mantenimiento is a new item

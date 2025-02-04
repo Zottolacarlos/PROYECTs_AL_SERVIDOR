@@ -1,0 +1,8 @@
+//MO201-202.TXT ANA00201 TO ANA00202
+acc_correct_Detalle_largo_plazo		TAR	2642	new record size: 2642
+acc_correct_Detalle_largo_plazo	Tareas	TAI-	85	Tareas item has been resized: 16 (instead of 101)
+acc_correct_Detalle_largo_plazo	Detalle_recursos	TAB+	9	Detalle_recursos item is now an array of 10 elements 
+acc_correct_Detalle_largo_plazo	Detalle_recursos	CNW	String$Text Memo	new type for Detalle_recursos item: String
+acc_correct_Detalle_largo_plazo	A_cargo	TAB+	9	A_cargo item is now an array of 10 elements 
+acc_correct_Detalle_largo_plazo	Plazo	TAB+	9	Plazo item is now an array of 10 elements 
+acc_correct_Detalle_largo_plazo	Avance	TAB+	9	Avance item is now an array of 10 elements 

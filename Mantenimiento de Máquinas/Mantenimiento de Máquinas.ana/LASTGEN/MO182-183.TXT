@@ -1,0 +1,4 @@
+//MO182-183.TXT ANA00182 TO ANA00183
+fotos_maq		TAR	320	new record size: 320
+fotos_maq	foto	RUB+		foto is a new item
+fotos_maq	foto	RRN		

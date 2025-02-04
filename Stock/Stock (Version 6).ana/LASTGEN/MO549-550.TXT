@@ -1,0 +1,30 @@
+//MO549-550.TXT ANA00549 TO ANA00550
+Control_de_Recepciones		TAR	129	new record size: 129
+Control_de_Recepciones	Decide_Gerencia	RUB-		item Decide_Gerencia deleted
+Control_de_Recepciones	Decide_Directiva	RUB-		item Decide_Directiva deleted
+Control_Recep_Sector		NNF	Control_Recep_Calidad	new name Control_Recep_Sector
+Control_Recep_Sector		EXT		new extension 
+Control_Recep_Sector		TAR	95	new record size: 95
+Control_Recep_Sector	Control_Recep_SectorID	NNR	Control_Recep_CalidadID	CAUTION: key Control_Recep_CalidadID renamed Control_Recep_SectorID
+Control_Recep_Sector	Sectores_Que_ControlanID	RUB+		Sectores_Que_ControlanID is a new key
+Control_Recep_Sector	Protocolo	RUB-		item Protocolo deleted
+Control_Recep_Sector	Certificado	RUB-		item Certificado deleted
+Control_Recep_Sector	Requiere_Certificado1	RUB-		item Requiere_Certificado1 deleted
+Control_Recep_Sector	dir_certificado	RUB-		item dir_certificado deleted
+Sectores_Que_Controlan		NFI		new file
+Controles_REalizados		NFI		new file
+Control_Recep_Deposito		FIC-	Control_Recep_Deposito	Control_Recep_Deposito file deleted
+Control_Recep_Compras		FIC-	Control_Recep_Compras	Control_Recep_Compras file deleted
+Control_Recep_Mantenimiento		FIC-	Control_Recep_Mantenimiento	Control_Recep_Mantenimiento file deleted
+Control_Recep_Fundicion		FIC-	Control_Recep_Fundicion	Control_Recep_Fundicion file deleted
+Control_Recep_Gerencia_Industrial		FIC-	Control_Recep_Gerencia_Industrial	Control_Recep_Gerencia_Industrial file deleted
+Control_Recep_Directiva		FIC-	Control_Recep_Directiva	Control_Recep_Directiva file deleted
+Constraint_Control_Recep_Sector_Controles_REalizados		NWL	Control_Recep_Sector (Control_Recep_SectorID) and Controles_REalizados (Control_Recep_SectorID)	New link between Control_Recep_Sector (Control_Recep_SectorID) and Controles_REalizados (Control_Recep_SectorID) files
+Constraint_Sectores_Que_Controlan_Control_Recep_Sector		NWL	Sectores_Que_Controlan (Sectores_Que_ControlanID) and Control_Recep_Sector (Sectores_Que_ControlanID)	New link between Sectores_Que_Controlan (Sectores_Que_ControlanID) and Control_Recep_Sector (Sectores_Que_ControlanID) files
+Constraint_Control_de_Recepciones_Control_Recep_Deposito		DEL	Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Deposito (Control_de_RecepcionesID)	Link deleted between Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Deposito (Control_de_RecepcionesID) files
+Constraint_Control_de_Recepciones_Control_Recep_Compras		DEL	Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Compras (Control_de_RecepcionesID)	Link deleted between Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Compras (Control_de_RecepcionesID) files
+Constraint_Control_de_Recepciones_Control_Recep_Mantenimiento		DEL	Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Mantenimiento (Control_de_RecepcionesID)	Link deleted between Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Mantenimiento (Control_de_RecepcionesID) files
+Constraint_Control_de_Recepciones_Control_Recep_Fundicion		DEL	Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Fundicion (Control_de_RecepcionesID)	Link deleted between Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Fundicion (Control_de_RecepcionesID) files
+Constraint_Control_de_Recepciones_Control_Recep_Gerencia		DEL	Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Gerencia_Industrial (Control_de_RecepcionesID)	Link deleted between Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Gerencia_Industrial (Control_de_RecepcionesID) files
+Constraint_Control_de_Recepciones_Control_Recep_Gerencia_Comercial		DEL	Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Directiva (Control_de_RecepcionesID)	Link deleted between Control_de_Recepciones (Control_de_RecepcionesID) and Control_Recep_Directiva (Control_de_RecepcionesID) files
+Control_Recep_Sector		FRN		

@@ -1,0 +1,9 @@
+//MO201-202.TXT ANA00201 TO ANA00202
+Detalle_Proactivo		TAR	372	new record size: 372
+Detalle_Proactivo	Maquina_Lugar	TAI-	44	Maquina_Lugar item has been resized: 7 (instead of 51)
+Detalle_Proactivo	descripción_lugar	RUB+		descripción_lugar is a new item
+Detalle_Proactivo	Ejecutor	TAI-	25	Ejecutor item has been resized: 26 (instead of 51)
+Detalle_Proactivo	Foto_antes	TAI+	25	Foto_antes item has been resized: 76 (instead of 51)
+Detalle_Proactivo	Foto_despues	TAI+	25	Foto_despues item has been resized: 76 (instead of 51)
+Detalle_Proactivo	Denominación_Int	RUB+		Denominación_Int is a new key
+Maquina		NWL	Maquina (Denominación_Int) and Detalle_Proactivo (Denominación_Int)	New link between Maquina (Denominación_Int) and Detalle_Proactivo (Denominación_Int) files

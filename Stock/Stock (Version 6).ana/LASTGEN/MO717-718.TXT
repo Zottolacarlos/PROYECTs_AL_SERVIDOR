@@ -1,0 +1,6 @@
+//MO717-718.TXT ANA00717 TO ANA00718
+Remesa_Salida		NNF	Remitos_Compras	new name Remesa_Salida
+Remesa_Salida		EXT		new extension 
+Remesa_Salida	Remesa_SalidaID	NNR	Remitos_ComprasID	CAUTION: key Remitos_ComprasID renamed Remesa_SalidaID
+Elem_de_remitos_compras	Remesa_SalidaID	NNR	Remitos_ComprasID	CAUTION: key Remitos_ComprasID renamed Remesa_SalidaID
+Remesa_Salida		FRN		

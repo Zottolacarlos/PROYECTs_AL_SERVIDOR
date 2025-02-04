@@ -1,0 +1,4 @@
+//MO147-148.TXT ANA00147 TO ANA00148
+Equilibrado_dinamico_datos		NFI		new file
+Hoja1		NWL	Hoja1 (Protocolo Nº) and Equilibrado_dinamico_datos (Protocolo Nº)	New link between Hoja1 (Protocolo Nº) and Equilibrado_dinamico_datos (Protocolo Nº) files
+Equilibrado_dinamico_datos		FRN		

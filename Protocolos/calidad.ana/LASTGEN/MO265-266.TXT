@@ -1,0 +1,2 @@
+//MO265-266.TXT ANA00265 TO ANA00266
+Instrumentos_incidentes	Legajo_Solicitante	NNR	Legajno_Solicitante	CAUTION: item Legajno_Solicitante renamed Legajo_Solicitante

@@ -1,0 +1,3 @@
+//MO105-106.TXT ANA00105 TO ANA00106
+Instrumentos_verificacion		TAR	457	new record size: 457
+Instrumentos_verificacion	borrar	RUB+		borrar is a new item

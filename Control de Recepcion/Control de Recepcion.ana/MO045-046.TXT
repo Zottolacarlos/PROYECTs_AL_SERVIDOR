@@ -1,0 +1,5 @@
+//MO045-046.TXT ANA00045 TO ANA00046
+visado		TAR	67	new record size: 67
+visado	est_fund	RUB+		est_fund is a new item
+visado	est_cal	RUB+		est_cal is a new item
+visado	est_ger_ind	RUB+		est_ger_ind is a new item

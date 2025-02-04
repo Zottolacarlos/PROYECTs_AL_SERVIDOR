@@ -1,0 +1,3 @@
+//MO115-116.TXT ANA00115 TO ANA00116
+acciones_correct		TAR	706	new record size: 706
+acciones_correct	Devoluciones_Atribuible_Emp	CNW	String$Boolean	new type for Devoluciones_Atribuible_Emp item: String

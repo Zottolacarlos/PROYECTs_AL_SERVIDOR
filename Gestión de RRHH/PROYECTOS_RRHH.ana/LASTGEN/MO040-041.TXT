@@ -1,0 +1,3 @@
+//MO040-041.TXT ANA00040 TO ANA00041
+Candidato		TAR	451	new record size: 451
+Candidato	Capacidad	RUB+		Capacidad is a new item

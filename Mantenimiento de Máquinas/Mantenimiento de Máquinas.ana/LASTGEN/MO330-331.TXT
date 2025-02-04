@@ -1,0 +1,6 @@
+//MO330-331.TXT ANA00330 TO ANA00331
+Maquina		TAR	247	new record size: 247
+Maquina	Familia_MáquinaID	RUB+		Familia_MáquinaID is a new key
+Maquina	Familia	RUB-		item Familia deleted
+Familia_Máquina	Descripción	CLEU*		Descripción item is now key
+Constraint_Familia_Máquina_Maquina		NWL	Familia_Máquina (Familia_MáquinaID) and Maquina (Familia_MáquinaID)	New link between Familia_Máquina (Familia_MáquinaID) and Maquina (Familia_MáquinaID) files

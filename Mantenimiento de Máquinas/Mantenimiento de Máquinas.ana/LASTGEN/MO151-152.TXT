@@ -1,0 +1,4 @@
+//MO151-152.TXT ANA00151 TO ANA00152
+repuestos		TAR	350	new record size: 350
+repuestos	Sector_Encargado	NNR	Estado	CAUTION: item Estado renamed Sector_Encargado
+repuestos	Sector_Encargado	TAI-	5	Sector_Encargado item has been resized: 11 (instead of 16)

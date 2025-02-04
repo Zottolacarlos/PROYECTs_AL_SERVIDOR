@@ -1,0 +1,4 @@
+//MO440-441.TXT ANA00440 TO ANA00441
+Comparativa		TAR	608	new record size: 608
+Comparativa	Elemento_del_Pedido_ID	RUB+		Elemento_del_Pedido_ID is a new key
+Constraint_Elem_del_Pedido_Comparativa		NWL	Elem_del_Pedido (Elemento_del_Pedido_ID) and Comparativa (Elemento_del_Pedido_ID)	New link between Elem_del_Pedido (Elemento_del_Pedido_ID) and Comparativa (Elemento_del_Pedido_ID) files

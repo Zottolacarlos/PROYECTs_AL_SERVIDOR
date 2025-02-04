@@ -1,0 +1,4 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Auditoría_Tickets		TAR	146	new record size: 146
+Auditoría_Tickets	TicketsID	RUB+		TicketsID is a new key
+Constraint_Tickets_Auditoría_Tickets		NWL	Tickets (TicketsID) and Auditoría_Tickets (TicketsID)	New link between Tickets (TicketsID) and Auditoría_Tickets (TicketsID) files

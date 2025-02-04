@@ -1,0 +1,5 @@
+//MO646-647.TXT ANA00646 TO ANA00647
+Polizas_de_Caución		TAR	206	new record size: 206
+Polizas_de_Caución	Cliente	RUB+		Cliente is a new item
+Polizas_de_Caución	Trabajo	RUB+		Trabajo is a new item
+Polizas_de_Caución	Proveedor_Poliza	RUB+		Proveedor_Poliza is a new item

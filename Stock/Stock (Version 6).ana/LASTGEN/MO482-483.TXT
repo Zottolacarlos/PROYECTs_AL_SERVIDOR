@@ -1,0 +1,7 @@
+//MO482-483.TXT ANA00482 TO ANA00483
+Control_de_Recepciones		NFI		new file
+Control_Recep_Deposito		NFI		new file
+Control_Recep_Calidad		NFI		new file
+Control_Recep_Compras		NFI		new file
+Control_Recep_Mantenimiento		NFI		new file
+Control_Recep_Fundicion		NFI		new file

@@ -1,0 +1,2 @@
+//MO094-095.TXT ANA00094 TO ANA00095
+Detalle_Preventivo		DEL	Detalle_Preventivo (Detalle_PreventivoID) and Arbol_de_Preventivo (Detalle_PreventivoID)	Link deleted between Detalle_Preventivo (Detalle_PreventivoID) and Arbol_de_Preventivo (Detalle_PreventivoID) files

@@ -1,0 +1,3 @@
+//MO164-165.TXT ANA00164 TO ANA00165
+Producto		NFI		new file
+Producto		FIC-	Producto	Producto file deleted

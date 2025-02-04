@@ -1,0 +1,4 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Mantenimientos		TAR	336	new record size: 336
+Mantenimientos	TicketsID	RUB-		key TicketsID deleted
+Constraint_Tickets_Mantenimientos		DEL	Tickets (TicketsID) and Mantenimientos (TicketsID)	Link deleted between Tickets (TicketsID) and Mantenimientos (TicketsID) files

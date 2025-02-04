@@ -1,0 +1,5 @@
+//MO754-755.TXT ANA00754 TO ANA00755
+Presupuestos_NEW		NFI		new file
+Cotizaciones_NEW		NFI		new file
+Presupuestos_NEW		FIC-	Presupuestos_NEW	Presupuestos_NEW file deleted
+Cotizaciones_NEW		FIC-	Cotizaciones_NEW	Cotizaciones_NEW file deleted

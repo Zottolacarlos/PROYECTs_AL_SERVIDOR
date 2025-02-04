@@ -1,0 +1,3 @@
+//MO699-700.TXT ANA00699 TO ANA00700
+Personal_IMSA_rrhh		NFI		new file
+Personal_IMSA_rrhh		FIC-	Personal_IMSA_rrhh	Personal_IMSA_rrhh file deleted

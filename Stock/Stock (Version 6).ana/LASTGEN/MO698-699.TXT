@@ -1,0 +1,3 @@
+//MO698-699.TXT ANA00698 TO ANA00699
+Sectores		REP*	W:\BD\RRHH	new directory W:\BD\RRHH
+Sectores		FRN		

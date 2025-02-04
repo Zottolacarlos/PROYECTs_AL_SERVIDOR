@@ -1,0 +1,4 @@
+//MO342-343.TXT ANA00342 TO ANA00343
+Impresion_Orden_de_Compra		TAR	879	new record size: 879
+Impresion_Orden_de_Compra	unidad_producto	RUB+		unidad_producto is a new item
+Maquina		TAR	112	new record size: 112

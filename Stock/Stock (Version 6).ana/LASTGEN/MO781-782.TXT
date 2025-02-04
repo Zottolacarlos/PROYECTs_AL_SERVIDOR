@@ -1,0 +1,3 @@
+//MO781-782.TXT ANA00781 TO ANA00782
+Proveedores_stock		NFI		new file
+Proveedores_stock		FRN		

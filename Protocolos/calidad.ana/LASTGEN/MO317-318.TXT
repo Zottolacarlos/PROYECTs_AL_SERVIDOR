@@ -1,0 +1,6 @@
+//MO317-318.TXT ANA00317 TO ANA00318
+Metalizado		TAR	357	new record size: 357
+Metalizado	Protocolo_Nro	RUB+		Protocolo_Nro is a new key
+Metalizado_temp_imp		NFI		new file
+Constraint_PROTOCOLOS_Metalizado		NWL	PROTOCOLOS (Protocolo_Nro) and Metalizado (Protocolo_Nro)	New link between PROTOCOLOS (Protocolo_Nro) and Metalizado (Protocolo_Nro) files
+Metalizado_temp_imp	Observaciones	RRN		

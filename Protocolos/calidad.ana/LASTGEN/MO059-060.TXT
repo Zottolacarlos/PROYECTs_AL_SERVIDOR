@@ -1,0 +1,5 @@
+//MO059-060.TXT ANA00059 TO ANA00060
+OBSERVACIONES		TAR	286	new record size: 286
+OBSERVACIONES	UsuariosID	RUB+		UsuariosID is a new key
+OBSERVACIONES	Sector_encargado	RUB-		key Sector_encargado deleted
+Usuarios		NWL	Usuarios (UsuariosID) and OBSERVACIONES (UsuariosID)	New link between Usuarios (UsuariosID) and OBSERVACIONES (UsuariosID) files

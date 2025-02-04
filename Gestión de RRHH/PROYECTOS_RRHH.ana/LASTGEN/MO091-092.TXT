@@ -1,0 +1,3 @@
+//MO091-092.TXT ANA00091 TO ANA00092
+Preseleccionados		TAR	388	new record size: 388
+Preseleccionados	Finaliza_Contrato	RUB+		Finaliza_Contrato is a new item

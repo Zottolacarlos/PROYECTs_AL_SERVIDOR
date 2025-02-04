@@ -1,0 +1,15 @@
+//MO709-710.TXT ANA00709 TO ANA00710
+Remitos_Compras		TAR	189	new record size: 189
+Remitos_Compras	Legajo_carga	CNW	2-byte unsigned integer$String	new type for Legajo_carga item: 2-byte unsigned integer
+Remitos_Compras	Flete	RUB+		Flete is a new item
+Remitos_Compras	Nro_Guia	RUB+		Nro_Guia is a new item
+Remitos_Compras	Paga_Flete	RUB+		Paga_Flete is a new item
+Remitos_Compras	Tipo_Flete	RUB+		Tipo_Flete is a new item
+Elem_de_remitos_compras		TAR	133	new record size: 133
+Elem_de_remitos_compras	Elemento_del_Pedido_ID	RUB+		Elemento_del_Pedido_ID is a new key
+Elem_de_remitos_compras	Remitos_ComprasID	RUB+		Remitos_ComprasID is a new key
+Elem_de_remitos_compras	Tipo_Flete	RUB-		item Tipo_Flete deleted
+Elem_de_remitos_compras	Nombre_Flete	RUB-		item Nombre_Flete deleted
+Elem_de_remitos_compras	Nro_Guia	RUB-		item Nro_Guia deleted
+Constraint_Elem_del_Pedido_Elem_de_remitos_compras		NWL	Elem_del_Pedido (Elemento_del_Pedido_ID) and Elem_de_remitos_compras (Elemento_del_Pedido_ID)	New link between Elem_del_Pedido (Elemento_del_Pedido_ID) and Elem_de_remitos_compras (Elemento_del_Pedido_ID) files
+Constraint_Remitos_Compras_Elem_de_remitos_compras		NWL	Remitos_Compras (Remitos_ComprasID) and Elem_de_remitos_compras (Remitos_ComprasID)	New link between Remitos_Compras (Remitos_ComprasID) and Elem_de_remitos_compras (Remitos_ComprasID) files

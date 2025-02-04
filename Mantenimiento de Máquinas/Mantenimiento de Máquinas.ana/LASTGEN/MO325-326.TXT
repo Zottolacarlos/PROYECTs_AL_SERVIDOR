@@ -1,0 +1,3 @@
+//MO325-326.TXT ANA00325 TO ANA00326
+Impresion_Preventivos_Activos		TAR	333	new record size: 333
+Impresion_Preventivos_Activos	Tiempo_ejecución	RUB+		Tiempo_ejecución is a new item

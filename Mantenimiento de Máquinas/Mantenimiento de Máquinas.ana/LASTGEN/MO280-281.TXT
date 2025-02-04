@@ -1,0 +1,6 @@
+//MO280-281.TXT ANA00280 TO ANA00281
+Verificacion_Elementos		NNF*	Elementos_de_Verificacion	new name Verificacion_Elementos
+Verificacion_Obj_de_Prueba		NNF*	Objetos_de_Prueba	new name Verificacion_Obj_de_Prueba
+Verificacion_verif_realizadas		NNF*	Verificaciones_realizadas	new name Verificacion_verif_realizadas
+Verificacion_Obj_de_Prueba		FRN		
+Verificacion_verif_realizadas		FRN		

@@ -1,0 +1,3 @@
+//MO188-189.TXT ANA00188 TO ANA00189
+Categoria_Operarios		TAR	151	new record size: 151
+Categoria_Operarios	Fecha_Cambio	RUB+		Fecha_Cambio is a new item

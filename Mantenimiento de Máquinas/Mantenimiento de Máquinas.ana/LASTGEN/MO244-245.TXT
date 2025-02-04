@@ -1,0 +1,3 @@
+//MO244-245.TXT ANA00244 TO ANA00245
+Detalle_Correctivo		TAR	1341	new record size: 1341
+Detalle_Correctivo	explicacion_porcentual	CNW	Text Memo$String	new type for explicacion_porcentual item: Text Memo

@@ -1,0 +1,3 @@
+//MO058-059.TXT ANA00058 TO ANA00059
+OBSERVACIONES		TAR	333	new record size: 333
+OBSERVACIONES	Modificacion	RUB+		Modificacion is a new item

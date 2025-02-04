@@ -1,0 +1,3 @@
+//MO324-325.TXT ANA00324 TO ANA00325
+Precios_deReferencia		TAR	251	new record size: 251
+Precios_deReferencia	Moneda_Principal	CNW	String$1-byte unsigned integer	new type for Moneda_Principal item: String

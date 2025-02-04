@@ -1,0 +1,3 @@
+//MO780-781.TXT ANA00780 TO ANA00781
+Connection to bdcontabilidad		CNX		
+BDCONTABILIDAD22		CNX		

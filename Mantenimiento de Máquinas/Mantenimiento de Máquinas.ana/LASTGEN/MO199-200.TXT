@@ -1,0 +1,3 @@
+//MO199-200.TXT ANA00199 TO ANA00200
+repuestos		TAR	762	new record size: 762
+repuestos	Repuesto_Pedido	TAI+	200	Repuesto_Pedido item has been resized: 451 (instead of 251)

@@ -1,0 +1,7 @@
+//MO697-698.TXT ANA00697 TO ANA00698
+Sectores		NFI		new file
+Passwords		FIC-	Passwords	Passwords file deleted
+Sectores		FIC-	Sectores	Sectores file deleted
+Constraint_Passwords_Sectores		DEL	Sectores (SectoresID) and Passwords (SectoresID)	Link deleted between Sectores (SectoresID) and Passwords (SectoresID) files
+Constraint_Sectores_Controles_por_Sector		DEL	Sectores (SectoresID) and Controles_por_Sector (SectoresID)	Link deleted between Sectores (SectoresID) and Controles_por_Sector (SectoresID) files
+Constraint_Sectores_Control_Recep_Sector		DEL	Sectores (SectoresID) and Control_Recep_Sector (SectoresID)	Link deleted between Sectores (SectoresID) and Control_Recep_Sector (SectoresID) files

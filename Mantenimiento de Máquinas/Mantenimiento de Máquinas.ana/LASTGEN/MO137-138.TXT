@@ -1,0 +1,5 @@
+//MO137-138.TXT ANA00137 TO ANA00138
+repuestos		TAR	340	new record size: 340
+repuestos	Tipo_estado	NNR	Repuesto_Critico	CAUTION: item Repuesto_Critico renamed Tipo_estado
+repuestos	Tipo_estado	CNW	String$Boolean	new type for Tipo_estado item: String
+repuestos	Detalle_Fabricacion	TAI+	10	Detalle_Fabricacion item has been resized: 81 (instead of 71)

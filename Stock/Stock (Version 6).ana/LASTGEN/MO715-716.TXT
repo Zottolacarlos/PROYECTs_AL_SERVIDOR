@@ -1,0 +1,4 @@
+//MO715-716.TXT ANA00715 TO ANA00716
+Remitos_Compras		TAR	197	new record size: 197
+Remitos_Compras	Elemento_del_Pedido_ID	RUB-		key Elemento_del_Pedido_ID deleted
+Constraint_Elem_del_Pedido_Remitos_Compras		DEL	Elem_del_Pedido (Elemento_del_Pedido_ID) and Remitos_Compras (Elemento_del_Pedido_ID)	Link deleted between Elem_del_Pedido (Elemento_del_Pedido_ID) and Remitos_Compras (Elemento_del_Pedido_ID) files

@@ -1,0 +1,3 @@
+//MO758-759.TXT ANA00758 TO ANA00759
+Impresion_pedido_mat_temp		TAR	610	new record size: 610
+Impresion_pedido_mat_temp	Cotizado_o_no	RUB+		Cotizado_o_no is a new item

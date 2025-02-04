@@ -1,0 +1,8 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Tarea_Extra		TAR	438	new record size: 438
+Tarea_Extra	Máquina	CLE-*		Máquina item is no longer key
+Tarea_Extra	Máquina	TAB+	3	Máquina item is now an array of 4 elements 
+Tarea_Extra	Cotización	CLE-*		Cotización item is no longer key
+Tarea_Extra	Cotización	TAB+	3	Cotización item is now an array of 4 elements 
+Tarea_Extra	Cliente	CLE-*		Cliente item is no longer key
+Tarea_Extra	Cliente	TAB+	3	Cliente item is now an array of 4 elements 

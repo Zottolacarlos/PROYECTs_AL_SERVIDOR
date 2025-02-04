@@ -1,0 +1,6 @@
+//MO194-195.TXT ANA00194 TO ANA00195
+parte_maquina		TAR	1627	new record size: 1627
+parte_maquina	ejecutoresID	TAB-	2	ejecutoresID item is now an array of 3 elements instead of 5
+parte_maquina	ejecutoresID	TAI+	5	ejecutoresID item has been resized: 26 (instead of 21)
+ejecutores		TAR	55	new record size: 55
+ejecutores	Nombre	TAI+	5	Nombre item has been resized: 26 (instead of 21)

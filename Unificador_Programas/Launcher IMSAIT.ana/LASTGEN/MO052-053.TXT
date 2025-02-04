@@ -1,0 +1,4 @@
+//MO052-053.TXT ANA00052 TO ANA00053
+acciones_correct		RPP		program directory
+acciones_correct		FCNX+	HFSQL Classic connection	
+HFSQL Classic connection		CNX+		

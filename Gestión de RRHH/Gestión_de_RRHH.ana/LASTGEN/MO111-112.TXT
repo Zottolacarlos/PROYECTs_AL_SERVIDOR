@@ -1,0 +1,7 @@
+//MO111-112.TXT ANA00111 TO ANA00112
+Pedido_de_Contratación		TAR	176	new record size: 176
+Pedido_de_Contratación	Legajo	CNW	2-byte unsigned integer$String	new type for Legajo item: 2-byte unsigned integer
+Usuarios		FIC-	Usuarios	Usuarios file deleted
+Constraint_Usuarios_Pedido_de_Contratación		DEL	Usuarios (Legajo) and Pedido_de_Contratación (Legajo)	Link deleted between Usuarios (Legajo) and Pedido_de_Contratación (Legajo) files
+Constraint_Usuarios_Auditoria_Contratacion		DEL	Usuarios (Legajo) and Auditoria_Contratacion (Legajo)	Link deleted between Usuarios (Legajo) and Auditoria_Contratacion (Legajo) files
+Constraint_Usuarios_Sectores_Usuarios		DEL	Usuarios (UsuariosID) and Sectores_Usuarios (UsuariosID)	Link deleted between Usuarios (UsuariosID) and Sectores_Usuarios (UsuariosID) files

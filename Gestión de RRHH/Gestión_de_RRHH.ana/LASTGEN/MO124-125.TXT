@@ -1,0 +1,7 @@
+//MO124-125.TXT ANA00124 TO ANA00125
+Novedades_Personal		NFI		new file
+Tipo_de_Novedad		NFI		new file
+Auditoría_de_Novedades		NFI		new file
+Constraint_Novedades_Personal_Auditoría_de_Novedades		NWL	Novedades_Personal (Novedades_PersonalID) and Auditoría_de_Novedades (Novedades_PersonalID)	New link between Novedades_Personal (Novedades_PersonalID) and Auditoría_de_Novedades (Novedades_PersonalID) files
+Constraint_Novedades_Personal_Tipo_de_Novedad		NWL	Tipo_de_Novedad (Tipo_de_NovedadID) and Novedades_Personal (Tipo_de_NovedadID)	New link between Tipo_de_Novedad (Tipo_de_NovedadID) and Novedades_Personal (Tipo_de_NovedadID) files
+Constraint_Personal_IMSA_rrhh_Novedades_Personal		NWL	Personal_IMSA_rrhh (Legajo) and Novedades_Personal (Legajo)	New link between Personal_IMSA_rrhh (Legajo) and Novedades_Personal (Legajo) files

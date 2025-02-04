@@ -1,0 +1,3 @@
+//MO347-348.TXT ANA00347 TO ANA00348
+Personal_Config		TAR	101	new record size: 101
+Personal_Config	Nombre_apellido	RUB+		Nombre_apellido is a new key

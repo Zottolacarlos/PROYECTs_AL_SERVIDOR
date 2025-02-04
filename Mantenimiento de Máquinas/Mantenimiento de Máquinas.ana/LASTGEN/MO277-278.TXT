@@ -1,0 +1,4 @@
+//MO277-278.TXT ANA00277 TO ANA00278
+Verificaciones_realizadas		TAR	173	new record size: 173
+Verificaciones_realizadas	Objetos_de_PruebaID	RUB-		key Objetos_de_PruebaID deleted
+Constraint_Objetos_de_Prueba_Verificaciones_realizadas		DEL	Objetos_de_Prueba (Objetos_de_PruebaID) and Verificaciones_realizadas (Objetos_de_PruebaID)	Link deleted between Objetos_de_Prueba (Objetos_de_PruebaID) and Verificaciones_realizadas (Objetos_de_PruebaID) files

@@ -1,0 +1,10 @@
+//MO243-244.TXT ANA00243 TO ANA00244
+Personal_config		TAR	168	new record size: 168
+Personal_config	Contingente	NNR	operario	CAUTION: item operario renamed Contingente
+Personal_config	Contingente	CNW	2-byte unsigned integer$String	new type for Contingente item: 2-byte unsigned integer
+Personal_config	Nombre_Contingente	NNR	mail_1	CAUTION: item mail_1 renamed Nombre_Contingente
+Personal_config	Pantalla	NNR	mail_2	CAUTION: item mail_2 renamed Pantalla
+Personal_config	Pantalla	CNW	1-byte unsigned integer$String	new type for Pantalla item: 1-byte unsigned integer
+Personal_config	nombre	RUB-		key nombre deleted
+Personal_config	password	RUB-		item password deleted
+Personal_config	encargado	RUB-		item encargado deleted

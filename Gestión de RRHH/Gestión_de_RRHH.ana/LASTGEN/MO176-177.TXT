@@ -1,0 +1,6 @@
+//MO176-177.TXT ANA00176 TO ANA00177
+Capacitaciones		TAR	478	new record size: 478
+Capacitaciones	Dicta	TAI-	20	Dicta item has been resized: 31 (instead of 51)
+Capacitaciones	Donde_se_Dicta	TAI-	30	Donde_se_Dicta item has been resized: 21 (instead of 51)
+Capacitaciones	Duracion_estimada	CNW	2-byte unsigned integer$String	new type for Duracion_estimada item: 2-byte unsigned integer
+Capacitaciones	Unidad_Duracion	RUB+		Unidad_Duracion is a new item

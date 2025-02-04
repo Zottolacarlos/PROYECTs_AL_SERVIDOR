@@ -1,0 +1,2 @@
+//MO335-336.TXT ANA00335 TO ANA00336
+Tipo_de_Máquina	Descripción	CLEU*		Descripción item is now key

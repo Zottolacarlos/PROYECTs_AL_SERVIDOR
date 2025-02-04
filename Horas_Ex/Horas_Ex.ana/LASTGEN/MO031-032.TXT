@@ -1,0 +1,3 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Operarios$		TAR	183	new record size: 183
+Operarios$	saldo_leche	CNW	2-byte unsigned integer$String	new type for saldo_leche item: 2-byte unsigned integer

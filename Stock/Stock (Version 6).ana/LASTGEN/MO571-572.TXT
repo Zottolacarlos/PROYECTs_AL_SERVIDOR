@@ -1,0 +1,4 @@
+//MO571-572.TXT ANA00571 TO ANA00572
+Control_Recep_Sector		TAR	88	new record size: 88
+Control_Recep_Sector	SectoresID	RUB+		SectoresID is a new key
+Control_Recep_Sector	Sectores_Que_ControlanID	RUB-		key Sectores_Que_ControlanID deleted

@@ -1,0 +1,4 @@
+//MO477-478.TXT ANA00477 TO ANA00478
+Comparativa		TAR	703	new record size: 703
+Comparativa	cotizacion_Euro	RUB+		cotizacion_Euro is a new item
+Comparativa	fecha_cot_euro	RUB+		fecha_cot_euro is a new item

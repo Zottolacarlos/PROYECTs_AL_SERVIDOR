@@ -1,0 +1,3 @@
+//MO302-303.TXT ANA00302 TO ANA00303
+Usuarios		TAR	161	new record size: 161
+Usuarios	email	RUB+		email is a new item

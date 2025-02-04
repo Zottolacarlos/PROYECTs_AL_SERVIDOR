@@ -1,0 +1,3 @@
+//MO625-626.TXT ANA00625 TO ANA00626
+Elem_de_Recepcion		TAR	465	new record size: 465
+Elem_de_Recepcion	costo_flete	RUB+		costo_flete is a new item

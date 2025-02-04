@@ -1,0 +1,5 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+Tickets		TAR	297	new record size: 297
+Tickets	Fecha_Pedido	CNW	Date and Time (yyyymmddhhmmssccc)$Date (yyyymmdd)	new type for Fecha_Pedido item: Date and Time (yyyymmddhhmmssc
+Tickets	Fecha_Tomado	CNW	Date and Time (yyyymmddhhmmssccc)$Date (yyyymmdd)	new type for Fecha_Tomado item: Date and Time (yyyymmddhhmmssc
+Tickets	Fecha_Terminado	CNW	Date and Time (yyyymmddhhmmssccc)$Date (yyyymmdd)	new type for Fecha_Terminado item: Date and Time (yyyymmddhhmmssc

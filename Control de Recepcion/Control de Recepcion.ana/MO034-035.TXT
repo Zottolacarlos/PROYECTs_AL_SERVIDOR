@@ -1,0 +1,3 @@
+//MO034-035.TXT ANA00034 TO ANA00035
+Recepcion		TAR	195	new record size: 195
+Recepcion	FechaRecepcion	TAI+	5	FechaRecepcion item has been resized: 56 (instead of 51)

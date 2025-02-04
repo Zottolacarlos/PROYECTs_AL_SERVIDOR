@@ -1,0 +1,3 @@
+//MO236-237.TXT ANA00236 TO ANA00237
+Elem_del_Pedido		TAR	934	new record size: 934
+Elem_del_Pedido	cotizado_a_dolar	CNW	Currency$4-byte integer	new type for cotizado_a_dolar item: Currency

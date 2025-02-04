@@ -1,0 +1,4 @@
+//MO347-348.TXT ANA00347 TO ANA00348
+Retiro_de_Materiales		TAR	165	new record size: 165
+Retiro_de_Materiales	fecha_original_de_retiro	RUB+		fecha_original_de_retiro is a new item
+Maquina		TAR	112	new record size: 112

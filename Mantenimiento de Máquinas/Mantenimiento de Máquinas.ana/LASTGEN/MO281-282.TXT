@@ -1,0 +1,3 @@
+//MO281-282.TXT ANA00281 TO ANA00282
+Verificacion_de_Maquinas		TAR	183	new record size: 183
+Verificacion_de_Maquinas	Estado	RUB+		Estado is a new item

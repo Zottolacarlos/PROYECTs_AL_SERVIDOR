@@ -1,0 +1,5 @@
+//MO350-351.TXT ANA00350 TO ANA00351
+Detalle_Preventivo		TAR	444	new record size: 444
+Detalle_Preventivo	fecha_Vence_Mant	NNR	fecha_Inicio_Mant	CAUTION: key fecha_Inicio_Mant renamed fecha_Vence_Mant
+Detalle_Preventivo	Tomado_por	RUB+		Tomado_por is a new item
+Detalle_Preventivo	Fecha_tomado	RUB+		Fecha_tomado is a new item

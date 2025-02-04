@@ -1,0 +1,3 @@
+//MO657-658.TXT ANA00657 TO ANA00658
+Producto		TAR	208	new record size: 208
+Producto	Producto_paraChorro	RUB+		Producto_paraChorro is a new item

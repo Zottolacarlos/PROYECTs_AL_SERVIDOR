@@ -1,0 +1,31 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Tickets		REP*	W:\BD\TECNO	new directory W:\BD\TECNO
+Tickets		TAR	231	new record size: 231
+Tickets	Denominacion_Interna	RUB+		Denominacion_Interna is a new key
+Equipo_Detalle_PC		NNF*	Equipo	new name Equipo_Detalle_PC
+Equipo_Detalle_PC		REP*	W:\BD\TECNO	new directory W:\BD\TECNO
+Equipo_Detalle_PC		TAR	348	new record size: 348
+Equipo_Detalle_PC	Denominacion_Interna	RUB+		Denominacion_Interna is a new key
+Equipo_Detalle_PC	FUENTE	TAI-	40	FUENTE item has been resized: 11 (instead of 51)
+Equipo_Detalle_PC	Denominacion_Interna	RUB-		key Denominacion_Interna deleted
+Equipo_Detalle_PC	Descripción	RUB-		item Descripción deleted
+Equipo_Detalle_PC	Legajo_aCargo	RUB-		key Legajo_aCargo deleted
+Equipo_Detalle_PC	Fecha_Ingreso	RUB-		item Fecha_Ingreso deleted
+Equipo_Detalle_PC	Activo	RUB-		item Activo deleted
+Equipo_Detalle_PC	Razón_Baja	RUB-		item Razón_Baja deleted
+Programas		REP*	W:\BD\TECNO	new directory W:\BD\TECNO
+Programas		TAR	107	new record size: 107
+Programas	Descripción	RUB+		Descripción is a new item
+Programas	Desarrollador	RUB+		Desarrollador is a new item
+Mantenimientos		REP*	W:\BD\TECNO	new directory W:\BD\TECNO
+Equipo_TI		NFI		new file
+Equipo_Insumos		NFI		new file
+Constraint_Equipo_TI_Equipo_Detalle_PC		NWL	Equipo_TI (Denominacion_Interna) and Equipo_Detalle_PC (Denominacion_Interna)	New link between Equipo_TI (Denominacion_Interna) and Equipo_Detalle_PC (Denominacion_Interna) files
+Constraint_Equipo_TI_Equipo_Insumos		NWL	Equipo_TI (Denominacion_Interna) and Equipo_Insumos (Denominacion_Interna)	New link between Equipo_TI (Denominacion_Interna) and Equipo_Insumos (Denominacion_Interna) files
+Constraint_Tickets_Equipo_TI		NWL	Equipo_TI (Denominacion_Interna) and Tickets (Denominacion_Interna)	New link between Equipo_TI (Denominacion_Interna) and Tickets (Denominacion_Interna) files
+Constraint_Tickets_Mantenimientos		NWL	Tickets (TicketsID) and Mantenimientos (TicketsID)	New link between Tickets (TicketsID) and Mantenimientos (TicketsID) files
+Tickets		FRN		
+Programas		FRN		
+Mantenimientos		FRN		
+Equipo_TI		FRN		
+Equipo_Insumos		FRN		

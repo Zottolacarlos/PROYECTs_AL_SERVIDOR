@@ -1,0 +1,3 @@
+//MO405-406.TXT ANA00405 TO ANA00406
+Entregas_y_Prestamos		FCNX+	STOCK_LOCAL_PRUEBAS	
+Herramientas_de_Entregas_y_Prestamos		FCNX+	STOCK_LOCAL_PRUEBAS	

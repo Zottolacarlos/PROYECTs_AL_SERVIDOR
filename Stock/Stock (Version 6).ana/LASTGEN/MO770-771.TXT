@@ -1,0 +1,3 @@
+//MO770-771.TXT ANA00770 TO ANA00771
+Clasificacion_proveedores		REP*	J:\My Projects\Control de Recepcion\Exe	new directory J:\My Projects\Control de Recepcion\Exe
+Clasificacion_proveedores		FRN		

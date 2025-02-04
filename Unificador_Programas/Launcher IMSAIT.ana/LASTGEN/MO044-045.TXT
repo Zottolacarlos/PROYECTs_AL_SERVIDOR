@@ -1,0 +1,4 @@
+//MO044-045.TXT ANA00044 TO ANA00045
+Personal_IMSA_rrhh		NFI		new file
+Personal_IMSA_rrhh		FIC-	Personal_IMSA_rrhh	Personal_IMSA_rrhh file deleted
+Constraint_Personal_IMSA_rrhh_Permiso_Uso_Programas		DEL	Personal_IMSA_rrhh (Legajo) and Permiso_Uso_Programas (Legajo)	Link deleted between Personal_IMSA_rrhh (Legajo) and Permiso_Uso_Programas (Legajo) files

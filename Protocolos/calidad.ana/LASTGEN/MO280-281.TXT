@@ -1,0 +1,2 @@
+//MO280-281.TXT ANA00280 TO ANA00281
+tarjetas		NFI		new file

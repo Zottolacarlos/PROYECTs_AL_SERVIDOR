@@ -1,0 +1,3 @@
+//MO682-683.TXT ANA00682 TO ANA00683
+Elem_de_Recepcion		TAR	485	new record size: 485
+Elem_de_Recepcion	EquivalenciasID	RUB+		EquivalenciasID is a new key

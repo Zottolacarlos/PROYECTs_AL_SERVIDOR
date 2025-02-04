@@ -1,0 +1,9 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+Auditoria_Contratacion		TAR	88	new record size: 88
+Auditoria_Contratacion	UsuariosID	RUB+		UsuariosID is a new key
+Auditoria_Contratacion	Auditoria_eventosID	RUB+		Auditoria_eventosID is a new key
+Auditoria_Contratacion	DNI	RUB+		DNI is a new key
+Auditoria_eventos		NFI		new file
+Constraint_Auditoria_Contratacion_Usuarios		NWL	Usuarios (UsuariosID) and Auditoria_Contratacion (UsuariosID)	New link between Usuarios (UsuariosID) and Auditoria_Contratacion (UsuariosID) files
+Constraint_Auditoria_Contratacion_Auditoria_eventos		NWL	Auditoria_eventos (Auditoria_eventosID) and Auditoria_Contratacion (Auditoria_eventosID)	New link between Auditoria_eventos (Auditoria_eventosID) and Auditoria_Contratacion (Auditoria_eventosID) files
+Constraint_Candidato_Auditoria_Contratacion		NWL	Candidato (DNI) and Auditoria_Contratacion (DNI)	New link between Candidato (DNI) and Auditoria_Contratacion (DNI) files

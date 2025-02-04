@@ -1,0 +1,3 @@
+//MO769-770.TXT ANA00769 TO ANA00770
+Clasificacion_proveedores		NFI		new file
+Clasificacion_proveedores		FIC-	Clasificacion_proveedores	Clasificacion_proveedores file deleted

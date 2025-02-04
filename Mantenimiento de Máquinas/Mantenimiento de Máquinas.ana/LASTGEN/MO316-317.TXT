@@ -1,0 +1,4 @@
+//MO316-317.TXT ANA00316 TO ANA00317
+Incidentes		NFI		new file
+Connection to IMSASERVER03 - STOCK		CNX+		
+Incidentes		FRN		

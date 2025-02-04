@@ -1,0 +1,3 @@
+//MO252-253.TXT ANA00252 TO ANA00253
+PROTOCOLOS		TAR	442	new record size: 442
+PROTOCOLOS	Usuario_Carga	RUB+		Usuario_Carga is a new item

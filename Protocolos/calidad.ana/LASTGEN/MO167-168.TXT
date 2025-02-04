@@ -1,0 +1,3 @@
+//MO167-168.TXT ANA00167 TO ANA00168
+Equil_dinam_temp_imp	Peso_Residual	CNW	4-byte real$4-byte unsigned integer	new type for Peso_Residual item: 4-byte real
+Equilibrado_dinamico_datos	Peso_Residual	CNW	4-byte real$4-byte unsigned integer	new type for Peso_Residual item: 4-byte real

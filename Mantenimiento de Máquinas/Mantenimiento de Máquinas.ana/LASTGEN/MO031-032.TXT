@@ -1,0 +1,3 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Detalle_Preventivo		TAR	292	new record size: 292
+Detalle_Preventivo	tareas	RUB+		tareas is a new item

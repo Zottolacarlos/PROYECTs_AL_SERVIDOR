@@ -1,0 +1,4 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Hoja1$		TAR	1476	new record size: 1476
+Hoja1$	Situación Actual Control	CNW	String$2-byte integer	new type for Situación Actual Control item: String
+Hoja1$	Disposición Gcia# Ind#	RRM		

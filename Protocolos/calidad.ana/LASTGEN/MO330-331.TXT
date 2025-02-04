@@ -1,0 +1,5 @@
+//MO330-331.TXT ANA00330 TO ANA00331
+Equilibrado_dinamico_datos		TAR	629	new record size: 629
+Equilibrado_dinamico_datos	W	RUB+		W is a new item
+Equilibrado_dinamico_datos	DRP_Planos	RUB+		DRP_Planos is a new item
+Equil_dinam_temp_imp	DRP_Planos	NNR	DRP_Plano	CAUTION: item DRP_Plano renamed DRP_Planos

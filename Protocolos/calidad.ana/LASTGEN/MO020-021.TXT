@@ -1,0 +1,5 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+Archivo		TAR	277	new record size: 277
+Archivo	Protocolo Nº	CNW	8-byte real$4-byte unsigned integer	new type for Protocolo Nº item: 8-byte real
+Hoja1$		TAR	1469	new record size: 1469
+Hoja1$	Protocolo Nº	CNW	8-byte real$4-byte unsigned integer	new type for Protocolo Nº item: 8-byte real

@@ -1,0 +1,3 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Tarea_Extra		TAR	262	new record size: 262
+Tarea_Extra	Sector_q_carga	RUB+		Sector_q_carga is a new key

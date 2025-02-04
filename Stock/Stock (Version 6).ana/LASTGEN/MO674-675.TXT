@@ -1,0 +1,8 @@
+//MO674-675.TXT ANA00674 TO ANA00675
+Producto		TAR	209	new record size: 209
+Producto	Unidad_Compra	RUB-		item Unidad_Compra deleted
+Producto	Unidad_de_Uso	RUB-		item Unidad_de_Uso deleted
+Producto	Equivalencia_Compra	RUB-		item Equivalencia_Compra deleted
+Producto	Equivalencia_Uso	RUB-		item Equivalencia_Uso deleted
+Equivalencias		NFI		new file
+Constraint_Producto_Equivalencias		NWL	Producto (ProductoID) and Equivalencias (ProductoID)	New link between Producto (ProductoID) and Equivalencias (ProductoID) files

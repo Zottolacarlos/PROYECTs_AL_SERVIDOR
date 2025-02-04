@@ -1,0 +1,4 @@
+//MO614-615.TXT ANA00614 TO ANA00615
+Auditoria_deposito		TAR	84	new record size: 84
+Auditoria_deposito	Cantidad_corregida	RUB+		Cantidad_corregida is a new item
+Auditoria_deposito	obs_Gerencia	RUB+		obs_Gerencia is a new item

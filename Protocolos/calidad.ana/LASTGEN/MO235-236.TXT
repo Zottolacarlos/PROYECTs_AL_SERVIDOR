@@ -1,0 +1,4 @@
+//MO235-236.TXT ANA00235 TO ANA00236
+Datos_Prog		REP*	W:\BD\PROTOCOLOS	new directory W:\BD\PROTOCOLOS
+version		FIC-	version	version file deleted
+Datos_Prog		FRN		

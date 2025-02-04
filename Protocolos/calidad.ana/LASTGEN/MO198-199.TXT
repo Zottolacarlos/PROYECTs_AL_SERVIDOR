@@ -1,0 +1,14 @@
+//MO198-199.TXT ANA00198 TO ANA00199
+Detalle_largo_plazo		TAR	313	new record size: 313
+Detalle_largo_plazo	Tareas	TAI+	50	Tareas item has been resized: 101 (instead of 51)
+Detalle_largo_plazo	Recursos	RUB+		Recursos is a new item
+Detalle_largo_plazo	Detalle_recursos	RUB+		Detalle_recursos is a new item
+Detalle_largo_plazo	A_cargo	RUB+		A_cargo is a new item
+Detalle_largo_plazo	Plazo	RUB+		Plazo is a new item
+Detalle_largo_plazo	Avance	RUB+		Avance is a new item
+Detalle_largo_plazo	Como_sera	RUB+		Como_sera is a new item
+Detalle_largo_plazo	Cuantifica_resultado	RUB+		Cuantifica_resultado is a new item
+Detalle_largo_plazo	fecha_inicio	RUB+		fecha_inicio is a new item
+Detalle_largo_plazo	fecha_fin	RUB+		fecha_fin is a new item
+Detalle_largo_plazo	Acc_corrct_respuestasID	RUB+		Acc_corrct_respuestasID is a new key
+Constraint_acc_corrct_respuestas_Detalle_largo_plazo		NWL	acc_corrct_respuestas (acc_corrct_respuestasID) and Detalle_largo_plazo (Acc_corrct_respuestasID)	New link between acc_corrct_respuestas (acc_corrct_respuestasID) and Detalle_largo_plazo (Acc_corrct_respuestasID) files

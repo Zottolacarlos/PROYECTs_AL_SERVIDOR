@@ -1,0 +1,3 @@
+//MO285-286.TXT ANA00285 TO ANA00286
+Verificacion_de_Maquinas		TAR	200	new record size: 200
+Verificacion_de_Maquinas	Directrices	RUB+		Directrices is a new item

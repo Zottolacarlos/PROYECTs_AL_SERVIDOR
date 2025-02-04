@@ -1,0 +1,4 @@
+//MO033-034.TXT ANA00033 TO ANA00034
+Leche		TAR	47	new record size: 47
+Leche	saldo_restado	RUB+		saldo_restado is a new item
+Leche	entregados	RUB+		entregados is a new item

@@ -1,0 +1,3 @@
+//MO445-446.TXT ANA00445 TO ANA00446
+Entregas_y_Prestamos		TAR	93	new record size: 93
+Entregas_y_Prestamos	Estado	RUB-		item Estado deleted

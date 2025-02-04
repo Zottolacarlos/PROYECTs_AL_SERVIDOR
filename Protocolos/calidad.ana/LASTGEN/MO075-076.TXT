@@ -1,0 +1,2 @@
+//MO075-076.TXT ANA00075 TO ANA00076
+Constraint_Hoja1$_visado		MCL	0,n->1,n	

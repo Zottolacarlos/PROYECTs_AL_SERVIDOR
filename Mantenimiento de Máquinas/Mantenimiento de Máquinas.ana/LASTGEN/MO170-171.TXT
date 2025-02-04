@@ -1,0 +1,7 @@
+//MO170-171.TXT ANA00170 TO ANA00171
+fotos_maq		TAR	312	new record size: 312
+fotos_maq	Denominación_Int	RUB+		Denominación_Int is a new key
+manuales		TAR	317	new record size: 317
+manuales	Denominación_Int	RUB+		Denominación_Int is a new key
+Maquina		NWL	Maquina (Denominación_Int) and fotos_maq (Denominación_Int)	New link between Maquina (Denominación_Int) and fotos_maq (Denominación_Int) files
+Maquina		NWL	Maquina (Denominación_Int) and manuales (Denominación_Int)	New link between Maquina (Denominación_Int) and manuales (Denominación_Int) files

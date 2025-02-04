@@ -1,0 +1,3 @@
+//MO315-316.TXT ANA00315 TO ANA00316
+Impresion_Recepcion_de_Materiales		TAR	462	new record size: 462
+Impresion_Recepcion_de_Materiales	contracuenta	RUB+		contracuenta is a new item

@@ -1,0 +1,3 @@
+//MO360-361.TXT ANA00360 TO ANA00361
+Elem_del_Pedido		TAR	515	new record size: 515
+Elem_del_Pedido	cotizado_a_dolar	CNW	Decimal$4-byte integer	new type for cotizado_a_dolar item: Decimal

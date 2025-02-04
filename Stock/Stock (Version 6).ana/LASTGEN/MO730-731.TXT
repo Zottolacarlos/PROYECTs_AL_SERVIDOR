@@ -1,0 +1,2 @@
+//MO730-731.TXT ANA00730 TO ANA00731
+Presup_Plazos_puestos		NFI		new file

@@ -1,0 +1,7 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Deposito		TAR	185	new record size: 185
+Deposito	NrodeControl	RUB+		NrodeControl is a new key
+Recepcion		TAR	151	new record size: 151
+Recepcion	DepositoID	RUB-		key DepositoID deleted
+Recepcion		NWL	Recepcion (NrodeControl) and Deposito (NrodeControl)	New link between Recepcion (NrodeControl) and Deposito (NrodeControl) files
+Deposito		DEL	Deposito (DepositoID) and Recepcion (DepositoID)	Link deleted between Deposito (DepositoID) and Recepcion (DepositoID) files

@@ -1,0 +1,3 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Detalle_Preventivo		TAR	241	new record size: 241
+Detalle_Preventivo	Observaciónes	TAI+	50	Observaciónes item has been resized: 101 (instead of 51)

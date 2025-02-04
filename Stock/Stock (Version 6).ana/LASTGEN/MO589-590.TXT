@@ -1,0 +1,4 @@
+//MO589-590.TXT ANA00589 TO ANA00590
+Elem_del_Pedido		TAR	572	new record size: 572
+Elem_del_Pedido	tenia_plazo_cp_admin	RUB+		tenia_plazo_cp_admin is a new item
+Elem_del_Pedido	mantuvo_fecha_limite	RUB+		mantuvo_fecha_limite is a new item

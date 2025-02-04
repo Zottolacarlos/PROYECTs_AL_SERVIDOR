@@ -1,0 +1,3 @@
+//MO325-326.TXT ANA00325 TO ANA00326
+Proc_Fab_Tarjetas		NFI		new file
+PROTOCOLOS	Cotización	RRM		

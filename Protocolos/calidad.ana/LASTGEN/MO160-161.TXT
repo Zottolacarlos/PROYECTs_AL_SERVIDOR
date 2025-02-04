@@ -1,0 +1,3 @@
+//MO160-161.TXT ANA00160 TO ANA00161
+Equilibrado_dinamico_datos		TAR	547	new record size: 547
+Equilibrado_dinamico_datos	Unidad_Desb_permitido	TAI+	5	Unidad_Desb_permitido item has been resized: 11 (instead of 6)

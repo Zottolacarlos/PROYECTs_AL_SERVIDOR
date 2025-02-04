@@ -1,0 +1,7 @@
+//MO150-151.TXT ANA00150 TO ANA00151
+Elem_del_Pedido		TAR	999	new record size: 999
+Elem_del_Pedido	Controla_Calidad	RUB+		Controla_Calidad is a new item
+Elem_del_Pedido	Controla_Deposito	RUB+		Controla_Deposito is a new item
+Elem_del_Pedido	Controla_Fundicion	RUB+		Controla_Fundicion is a new item
+Elem_del_Pedido	Controla_Ingenieria	RUB+		Controla_Ingenieria is a new item
+Elem_del_Pedido	Controla_Mantenimiento	RUB+		Controla_Mantenimiento is a new item

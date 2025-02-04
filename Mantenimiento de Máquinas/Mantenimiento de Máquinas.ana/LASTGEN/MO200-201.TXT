@@ -1,0 +1,3 @@
+//MO200-201.TXT ANA00200 TO ANA00201
+Detalle_Proactivo		NFI		new file
+Detalle_Proactivo		FRN		

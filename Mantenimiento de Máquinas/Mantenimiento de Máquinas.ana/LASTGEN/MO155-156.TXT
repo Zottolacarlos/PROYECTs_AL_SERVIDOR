@@ -1,0 +1,3 @@
+//MO155-156.TXT ANA00155 TO ANA00156
+repuestos		TAR	423	new record size: 423
+repuestos	Supervisor	TAB+	3	Supervisor item is now an array of 4 elements 

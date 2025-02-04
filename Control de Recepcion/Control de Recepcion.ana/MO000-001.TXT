@@ -1,0 +1,5 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Deposito		NFI		new file
+Recepcion		NFI		new file
+Recepcion		FRN		
+Deposito		FRN		

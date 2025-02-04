@@ -1,0 +1,3 @@
+//MO130-131.TXT ANA00130 TO ANA00131
+acc_correct_redireccionada		NNF*	redireccionada_acc_correct	new name acc_correct_redireccionada
+acc_correct_redireccionada	acc_correctID_acc_correct_redireccionada	NNR	redireccionada_acc_correctID	CAUTION: key redireccionada_acc_correctID renamed acc_correctID_acc_correct_redireccionada

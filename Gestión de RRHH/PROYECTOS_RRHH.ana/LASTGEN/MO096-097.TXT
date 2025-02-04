@@ -1,0 +1,3 @@
+//MO096-097.TXT ANA00096 TO ANA00097
+Personal_IMSA_rrhh		TAR	623	new record size: 623
+Personal_IMSA_rrhh	Archivo_evaluacion	RUB+		Archivo_evaluacion is a new item

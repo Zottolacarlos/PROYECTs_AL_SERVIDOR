@@ -1,0 +1,5 @@
+//MO055-056.TXT ANA00055 TO ANA00056
+Detalle_Correctivo		REP*	W:\BD\Mantenimiento	new directory W:\BD\Mantenimiento
+Detalle_Preventivo		REP*	W:\BD\Mantenimiento	new directory W:\BD\Mantenimiento
+Detalle_Correctivo		FRN		
+Detalle_Preventivo		FRN		

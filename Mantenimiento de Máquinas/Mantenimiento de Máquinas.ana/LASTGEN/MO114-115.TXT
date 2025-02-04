@@ -1,0 +1,2 @@
+//MO114-115.TXT ANA00114 TO ANA00115
+lectura_hs	lectura	CNW	4-byte real$4-byte unsigned integer	new type for lectura item: 4-byte real

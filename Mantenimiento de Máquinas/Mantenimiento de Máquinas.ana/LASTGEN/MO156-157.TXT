@@ -1,0 +1,3 @@
+//MO156-157.TXT ANA00156 TO ANA00157
+repuestos		TAR	422	new record size: 422
+repuestos	Fabrica_IMSA	RUB-		item Fabrica_IMSA deleted

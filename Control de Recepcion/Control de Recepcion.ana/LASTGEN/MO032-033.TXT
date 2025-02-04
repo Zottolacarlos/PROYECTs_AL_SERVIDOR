@@ -1,0 +1,5 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+Oftec		TAR	953	new record size: 953
+Oftec	Fecha_dep	NNR	Fecha	CAUTION: item Fecha renamed Fecha_dep
+Oftec	Fecha_fund	RUB+		Fecha_fund is a new item
+Oftec	Fecha_calidad	RUB+		Fecha_calidad is a new item

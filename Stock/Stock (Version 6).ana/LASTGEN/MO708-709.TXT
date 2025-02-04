@@ -1,0 +1,12 @@
+//MO708-709.TXT ANA00708 TO ANA00709
+Remitos_Compras		TAR	124	new record size: 124
+Remitos_Compras	Fecha_remito	RUB+		Fecha_remito is a new item
+Remitos_Compras	Legajo_carga	RUB+		Legajo_carga is a new item
+Remitos_Compras	Cantidad_remito	RUB-		item Cantidad_remito deleted
+Remitos_Compras	Regresa	RUB-		item Regresa deleted
+Remitos_Compras	ProductoID	RUB-		key ProductoID deleted
+Remitos_Compras	Descripción_Producto	RUB-		item Descripción_Producto deleted
+Remitos_Compras	Unidad_producto	RUB-		item Unidad_producto deleted
+Remitos_Compras	Elemento_del_Pedido_ID	RUB-		key Elemento_del_Pedido_ID deleted
+Elem_de_remitos_compras		NFI		new file
+Constraint_Elem_del_Pedido_Remitos_Compras		DEL	Elem_del_Pedido (Elemento_del_Pedido_ID) and Remitos_Compras (Elemento_del_Pedido_ID)	Link deleted between Elem_del_Pedido (Elemento_del_Pedido_ID) and Remitos_Compras (Elemento_del_Pedido_ID) files

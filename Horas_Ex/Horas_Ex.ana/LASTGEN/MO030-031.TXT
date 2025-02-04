@@ -1,0 +1,4 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+saldos_leche	saldo_restado	NNR	saldo_leche	CAUTION: item saldo_leche renamed saldo_restado
+Operarios$		TAR	232	new record size: 232
+Operarios$	saldo_leche	RUB+		saldo_leche is a new item

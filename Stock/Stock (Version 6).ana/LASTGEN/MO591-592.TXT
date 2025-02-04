@@ -1,0 +1,3 @@
+//MO591-592.TXT ANA00591 TO ANA00592
+Elem_del_Pedido		TAR	590	new record size: 590
+Elem_del_Pedido	fecha_limite_usuario	RUB+		fecha_limite_usuario is a new item

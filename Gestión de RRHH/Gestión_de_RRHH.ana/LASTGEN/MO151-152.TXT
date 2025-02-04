@@ -1,0 +1,2 @@
+//MO151-152.TXT ANA00151 TO ANA00152
+Auditoría_de_Novedades	legajo_carga_original	NNR	legajo_cambia	CAUTION: item legajo_cambia renamed legajo_carga_original

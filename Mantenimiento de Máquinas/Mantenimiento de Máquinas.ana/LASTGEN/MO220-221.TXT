@@ -1,0 +1,3 @@
+//MO220-221.TXT ANA00220 TO ANA00221
+preventivo_postergado		TAR	172	new record size: 172
+preventivo_postergado	fecha_activación	CNW	Date (yyyymmdd)$String	new type for fecha_activación item: Date (yyyymmdd)

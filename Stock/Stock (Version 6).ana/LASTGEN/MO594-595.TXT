@@ -1,0 +1,3 @@
+//MO594-595.TXT ANA00594 TO ANA00595
+Elem_del_Pedido		TAR	609	new record size: 609
+Elem_del_Pedido	fecha_autorizacion	RUB+		fecha_autorizacion is a new item

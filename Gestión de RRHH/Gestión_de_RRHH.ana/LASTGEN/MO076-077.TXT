@@ -1,0 +1,3 @@
+//MO076-077.TXT ANA00076 TO ANA00077
+Auditoria_Contratacion		TAR	122	new record size: 122
+Auditoria_Contratacion	Fecha	CNW	Date and Time (yyyymmddhhmmssccc)$String	new type for Fecha item: Date and Time (yyyymmddhhmmssc

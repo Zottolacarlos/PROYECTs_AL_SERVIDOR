@@ -1,0 +1,4 @@
+//MO112-113.TXT ANA00112 TO ANA00113
+Proveedores		TAR	116	new record size: 116
+Proveedores	Clasificacion	RUB-		item Clasificacion deleted
+Proveedores	Periodo_clasificacion	RUB-		item Periodo_clasificacion deleted

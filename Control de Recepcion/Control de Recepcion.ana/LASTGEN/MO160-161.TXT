@@ -1,0 +1,4 @@
+//MO160-161.TXT ANA00160 TO ANA00161
+Recepcion		TAR	480	new record size: 480
+Recepcion	AÑO_calificacion	NNR	fecha_calificacion	CAUTION: item fecha_calificacion renamed AÑO_calificacion
+Recepcion	AÑO_calificacion	CNW	String$Date (yyyymmdd)	new type for AÑO_calificacion item: String

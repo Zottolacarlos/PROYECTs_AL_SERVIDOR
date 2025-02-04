@@ -1,0 +1,4 @@
+//MO150-151.TXT ANA00150 TO ANA00151
+repuestos		TAR	355	new record size: 355
+repuestos	Supervisor	NNR	sector_encargado	CAUTION: item sector_encargado renamed Supervisor
+repuestos	Supervisor	TAI-	10	Supervisor item has been resized: 11 (instead of 21)

@@ -1,0 +1,3 @@
+//MO175-176.TXT ANA00175 TO ANA00176
+entrega_parcial		TAR	133	new record size: 133
+entrega_parcial	fecha_cierre	RUB+		fecha_cierre is a new item

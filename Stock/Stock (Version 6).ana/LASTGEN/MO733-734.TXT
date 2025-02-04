@@ -1,0 +1,2 @@
+//MO733-734.TXT ANA00733 TO ANA00734
+Articulos_Viejos		NFI		new file

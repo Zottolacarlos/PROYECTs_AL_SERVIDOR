@@ -1,0 +1,3 @@
+//MO145-146.TXT ANA00145 TO ANA00146
+Personal_IMSA_Puestos		NNF*	Personal_IMSA_rrhh_Sectores_Puestos	new name Personal_IMSA_Puestos
+Personal_IMSA_Puestos		FRN		

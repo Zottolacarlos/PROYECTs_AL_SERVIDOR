@@ -1,0 +1,4 @@
+//MO771-772.TXT ANA00771 TO ANA00772
+Clasificacion_proveedores		NFI		new file
+Clasificacion_proveedores		FIC-	Clasificacion_proveedores	Clasificacion_proveedores file deleted
+Clasificacion_proveedores		FRN		

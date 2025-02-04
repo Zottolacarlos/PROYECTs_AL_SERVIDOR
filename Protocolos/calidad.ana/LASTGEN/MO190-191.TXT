@@ -1,0 +1,2 @@
+//MO190-191.TXT ANA00190 TO ANA00191
+Clasificacion_de_Falla		NFI		new file

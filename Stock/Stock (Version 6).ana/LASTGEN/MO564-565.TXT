@@ -1,0 +1,4 @@
+//MO564-565.TXT ANA00564 TO ANA00565
+Control_de_Recepciones		IDE-		file without identifier
+Control_de_Recepciones	Control_de_RecepcionesID	CNW	8-byte unsigned integer$Automatic Identifier (8 bytes)	new type for Control_de_RecepcionesID item: 8-byte unsigned integer
+Control_Recep_Sector	Control_de_RecepcionesID	CNW	8-byte unsigned integer$8-byte integer	new type for Control_de_RecepcionesID item: 8-byte unsigned integer

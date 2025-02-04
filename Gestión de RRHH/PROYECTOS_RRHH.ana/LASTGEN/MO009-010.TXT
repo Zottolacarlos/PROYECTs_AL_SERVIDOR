@@ -1,0 +1,6 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Pedido_de_Contratación		TAR	200	new record size: 200
+Pedido_de_Contratación	Fecha_pedido	NNR	Fecha	CAUTION: item Fecha renamed Fecha_pedido
+Pedido_de_Contratación	Fecha_aprobación	RUB+		Fecha_aprobación is a new item
+Pedido_de_Contratación	Fecha_busqueda	RUB+		Fecha_busqueda is a new item
+Pedido_de_Contratación	Fecha_entrevistas	RUB+		Fecha_entrevistas is a new item

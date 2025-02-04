@@ -1,0 +1,4 @@
+//MO152-153.TXT ANA00152 TO ANA00153
+repuestos		TAR	360	new record size: 360
+repuestos	Estado	NNR	recibido_conforme	CAUTION: item recibido_conforme renamed Estado
+repuestos	Estado	CNW	String$Boolean	new type for Estado item: String

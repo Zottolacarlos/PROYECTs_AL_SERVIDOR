@@ -1,0 +1,3 @@
+//MO503-504.TXT ANA00503 TO ANA00504
+Elem_de_Recepcion		TAR	337	new record size: 337
+Elem_de_Recepcion	Decision_deposito	RUB+		Decision_deposito is a new item

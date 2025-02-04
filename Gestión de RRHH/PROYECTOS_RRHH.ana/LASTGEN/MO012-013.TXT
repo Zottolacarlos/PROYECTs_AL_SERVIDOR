@@ -1,0 +1,6 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Candidato		TAR	332	new record size: 332
+Candidato	Estados_candidatoID	CNW	2-byte unsigned integer$8-byte integer	new type for Estados_candidatoID item: 2-byte unsigned integer
+Estados_candidato		TAR	62	new record size: 62
+Estados_candidato		IDE-*		file without identifier
+Estados_candidato	Estados_candidatoID	CNW	2-byte unsigned integer$Automatic Identifier (8 bytes)	new type for Estados_candidatoID item: 2-byte unsigned integer

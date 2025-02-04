@@ -1,0 +1,4 @@
+//MO719-720.TXT ANA00719 TO ANA00720
+Elem_de_Remesa_Salida		NNF	Elem_de_remitos_compras	new name Elem_de_Remesa_Salida
+Elem_de_Remesa_Salida		EXT		new extension 
+Elem_de_Remesa_Salida		FRN		

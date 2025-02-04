@@ -1,0 +1,5 @@
+//MO107-108.TXT ANA00107 TO ANA00108
+All_recepciones		TAR	1140	new record size: 1140
+All_recepciones	familia	RUB+		familia is a new item
+Recepcion		TAR	628	new record size: 628
+Recepcion	familia	RUB+		familia is a new item

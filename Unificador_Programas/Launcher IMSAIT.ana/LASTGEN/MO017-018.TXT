@@ -1,0 +1,2 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+conectados_rrhh		NNF*	conectados	new name conectados_rrhh

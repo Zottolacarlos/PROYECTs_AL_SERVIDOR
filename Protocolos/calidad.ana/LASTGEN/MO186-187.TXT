@@ -1,0 +1,5 @@
+//MO186-187.TXT ANA00186 TO ANA00187
+acc_corrct_respuestas	Arch_rta1	NNR	Evidencia1	CAUTION: item Evidencia1 renamed Arch_rta1
+acc_corrct_respuestas	Arch_rta2	NNR	Evidencia2	CAUTION: item Evidencia2 renamed Arch_rta2
+acc_corrct_respuestas	Arch_rta3	NNR	Evidencia3	CAUTION: item Evidencia3 renamed Arch_rta3
+acc_corrct_respuestas	Arch_rta4	NNR	Evidencia4	CAUTION: item Evidencia4 renamed Arch_rta4

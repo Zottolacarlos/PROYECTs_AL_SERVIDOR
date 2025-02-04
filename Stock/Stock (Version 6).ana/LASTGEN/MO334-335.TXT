@@ -1,0 +1,6 @@
+//MO334-335.TXT ANA00334 TO ANA00335
+articulos		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	
+areas		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	
+Maquina		TAR	112	new record size: 112
+articulos		FRN		
+areas		FRN		

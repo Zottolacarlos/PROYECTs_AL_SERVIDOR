@@ -1,0 +1,3 @@
+//MO224-225.TXT ANA00224 TO ANA00225
+PROTOCOLOS		TAR	402	new record size: 402
+PROTOCOLOS	Controlado_operario	RUB+		Controlado_operario is a new item

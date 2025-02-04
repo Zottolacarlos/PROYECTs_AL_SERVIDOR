@@ -1,0 +1,8 @@
+//MO057-058.TXT ANA00057 TO ANA00058
+Auditoria_eventos		NFI		new file
+Auditoria_estados		NFI		new file
+Estados_de_Pedido		NFI		new file
+Incidentes		NFI		new file
+empleados_areas		NFI		new file
+fk_empleados_areas_r_empleados		NWL	empleados (idemplea) and empleados_areas (idemplea)	New link between empleados (idemplea) and empleados_areas (idemplea) files
+Connection to 'IMSASERVER03'		CNX		

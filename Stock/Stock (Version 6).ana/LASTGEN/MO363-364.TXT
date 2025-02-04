@@ -1,0 +1,11 @@
+//MO363-364.TXT ANA00363 TO ANA00364
+Comparativa		TAR	746	new record size: 746
+Comparativa	cotizado_a_dolar	RUB+		cotizado_a_dolar is a new item
+Comparativa	Costo_anterior	RUB-		item Costo_anterior deleted
+Comparativa	Cotizacion_dolarcosto_aanterior	RUB-		item Cotizacion_dolarcosto_aanterior deleted
+Comparativa	fecha_costo_anterior	RUB-		item fecha_costo_anterior deleted
+Comparativa	Proveedor_costo_anterior	RUB-		item Proveedor_costo_anterior deleted
+Comparativa	Costo_antiguo	RUB-		item Costo_antiguo deleted
+Comparativa	Cotizacion_dolarcosto_antiguo	RUB-		item Cotizacion_dolarcosto_antiguo deleted
+Comparativa	Fecha_costo_antiguo	RUB-		item Fecha_costo_antiguo deleted
+Comparativa	Proveedor_costo_antiguo	RUB-		item Proveedor_costo_antiguo deleted

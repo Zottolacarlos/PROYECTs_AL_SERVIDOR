@@ -1,0 +1,6 @@
+//MO104-105.TXT ANA00104 TO ANA00105
+lectura_hs		TAR	42	new record size: 42
+lectura_hs	lectura	RUB+		lectura is a new item
+lectura_hs	fecha_lect	RUB+		fecha_lect is a new item
+lectura_hs	Denominación_Int	RUB+		Denominación_Int is a new key
+Maquina		NWL	Maquina (Denominación_Int) and lectura_hs (Denominación_Int)	New link between Maquina (Denominación_Int) and lectura_hs (Denominación_Int) files

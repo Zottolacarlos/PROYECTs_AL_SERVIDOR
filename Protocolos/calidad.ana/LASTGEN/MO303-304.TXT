@@ -1,0 +1,4 @@
+//MO303-304.TXT ANA00303 TO ANA00304
+Equilibrado_dinamico_datos		TAR	608	new record size: 608
+Equilibrado_dinamico_datos	Imagen_Antes	RUB+		Imagen_Antes is a new item
+Equilibrado_dinamico_datos	Imagen_Despues	RUB+		Imagen_Despues is a new item

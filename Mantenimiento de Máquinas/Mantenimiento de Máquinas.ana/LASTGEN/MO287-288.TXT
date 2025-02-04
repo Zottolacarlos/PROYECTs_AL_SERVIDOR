@@ -1,0 +1,3 @@
+//MO287-288.TXT ANA00287 TO ANA00288
+Verificacion_de_Maquinas		TAR	190	new record size: 190
+Verificacion_de_Maquinas	Verificacion_anterior	RUB-		item Verificacion_anterior deleted

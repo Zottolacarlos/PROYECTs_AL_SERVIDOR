@@ -1,0 +1,6 @@
+//MO093-094.TXT ANA00093 TO ANA00094
+Protocolos_calibracion		NFI		new file
+Instrumentos		TAR	103	new record size: 103
+Instrumentos	Fecha_Compra	RUB+		Fecha_Compra is a new item
+Instrumentos		NWL	Instrumentos (Nro_inventario) and Protocolos_calibracion (Nro_inventario)	New link between Instrumentos (Nro_inventario) and Protocolos_calibracion (Nro_inventario) files
+Protocolos_calibracion		FRN		

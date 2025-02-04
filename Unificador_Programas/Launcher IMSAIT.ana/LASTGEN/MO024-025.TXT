@@ -1,0 +1,4 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+conectados_rrhh		NFI		new file
+conectados_rrhh		FIC-	conectados_rrhh	conectados_rrhh file deleted
+conectados_stock		FIC-	conectados_stock	conectados_stock file deleted

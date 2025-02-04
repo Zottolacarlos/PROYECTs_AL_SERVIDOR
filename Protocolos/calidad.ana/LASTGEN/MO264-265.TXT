@@ -1,0 +1,3 @@
+//MO264-265.TXT ANA00264 TO ANA00265
+Instrumentos		TAR	738	new record size: 738
+Instrumentos	Legajo_a_cargo	RUB+		Legajo_a_cargo is a new item

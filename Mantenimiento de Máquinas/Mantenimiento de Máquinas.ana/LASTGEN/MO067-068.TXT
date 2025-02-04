@@ -1,0 +1,4 @@
+//MO067-068.TXT ANA00067 TO ANA00068
+Detalle_Preventivo		TAR	1237	new record size: 1237
+Detalle_Preventivo	horas_entre_preven	NNR	horas_x_tarea	CAUTION: item horas_x_tarea renamed horas_entre_preven
+Detalle_Preventivo	horas_entre_preven	TAB-	24	horas_entre_preven item is no longer an array

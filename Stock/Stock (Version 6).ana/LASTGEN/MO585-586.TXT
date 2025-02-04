@@ -1,0 +1,5 @@
+//MO585-586.TXT ANA00585 TO ANA00586
+Control_de_Recepciones		TAR	167	new record size: 167
+Control_de_Recepciones	Fecha_cierre	RUB+		Fecha_cierre is a new item
+Proveedores_Calificaciones		NFI		new file
+Constraint_subcuentas_Proveedores_Calificaciones		NWL	subcuentas (PRIMARY) and Proveedores_Calificaciones (PRIMARY)	New link between subcuentas (PRIMARY) and Proveedores_Calificaciones (PRIMARY) files

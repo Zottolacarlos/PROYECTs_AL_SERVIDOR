@@ -1,0 +1,5 @@
+//MO209-210.TXT ANA00209 TO ANA00210
+Control_Tableros		TAR	369	new record size: 369
+Control_Tableros	Observaciónes	TAI+	156	Observaciónes item has been resized: 257 (instead of 101)
+Temp_tableros		TAR	390	new record size: 390
+Temp_tableros	Observaciónes	TAI+	156	Observaciónes item has been resized: 257 (instead of 101)

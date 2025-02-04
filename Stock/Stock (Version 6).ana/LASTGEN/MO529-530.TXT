@@ -1,0 +1,3 @@
+//MO529-530.TXT ANA00529 TO ANA00530
+Comparativa	Precio_referencia_ID	CLEU		Precio_referencia_ID item is now key
+Comparativa	Precio_referencia_ID	RDP+		

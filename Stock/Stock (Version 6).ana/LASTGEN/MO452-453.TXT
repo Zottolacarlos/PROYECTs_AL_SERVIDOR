@@ -1,0 +1,9 @@
+//MO452-453.TXT ANA00452 TO ANA00453
+Elem_del_Pedido		TAR	540	new record size: 540
+Elem_del_Pedido	Controla_Calidad	RUB+		Controla_Calidad is a new item
+Elem_del_Pedido	Controla_Deposito	RUB+		Controla_Deposito is a new item
+Elem_del_Pedido	Controla_Fundicion	RUB+		Controla_Fundicion is a new item
+Elem_del_Pedido	Controla_Ingenieria	RUB+		Controla_Ingenieria is a new item
+Elem_del_Pedido	Controla_Mantenimiento	RUB+		Controla_Mantenimiento is a new item
+Elem_del_Pedido	Supera_Precio_Cotizado	RUB-		item Supera_Precio_Cotizado deleted
+Elem_del_Pedido	Motivo_demora_aprobacion_PM	RUB-		item Motivo_demora_aprobacion_PM deleted

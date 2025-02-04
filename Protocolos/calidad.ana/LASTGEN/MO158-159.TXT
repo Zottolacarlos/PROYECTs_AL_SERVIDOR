@@ -1,0 +1,3 @@
+//MO158-159.TXT ANA00158 TO ANA00159
+PROTOCOLOS		TAR	360	new record size: 360
+PROTOCOLOS	urgente	RUB-		key urgente deleted

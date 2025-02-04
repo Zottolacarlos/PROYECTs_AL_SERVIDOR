@@ -1,0 +1,3 @@
+//MO039-040.TXT ANA00039 TO ANA00040
+Detalle_Correctivo		TAR	473	new record size: 473
+Detalle_Correctivo	critico_parada	RUB+		critico_parada is a new item

@@ -1,0 +1,3 @@
+//MO576-577.TXT ANA00576 TO ANA00577
+Elem_de_Recepcion		TAR	440	new record size: 440
+Elem_de_Recepcion	obs_xa_gerencia	CNW	Text Memo$String	new type for obs_xa_gerencia item: Text Memo

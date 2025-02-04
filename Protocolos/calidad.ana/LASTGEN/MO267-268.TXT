@@ -1,0 +1,5 @@
+//MO267-268.TXT ANA00267 TO ANA00268
+Sectores		NFI		new file
+Sectores		FIC-	Sectores	Sectores file deleted
+Constraint_Personal_IMSA_rrhh_Sectores		DEL	Sectores (SectoresID) and Personal_IMSA_rrhh (SectoresID)	Link deleted between Sectores (SectoresID) and Personal_IMSA_rrhh (SectoresID) files
+Constraint_Sectores_Sectores_Responsable		DEL	Sectores (SectoresID) and Sectores_Responsable (SectoresID)	Link deleted between Sectores (SectoresID) and Sectores_Responsable (SectoresID) files

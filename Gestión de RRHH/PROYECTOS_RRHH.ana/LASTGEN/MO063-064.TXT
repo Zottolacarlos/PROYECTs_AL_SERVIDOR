@@ -1,0 +1,5 @@
+//MO063-064.TXT ANA00063 TO ANA00064
+Sectores_Usuarios		NFI		new file
+Constraint_Usuarios_Sectores_Usuarios		NWL	Usuarios (UsuariosID) and Sectores_Usuarios (UsuariosID)	New link between Usuarios (UsuariosID) and Sectores_Usuarios (UsuariosID) files
+Constraint_Sectores_Sectores_Usuarios		NWL	Sectores (SectoresID) and Sectores_Usuarios (SectoresID)	New link between Sectores (SectoresID) and Sectores_Usuarios (SectoresID) files
+Constraint_Sectores_Usuarios		DEL	Sectores (SectoresID) and Usuarios (SectoresID)	Link deleted between Sectores (SectoresID) and Usuarios (SectoresID) files

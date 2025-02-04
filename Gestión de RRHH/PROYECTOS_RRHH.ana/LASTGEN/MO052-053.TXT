@@ -1,0 +1,3 @@
+//MO052-053.TXT ANA00052 TO ANA00053
+Pedido_de_Contratación		TAR	248	new record size: 248
+Pedido_de_Contratación	Puesto	RUB+		Puesto is a new item

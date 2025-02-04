@@ -1,0 +1,3 @@
+//MO779-780.TXT ANA00779 TO ANA00780
+Producto		TAR	217	new record size: 217
+Producto	Evita_Audit_Deposito	RUB+		Evita_Audit_Deposito is a new item

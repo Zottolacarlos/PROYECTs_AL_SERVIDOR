@@ -1,0 +1,3 @@
+//MO041-042.TXT ANA00041 TO ANA00042
+Recepcion		TAR	251	new record size: 251
+Recepcion	_111	RUB+		_111 is a new item

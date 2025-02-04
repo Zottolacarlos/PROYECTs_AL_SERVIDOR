@@ -1,0 +1,6 @@
+//MO251-252.TXT ANA00251 TO ANA00252
+Incidentes		NFI		new file
+tipos_de_incidentes		NFI		new file
+Connection to IMSASERVER03 - STOCK		CNX+		
+Incidentes		FRN		
+tipos_de_incidentes		FRN		

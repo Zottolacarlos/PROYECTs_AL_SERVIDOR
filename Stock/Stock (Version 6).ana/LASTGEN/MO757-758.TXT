@@ -1,0 +1,3 @@
+//MO757-758.TXT ANA00757 TO ANA00758
+Producto		TAR	216	new record size: 216
+Producto	Se_Usa_en_Guia_Colada	RUB+		Se_Usa_en_Guia_Colada is a new item

@@ -1,0 +1,3 @@
+//MO545-546.TXT ANA00545 TO ANA00546
+Controles_recep_Pedidos		TAR	290	new record size: 290
+Controles_recep_Pedidos	Requiere_Certificado	RUB+		Requiere_Certificado is a new item

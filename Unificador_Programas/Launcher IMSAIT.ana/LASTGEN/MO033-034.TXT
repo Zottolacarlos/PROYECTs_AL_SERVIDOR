@@ -1,0 +1,5 @@
+//MO033-034.TXT ANA00033 TO ANA00034
+conectados_manten		NFI		new file
+conectados_produc		NFI		new file
+conectados_produc		FRN		
+conectados_manten		FRN		

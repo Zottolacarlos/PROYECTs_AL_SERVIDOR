@@ -1,0 +1,4 @@
+//MO667-668.TXT ANA00667 TO ANA00668
+Impresion_Orden_de_Compra		TAR	856	new record size: 856
+Impresion_Orden_de_Compra	ComparativaNro	RUB+		ComparativaNro is a new item
+Impresion_Orden_de_Compra	VersionComparativa	RUB+		VersionComparativa is a new item

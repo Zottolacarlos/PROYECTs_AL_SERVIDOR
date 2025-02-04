@@ -1,0 +1,5 @@
+//MO131-132.TXT ANA00131 TO ANA00132
+acciones_correct		TAR	948	new record size: 948
+acciones_correct	Cliente	NNR	Cliente_Proveedor	CAUTION: item Cliente_Proveedor renamed Cliente
+acciones_correct	Cliente	TAI+	20	Cliente item has been resized: 51 (instead of 31)
+acciones_correct	Proveedor	RUB+		Proveedor is a new item

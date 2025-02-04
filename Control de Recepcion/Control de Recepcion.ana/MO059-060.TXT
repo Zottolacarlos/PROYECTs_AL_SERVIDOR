@@ -1,0 +1,7 @@
+//MO059-060.TXT ANA00059 TO ANA00060
+Deposito		TAR	536	new record size: 536
+Deposito	item	RUB-		item item deleted
+Deposito	recep	RUB-		item recep deleted
+Recepcion		TAR	709	new record size: 709
+Recepcion	item	RUB+		item is a new item
+Recepcion	recep	RUB+		recep is a new item

@@ -1,0 +1,4 @@
+//MO174-175.TXT ANA00174 TO ANA00175
+entrega_parcial		NFI		new file
+Detalle_Correctivo		NWL	Detalle_Correctivo (Detalle_CorrectivoID) and entrega_parcial (Detalle_CorrectivoID)	New link between Detalle_Correctivo (Detalle_CorrectivoID) and entrega_parcial (Detalle_CorrectivoID) files
+entrega_parcial		FRN		

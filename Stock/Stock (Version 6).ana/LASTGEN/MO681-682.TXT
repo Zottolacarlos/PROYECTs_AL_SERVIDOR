@@ -1,0 +1,3 @@
+//MO681-682.TXT ANA00681 TO ANA00682
+Elem_de_Recepcion		TAR	477	new record size: 477
+Elem_de_Recepcion	EquivalenciasID	RUB-		key EquivalenciasID deleted

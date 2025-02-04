@@ -1,0 +1,3 @@
+//MO260-261.TXT ANA00260 TO ANA00261
+Puestos_Responsable		NFI		new file
+Constraint_Sectores_Puestos_Puestos_Responsable		NWL	Sectores_Puestos (Sectores_PuestosID) and Puestos_Responsable (Sectores_PuestosID)	New link between Sectores_Puestos (Sectores_PuestosID) and Puestos_Responsable (Sectores_PuestosID) files

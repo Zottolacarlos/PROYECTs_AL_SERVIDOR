@@ -1,0 +1,5 @@
+//MO204-205.TXT ANA00204 TO ANA00205
+acc_correct_Detalle_largo_plazo		TAR	5296	new record size: 5296
+acc_correct_Detalle_largo_plazo	Tareas	TAI+	185	Tareas item has been resized: 201 (instead of 16)
+acc_correct_Detalle_largo_plazo	Detalle_recursos	TAI+	50	Detalle_recursos item has been resized: 201 (instead of 151)
+acc_correct_Detalle_largo_plazo	A_cargo	TAI+	30	A_cargo item has been resized: 61 (instead of 31)

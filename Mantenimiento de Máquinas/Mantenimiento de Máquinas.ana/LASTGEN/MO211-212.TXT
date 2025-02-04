@@ -1,0 +1,3 @@
+//MO211-212.TXT ANA00211 TO ANA00212
+Preventivo_por_cantidad		TAR	400	new record size: 400
+Preventivo_por_cantidad	restan_usos	RUB+		restan_usos is a new item

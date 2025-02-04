@@ -1,0 +1,5 @@
+//MO163-164.TXT ANA00163 TO ANA00164
+Auditoria_Contratacion		TAR	178	new record size: 178
+Auditoria_Contratacion	Dir_archivo	RUB+		Dir_archivo is a new item
+Auditoría_Personal		TAR	612	new record size: 612
+Auditoría_Personal	Dir_archivo	RUB+		Dir_archivo is a new item

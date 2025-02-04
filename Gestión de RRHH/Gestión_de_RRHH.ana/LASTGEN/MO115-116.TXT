@@ -1,0 +1,4 @@
+//MO115-116.TXT ANA00115 TO ANA00116
+Pedido_de_Contratación		TAR	180	new record size: 180
+Pedido_de_Contratación	DNI	RUB+		DNI is a new key
+Constraint_Personal_IMSA_rrhh_Pedido_de_Contratación		NWL	Personal_IMSA_rrhh (Legajo) and Pedido_de_Contratación (Legajo)	New link between Personal_IMSA_rrhh (Legajo) and Pedido_de_Contratación (Legajo) files

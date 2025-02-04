@@ -1,0 +1,3 @@
+//MO514-515.TXT ANA00514 TO ANA00515
+Elem_de_Producto		TAR	242	new record size: 242
+Elem_de_Producto	Nro_Inventario	RUB+		Nro_Inventario is a new key

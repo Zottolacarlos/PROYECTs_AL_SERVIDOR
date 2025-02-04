@@ -1,0 +1,3 @@
+//MO072-073.TXT ANA00072 TO ANA00073
+Tableros		NFI		new file
+Tableros		FRN		

@@ -1,0 +1,3 @@
+//MO310-311.TXT ANA00310 TO ANA00311
+acc_correct_PRECARGA		TAR	456	new record size: 456
+acc_correct_PRECARGA	Nro_cotizacion	CNW	String$4-byte unsigned integer	new type for Nro_cotizacion item: String

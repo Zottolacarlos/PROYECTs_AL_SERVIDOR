@@ -1,0 +1,8 @@
+//MO085-086.TXT ANA00085 TO ANA00086
+Personal_IMSA_rrhh		TAR	661	new record size: 661
+Personal_IMSA_rrhh	Codigo_Postal	RUB+		Codigo_Postal is a new item
+Personal_IMSA_rrhh	Fecha_Ingreso	RUB+		Fecha_Ingreso is a new item
+Personal_IMSA_rrhh	Email_interno	RUB+		Email_interno is a new item
+Personal_IMSA_rrhh	Legajo	RUB+		Legajo is a new key
+Personal_IMSA_rrhh	Código_Fichada	RUB+		Código_Fichada is a new item
+Personal_IMSA_rrhh	Supervisor	RUB+		Supervisor is a new item

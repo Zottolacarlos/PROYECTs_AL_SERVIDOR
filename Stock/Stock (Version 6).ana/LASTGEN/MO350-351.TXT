@@ -1,0 +1,7 @@
+//MO350-351.TXT ANA00350 TO ANA00351
+Novedades		NFI		new file
+Elem_del_Retiro		FIC-	personal_temporal	personal_temporal file deleted
+Producto		NWL	Producto (ProductoID) and Elem_del_Retiro (ProductoID)	New link between Producto (ProductoID) and Elem_del_Retiro (ProductoID) files
+Producto		NWL	Producto (ProductoID) and Stock_xa_Supervisores (ProductoID)	New link between Producto (ProductoID) and Stock_xa_Supervisores (ProductoID) files
+Datos_Prog		NWL	Datos_Prog (Version) and Novedades (Version)	New link between Datos_Prog (Version) and Novedades (Version) files
+Novedades		FRN		

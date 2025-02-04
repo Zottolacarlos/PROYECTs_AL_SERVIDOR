@@ -1,0 +1,3 @@
+//MO561-562.TXT ANA00561 TO ANA00562
+Elem_del_Pedido		TAR	561	new record size: 561
+Elem_del_Pedido	Código_Asociado	RUB+		Código_Asociado is a new item

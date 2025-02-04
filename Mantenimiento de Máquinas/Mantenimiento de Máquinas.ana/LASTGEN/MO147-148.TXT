@@ -1,0 +1,3 @@
+//MO147-148.TXT ANA00147 TO ANA00148
+repuestos		TAR	364	new record size: 364
+repuestos	Estado	TAI-	1	Estado item has been resized: 15 (instead of 16)

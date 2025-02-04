@@ -1,0 +1,8 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+repuestos		TAR	209	new record size: 209
+repuestos	Detalle_CorrectivoID	RUB+		Detalle_CorrectivoID is a new key
+repuestos	Detalle_PreventivoID	RUB+		Detalle_PreventivoID is a new key
+repuestos	Denominación_Int	RUB-		key Denominación_Int deleted
+Detalle_Preventivo		NWL	Detalle_Preventivo (Detalle_PreventivoID) and repuestos (Detalle_PreventivoID)	New link between Detalle_Preventivo (Detalle_PreventivoID) and repuestos (Detalle_PreventivoID) files
+Detalle_Correctivo		NWL	Detalle_Correctivo (Detalle_CorrectivoID) and repuestos (Detalle_CorrectivoID)	New link between Detalle_Correctivo (Detalle_CorrectivoID) and repuestos (Detalle_CorrectivoID) files
+Maquina		DEL	Maquina (Denominación_Int) and repuestos (Denominación_Int)	Link deleted between Maquina (Denominación_Int) and repuestos (Denominación_Int) files

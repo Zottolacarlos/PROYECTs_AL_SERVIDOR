@@ -1,0 +1,3 @@
+//MO119-120.TXT ANA00119 TO ANA00120
+Usuarios		TAR	326	new record size: 326
+Usuarios	OBs	RUB+		OBs is a new item

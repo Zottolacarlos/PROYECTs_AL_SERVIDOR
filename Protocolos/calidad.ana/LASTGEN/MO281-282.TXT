@@ -1,0 +1,3 @@
+//MO281-282.TXT ANA00281 TO ANA00282
+Auditoria_Protocolos		NFI		new file
+Constraint_PROTOCOLOS_Auditoria_Protocolos		NWL	PROTOCOLOS (Protocolo_Nro) and Auditoria_Protocolos (Protocolo_Nro)	New link between PROTOCOLOS (Protocolo_Nro) and Auditoria_Protocolos (Protocolo_Nro) files

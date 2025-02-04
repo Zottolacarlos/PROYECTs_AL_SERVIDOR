@@ -1,0 +1,7 @@
+//MO079-080.TXT ANA00079 TO ANA00080
+Recepcion		TAR	555	new record size: 555
+Recepcion	cantidad_item	NNR	Cantidad	CAUTION: item Cantidad renamed cantidad_item
+Recepcion	cantidad_item	TAB+	2	cantidad_item item is now an array of 3 elements 
+Recepcion	cantidad_item	TAI+	10	cantidad_item item has been resized: 16 (instead of 6)
+Recepcion	cantidad_recep	RUB+		cantidad_recep is a new item
+Recepcion	valor_puntaje	RUB-		item valor_puntaje deleted

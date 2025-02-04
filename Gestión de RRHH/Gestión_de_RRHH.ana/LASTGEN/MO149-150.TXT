@@ -1,0 +1,2 @@
+//MO149-150.TXT ANA00149 TO ANA00150
+Constraint_Preseleccionados_Sectores		DEL	Sectores (SectoresID) and Preseleccionados (SectoresID)	Link deleted between Sectores (SectoresID) and Preseleccionados (SectoresID) files

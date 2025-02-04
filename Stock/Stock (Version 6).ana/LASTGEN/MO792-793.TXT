@@ -1,0 +1,3 @@
+//MO792-793.TXT ANA00792 TO ANA00793
+Auditoria_OC		NFI		new file
+Auditoria_OC		FRN		

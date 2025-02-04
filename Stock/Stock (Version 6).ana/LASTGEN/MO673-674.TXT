@@ -1,0 +1,3 @@
+//MO673-674.TXT ANA00673 TO ANA00674
+Producto		TAR	229	new record size: 229
+Producto	No_es_consumible	RUB+		No_es_consumible is a new item

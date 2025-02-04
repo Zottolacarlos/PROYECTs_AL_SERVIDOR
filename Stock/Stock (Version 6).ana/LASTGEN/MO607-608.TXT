@@ -1,0 +1,2 @@
+//MO607-608.TXT ANA00607 TO ANA00608
+Auditoria_deposito	agregado	CLEU		agregado item is now key

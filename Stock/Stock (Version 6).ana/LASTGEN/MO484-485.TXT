@@ -1,0 +1,4 @@
+//MO484-485.TXT ANA00484 TO ANA00485
+Control_Recep_Gerencia_Industrial		NNF	Control_Recep_Gerencia	new name Control_Recep_Gerencia_Industrial
+Control_Recep_Gerencia_Industrial		EXT		new extension 
+Control_Recep_Gerencia_Industrial		FRN		

@@ -1,0 +1,2 @@
+//MO087-088.TXT ANA00087 TO ANA00088
+Califica_Proveedor		NWL	Califica_Proveedor (Califica_ProveedorID) and Recepcion (Califica_ProveedorID)	New link between Califica_Proveedor (Califica_ProveedorID) and Recepcion (Califica_ProveedorID) files

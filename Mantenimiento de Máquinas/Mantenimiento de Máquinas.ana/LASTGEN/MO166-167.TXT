@@ -1,0 +1,4 @@
+//MO166-167.TXT ANA00166 TO ANA00167
+repuestos		TAR	562	new record size: 562
+repuestos	Repuesto_Pedido	TAI+	100	Repuesto_Pedido item has been resized: 251 (instead of 151)
+repuestos	Detalle_Fabricacion	TAI+	40	Detalle_Fabricacion item has been resized: 151 (instead of 111)

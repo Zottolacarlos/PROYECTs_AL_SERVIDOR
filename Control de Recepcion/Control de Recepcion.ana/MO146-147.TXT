@@ -1,0 +1,4 @@
+//MO146-147.TXT ANA00146 TO ANA00147
+Elem_del_Pedido		TAR	996	new record size: 996
+Elem_del_Pedido	Flete_cotizado	RUB+		Flete_cotizado is a new item
+Elem_del_Pedido	Reemplaza_al_PM	RUB+		Reemplaza_al_PM is a new item

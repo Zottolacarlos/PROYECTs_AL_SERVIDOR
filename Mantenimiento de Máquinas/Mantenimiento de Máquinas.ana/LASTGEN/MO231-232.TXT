@@ -1,0 +1,6 @@
+//MO231-232.TXT ANA00231 TO ANA00232
+Pedido		NFI		new file
+Elem_del_Pedido		NFI		new file
+Connection to 'IMSASERVER03'		CNX+		
+Elem_del_Pedido		FRN		
+Pedido		FRN		

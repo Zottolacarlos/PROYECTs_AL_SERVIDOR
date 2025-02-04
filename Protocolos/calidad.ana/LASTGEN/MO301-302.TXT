@@ -1,0 +1,3 @@
+//MO301-302.TXT ANA00301 TO ANA00302
+acciones_correct		TAR	1204	new record size: 1204
+acciones_correct	Fecha_Abierta	RUB+		Fecha_Abierta is a new item

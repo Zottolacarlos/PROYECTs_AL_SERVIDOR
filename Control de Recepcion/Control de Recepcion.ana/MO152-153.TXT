@@ -1,0 +1,4 @@
+//MO152-153.TXT ANA00152 TO ANA00153
+Elem_del_Pedido		TAR	1004	new record size: 1004
+Elem_del_Pedido	Urgente	RUB+		Urgente is a new item
+Elem_del_Pedido	ComparativaID	RUB+		ComparativaID is a new item

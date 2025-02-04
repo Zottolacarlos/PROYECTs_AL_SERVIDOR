@@ -1,0 +1,3 @@
+//MO094-095.TXT ANA00094 TO ANA00095
+Personal_IMSA_rrhh		TAR	615	new record size: 615
+Personal_IMSA_rrhh	SectoresID	RUB+		SectoresID is a new key

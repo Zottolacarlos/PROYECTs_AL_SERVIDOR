@@ -1,0 +1,3 @@
+//MO041-042.TXT ANA00041 TO ANA00042
+Permiso_Uso_Programas		TAR	36	new record size: 36
+Permiso_Uso_Programas	Tecno	RUB+		Tecno is a new item

@@ -1,0 +1,3 @@
+//MO133-134.TXT ANA00133 TO ANA00134
+Contratos		TAR	231	new record size: 231
+Contratos	Tiempo_Contrato	RUB+		Tiempo_Contrato is a new item

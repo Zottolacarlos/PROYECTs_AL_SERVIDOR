@@ -1,0 +1,4 @@
+//MO487-488.TXT ANA00487 TO ANA00488
+Control_Recep_Directiva		NNF	Control_Recep_Gerencia_Comercial	new name Control_Recep_Directiva
+Control_Recep_Directiva		EXT		new extension 
+Control_Recep_Directiva		FRN		

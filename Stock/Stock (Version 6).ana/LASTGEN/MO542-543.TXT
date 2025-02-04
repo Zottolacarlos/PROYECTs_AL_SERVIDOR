@@ -1,0 +1,14 @@
+//MO542-543.TXT ANA00542 TO ANA00543
+Control_de_Recepciones		TAR	131	new record size: 131
+Control_de_Recepciones	Decide_Directiva	CNW	Boolean$String	new type for Decide_Directiva item: Boolean
+Control_de_Recepciones	Controla_Deposito	RUB-		item Controla_Deposito deleted
+Control_de_Recepciones	Controla_Calidad	RUB-		item Controla_Calidad deleted
+Control_de_Recepciones	Controla_Fundicion	RUB-		item Controla_Fundicion deleted
+Control_de_Recepciones	Controla_Mantenimiento	RUB-		item Controla_Mantenimiento deleted
+Control_de_Recepciones	Controla_Compras	RUB-		item Controla_Compras deleted
+Controles_recep_Pedidos		TAR	277	new record size: 277
+Controles_recep_Pedidos	Controla_Calidad	RUB+		Controla_Calidad is a new item
+Controles_recep_Pedidos	Controla_Compras	RUB+		Controla_Compras is a new item
+Controles_recep_Pedidos	Controla_Deposito	RUB+		Controla_Deposito is a new item
+Controles_recep_Pedidos	Controla_Fundicion	RUB+		Controla_Fundicion is a new item
+Controles_recep_Pedidos	Controla_Mantenimiento	RUB+		Controla_Mantenimiento is a new item

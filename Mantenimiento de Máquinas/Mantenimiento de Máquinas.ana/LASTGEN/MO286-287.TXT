@@ -1,0 +1,3 @@
+//MO286-287.TXT ANA00286 TO ANA00287
+Verificacion_de_Maquinas		TAR	198	new record size: 198
+Verificacion_de_Maquinas	Frecuencia_control	RUB-		item Frecuencia_control deleted

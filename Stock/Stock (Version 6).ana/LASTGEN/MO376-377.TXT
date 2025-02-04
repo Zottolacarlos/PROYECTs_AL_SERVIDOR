@@ -1,0 +1,5 @@
+//MO376-377.TXT ANA00376 TO ANA00377
+Orden_de_compra		TAR	330	new record size: 330
+Orden_de_compra	ultimo_elemento	RUB-		item ultimo_elemento deleted
+Orden_de_compra	Cantida_de_elementos	RUB-		item Cantida_de_elementos deleted
+Orden_de_compra	Falta_recibir_aun	RUB-		item Falta_recibir_aun deleted

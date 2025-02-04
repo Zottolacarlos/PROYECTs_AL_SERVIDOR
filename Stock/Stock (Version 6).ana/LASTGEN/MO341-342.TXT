@@ -1,0 +1,5 @@
+//MO341-342.TXT ANA00341 TO ANA00342
+Impresion_Comparativa		TAR	1077	new record size: 1077
+Impresion_Comparativa	Dolar_cotizado_incidente	RUB+		Dolar_cotizado_incidente is a new item
+Impresion_Comparativa	fecha_dolar_incidente	RUB+		fecha_dolar_incidente is a new item
+Maquina		TAR	112	new record size: 112

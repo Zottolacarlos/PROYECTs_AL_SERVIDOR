@@ -1,0 +1,3 @@
+//MO264-265.TXT ANA00264 TO ANA00265
+Elem_del_Pedido		TAR	1037	new record size: 1037
+Elem_del_Pedido	Sector_Encargado	RUB+		Sector_Encargado is a new item

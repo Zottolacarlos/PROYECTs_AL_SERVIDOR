@@ -1,0 +1,3 @@
+//MO669-670.TXT ANA00669 TO ANA00670
+Impresion_Comparativa		TAR	1239	new record size: 1239
+Impresion_Comparativa	costo_dolar	RUB+		costo_dolar is a new item

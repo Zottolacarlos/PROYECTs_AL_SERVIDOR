@@ -1,0 +1,3 @@
+//MO150-151.TXT ANA00150 TO ANA00151
+Novedades_Personal		TAR	57	new record size: 57
+Novedades_Personal	Fuera_de_Fecha	RUB+		Fuera_de_Fecha is a new item

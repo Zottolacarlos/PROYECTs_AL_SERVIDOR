@@ -1,0 +1,6 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+repuestos		TAR	249	new record size: 249
+repuestos	Fecha_pedido	NNR	Fecha_uso	CAUTION: item Fecha_uso renamed Fecha_pedido
+repuestos	Fecha_recepción	RUB+		Fecha_recepción is a new item
+repuestos	Nro_Pedido	RUB+		Nro_Pedido is a new item
+repuestos	Turno	RUB-		item Turno deleted

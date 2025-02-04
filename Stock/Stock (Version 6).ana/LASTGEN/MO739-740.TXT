@@ -1,0 +1,3 @@
+//MO739-740.TXT ANA00739 TO ANA00740
+Materiales_Provistos		TAR	114	new record size: 114
+Materiales_Provistos	CotizacionID	RUB+		CotizacionID is a new key

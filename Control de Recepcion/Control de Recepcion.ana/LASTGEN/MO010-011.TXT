@@ -1,0 +1,2 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Constraint_Deposito_Recepcion		MCL	1,1->0,1	

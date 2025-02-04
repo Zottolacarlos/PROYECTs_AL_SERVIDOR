@@ -1,0 +1,4 @@
+//MO147-148.TXT ANA00147 TO ANA00148
+Sectores_Responsables		TAR	29	new record size: 29
+Sectores_Responsables	SectoresID	RUB+		SectoresID is a new key
+Constraint_Sectores_Sectores_Responsables		NWL	Sectores (SectoresID) and Sectores_Responsables (SectoresID)	New link between Sectores (SectoresID) and Sectores_Responsables (SectoresID) files

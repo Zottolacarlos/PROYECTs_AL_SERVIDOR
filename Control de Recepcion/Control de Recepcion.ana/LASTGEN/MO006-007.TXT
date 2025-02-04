@@ -1,0 +1,3 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Oftec		TAR	180	new record size: 180
+Oftec	VecesRechazado	RUB+		VecesRechazado is a new item

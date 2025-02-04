@@ -1,0 +1,4 @@
+//MO233-234.TXT ANA00233 TO ANA00234
+Elem_del_Pedido		TAR	928	new record size: 928
+Elem_del_Pedido		BASE		File base changed from Unknown to Generic SQL (ANSI 92)
+Elem_del_Pedido	Cotizado_o_no	CNW	Unicode$2-byte integer	new type for Cotizado_o_no item: Unicode

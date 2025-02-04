@@ -1,0 +1,2 @@
+//MO079-080.TXT ANA00079 TO ANA00080
+Constraint_Hoja1$_visado		MCL	1,1->0,1	

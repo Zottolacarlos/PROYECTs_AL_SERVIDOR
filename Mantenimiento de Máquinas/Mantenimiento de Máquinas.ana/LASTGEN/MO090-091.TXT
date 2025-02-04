@@ -1,0 +1,10 @@
+//MO090-091.TXT ANA00090 TO ANA00091
+carga_horas		RPL-		Unreplicated file
+Maquina_Arbol_de_elementos		RPL-		Unreplicated file
+Arbol_de_elementos		RPL-		Unreplicated file
+Cambio_fecha_Preven		RPL-		Unreplicated file
+Detalle_Preventivo		RPL-		Unreplicated file
+repuestos		RPL-		Unreplicated file
+Detalle_Correctivo		RPL-		Unreplicated file
+Maquina		RPL-		Unreplicated file
+Maquina_Arbol_de_elementos		FRN		

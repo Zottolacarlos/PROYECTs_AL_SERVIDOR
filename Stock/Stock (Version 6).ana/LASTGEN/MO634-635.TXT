@@ -1,0 +1,2 @@
+//MO634-635.TXT ANA00634 TO ANA00635
+Maquina		NFI		new file

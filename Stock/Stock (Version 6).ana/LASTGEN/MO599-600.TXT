@@ -1,0 +1,6 @@
+//MO599-600.TXT ANA00599 TO ANA00600
+stockdetalle		NFI		new file
+stockencabezado		NFI		new file
+stockexterno		NFI		new file
+fk_stockdetalle_r_stockencabezado		NWL	stockencabezado (idstockencabezado) and stockdetalle (idstockencabezado)	New link between stockencabezado (idstockencabezado) and stockdetalle (idstockencabezado) files
+fk_stockexterno_r_stockencabezado		NWL	stockencabezado (idstockencabezado) and stockexterno (idstockencabezado)	New link between stockencabezado (idstockencabezado) and stockexterno (idstockencabezado) files

@@ -1,0 +1,3 @@
+//MO196-197.TXT ANA00196 TO ANA00197
+temp_imp		NFI		new file
+temp_imp		FRN		

@@ -1,0 +1,4 @@
+//MO207-208.TXT ANA00207 TO ANA00208
+acc_corrct_respuestas		TAR	229	new record size: 229
+acc_corrct_respuestas	Redireccionar	RUB+		Redireccionar is a new item
+acc_corrct_respuestas	No_corresponde_imsa	RUB+		No_corresponde_imsa is a new item

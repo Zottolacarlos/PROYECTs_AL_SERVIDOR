@@ -1,0 +1,8 @@
+//MO209-210.TXT ANA00209 TO ANA00210
+acc_corrct_respuestas		TAR	237	new record size: 237
+acc_corrct_respuestas	Acc_correct_auditoriaID	RUB+		Acc_correct_auditoriaID is a new key
+acc_correct_auditoria		NFI		new file
+acc_correct		FIC-	acc_correct	acc_correct file deleted
+Constraint_acciones_correct_acc_correct_auditoria		NWL	acciones_correct (Nro_accion_correct) and acc_correct_auditoria (Nro_accion_correct)	New link between acciones_correct (Nro_accion_correct) and acc_correct_auditoria (Nro_accion_correct) files
+Constraint_acc_correct_auditoria_Usuarios		NWL	Usuarios (UsuariosID) and acc_correct_auditoria (UsuariosID)	New link between Usuarios (UsuariosID) and acc_correct_auditoria (UsuariosID) files
+Constraint_acc_correct_auditoria_acc_corrct_respuestas		NWL	acc_correct_auditoria (acc_correct_auditoriaID) and acc_corrct_respuestas (Acc_correct_auditoriaID)	New link between acc_correct_auditoria (acc_correct_auditoriaID) and acc_corrct_respuestas (Acc_correct_auditoriaID) files

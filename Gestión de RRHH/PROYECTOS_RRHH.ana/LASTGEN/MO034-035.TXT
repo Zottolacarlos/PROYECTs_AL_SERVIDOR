@@ -1,0 +1,3 @@
+//MO034-035.TXT ANA00034 TO ANA00035
+Pedido_de_Contratación		TAR	163	new record size: 163
+Pedido_de_Contratación	Fecha_entrevistas	TAB-	2	Fecha_entrevistas item is no longer an array

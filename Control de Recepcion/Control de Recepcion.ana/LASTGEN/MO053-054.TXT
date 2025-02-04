@@ -1,0 +1,8 @@
+//MO053-054.TXT ANA00053 TO ANA00054
+Deposito		TAR	1070	new record size: 1070
+Deposito	item1	TAI+	25	item1 item has been resized: 76 (instead of 51)
+Deposito	item2	TAI+	25	item2 item has been resized: 76 (instead of 51)
+Deposito	item3	TAI+	25	item3 item has been resized: 76 (instead of 51)
+Deposito	recep1	TAI+	25	recep1 item has been resized: 76 (instead of 51)
+Deposito	recep2	TAI+	25	recep2 item has been resized: 76 (instead of 51)
+Deposito	recep3	TAI+	25	recep3 item has been resized: 76 (instead of 51)

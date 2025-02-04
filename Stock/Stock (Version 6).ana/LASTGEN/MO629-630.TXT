@@ -1,0 +1,4 @@
+//MO629-630.TXT ANA00629 TO ANA00630
+Materiales_Provistos		NFI		new file
+Constraint_Elem_de_Recepcion_Materiales_Provistos		NWL	Elem_de_Recepcion (Elem_de_RecepcionID) and Materiales_Provistos (Elem_de_RecepcionID)	New link between Elem_de_Recepcion (Elem_de_RecepcionID) and Materiales_Provistos (Elem_de_RecepcionID) files
+Constraint_presupuestos_articulos_Materiales_Provistos		NWL	presupuestos_articulos (idpresuparticu) and Materiales_Provistos (Idpresuparticu)	New link between presupuestos_articulos (idpresuparticu) and Materiales_Provistos (Idpresuparticu) files

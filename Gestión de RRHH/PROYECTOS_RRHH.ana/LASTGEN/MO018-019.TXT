@@ -1,0 +1,3 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Preseleccionados		TAR	94	new record size: 94
+Preseleccionados	Estado	RUB+		Estado is a new item

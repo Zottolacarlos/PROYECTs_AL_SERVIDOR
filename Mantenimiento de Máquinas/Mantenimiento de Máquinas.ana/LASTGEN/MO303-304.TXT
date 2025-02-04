@@ -1,0 +1,3 @@
+//MO303-304.TXT ANA00303 TO ANA00304
+Reclamo_Mant_Correctivo		NFI		new file
+Constraint_Detalle_Correctivo_Reclamo_Mant_Correctivo		NWL	Detalle_Correctivo (Detalle_CorrectivoID) and Reclamo_Mant_Correctivo (Detalle_CorrectivoID)	New link between Detalle_Correctivo (Detalle_CorrectivoID) and Reclamo_Mant_Correctivo (Detalle_CorrectivoID) files

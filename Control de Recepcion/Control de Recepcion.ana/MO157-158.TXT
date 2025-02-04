@@ -1,0 +1,7 @@
+//MO157-158.TXT ANA00157 TO ANA00158
+Elem_del_Pedido		TAR	1045	new record size: 1045
+Elem_del_Pedido	Código_Asociado	RUB+		Código_Asociado is a new item
+Elem_de_Recepcion		TAR	816	new record size: 816
+Elem_de_Recepcion	obs_xa_gerencia	RUB+		obs_xa_gerencia is a new item
+Elem_de_Recepcion	cotizacion_moneda	RUB+		cotizacion_moneda is a new item
+Elem_de_Recepcion	fecha_cotizacion	RUB+		fecha_cotizacion is a new item

@@ -1,0 +1,7 @@
+//MO696-697.TXT ANA00696 TO ANA00697
+empleados		FIC-	empleados	empleados file deleted
+areas		FIC-	areas	areas file deleted
+fk_ordenesfabricacion_r_empleados		DEL	empleados (idemplea) and ordenesfabricacion (idemplea)	Link deleted between empleados (idemplea) and ordenesfabricacion (idemplea) files
+fk_ordenescomprasclientes_r_empleados2		DEL	empleados (idemplea) and ordenescomprasclientes (idempleamodifi)	Link deleted between empleados (idemplea) and ordenescomprasclientes (idempleamodifi) files
+fk_ordenescomprasclientes_r_empleados		DEL	empleados (idemplea) and ordenescomprasclientes (idemplea)	Link deleted between empleados (idemplea) and ordenescomprasclientes (idemplea) files
+fk_partesfabricacion_r_empleados		DEL	empleados (idemplea) and partesfabricacion (idemplea)	Link deleted between empleados (idemplea) and partesfabricacion (idemplea) files

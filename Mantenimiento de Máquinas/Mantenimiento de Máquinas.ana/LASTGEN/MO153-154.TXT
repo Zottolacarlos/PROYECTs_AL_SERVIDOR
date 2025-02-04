@@ -1,0 +1,3 @@
+//MO153-154.TXT ANA00153 TO ANA00154
+repuestos		TAR	390	new record size: 390
+repuestos	Detalle_Fabricacion	TAI+	30	Detalle_Fabricacion item has been resized: 111 (instead of 81)

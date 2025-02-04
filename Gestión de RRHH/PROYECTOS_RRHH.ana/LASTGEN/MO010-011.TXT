@@ -1,0 +1,11 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Preseleccionados		TAR	75	new record size: 75
+Preseleccionados	Sector_asociado	TAB+	2	Sector_asociado item is now an array of 3 elements 
+Preseleccionados	observaciones	RUB+		observaciones is a new item
+Preseleccionados	Direccion_CV	RUB-		item Direccion_CV deleted
+Candidato		TAR	399	new record size: 399
+Candidato	Direccion_CV	RUB+		Direccion_CV is a new item
+Candidato	Estados_candidatoID	RUB+		Estados_candidatoID is a new key
+Candidato	Estado	RUB-		item Estado deleted
+Estados_candidato		NFI		new file
+Constraint_Estados_candidato_Candidato		NWL	Estados_candidato (Estados_candidatoID) and Candidato (Estados_candidatoID)	New link between Estados_candidato (Estados_candidatoID) and Candidato (Estados_candidatoID) files

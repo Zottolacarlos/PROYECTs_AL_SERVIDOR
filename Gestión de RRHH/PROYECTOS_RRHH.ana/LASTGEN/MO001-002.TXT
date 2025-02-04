@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+lectura_orig		TAR	53	new record size: 53
+lectura_orig	fecha_lectura	CLEN*		fecha_lectura item is now key
+lectura_orig	fecha_lectura	CNW	String$Date (yyyymmdd)	new type for fecha_lectura item: String
+lectura_orig	marcador_operario	CLEN*		marcador_operario item is now key

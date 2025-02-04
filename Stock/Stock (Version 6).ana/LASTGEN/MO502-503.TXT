@@ -1,0 +1,5 @@
+//MO502-503.TXT ANA00502 TO ANA00503
+Elem_de_Recepcion		TAR	311	new record size: 311
+Elem_de_Recepcion	Recibio_deposito	RUB+		Recibio_deposito is a new item
+Elem_de_Recepcion	Fecha_recibe_deposito	RUB+		Fecha_recibe_deposito is a new item
+Elem_de_Recepcion	Obs_recibe_deposito	RUB+		Obs_recibe_deposito is a new item

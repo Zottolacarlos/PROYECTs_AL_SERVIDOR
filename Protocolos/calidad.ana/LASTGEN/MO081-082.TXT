@@ -1,0 +1,6 @@
+//MO081-082.TXT ANA00081 TO ANA00082
+Archivo		TAR	4125	new record size: 4125
+Archivo	Arch1_Direccion	NNR	direccion	CAUTION: item direccion renamed Arch1_Direccion
+Archivo	Arch1_nombrePDF	NNR	nombrePDF	CAUTION: item nombrePDF renamed Arch1_nombrePDF
+Archivo	arch2_dir	RUB+		arch2_dir is a new item
+Archivo	arch2_nombrepdf	RUB+		arch2_nombrepdf is a new item

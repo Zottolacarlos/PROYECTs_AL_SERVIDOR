@@ -1,0 +1,5 @@
+//MO038-039.TXT ANA00038 TO ANA00039
+Oftec		TAR	1215	new record size: 1215
+Oftec	obs_ing	RUB+		obs_ing is a new item
+Oftec	decision_ing	RUB+		decision_ing is a new item
+Oftec	Fecha_ing	RUB+		Fecha_ing is a new item

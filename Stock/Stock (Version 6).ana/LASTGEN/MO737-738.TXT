@@ -1,0 +1,4 @@
+//MO737-738.TXT ANA00737 TO ANA00738
+Elem_de_Recepcion		TAR	494	new record size: 494
+Elem_de_Recepcion	Debe_Salir	RUB+		Debe_Salir is a new item
+Elem_de_Recepcion	Remesa_SalidaID	RUB+		Remesa_SalidaID is a new key

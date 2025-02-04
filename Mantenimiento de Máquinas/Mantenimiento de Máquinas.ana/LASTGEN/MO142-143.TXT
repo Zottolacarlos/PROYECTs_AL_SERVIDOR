@@ -1,0 +1,4 @@
+//MO142-143.TXT ANA00142 TO ANA00143
+Detalle_Correctivo		TAR	1008	new record size: 1008
+Detalle_Correctivo	encargados	TAB+	1	encargados item is now an array of 4 elements instead of 3
+ejecutores		NNF*	ejecutadores	new name ejecutores

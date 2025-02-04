@@ -1,0 +1,7 @@
+//MO231-232.TXT ANA00231 TO ANA00232
+clientes		NFI		new file
+clientes_cuentasclientes		NFI		new file
+cuentasclientes		NFI		new file
+fk_clientes_cuentasclientes_r_cuentasclientes		NWL	cuentasclientes (idcuentaclient) and clientes_cuentasclientes (idcuentaclient)	New link between cuentasclientes (idcuentaclient) and clientes_cuentasclientes (idcuentaclient) files
+fk_clientes_cuentasclientes_r_clientes		NWL	clientes (idclient) and clientes_cuentasclientes (idclient)	New link between clientes (idclient) and clientes_cuentasclientes (idclient) files
+fk_cuentasclientes_r_clientes		NWL	clientes (idclient) and cuentasclientes (idclient)	New link between clientes (idclient) and cuentasclientes (idclient) files

@@ -1,0 +1,3 @@
+//MO434-435.TXT ANA00434 TO ANA00435
+Comparativa		TAR	633	new record size: 633
+Comparativa	Precio_referencia_ID	RUB+		Precio_referencia_ID is a new item

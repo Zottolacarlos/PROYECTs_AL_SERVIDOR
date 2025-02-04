@@ -1,0 +1,3 @@
+//MO582-583.TXT ANA00582 TO ANA00583
+Controles_por_Sector		NFI		new file
+Constraint_Sectores_Controles_por_Sector		NWL	Sectores (SectoresID) and Controles_por_Sector (SectoresID)	New link between Sectores (SectoresID) and Controles_por_Sector (SectoresID) files

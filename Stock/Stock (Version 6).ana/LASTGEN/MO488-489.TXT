@@ -1,0 +1,2 @@
+//MO488-489.TXT ANA00488 TO ANA00489
+Controles_recep_Pedidos		NFI		new file

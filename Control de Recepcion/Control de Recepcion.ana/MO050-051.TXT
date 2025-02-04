@@ -1,0 +1,8 @@
+//MO050-051.TXT ANA00050 TO ANA00051
+Califica_Proveedor		NNF*	Califica_Preveedor	new name Califica_Proveedor
+Califica_Proveedor	Califica_ProveedorID	NNR	Califica_PreveedorID	CAUTION: key Califica_PreveedorID renamed Califica_ProveedorID
+Califica_Proveedor	Clasificacion	NNR	Califica	CAUTION: item Califica renamed Clasificacion
+Recepcion		TAR	253	new record size: 253
+Recepcion	Calificacion	RUB+		Calificacion is a new item
+Recepcion	Califica_ProveedorID	RUB+		Califica_ProveedorID is a new key
+Califica_Proveedor		NWL	Califica_Proveedor (Califica_ProveedorID) and Recepcion (Califica_ProveedorID)	New link between Califica_Proveedor (Califica_ProveedorID) and Recepcion (Califica_ProveedorID) files

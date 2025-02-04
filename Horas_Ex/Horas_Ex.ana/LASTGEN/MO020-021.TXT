@@ -1,0 +1,3 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+Tarea_Extra		TAR	486	new record size: 486
+Tarea_Extra	Estado	TAI+	5	Estado item has been resized: 31 (instead of 26)

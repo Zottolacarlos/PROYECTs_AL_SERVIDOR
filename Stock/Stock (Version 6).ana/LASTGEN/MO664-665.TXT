@@ -1,0 +1,4 @@
+//MO664-665.TXT ANA00664 TO ANA00665
+Recepcion_de_Materiales_2		TAR	262	new record size: 262
+Recepcion_de_Materiales_2	Cuenta_Cliente	RUB+		Cuenta_Cliente is a new key
+Recepcion_de_Materiales_2	Codigo_cuenta_clienteID	RUB+		Codigo_cuenta_clienteID is a new key

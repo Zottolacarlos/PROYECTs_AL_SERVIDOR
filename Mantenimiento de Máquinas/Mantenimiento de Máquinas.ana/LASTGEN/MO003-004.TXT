@@ -1,0 +1,6 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+repuestos		NFI		new file
+Mant_Correctivo		TAR	127	new record size: 127
+Mant_Correctivo	Sector	RUB+		Sector is a new item
+Mant_Correctivo		NWL	Mant_Correctivo (Denominación_Int) and repuestos (Denominación_Int)	New link between Mant_Correctivo (Denominación_Int) and repuestos (Denominación_Int) files
+repuestos		FRN		

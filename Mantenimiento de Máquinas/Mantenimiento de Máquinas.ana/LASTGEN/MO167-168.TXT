@@ -1,0 +1,2 @@
+//MO167-168.TXT ANA00167 TO ANA00168
+Detalle_Preventivo		NWL	Detalle_Preventivo (Detalle_PreventivoID) and parte_maquina (Detalle_PreventivoID)	New link between Detalle_Preventivo (Detalle_PreventivoID) and parte_maquina (Detalle_PreventivoID) files

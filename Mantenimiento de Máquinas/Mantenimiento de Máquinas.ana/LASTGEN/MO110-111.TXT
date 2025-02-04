@@ -1,0 +1,3 @@
+//MO110-111.TXT ANA00110 TO ANA00111
+Maquina		TAR	129	new record size: 129
+Maquina	tiene_cuenta_hs	RUB+		tiene_cuenta_hs is a new item

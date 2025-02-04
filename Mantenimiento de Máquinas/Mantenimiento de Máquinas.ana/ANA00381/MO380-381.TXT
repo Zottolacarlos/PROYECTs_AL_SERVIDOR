@@ -1,0 +1,3 @@
+//MO380-381.TXT ANA00380 TO ANA00381
+Constraint_Datos_sector_Tableros		DEL	Datos_sector (Datos_sectorID) and Tableros (Datos_sectorID)	Link deleted between Datos_sector (Datos_sectorID) and Tableros (Datos_sectorID) files
+Constraint_Datos_sector_recuerda_mail		DEL	Datos_sector (Datos_sectorID) and recuerda_mail (Datos_sectorID)	Link deleted between Datos_sector (Datos_sectorID) and recuerda_mail (Datos_sectorID) files

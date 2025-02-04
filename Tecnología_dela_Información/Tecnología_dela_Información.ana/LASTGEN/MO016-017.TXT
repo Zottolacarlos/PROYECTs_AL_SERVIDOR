@@ -1,0 +1,5 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+subcuentas		NFI		new file
+subcuentas_tipo		NFI		new file
+subcuentatipo		NFI		new file
+Connection to 'IMSASERVER04'		CNX+		

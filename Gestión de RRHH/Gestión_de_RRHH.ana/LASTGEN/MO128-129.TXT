@@ -1,0 +1,6 @@
+//MO128-129.TXT ANA00128 TO ANA00129
+Contratos		TAR	107	new record size: 107
+Contratos	Decisión_Ger_Ind	NNR	Ger_Industrial_decidio	CAUTION: item Ger_Industrial_decidio renamed Decisión_Ger_Ind
+Contratos	Decisión_Ger_Ind	CNW	String$Boolean	new type for Decisión_Ger_Ind item: String
+Contratos	Decisión_Contrato	NNR	Decisión	CAUTION: item Decisión renamed Decisión_Contrato
+Contratos	Decisión_Contrato	TAI-	30	Decisión_Contrato item has been resized: 21 (instead of 51)

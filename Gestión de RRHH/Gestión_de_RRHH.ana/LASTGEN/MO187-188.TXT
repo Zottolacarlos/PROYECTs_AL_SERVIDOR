@@ -1,0 +1,2 @@
+//MO187-188.TXT ANA00187 TO ANA00188
+Categoria_Operarios	Legajo_Pide	CLEN*		Legajo_Pide item is now key

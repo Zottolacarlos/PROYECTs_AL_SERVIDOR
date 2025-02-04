@@ -1,0 +1,3 @@
+//MO358-359.TXT ANA00358 TO ANA00359
+Maquina		TAR	257	new record size: 257
+Maquina	Participa_en_Disponibilidad_Maq	RUB+		Participa_en_Disponibilidad_Maq is a new item

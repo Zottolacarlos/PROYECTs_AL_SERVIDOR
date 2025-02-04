@@ -1,0 +1,5 @@
+//MO110-111.TXT ANA00110 TO ANA00111
+Califica_Proveedor		TAR	125	new record size: 125
+Califica_Proveedor	Periodo_clasificacion	RUB+		Periodo_clasificacion is a new item
+Recepcion		TAR	637	new record size: 637
+Recepcion	fecha_calificacion	RUB+		fecha_calificacion is a new item

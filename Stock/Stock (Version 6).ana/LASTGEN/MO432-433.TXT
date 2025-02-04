@@ -1,0 +1,3 @@
+//MO432-433.TXT ANA00432 TO ANA00433
+Impresion_Orden_de_Compra		TAR	1097	new record size: 1097
+Impresion_Orden_de_Compra	Reemplaza_a_OC	RUB+		Reemplaza_a_OC is a new item

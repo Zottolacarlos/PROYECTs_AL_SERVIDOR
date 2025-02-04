@@ -1,0 +1,3 @@
+//MO070-071.TXT ANA00070 TO ANA00071
+Archivo		TAR	1086	new record size: 1086
+Archivo	nombrePDF	RUB+		nombrePDF is a new item

@@ -1,0 +1,3 @@
+//MO775-776.TXT ANA00775 TO ANA00776
+Proveedores		NFI		new file
+Proveedores		FIC-	Proveedores	Proveedores file deleted

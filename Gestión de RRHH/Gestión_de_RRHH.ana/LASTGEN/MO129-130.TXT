@@ -1,0 +1,4 @@
+//MO129-130.TXT ANA00129 TO ANA00130
+Contratos		TAR	209	new record size: 209
+Contratos	Firma1	RUB+		Firma1 is a new item
+Contratos	Firma2	RUB+		Firma2 is a new item

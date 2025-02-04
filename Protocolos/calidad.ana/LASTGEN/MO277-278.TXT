@@ -1,0 +1,4 @@
+//MO277-278.TXT ANA00277 TO ANA00278
+Audita_Email		TAR	202	new record size: 202
+Audita_Email	Observaciones	RUB+		Observaciones is a new item
+Audita_Email	Observaciones	RRN		

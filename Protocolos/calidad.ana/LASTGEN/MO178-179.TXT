@@ -1,0 +1,7 @@
+//MO178-179.TXT ANA00178 TO ANA00179
+Instrumentos_verificacion		TAR	410	new record size: 410
+Instrumentos_verificacion	Nro_inventario	TAI+	4	Nro_inventario item has been resized: 13 (instead of 9)
+Instrumentos		TAR	461	new record size: 461
+Instrumentos	Nro_inventario	TAI+	4	Nro_inventario item has been resized: 13 (instead of 9)
+Instrumentos_incidentes		TAR	182	new record size: 182
+Instrumentos_incidentes	Nro_inventario	TAI+	4	Nro_inventario item has been resized: 13 (instead of 9)

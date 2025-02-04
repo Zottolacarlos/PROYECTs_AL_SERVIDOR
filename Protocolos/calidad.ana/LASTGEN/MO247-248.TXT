@@ -1,0 +1,2 @@
+//MO247-248.TXT ANA00247 TO ANA00248
+Sectores	Sector	CLE-*		Sector item is no longer key

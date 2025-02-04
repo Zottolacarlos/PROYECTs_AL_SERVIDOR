@@ -1,0 +1,37 @@
+//MO154-155.TXT ANA00154 TO ANA00155
+acciones_correct		TAR	1132	new record size: 1132
+acciones_correct	Cotización	TAI-	15	Cotización item has been resized: 21 (instead of 36)
+acciones_correct	Observaciones	CNW	Text Memo$String	new type for Observaciones item: Text Memo
+Aprob_Ger_Ind	Protocolo_Nro	NNR	Protocolo Nº	CAUTION: key Protocolo Nº renamed Protocolo_Nro
+OBSERVACIONES		TAR	38	new record size: 38
+OBSERVACIONES	observaciones	CNW	Text Memo$String	new type for observaciones item: Text Memo
+OBSERVACIONES	Protocolo_Nro	NNR	Protocolo Nº	CAUTION: key Protocolo Nº renamed Protocolo_Nro
+Archivo	Protocolo_Nro	NNR	Protocolo Nº	CAUTION: key Protocolo Nº renamed Protocolo_Nro
+PROTOCOLOS		NNF*	Hoja1	new name PROTOCOLOS
+PROTOCOLOS		TAR	386	new record size: 386
+PROTOCOLOS	Protocolo_Nro	NNR	Protocolo Nº	CAUTION: key Protocolo Nº renamed Protocolo_Nro
+PROTOCOLOS	Cotización	TAI-	30	Cotización item has been resized: 21 (instead of 51)
+PROTOCOLOS	Orden_de_Fabricacion	NNR	Orden de Fabricacion	CAUTION: key Orden de Fabricacion renamed Orden_de_Fabricacion
+PROTOCOLOS	Orden_de_Fabricacion	TAI-	30	Orden_de_Fabricacion item has been resized: 21 (instead of 51)
+PROTOCOLOS	Cliente	TAI-	205	Cliente item has been resized: 51 (instead of 256)
+PROTOCOLOS	Fecha_de_Pedido	NNR	Fecha de Pedido	CAUTION: key Fecha de Pedido renamed Fecha_de_Pedido
+PROTOCOLOS	Elemento_Controlado	NNR	Elemento Controlado	CAUTION: key Elemento Controlado renamed Elemento_Controlado
+PROTOCOLOS	Elemento_Controlado	CNW	Text Memo$String	new type for Elemento_Controlado item: Text Memo
+PROTOCOLOS	Tipo_de_Control	NNR	Tipo de Control	CAUTION: key Tipo de Control renamed Tipo_de_Control
+PROTOCOLOS	Tipo_de_Control	TAI-	205	Tipo_de_Control item has been resized: 51 (instead of 256)
+PROTOCOLOS	Sector_encargado	TAI-	25	Sector_encargado item has been resized: 26 (instead of 51)
+PROTOCOLOS	Situación_actual_control	NNR	Situación Actual Control	CAUTION: key Situación Actual Control renamed Situación_actual_control
+PROTOCOLOS	Situación_actual_control	TAI-	230	Situación_actual_control item has been resized: 26 (instead of 256)
+PROTOCOLOS	Fecha_del_control	NNR	Fecha del control	CAUTION: key Fecha del control renamed Fecha_del_control
+PROTOCOLOS	Disposición_Gcia_Ind	NNR	Disposición Gcia# Ind#	CAUTION: key Disposición Gcia# Ind# renamed Disposición_Gcia_Ind
+PROTOCOLOS	Disposición_Gcia_Ind	TAI-	30	Disposición_Gcia_Ind item has been resized: 21 (instead of 51)
+PROTOCOLOS	urgente	TAI-	25	urgente item has been resized: 26 (instead of 51)
+PROTOCOLOS	Sector_Pedido	TAI-	25	Sector_Pedido item has been resized: 26 (instead of 51)
+PROTOCOLOS	Orden_Compra	TAI-	201	Orden_Compra item has been resized: 51 (instead of 252)
+PROTOCOLOS	Observaciones	CNW	Text Memo$String	new type for Observaciones item: Text Memo
+Equilibrado_dinamico_datos	Protocolo_Nro	NNR	Protocolo Nº	CAUTION: key Protocolo Nº renamed Protocolo_Nro
+Temp_Imp_ACC		TAR	364	new record size: 364
+Temp_Imp_ACC	Cliente	TAI+	20	Cliente item has been resized: 51 (instead of 31)
+Instrumentos_incidentes		FIC-	conectados	conectados file deleted
+Instrumentos_incidentes		FIC-	visado	visado file deleted
+Hoja1		DEL	Hoja1 (Protocolo Nº) and visado (Protocolo Nº)	Link deleted between Hoja1 (Protocolo Nº) and visado (Protocolo Nº) files

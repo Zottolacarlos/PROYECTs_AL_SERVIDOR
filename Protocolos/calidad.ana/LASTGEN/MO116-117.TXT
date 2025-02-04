@@ -1,0 +1,4 @@
+//MO116-117.TXT ANA00116 TO ANA00117
+acciones_correct		TAR	719	new record size: 719
+acciones_correct	Devoluciones_Atribuible_Emp	TAI+	18	Devoluciones_Atribuible_Emp item has been resized: 21 (instead of 3)
+acciones_correct	Revisión_Direccion	CNW	4-byte unsigned integer$Date (yyyymmdd)	new type for Revisión_Direccion item: 4-byte unsigned integer

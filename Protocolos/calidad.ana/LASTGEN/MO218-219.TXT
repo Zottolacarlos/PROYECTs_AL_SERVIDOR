@@ -1,0 +1,3 @@
+//MO218-219.TXT ANA00218 TO ANA00219
+acciones_correct		TAR	1177	new record size: 1177
+acciones_correct	cotizacion_asociada	RUB+		cotizacion_asociada is a new item

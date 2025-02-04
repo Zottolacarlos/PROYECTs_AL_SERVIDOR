@@ -1,0 +1,3 @@
+//MO177-178.TXT ANA00177 TO ANA00178
+Capacitaciones_Original		TAR	236	new record size: 236
+Capacitaciones_Original	Unidad_Duracion	RUB+		Unidad_Duracion is a new item

@@ -1,0 +1,3 @@
+//MO522-523.TXT ANA00522 TO ANA00523
+Producto		TAR	206	new record size: 206
+Producto	imagen_descriptiva	RUB+		imagen_descriptiva is a new item

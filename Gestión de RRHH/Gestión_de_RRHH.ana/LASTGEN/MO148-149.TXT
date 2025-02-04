@@ -1,0 +1,2 @@
+//MO148-149.TXT ANA00148 TO ANA00149
+Constraint_Sectores_Personal_IMSA_rrhh		DEL	Sectores (SectoresID) and Sectores_Usuarios (SectoresID)	Link deleted between Sectores (SectoresID) and Sectores_Usuarios (SectoresID) files

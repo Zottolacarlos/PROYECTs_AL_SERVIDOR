@@ -1,0 +1,3 @@
+//MO259-260.TXT ANA00259 TO ANA00260
+Sectores_Puestos		NFI		new file
+Sectores_Puestos		FRN		

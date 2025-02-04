@@ -1,0 +1,8 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Candidato		TAR	420	new record size: 420
+Candidato	Preocupacional	CNW	String$Text Memo	new type for Preocupacional item: String
+Candidato	Policia_antecedentes	CNW	String$Text Memo	new type for Policia_antecedentes item: String
+Candidato	Psicotecnico	CNW	String$Text Memo	new type for Psicotecnico item: String
+Candidato	archivo_preocupacional	RUB+		archivo_preocupacional is a new item
+Candidato	archivo_antecedentes	RUB+		archivo_antecedentes is a new item
+Candidato	archivo_psicotecnico	RUB+		archivo_psicotecnico is a new item

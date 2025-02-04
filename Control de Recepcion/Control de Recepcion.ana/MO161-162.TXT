@@ -1,0 +1,3 @@
+//MO161-162.TXT ANA00161 TO ANA00162
+Clasificacion_proveedores		TAR	23	new record size: 23
+Clasificacion_proveedores	Periodo_clasificacion	RUB-		item Periodo_clasificacion deleted

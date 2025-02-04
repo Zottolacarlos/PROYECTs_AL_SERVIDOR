@@ -1,0 +1,2 @@
+//MO642-643.TXT ANA00642 TO ANA00643
+Recepcion_de_Materiales_2	Remito	CLEN		Remito item is now key

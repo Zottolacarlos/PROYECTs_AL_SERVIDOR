@@ -1,0 +1,3 @@
+//MO216-217.TXT ANA00216 TO ANA00217
+acciones_correct		TAR	1122	new record size: 1122
+acciones_correct	Responsable_Protocolo	RUB+		Responsable_Protocolo is a new item

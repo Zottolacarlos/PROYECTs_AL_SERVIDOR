@@ -1,0 +1,2 @@
+//MO240-241.TXT ANA00240 TO ANA00241
+Elem_del_Pedido	Cotizacion	CLEN		Cotizacion item is now key

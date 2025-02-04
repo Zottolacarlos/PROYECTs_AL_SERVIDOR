@@ -1,0 +1,4 @@
+//MO185-186.TXT ANA00185 TO ANA00186
+Categoria_Operarios		TAR	142	new record size: 142
+Categoria_Operarios	Visado_Gerencia	RUB+		Visado_Gerencia is a new item
+Categoria_Operarios	Fecha_Visado	RUB+		Fecha_Visado is a new item

@@ -1,0 +1,26 @@
+//MO344-345.TXT ANA00344 TO ANA00345
+Auditoria_pedidos		FCNX+	STOCK_LOCAL_PRUEBAS	
+Auditoria_eventos		FCNX+	STOCK_LOCAL_PRUEBAS	
+Unidad		FCNX+	STOCK_LOCAL_PRUEBAS	
+Pedido		FCNX+	STOCK_LOCAL_PRUEBAS	
+Elem_del_Pedido		FCNX+	STOCK_LOCAL_PRUEBAS	
+Producto		FCNX+	STOCK_LOCAL_PRUEBAS	
+Comparativa		FCNX+	STOCK_LOCAL_PRUEBAS	
+Recepcion_de_Materiales		FCNX+	STOCK_LOCAL_PRUEBAS	
+Incidentes		FCNX+	STOCK_LOCAL_PRUEBAS	
+Orden_de_compra		FCNX+	STOCK_LOCAL_PRUEBAS	
+Elem_Orden_de_Compra		FCNX+	STOCK_LOCAL_PRUEBAS	
+Estados_de_Pedido		FCNX+	STOCK_LOCAL_PRUEBAS	
+tipodesubcuentas		FCNX+	bdcontabilidad_LOCAL_PRUEBAS	
+subcuentatipo		FCNX+	bdcontabilidad_LOCAL_PRUEBAS	
+subcuentas		FCNX+	bdcontabilidad_LOCAL_PRUEBAS	
+Bajas		FCNX+	STOCK_LOCAL_PRUEBAS	
+Auditoria_Stock		FCNX+	STOCK_LOCAL_PRUEBAS	
+Datos_Prog		FCNX+	STOCK_LOCAL_PRUEBAS	
+Passwords		FCNX+	STOCK_LOCAL_PRUEBAS	
+tipos_de_incidentes		FCNX+	STOCK_LOCAL_PRUEBAS	
+areas		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	
+empleados_areas		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	
+empleados		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	
+Precios_deReferencia		FCNX+	STOCK_LOCAL_PRUEBAS	
+Maquina		TAR	112	new record size: 112

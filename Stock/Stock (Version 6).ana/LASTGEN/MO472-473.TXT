@@ -1,0 +1,7 @@
+//MO472-473.TXT ANA00472 TO ANA00473
+Elem_del_Pedido		TAR	540	new record size: 540
+Elem_del_Pedido	Controla_Calidad	RUB-		item Controla_Calidad deleted
+Elem_del_Pedido	Controla_Deposito	RUB-		item Controla_Deposito deleted
+Elem_del_Pedido	Controla_Fundicion	RUB-		item Controla_Fundicion deleted
+Elem_del_Pedido	Controla_Ingenieria	RUB-		item Controla_Ingenieria deleted
+Elem_del_Pedido	Controla_Mantenimiento	RUB-		item Controla_Mantenimiento deleted

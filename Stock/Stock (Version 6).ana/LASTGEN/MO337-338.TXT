@@ -1,0 +1,27 @@
+//MO337-338.TXT ANA00337 TO ANA00338
+Auditoria_eventos		FCNX+	STOCK_LOCAL_PRUEBAS	
+Familia		FCNX+	STOCK_LOCAL_PRUEBAS	
+Unidad		FCNX+	bdcontabilidad_LOCAL_PRUEBAS	
+Pedido		FCNX+	STOCK_LOCAL_PRUEBAS	
+Elem_del_Pedido		FCNX+	STOCK_LOCAL_PRUEBAS	
+Producto		FCNX+	STOCK_LOCAL_PRUEBAS	
+Retiro_de_Materiales		FCNX+	STOCK_LOCAL_PRUEBAS	
+Devoluciones		FCNX+	STOCK_LOCAL_PRUEBAS	
+Entregas_y_Prestamos		FCNX+	STOCK_LOCAL_PRUEBAS	
+Recepcion_de_Materiales		FCNX+	STOCK_LOCAL_PRUEBAS	
+tipodesubcuentas		FCNX+	bdcontabilidad_LOCAL_PRUEBAS	
+subcuentatipo		FCNX+	bdcontabilidad_LOCAL_PRUEBAS	
+subcuentas		FCNX+	bdcontabilidad_LOCAL_PRUEBAS	
+Auditoria_Stock		FCNX+	STOCK_LOCAL_PRUEBAS	
+Datos_Prog		FCNX+	STOCK_LOCAL_PRUEBAS	
+Retorno_de_Materiales		FCNX+	STOCK_LOCAL_PRUEBAS	
+Herramientas_de_devolucion		FCNX+	STOCK_LOCAL_PRUEBAS	
+Herramientas_de_Entregas_y_Prestamos		FCNX+	STOCK_LOCAL_PRUEBAS	
+Passwords		FCNX+	STOCK_LOCAL_PRUEBAS	
+a_cargo_unix		FCNX+	STOCK_LOCAL_PRUEBAS	
+areas		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	
+empleados_areas		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	
+empleados		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	
+Stock_xa_Supervisores		FCNX+	STOCK_LOCAL_PRUEBAS	
+Maquina		TAR	112	new record size: 112
+Elem_del_Retiro		FCNX+	STOCK_LOCAL_PRUEBAS	

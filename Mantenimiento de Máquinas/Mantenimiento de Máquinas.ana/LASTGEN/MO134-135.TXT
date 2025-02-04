@@ -1,0 +1,2 @@
+//MO134-135.TXT ANA00134 TO ANA00135
+Detalle_Preventivo		DEL	Detalle_Preventivo (Detalle_PreventivoID) and parte_maquina (Detalle_PreventivoID)	Link deleted between Detalle_Preventivo (Detalle_PreventivoID) and parte_maquina (Detalle_PreventivoID) files

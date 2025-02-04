@@ -1,0 +1,3 @@
+//MO138-139.TXT ANA00138 TO ANA00139
+repuestos		TAR	350	new record size: 350
+repuestos	Tipo_estado	TAI+	10	Tipo_estado item has been resized: 26 (instead of 16)

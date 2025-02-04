@@ -1,0 +1,3 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+repuestos		TAR	217	new record size: 217
+repuestos	recibido_conforme	RUB+		recibido_conforme is a new item

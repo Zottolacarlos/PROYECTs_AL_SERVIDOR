@@ -1,0 +1,7 @@
+//MO164-165.TXT ANA00164 TO ANA00165
+conectados		TAR	75	new record size: 75
+conectados	Fecha	RUB+		Fecha is a new item
+conectados	h_Inicio	NNR	Inicio	CAUTION: item Inicio renamed h_Inicio
+conectados	h_Inicio	CNW	Time (hhmm)$Date and Time (yyyymmddhhmmsslll)	new type for h_Inicio item: Time (hhmm)
+conectados	h_fin	NNR	Termina	CAUTION: item Termina renamed h_fin
+conectados	h_fin	CNW	Time (hhmm)$Date and Time (yyyymmddhhmmsslll)	new type for h_fin item: Time (hhmm)

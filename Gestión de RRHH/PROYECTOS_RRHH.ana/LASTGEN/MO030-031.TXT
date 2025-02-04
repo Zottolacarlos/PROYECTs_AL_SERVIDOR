@@ -1,0 +1,6 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+Pedido_de_Contratación	Perfiles_de_ContrataciónID	CLE-*		Perfiles_de_ContrataciónID item is no longer key
+Pedido_de_Contratación	Perfiles_de_ContrataciónID	CNW	Text Memo$8-byte integer	new type for Perfiles_de_ContrataciónID item: Text Memo
+Perfiles_de_Contratación		IDE-*		file without identifier
+Perfiles_de_Contratación	Perfiles_de_ContrataciónID	CNW	Text Memo$Automatic Identifier (8 bytes)	new type for Perfiles_de_ContrataciónID item: Text Memo
+Constraint_Perfiles_de_Contratación_Pedido_de_Contratación		DEL	Perfiles_de_Contratación (Perfiles_de_ContrataciónID) and Pedido_de_Contratación (Perfiles_de_ContrataciónID)	Link deleted between Perfiles_de_Contratación (Perfiles_de_ContrataciónID) and Pedido_de_Contratación (Perfiles_de_ContrataciónID) files

@@ -1,0 +1,7 @@
+//MO156-157.TXT ANA00156 TO ANA00157
+Producto		TAR	353	new record size: 353
+Producto	imagen_descriptiva	RUB+		imagen_descriptiva is a new item
+Elem_del_Pedido		TAR	1037	new record size: 1037
+Elem_del_Pedido	Sector_Encargado	RUB+		Sector_Encargado is a new item
+Elem_de_Recepcion		TAR	787	new record size: 787
+Elem_de_Recepcion	Dir_remito_pdf	RUB+		Dir_remito_pdf is a new item

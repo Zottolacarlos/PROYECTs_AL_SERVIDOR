@@ -1,0 +1,3 @@
+//MO242-243.TXT ANA00242 TO ANA00243
+Personal_IMSA_rrhh		NFI		new file
+Sectores		NFI		new file

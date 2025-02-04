@@ -1,0 +1,3 @@
+//MO284-285.TXT ANA00284 TO ANA00285
+Verificacion_de_Maquinas		TAR	192	new record size: 192
+Verificacion_de_Maquinas	Fecha_fin	CNW	Date (yyyymmdd)$Date and Time (yyyymmddhhmmssccc)	new type for Fecha_fin item: Date (yyyymmdd)

@@ -1,0 +1,5 @@
+//MO526-527.TXT ANA00526 TO ANA00527
+Comparativa		TAR	720	new record size: 720
+Comparativa	plazo_en_dias1	RUB+		plazo_en_dias1 is a new item
+Comparativa	plazo_en_dias2	RUB+		plazo_en_dias2 is a new item
+Comparativa	plazo_en_dias3	RUB+		plazo_en_dias3 is a new item

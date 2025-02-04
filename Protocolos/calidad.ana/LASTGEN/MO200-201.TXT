@@ -1,0 +1,3 @@
+//MO200-201.TXT ANA00200 TO ANA00201
+acc_correct_Detalle_largo_plazo		NNF*	Detalle_largo_plazo	new name acc_correct_Detalle_largo_plazo
+acc_correct_Detalle_largo_plazo		FRN		

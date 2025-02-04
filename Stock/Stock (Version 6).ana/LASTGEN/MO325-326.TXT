@@ -1,0 +1,3 @@
+//MO325-326.TXT ANA00325 TO ANA00326
+Elem_del_Pedido		TAR	489	new record size: 489
+Elem_del_Pedido	Tomado_por	RUB+		Tomado_por is a new item

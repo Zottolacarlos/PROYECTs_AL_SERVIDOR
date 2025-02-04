@@ -1,0 +1,2 @@
+//MO234-235.TXT ANA00234 TO ANA00235
+acc_corrct_respuestas_redireccion		NFI		new file

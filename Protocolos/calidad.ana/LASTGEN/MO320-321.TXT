@@ -1,0 +1,4 @@
+//MO320-321.TXT ANA00320 TO ANA00321
+acciones_correct		TAR	1334	new record size: 1334
+acciones_correct	Detecta_NC	RUB+		Detecta_NC is a new item
+acciones_correct	Obs_Detecta_NC	RUB+		Obs_Detecta_NC is a new item

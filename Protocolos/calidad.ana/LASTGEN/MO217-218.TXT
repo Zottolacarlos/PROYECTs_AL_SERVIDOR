@@ -1,0 +1,3 @@
+//MO217-218.TXT ANA00217 TO ANA00218
+acciones_correct		TAR	1126	new record size: 1126
+acciones_correct	Protocolos_asociado	RUB+		Protocolos_asociado is a new key

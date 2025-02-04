@@ -1,0 +1,3 @@
+//MO324-325.TXT ANA00324 TO ANA00325
+Impresion_Preventivos_Activos		TAR	326	new record size: 326
+Impresion_Preventivos_Activos	Estado	RUB+		Estado is a new item

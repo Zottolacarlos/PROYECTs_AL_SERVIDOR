@@ -1,0 +1,4 @@
+//MO127-128.TXT ANA00127 TO ANA00128
+parte_maquina		TAR	1654	new record size: 1654
+parte_maquina	Ejecutadores	NNR	EjecutadoresID	CAUTION: item EjecutadoresID renamed Ejecutadores
+parte_maquina	Ejecutadores	CNW	String$4-byte integer	new type for Ejecutadores item: String

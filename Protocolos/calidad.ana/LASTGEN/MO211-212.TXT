@@ -1,0 +1,2 @@
+//MO211-212.TXT ANA00211 TO ANA00212
+Usuarios	nombre	CLEU*		nombre item is now key

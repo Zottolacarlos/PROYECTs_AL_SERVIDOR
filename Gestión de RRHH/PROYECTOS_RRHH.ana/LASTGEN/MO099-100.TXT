@@ -1,0 +1,4 @@
+//MO099-100.TXT ANA00099 TO ANA00100
+Personal_IMSA_rrhh		TAR	629	new record size: 629
+Personal_IMSA_rrhh	SectoresID	RUB+		SectoresID is a new key
+Constraint_Sectores_Personal_IMSA_rrhh		NWL	Sectores (SectoresID) and Personal_IMSA_rrhh (SectoresID)	New link between Sectores (SectoresID) and Personal_IMSA_rrhh (SectoresID) files

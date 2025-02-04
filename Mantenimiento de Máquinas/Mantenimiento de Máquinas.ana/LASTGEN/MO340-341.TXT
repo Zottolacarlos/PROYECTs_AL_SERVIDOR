@@ -1,0 +1,3 @@
+//MO340-341.TXT ANA00340 TO ANA00341
+Cambio_fecha_Preven		REP*	C:\My Projects\Mantenimiento de Máquinas\Exe\DB	new directory C:\My Projects\Mantenimiento de Máquinas\Exe\DB
+Usuarios		REP*	C:\My Projects\Mantenimiento de Máquinas\Exe\DB	new directory C:\My Projects\Mantenimiento de Máquinas\Exe\DB

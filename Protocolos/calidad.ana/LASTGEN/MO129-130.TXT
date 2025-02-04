@@ -1,0 +1,3 @@
+//MO129-130.TXT ANA00129 TO ANA00130
+Temp_Imp_ACC		TAR	1441	new record size: 1441
+Temp_Imp_ACC	razon_raiz	TAI-	5	razon_raiz item has been resized: 101 (instead of 106)

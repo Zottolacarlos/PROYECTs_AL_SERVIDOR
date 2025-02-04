@@ -1,0 +1,5 @@
+//MO111-112.TXT ANA00111 TO ANA00112
+Detalle_Preventivo		TAR	444	new record size: 444
+Detalle_Preventivo	Cuenta_hs_alinicio_preven	CNW	4-byte real$4-byte unsigned integer	new type for Cuenta_hs_alinicio_preven item: 4-byte real
+Detalle_Preventivo	cuenta_hs_actualizado	RUB+		cuenta_hs_actualizado is a new item
+Detalle_Preventivo	fecha_finalizacion	NNR	fecha_final	CAUTION: item fecha_final renamed fecha_finalizacion

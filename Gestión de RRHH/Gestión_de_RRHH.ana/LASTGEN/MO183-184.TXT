@@ -1,0 +1,3 @@
+//MO183-184.TXT ANA00183 TO ANA00184
+Categoria_Operarios		NFI		new file
+Constraint_Categoria_Operarios_Personal_IMSA_rrhh		NWL	Personal_IMSA_rrhh (Legajo) and Categoria_Operarios (Legajo)	New link between Personal_IMSA_rrhh (Legajo) and Categoria_Operarios (Legajo) files

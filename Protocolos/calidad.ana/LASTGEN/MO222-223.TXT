@@ -1,0 +1,3 @@
+//MO222-223.TXT ANA00222 TO ANA00223
+conectados	guser	CLEN*		guser item is now key
+conectados	guser	RDP+		

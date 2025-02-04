@@ -1,0 +1,3 @@
+//MO438-439.TXT ANA00438 TO ANA00439
+Constraint_Elem_del_Pedido_Comparativa		NWL	Elem_del_Pedido (Elemento_del_Pedido_ID) and Comparativa (Elemento_del_Pedido_ID)	New link between Elem_del_Pedido (Elemento_del_Pedido_ID) and Comparativa (Elemento_del_Pedido_ID) files
+Constraint_Elem_del_Pedido_Elem_de_Comparativa		DEL	Elem_del_Pedido (Elemento_del_Pedido_ID) and Comparativa (Elemento_del_Pedido_ID)	Link deleted between Elem_del_Pedido (Elemento_del_Pedido_ID) and Comparativa (Elemento_del_Pedido_ID) files

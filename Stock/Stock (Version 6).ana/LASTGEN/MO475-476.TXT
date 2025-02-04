@@ -1,0 +1,3 @@
+//MO475-476.TXT ANA00475 TO ANA00476
+Recepcion_de_Materiales_2		NFI		new file
+Recepcion_de_Materiales_2		FRN		

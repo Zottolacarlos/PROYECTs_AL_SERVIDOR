@@ -1,0 +1,6 @@
+//MO175-176.TXT ANA00175 TO ANA00176
+Equil_dinam_temp_imp		TAR	673	new record size: 673
+Equil_dinam_temp_imp	Desequilibrio_Residual	RUB+		Desequilibrio_Residual is a new item
+Equilibrado_dinamico_datos		TAR	571	new record size: 571
+Equilibrado_dinamico_datos	Peso	NNR	Peso_Residual	CAUTION: item Peso_Residual renamed Peso
+Equilibrado_dinamico_datos	Desequilibrio_Residual	RUB+		Desequilibrio_Residual is a new item

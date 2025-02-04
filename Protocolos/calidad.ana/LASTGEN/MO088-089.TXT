@@ -1,0 +1,5 @@
+//MO088-089.TXT ANA00088 TO ANA00089
+Archivo		TAR	1948	new record size: 1948
+Archivo	Arch1_Direccion	TAI+	1	Arch1_Direccion item has been resized: 514 (instead of 513)
+Archivo	Arch1_nombrePDF	TAI+	1	Arch1_nombrePDF item has been resized: 514 (instead of 513)
+Archivo	direccion	TAI+	2	direccion item has been resized: 514 (instead of 512)

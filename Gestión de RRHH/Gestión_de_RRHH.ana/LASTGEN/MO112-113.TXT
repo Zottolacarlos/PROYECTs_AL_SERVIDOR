@@ -1,0 +1,10 @@
+//MO112-113.TXT ANA00112 TO ANA00113
+Auditoria_Contratacion		TAR	161	new record size: 161
+Auditoria_Contratacion	Legajo	CNW	2-byte unsigned integer$String	new type for Legajo item: 2-byte unsigned integer
+Personal_IMSA_rrhh_Sectores		NFI		new file
+Sectores_Usuarios		FIC-	Sectores_Usuarios	Sectores_Usuarios file deleted
+Constraint_Personal_IMSA_rrhh_Sectores		NWL	Personal_IMSA_rrhh (Legajo) and Personal_IMSA_rrhh_Sectores (Legajo)	New link between Personal_IMSA_rrhh (Legajo) and Personal_IMSA_rrhh_Sectores (Legajo) files
+Constraint_Sectores_Personal_IMSA_rrhh		NWL	Sectores (SectoresID) and Personal_IMSA_rrhh_Sectores (SectoresID)	New link between Sectores (SectoresID) and Personal_IMSA_rrhh_Sectores (SectoresID) files
+Constraint_Personal_IMSA_rrhh_Auditoria_Contratacion		NWL	Personal_IMSA_rrhh (Legajo) and Auditoria_Contratacion (Legajo)	New link between Personal_IMSA_rrhh (Legajo) and Auditoria_Contratacion (Legajo) files
+Constraint_Sectores_Sectores_Usuarios		DEL	Sectores (SectoresID) and Sectores_Usuarios (SectoresID)	Link deleted between Sectores (SectoresID) and Sectores_Usuarios (SectoresID) files
+Constraint_Sectores_Personal_IMSA_rrhh		DEL	Sectores (SectoresID) and Personal_IMSA_rrhh (SectoresID)	Link deleted between Sectores (SectoresID) and Personal_IMSA_rrhh (SectoresID) files

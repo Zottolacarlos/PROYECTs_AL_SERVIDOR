@@ -1,0 +1,3 @@
+//MO688-689.TXT ANA00688 TO ANA00689
+Producto		TAR	215	new record size: 215
+Producto	Importado_Admin	RUB+		Importado_Admin is a new item

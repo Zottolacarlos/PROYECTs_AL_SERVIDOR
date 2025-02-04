@@ -1,0 +1,2 @@
+//MO081-082.TXT ANA00081 TO ANA00082
+repuestos	Fabrica_IMSA	NNR	Fabricado_IMSA	CAUTION: item Fabricado_IMSA renamed Fabrica_IMSA

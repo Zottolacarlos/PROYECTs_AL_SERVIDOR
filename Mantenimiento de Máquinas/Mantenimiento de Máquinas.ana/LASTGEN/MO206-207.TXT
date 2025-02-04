@@ -1,0 +1,3 @@
+//MO206-207.TXT ANA00206 TO ANA00207
+Maquina		TAR	108	new record size: 108
+Maquina	Sector	RUB-		key Sector deleted

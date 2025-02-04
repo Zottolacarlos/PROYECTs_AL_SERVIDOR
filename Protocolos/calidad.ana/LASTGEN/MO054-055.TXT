@@ -1,0 +1,4 @@
+//MO054-055.TXT ANA00054 TO ANA00055
+Hoja1$		TAR	1837	new record size: 1837
+Hoja1$	Orden_Compra	TAI+	1	Orden_Compra item has been resized: 252 (instead of 251)
+Hoja1$	Orden_Compra	RRM		

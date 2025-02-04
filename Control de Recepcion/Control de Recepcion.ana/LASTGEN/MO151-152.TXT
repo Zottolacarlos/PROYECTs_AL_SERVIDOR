@@ -1,0 +1,3 @@
+//MO151-152.TXT ANA00151 TO ANA00152
+Recepcion_de_Materiales	Cotizacion	CLEN		Cotizacion item is now key
+Elem_del_Pedido	Cotizacion	CLEN		Cotizacion item is now key

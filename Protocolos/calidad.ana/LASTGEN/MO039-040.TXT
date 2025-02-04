@@ -1,0 +1,3 @@
+//MO039-040.TXT ANA00039 TO ANA00040
+Hoja1$		TAR	1465	new record size: 1465
+Hoja1$	urgente	RUB-		key urgente deleted

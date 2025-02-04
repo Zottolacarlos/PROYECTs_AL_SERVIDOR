@@ -1,0 +1,3 @@
+//MO187-188.TXT ANA00187 TO ANA00188
+acc_correct_archivos		TAR	158	new record size: 158
+acc_correct_archivos	direccion	CNW	Text Memo$String	new type for direccion item: Text Memo

@@ -1,0 +1,12 @@
+//MO400-401.TXT ANA00400 TO ANA00401
+subcuentas		FCNX+	bdcontabilidad_LOCAL_PRUEBAS	
+subcuentatipo		FCNX+	bdcontabilidad_LOCAL_PRUEBAS	
+tipodesubcuentas		FCNX+	bdcontabilidad_LOCAL_PRUEBAS	
+articulos		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	
+cotizaciones		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	
+presupuestos		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	
+presupuestos_articulos		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	
+empleados		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	
+empleados_areas		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	
+areas		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	
+cuentasclientes		FCNX+	ADMINISTRADORmt_LOCAL_PRUEBAS	

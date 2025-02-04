@@ -1,0 +1,2 @@
+//MO053-054.TXT ANA00053 TO ANA00054
+Pedido_de_Contratación	Sector	CLEN*		Sector item is now key

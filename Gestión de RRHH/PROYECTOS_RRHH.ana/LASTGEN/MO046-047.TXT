@@ -1,0 +1,3 @@
+//MO046-047.TXT ANA00046 TO ANA00047
+Auditoria_Contratacion		TAR	131	new record size: 131
+Auditoria_Contratacion	Auditoria_eventosID	RUB-		key Auditoria_eventosID deleted

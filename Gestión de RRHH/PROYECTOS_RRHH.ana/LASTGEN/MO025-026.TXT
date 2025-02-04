@@ -1,0 +1,6 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Pedido_de_Contratación		TAR	187	new record size: 187
+Pedido_de_Contratación	Estados_Pedidos_contrID	RUB+		Estados_Pedidos_contrID is a new key
+Pedido_de_Contratación	Estado	RUB-		item Estado deleted
+Estados_Pedidos_contr		NFI		new file
+Constraint_Pedido_de_Contratación_Estados_Pedidos_contr		NWL	Estados_Pedidos_contr (Estados_Pedidos_contrID) and Pedido_de_Contratación (Estados_Pedidos_contrID)	New link between Estados_Pedidos_contr (Estados_Pedidos_contrID) and Pedido_de_Contratación (Estados_Pedidos_contrID) files

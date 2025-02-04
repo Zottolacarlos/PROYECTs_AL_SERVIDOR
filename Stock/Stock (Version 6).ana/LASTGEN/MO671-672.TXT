@@ -1,0 +1,3 @@
+//MO671-672.TXT ANA00671 TO ANA00672
+Orden_de_compra		TAR	542	new record size: 542
+Orden_de_compra	OC_Posterior	RUB+		OC_Posterior is a new item

@@ -1,0 +1,6 @@
+//MO036-037.TXT ANA00036 TO ANA00037
+Pedido_de_Contratación		TAR	206	new record size: 206
+Pedido_de_Contratación	Legajo	RUB+		Legajo is a new key
+Pedido_de_Contratación	Legajo_crear	RUB-		key Legajo_crear deleted
+Constraint_Usuarios_Pedido_de_Contratación		NWL	Usuarios (Legajo) and Pedido_de_Contratación (Legajo)	New link between Usuarios (Legajo) and Pedido_de_Contratación (Legajo) files
+Constraint_Supervisores_Pedido_de_Contratación		DEL	Usuarios (UsuariosID) and Pedido_de_Contratación (Legajo_crear)	Link deleted between Usuarios (UsuariosID) and Pedido_de_Contratación (Legajo_crear) files

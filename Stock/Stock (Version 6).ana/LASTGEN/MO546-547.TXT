@@ -1,0 +1,3 @@
+//MO546-547.TXT ANA00546 TO ANA00547
+Control_Recep_Calidad		TAR	151	new record size: 151
+Control_Recep_Calidad	dir_certificado	RUB+		dir_certificado is a new item

@@ -1,0 +1,3 @@
+//MO140-141.TXT ANA00140 TO ANA00141
+conectados		TAR	89	new record size: 89
+conectados	ConectadoID_Apertura	RUB+		ConectadoID_Apertura is a new item

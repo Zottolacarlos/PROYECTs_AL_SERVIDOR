@@ -1,0 +1,4 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+conectados_rrhh		FIC-	conectados_rrhh	conectados_rrhh file deleted
+conectados_manten		FIC-	conectados_manten	conectados_manten file deleted
+conectados_produc		FIC-	conectados_produc	conectados_produc file deleted

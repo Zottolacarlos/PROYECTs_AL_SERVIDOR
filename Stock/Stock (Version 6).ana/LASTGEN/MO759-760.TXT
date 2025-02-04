@@ -1,0 +1,10 @@
+//MO759-760.TXT ANA00759 TO ANA00760
+subcuentas		NFI		new file
+movicontable		NFI		new file
+subcuentas_tipo		NFI		new file
+tipo_subcuentas		NFI		new file
+subcuentas		FIC-	subcuentas	subcuentas file deleted
+subcuentatipo		FIC-	subcuentatipo	subcuentatipo file deleted
+tipodesubcuentas		FIC-	tipodesubcuentas	tipodesubcuentas file deleted
+movicontable		FIC-	movicontable	movicontable file deleted
+Constraint_subcuentas_Proveedores_Calificaciones		DEL	subcuentas (PRIMARY) and Proveedores_Calificaciones (PRIMARY)	Link deleted between subcuentas (PRIMARY) and Proveedores_Calificaciones (PRIMARY) files

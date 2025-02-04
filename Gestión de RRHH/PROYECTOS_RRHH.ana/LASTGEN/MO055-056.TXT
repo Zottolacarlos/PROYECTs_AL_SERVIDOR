@@ -1,0 +1,4 @@
+//MO055-056.TXT ANA00055 TO ANA00056
+Preseleccionados		TAR	233	new record size: 233
+Preseleccionados	Firma1	RUB+		Firma1 is a new item
+Preseleccionados	Firma2	RUB+		Firma2 is a new item

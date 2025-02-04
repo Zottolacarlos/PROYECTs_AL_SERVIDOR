@@ -1,0 +1,3 @@
+//MO152-153.TXT ANA00152 TO ANA00153
+Novedades_Personal		TAR	58	new record size: 58
+Novedades_Personal	Activa	RUB+		Activa is a new item

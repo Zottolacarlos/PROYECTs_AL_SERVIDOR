@@ -1,0 +1,3 @@
+//MO747-748.TXT ANA00747 TO ANA00748
+Articulos_Viejos		NFI		new file
+Articulos_Viejos		FIC-	Articulos_Viejos	Articulos_Viejos file deleted

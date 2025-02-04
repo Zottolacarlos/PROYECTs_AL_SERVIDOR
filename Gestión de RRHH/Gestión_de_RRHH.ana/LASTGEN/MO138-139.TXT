@@ -1,0 +1,3 @@
+//MO138-139.TXT ANA00138 TO ANA00139
+conectados		TAR	136	new record size: 136
+conectados	tiempo	RUB-		item tiempo deleted

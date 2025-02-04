@@ -1,0 +1,2 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Hoja1$	Tipo de Control	CLE-*		Tipo de Control item is no longer key

@@ -1,0 +1,4 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Archivo		NFI		new file
+Hoja1$		NWL	Hoja1$ (Protocolo Nº) and Archivo (Protocolo Nº)	New link between Hoja1$ (Protocolo Nº) and Archivo (Protocolo Nº) files
+Hoja1$	Cotización	RRM		

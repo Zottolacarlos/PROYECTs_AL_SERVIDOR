@@ -1,0 +1,4 @@
+//MO122-123.TXT ANA00122 TO ANA00123
+Personal_IMSA_rrhh_Sectores_Puestos		NFI		new file
+Constraint_Personal_IMSA_rrhh_Sectores_Puestos		NWL	Personal_IMSA_rrhh (Legajo) and Personal_IMSA_rrhh_Sectores_Puestos (Legajo)	New link between Personal_IMSA_rrhh (Legajo) and Personal_IMSA_rrhh_Sectores_Puestos (Legajo) files
+Constraint_Sectores_Puestos_Personal_IMSA_rrhh		NWL	Sectores_Puestos (Sectores_PuestosID) and Personal_IMSA_rrhh_Sectores_Puestos (Sectores_PuestosID)	New link between Sectores_Puestos (Sectores_PuestosID) and Personal_IMSA_rrhh_Sectores_Puestos (Sectores_PuestosID) files

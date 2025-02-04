@@ -1,0 +1,3 @@
+//MO318-319.TXT ANA00318 TO ANA00319
+Incidentes	Tipo_Mant	NNR	Tipo_Detalle	CAUTION: item Tipo_Detalle renamed Tipo_Mant
+Incidentes	Nro_ticket	CLEN*		Nro_ticket item is now key

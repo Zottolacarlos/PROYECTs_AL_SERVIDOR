@@ -1,0 +1,3 @@
+//MO124-125.TXT ANA00124 TO ANA00125
+acciones_correct		TAR	735	new record size: 735
+acciones_correct	Plano	RUB+		Plano is a new item

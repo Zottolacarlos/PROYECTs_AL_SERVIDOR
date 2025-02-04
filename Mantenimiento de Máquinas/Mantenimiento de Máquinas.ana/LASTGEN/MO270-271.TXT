@@ -1,0 +1,3 @@
+//MO270-271.TXT ANA00270 TO ANA00271
+Elementos_de_Verificacion		TAR	76	new record size: 76
+Elementos_de_Verificacion	Codigo_Objeto	RUB-		item Codigo_Objeto deleted

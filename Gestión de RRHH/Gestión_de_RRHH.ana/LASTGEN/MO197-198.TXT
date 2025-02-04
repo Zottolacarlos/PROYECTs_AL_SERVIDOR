@@ -1,0 +1,9 @@
+//MO197-198.TXT ANA00197 TO ANA00198
+Preseleccionados		TAR	455	new record size: 455
+Preseleccionados	Fecha_Prob_Entrev	RUB+		Fecha_Prob_Entrev is a new item
+Preseleccionados	Hora_Prob_Entrev	RUB+		Hora_Prob_Entrev is a new item
+Preseleccionados	Entrevistadores	RUB+		Entrevistadores is a new item
+Contratos		TAR	294	new record size: 294
+Contratos	Archivo_Evaluacion_D	RUB+		Archivo_Evaluacion_D is a new item
+Categoria_Operarios		TAR	155	new record size: 155
+Categoria_Operarios	Archivo_Evaluacion_D	RUB+		Archivo_Evaluacion_D is a new item

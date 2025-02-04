@@ -1,0 +1,3 @@
+//MO441-442.TXT ANA00441 TO ANA00442
+Comparativa		TAR	621	new record size: 621
+Comparativa	Elem_Orden_de_Compra_ID	RUB+		Elem_Orden_de_Compra_ID is a new key

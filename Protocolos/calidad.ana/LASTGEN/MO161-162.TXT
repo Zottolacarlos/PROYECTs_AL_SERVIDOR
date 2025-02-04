@@ -1,0 +1,4 @@
+//MO161-162.TXT ANA00161 TO ANA00162
+Equil_dinam_temp_imp		NFI		new file
+Equil_dinam_temp_imp		FRN		
+Equil_dinam_temp_imp	Protocolo_Nro	RRN		

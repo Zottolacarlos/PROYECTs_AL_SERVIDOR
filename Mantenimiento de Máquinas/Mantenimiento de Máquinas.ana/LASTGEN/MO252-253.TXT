@@ -1,0 +1,3 @@
+//MO252-253.TXT ANA00252 TO ANA00253
+lectura_hs		TAR	59	new record size: 59
+lectura_hs	Promedio_hs_total	RUB-		item Promedio_hs_total deleted

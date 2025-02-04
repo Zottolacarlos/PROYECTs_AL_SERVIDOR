@@ -1,0 +1,3 @@
+//MO313-314.TXT ANA00313 TO ANA00314
+Passwords		TAR	18	new record size: 18
+Passwords	Password	TAI+	5	Password item has been resized: 12 (instead of 7)

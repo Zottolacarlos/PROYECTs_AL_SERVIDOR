@@ -1,0 +1,24 @@
+//MO143-144.TXT ANA00143 TO ANA00144
+Elem_del_Pedido		TAR	926	new record size: 926
+Elem_del_Pedido		BASE		File base changed from Generic SQL (ANSI 92) to Unknown
+Elem_del_Pedido	cotizado_a_dolar	CNW	Currency$4-byte integer	new type for cotizado_a_dolar item: Currency
+Producto		TAR	393	new record size: 393
+Producto		BASE		File base changed from Generic SQL (ANSI 92) to Unknown
+Producto	Saldo_inicial_sist	RUB+		Saldo_inicial_sist is a new item
+Producto	ult_modif_leg	RUB+		ult_modif_leg is a new item
+Producto	Evita_precio_ref	RUB+		Evita_precio_ref is a new item
+Producto	Costo_actual	RUB-		item Costo_actual deleted
+Producto	Costo_anterior	RUB-		item Costo_anterior deleted
+Producto	fecha_costo_actual	RUB-		item fecha_costo_actual deleted
+Producto	fecha_costo_anterior	RUB-		item fecha_costo_anterior deleted
+Producto	Costo_antiguo	RUB-		item Costo_antiguo deleted
+Producto	Fecha_costo_antiguo	RUB-		item Fecha_costo_antiguo deleted
+Producto	Proveedor_costo_anterior	RUB-		item Proveedor_costo_anterior deleted
+Producto	Proveedor_costo_antiguo	RUB-		item Proveedor_costo_antiguo deleted
+Producto	Proveedor_costo_actual	RUB-		item Proveedor_costo_actual deleted
+Recepcion_de_Materiales		TAR	818	new record size: 818
+Recepcion_de_Materiales		IDE-		file without identifier
+Recepcion_de_Materiales	Recepcion_de_MaterialesID	CNW	4-byte integer$Automatic Identifier (4 bytes)	new type for Recepcion_de_MaterialesID item: 4-byte integer
+Recepcion_de_Materiales	Fecha_recepcion	CNW	Date and Time (yyyymmddhhmmsslll)$Date (yyyymmdd)	new type for Fecha_recepcion item: Date and Time (yyyymmddhhmmssl
+Recepcion_de_Materiales	Obs_Recepcion	CNW	Unicode text memo$4-byte real	new type for Obs_Recepcion item: Unicode text memo
+Recepcion_de_Materiales	Decision_Recep_Deposito	CNW	Unicode$2-byte integer	new type for Decision_Recep_Deposito item: Unicode

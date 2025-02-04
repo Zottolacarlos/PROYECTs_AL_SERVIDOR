@@ -1,0 +1,3 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+Auditoría_Tickets		TAR	102	new record size: 102
+Auditoría_Tickets	Descripcion_Evento	CNW	Text Memo$String	new type for Descripcion_Evento item: Text Memo

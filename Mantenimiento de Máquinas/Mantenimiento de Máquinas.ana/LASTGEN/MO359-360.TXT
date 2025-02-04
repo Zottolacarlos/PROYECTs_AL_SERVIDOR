@@ -1,0 +1,3 @@
+//MO359-360.TXT ANA00359 TO ANA00360
+Detalle_Preventivo		TAR	464	new record size: 464
+Detalle_Preventivo	fecha_finalizacion	CNW	Date and Time (yyyymmddhhmmssccc)$Date (yyyymmdd)	new type for fecha_finalizacion item: Date and Time (yyyymmddhhmmssc

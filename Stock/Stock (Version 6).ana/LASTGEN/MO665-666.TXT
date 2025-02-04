@@ -1,0 +1,3 @@
+//MO665-666.TXT ANA00665 TO ANA00666
+Reclamo_Recepcion		TAR	101	new record size: 101
+Reclamo_Recepcion	Cantidad_reclamada	RUB+		Cantidad_reclamada is a new item

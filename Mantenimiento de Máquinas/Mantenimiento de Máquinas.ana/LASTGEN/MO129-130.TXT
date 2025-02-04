@@ -1,0 +1,2 @@
+//MO129-130.TXT ANA00129 TO ANA00130
+Constraint_Detalle_Preventivo_parte_maquina		MCL	0,1->0,n	

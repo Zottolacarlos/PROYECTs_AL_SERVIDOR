@@ -1,0 +1,4 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Hoja1$		NFI		new file
+Connection to 'W:\Publico\Sistemas Informaticos\final.xlsx'		CNX+		
+Connection to Excel		CNX+		

@@ -1,0 +1,2 @@
+//MO467-468.TXT ANA00467 TO ANA00468
+Elem_del_Pedido	ComparativaID	CLE-		ComparativaID item is no longer key

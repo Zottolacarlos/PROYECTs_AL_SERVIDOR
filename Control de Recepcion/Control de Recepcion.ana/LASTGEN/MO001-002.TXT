@@ -1,0 +1,22 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Oftec		NFI		new file
+Fundicion		NFI		new file
+Calidad		NFI		new file
+Deposito		TAR	177	new record size: 177
+Deposito	Fecha	CNW	Date (yyyymmdd)$String	new type for Fecha item: Date (yyyymmdd)
+Deposito	Secuencia	RUB+		Secuencia is a new item
+Deposito	Parametros	RUB+		Parametros is a new item
+Deposito	Observación	RUB+		Observación is a new item
+Deposito	Responsable	RUB+		Responsable is a new item
+Deposito	Decision	RUB+		Decision is a new item
+Recepcion		TAR	243	new record size: 243
+Recepcion	DepositoID	RUB+		DepositoID is a new key
+Recepcion	CalidadID	RUB+		CalidadID is a new key
+Recepcion	_	RUB-		item _ deleted
+Recepcion		NWL	Recepcion (NrodeControl) and Oftec (NrodeControl)	New link between Recepcion (NrodeControl) and Oftec (NrodeControl) files
+Calidad		NWL	Calidad (CalidadID) and Recepcion (CalidadID)	New link between Calidad (CalidadID) and Recepcion (CalidadID) files
+Recepcion		NWL	Recepcion (NrodeControl) and Fundicion (NrodeControl)	New link between Recepcion (NrodeControl) and Fundicion (NrodeControl) files
+Deposito		NWL	Deposito (DepositoID) and Recepcion (DepositoID)	New link between Deposito (DepositoID) and Recepcion (DepositoID) files
+Calidad		FRN		
+Fundicion		FRN		
+Oftec		FRN		

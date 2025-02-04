@@ -1,0 +1,3 @@
+//MO636-637.TXT ANA00636 TO ANA00637
+Bajas		TAR	40	new record size: 40
+Bajas	Baja_UNIX	RUB+		Baja_UNIX is a new item

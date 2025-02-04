@@ -1,0 +1,3 @@
+//MO143-144.TXT ANA00143 TO ANA00144
+conectados		TAR	79	new record size: 79
+conectados	fecha_conexion	RUB-		item fecha_conexion deleted

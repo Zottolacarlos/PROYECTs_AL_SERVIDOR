@@ -1,0 +1,2 @@
+//MO186-187.TXT ANA00186 TO ANA00187
+Categoria_Operarios	Estado_Pedido	CLEN*		Estado_Pedido item is now key

@@ -1,0 +1,5 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Equipo_Detalle_PC		TAR	412	new record size: 412
+Equipo_Detalle_PC	Monitor_Marca	RUB+		Monitor_Marca is a new item
+Equipo_Detalle_PC	Monitor_Pulgadas	RUB+		Monitor_Pulgadas is a new item
+Equipo_Detalle_PC	UPS_Marca	RUB+		UPS_Marca is a new item

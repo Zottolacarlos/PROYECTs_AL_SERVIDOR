@@ -1,0 +1,16 @@
+//MO065-066.TXT ANA00065 TO ANA00066
+Ingenieria		TAR	353	new record size: 353
+Ingenieria	Decision_I	CNW	String$Boolean	new type for Decision_I item: String
+Oftec		TAR	851	new record size: 851
+Oftec	Decision_dep	CNW	String$Boolean	new type for Decision_dep item: String
+Oftec	decision_fund	CNW	String$Boolean	new type for decision_fund item: String
+Oftec	decision_calidad	CNW	String$Boolean	new type for decision_calidad item: String
+Oftec	decision_ing	CNW	String$Boolean	new type for decision_ing item: String
+Fundicion		TAR	622	new record size: 622
+Fundicion	Responsable_espectro	TAI+	30	Responsable_espectro item has been resized: 51 (instead of 21)
+Fundicion	Decision_espectro	CNW	String$1-byte unsigned integer	new type for Decision_espectro item: String
+Fundicion	Decision_trata	CNW	String$Boolean	new type for Decision_trata item: String
+Calidad		TAR	353	new record size: 353
+Calidad	Decision	CNW	String$Boolean	new type for Decision item: String
+Deposito		TAR	356	new record size: 356
+Deposito	Decision	CNW	String$Boolean	new type for Decision item: String

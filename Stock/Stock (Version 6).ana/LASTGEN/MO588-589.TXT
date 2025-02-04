@@ -1,0 +1,7 @@
+//MO588-589.TXT ANA00588 TO ANA00589
+cotizaciones		TAR	467	new record size: 467
+cotizaciones	fechaentregclient	RUB+		fechaentregclient is a new item
+presupuestos		TAR	505	new record size: 505
+presupuestos	fechaentregclient	RUB+		fechaentregclient is a new item
+presupuestos	piezascantid	RUB+		piezascantid is a new item
+presupuestos	fechasolici	RUB+		fechasolici is a new item

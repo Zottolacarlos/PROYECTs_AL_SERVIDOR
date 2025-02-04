@@ -1,0 +1,7 @@
+//MO692-693.TXT ANA00692 TO ANA00693
+Materiales_Provistos		TAR	106	new record size: 106
+Materiales_Provistos	Cantida_Prevista_total	NNR	Cantida_Prevista	CAUTION: item Cantida_Prevista renamed Cantida_Prevista_total
+Materiales_Provistos	Idpresuparticu	RUB-		key Idpresuparticu deleted
+Materiales_Provistos_Presupuestos		NFI		new file
+Constraint_Materiales_Provistos_Materiales_Provistos_Presupuestos		NWL	Materiales_Provistos (Cotizacion) and Materiales_Provistos_Presupuestos (Cotizacion)	New link between Materiales_Provistos (Cotizacion) and Materiales_Provistos_Presupuestos (Cotizacion) files
+Constraint_presupuestos_articulos_Materiales_Provistos		DEL	presupuestos_articulos (idpresuparticu) and Materiales_Provistos (Idpresuparticu)	Link deleted between presupuestos_articulos (idpresuparticu) and Materiales_Provistos (Idpresuparticu) files

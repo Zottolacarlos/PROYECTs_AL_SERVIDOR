@@ -1,0 +1,2 @@
+//MO689-690.TXT ANA00689 TO ANA00690
+estadoscotizaciones		NFI		new file

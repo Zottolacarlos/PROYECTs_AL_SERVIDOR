@@ -1,0 +1,5 @@
+//MO794-795.TXT ANA00794 TO ANA00795
+Elem_del_Pedido		TAR	632	new record size: 632
+Elem_del_Pedido	cotizado_a_dolar	TAI+	1	cotizado_a_dolar item has been resized: 4 (instead of 3)
+Comparativa		TAR	650	new record size: 650
+Comparativa	cotizado_a_dolar	TAI+	1	cotizado_a_dolar item has been resized: 4 (instead of 3)

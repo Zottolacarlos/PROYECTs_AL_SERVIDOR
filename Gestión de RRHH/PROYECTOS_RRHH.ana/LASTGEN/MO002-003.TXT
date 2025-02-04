@@ -1,0 +1,8 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+lectura_capa		NFI		new file
+lectura_imsa		NFI		new file
+Pedido_de_Contratación		NFI		new file
+Perfiles_de_Contratación		NFI		new file
+Preseleccionados		NFI		new file
+Constraint_Perfiles_de_Contratación_Preseleccionados		NWL	Perfiles_de_Contratación (Perfiles_de_ContrataciónID) and Preseleccionados (Perfiles_de_ContrataciónID)	New link between Perfiles_de_Contratación (Perfiles_de_ContrataciónID) and Preseleccionados (Perfiles_de_ContrataciónID) files
+Constraint_Pedido_de_Contratación_Perfiles_de_Contratación		NWL	Pedido_de_Contratación (Pedido_de_ContrataciónID) and Perfiles_de_Contratación (Pedido_de_ContrataciónID)	New link between Pedido_de_Contratación (Pedido_de_ContrataciónID) and Perfiles_de_Contratación (Pedido_de_ContrataciónID) files

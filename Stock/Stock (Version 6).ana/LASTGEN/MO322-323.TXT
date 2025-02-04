@@ -1,0 +1,17 @@
+//MO322-323.TXT ANA00322 TO ANA00323
+Producto		TAR	193	new record size: 193
+Producto	Costo_actual	RUB-		item Costo_actual deleted
+Producto	fecha_costo_actual	RUB-		item fecha_costo_actual deleted
+Producto	Proveedor_costo_actual	RUB-		item Proveedor_costo_actual deleted
+Producto	tipo_origen_costo_actual	RUB-		item tipo_origen_costo_actual deleted
+Producto	codigoID_origen_costo_actual	RUB-		item codigoID_origen_costo_actual deleted
+Producto	Costo_anterior	RUB-		item Costo_anterior deleted
+Producto	fecha_costo_anterior	RUB-		item fecha_costo_anterior deleted
+Producto	Proveedor_costo_anterior	RUB-		item Proveedor_costo_anterior deleted
+Producto	tipo_origen_costo_anterior	RUB-		item tipo_origen_costo_anterior deleted
+Producto	codigoID_origen_costo_anterior	RUB-		item codigoID_origen_costo_anterior deleted
+Producto	Costo_antiguo	RUB-		item Costo_antiguo deleted
+Producto	Fecha_costo_antiguo	RUB-		item Fecha_costo_antiguo deleted
+Producto	Proveedor_costo_antiguo	RUB-		item Proveedor_costo_antiguo deleted
+Producto	tipo_origen_costo_antiguo	RUB-		item tipo_origen_costo_antiguo deleted
+Producto	codigoID_origen_costo_antiguo	RUB-		item codigoID_origen_costo_antiguo deleted

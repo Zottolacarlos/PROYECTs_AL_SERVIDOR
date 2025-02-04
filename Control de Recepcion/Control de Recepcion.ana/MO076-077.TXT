@@ -1,0 +1,4 @@
+//MO076-077.TXT ANA00076 TO ANA00077
+All_recepciones		TAR	677	new record size: 677
+All_recepciones	Cliente	RUB+		Cliente is a new item
+All_recepciones	Proveedor	RUB+		Proveedor is a new key

@@ -1,0 +1,5 @@
+//MO126-127.TXT ANA00126 TO ANA00127
+parte_maquina		TAR	1569	new record size: 1569
+parte_maquina	EjecutadoresID	CLE-*		EjecutadoresID item is no longer key
+parte_maquina	EjecutadoresID	TAB+	4	EjecutadoresID item is now an array of 5 elements 
+ejecutadores		DEL	ejecutadores (ejecutadoresID) and parte_maquina (EjecutadoresID)	Link deleted between ejecutadores (ejecutadoresID) and parte_maquina (EjecutadoresID) files

@@ -1,0 +1,7 @@
+//MO123-124.TXT ANA00123 TO ANA00124
+parte_maquina		TAR	1553	new record size: 1553
+parte_maquina	tareas	RUB+		tareas is a new item
+parte_maquina	TareasID	RUB-		key TareasID deleted
+tareas		TAR	134	new record size: 134
+tareas	Descripción	TAI+	45	Descripción item has been resized: 121 (instead of 76)
+tareas		DEL	tareas (tareasID) and parte_maquina (TareasID)	Link deleted between tareas (tareasID) and parte_maquina (TareasID) files

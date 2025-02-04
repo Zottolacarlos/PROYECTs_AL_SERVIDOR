@@ -1,0 +1,4 @@
+//MO296-297.TXT ANA00296 TO ANA00297
+Usuarios		NNF*	Supervisores_Maquina	new name Usuarios
+Usuarios	UsuariosID	NNR	Supervisores_MaquinaID	CAUTION: key Supervisores_MaquinaID renamed UsuariosID
+Usuarios		FRN		

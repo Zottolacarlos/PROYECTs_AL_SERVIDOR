@@ -1,0 +1,4 @@
+//MO054-055.TXT ANA00054 TO ANA00055
+Permiso_Uso_Programas		REP*	W:\BD\IMSAIT	new directory W:\BD\IMSAIT
+Detalle_Correctivo		NFI		new file
+Detalle_Preventivo		NFI		new file

@@ -1,0 +1,4 @@
+//MO307-308.TXT ANA00307 TO ANA00308
+Constraint_componentes_tareas		MCL	0,1->1,1	
+Constraint_tareas_componentes		MCL	1,n->0,n	
+Constraint_tareas_componentes		MCL	0,1->1,1	

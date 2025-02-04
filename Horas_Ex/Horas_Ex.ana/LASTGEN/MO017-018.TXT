@@ -1,0 +1,3 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Tarea_Extra		TAR	471	new record size: 471
+Tarea_Extra	Novedad	RUB+		Novedad is a new item

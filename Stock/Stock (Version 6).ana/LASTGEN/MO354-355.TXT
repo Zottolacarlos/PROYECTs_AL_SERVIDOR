@@ -1,0 +1,3 @@
+//MO354-355.TXT ANA00354 TO ANA00355
+Impresion_Comparativa		TAR	1131	new record size: 1131
+Impresion_Comparativa	Cotizacion_dolarcosto_actual	RUB+		Cotizacion_dolarcosto_actual is a new item

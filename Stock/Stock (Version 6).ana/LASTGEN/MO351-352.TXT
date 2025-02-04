@@ -1,0 +1,5 @@
+//MO351-352.TXT ANA00351 TO ANA00352
+Comparativa		TAR	876	new record size: 876
+Comparativa	Cotizacion_dolarcosto_actual	RUB+		Cotizacion_dolarcosto_actual is a new item
+Comparativa	Cotizacion_dolarcosto_aanterior	RUB+		Cotizacion_dolarcosto_aanterior is a new item
+Comparativa	Cotizacion_dolarcosto_antiguo	RUB+		Cotizacion_dolarcosto_antiguo is a new item

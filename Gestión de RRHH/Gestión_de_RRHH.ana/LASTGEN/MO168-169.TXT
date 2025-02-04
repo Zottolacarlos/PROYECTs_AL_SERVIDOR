@@ -1,0 +1,7 @@
+//MO168-169.TXT ANA00168 TO ANA00169
+Capacitaciones		NFI		new file
+Capacitaciones_Integrantes		NFI		new file
+Capacitaciones_Archivos		NFI		new file
+Constraint_Capacitaciones_Capacitaciones_Archivos		NWL	Capacitaciones (CapacitacionesID) and Capacitaciones_Archivos (CapacitacionesID)	New link between Capacitaciones (CapacitacionesID) and Capacitaciones_Archivos (CapacitacionesID) files
+Constraint_Capacitaciones_Capacitaciones_Integrantes		NWL	Capacitaciones (CapacitacionesID) and Capacitaciones_Integrantes (CapacitacionesID)	New link between Capacitaciones (CapacitacionesID) and Capacitaciones_Integrantes (CapacitacionesID) files
+Constraint_Personal_IMSA_rrhh_Capacitaciones_Integrantes		NWL	Personal_IMSA_rrhh (Legajo) and Capacitaciones_Integrantes (Legajo)	New link between Personal_IMSA_rrhh (Legajo) and Capacitaciones_Integrantes (Legajo) files

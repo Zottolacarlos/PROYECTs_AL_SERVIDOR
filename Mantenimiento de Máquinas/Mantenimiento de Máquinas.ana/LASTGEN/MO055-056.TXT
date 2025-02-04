@@ -1,0 +1,6 @@
+//MO055-056.TXT ANA00055 TO ANA00056
+Detalle_Preventivo		TAR	1324	new record size: 1324
+Detalle_Preventivo	Observaciones_inicial	TAI+	155	Observaciones_inicial item has been resized: 256 (instead of 101)
+Detalle_Preventivo	Observaciónes_final	TAI+	175	Observaciónes_final item has been resized: 256 (instead of 81)
+Detalle_Correctivo		TAR	649	new record size: 649
+Detalle_Correctivo	Motivo	TAI+	175	Motivo item has been resized: 301 (instead of 126)

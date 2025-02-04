@@ -1,0 +1,3 @@
+//MO159-160.TXT ANA00159 TO ANA00160
+Equilibrado_dinamico_datos		TAR	542	new record size: 542
+Equilibrado_dinamico_datos	Desbalanceo_Permitido	CNW	4-byte real$String	new type for Desbalanceo_Permitido item: 4-byte real

@@ -1,0 +1,8 @@
+//MO139-140.TXT ANA00139 TO ANA00140
+acc_corrct_respuestas		TAR	108	new record size: 108
+acc_corrct_respuestas	primer_xq	CNW	Text Memo$String	new type for primer_xq item: Text Memo
+acc_corrct_respuestas	Segundo_xq	CNW	Text Memo$String	new type for Segundo_xq item: Text Memo
+acc_corrct_respuestas	tercer_xq	CNW	Text Memo$String	new type for tercer_xq item: Text Memo
+acc_corrct_respuestas	cuarto_xq	CNW	Text Memo$String	new type for cuarto_xq item: Text Memo
+acc_corrct_respuestas	quinto_xq	CNW	Text Memo$String	new type for quinto_xq item: Text Memo
+acc_corrct_respuestas	Accion_largo_plazo	CNW	Text Memo$String	new type for Accion_largo_plazo item: Text Memo

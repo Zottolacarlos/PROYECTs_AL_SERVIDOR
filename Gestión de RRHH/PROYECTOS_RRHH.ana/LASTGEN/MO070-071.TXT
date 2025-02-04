@@ -1,0 +1,3 @@
+//MO070-071.TXT ANA00070 TO ANA00071
+Auditoria_Contratacion		TAR	190	new record size: 190
+Auditoria_Contratacion	PreseleccionadosID	RUB+		PreseleccionadosID is a new key

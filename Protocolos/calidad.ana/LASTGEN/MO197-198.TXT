@@ -1,0 +1,2 @@
+//MO197-198.TXT ANA00197 TO ANA00198
+Detalle_largo_plazo		NFI		new file

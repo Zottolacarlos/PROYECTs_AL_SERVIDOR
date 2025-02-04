@@ -1,0 +1,3 @@
+//MO215-216.TXT ANA00215 TO ANA00216
+acciones_correct		TAR	1091	new record size: 1091
+acciones_correct	Revisión_Direccion	CNW	String$4-byte unsigned integer	new type for Revisión_Direccion item: String

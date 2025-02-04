@@ -1,0 +1,3 @@
+//MO193-194.TXT ANA00193 TO ANA00194
+Pedido_de_Contratación		TAR	189	new record size: 189
+Pedido_de_Contratación	Fecha_Deseada	RUB+		Fecha_Deseada is a new item

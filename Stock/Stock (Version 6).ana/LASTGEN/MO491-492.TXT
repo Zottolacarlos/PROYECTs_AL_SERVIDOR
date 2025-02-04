@@ -1,0 +1,8 @@
+//MO491-492.TXT ANA00491 TO ANA00492
+Reclamo_Recepcion		TAR	73	new record size: 73
+Reclamo_Recepcion	Fecha_cierre	RUB+		Fecha_cierre is a new item
+Reclamo_Recepcion	Fecha_inicia	RUB+		Fecha_inicia is a new item
+Reclamo_Recepcion	Estado	RUB+		Estado is a new item
+Reclamo_Recepcion	Recepcion_de_Reposicion	RUB+		Recepcion_de_Reposicion is a new item
+Reclamo_Recepcion	Usuario_reclamando	RUB+		Usuario_reclamando is a new item
+Reclamo_Recepcion	Usuario_toma_reclamo	RUB+		Usuario_toma_reclamo is a new item

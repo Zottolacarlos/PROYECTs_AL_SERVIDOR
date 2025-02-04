@@ -1,0 +1,3 @@
+//MO116-117.TXT ANA00116 TO ANA00117
+Clasificacion_proveedores		TAR	33	new record size: 33
+Clasificacion_proveedores	año_control	RUB+		año_control is a new item

@@ -1,0 +1,3 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+actualiza_hs		TAR	128	new record size: 128
+actualiza_hs	justificación	RUB+		justificación is a new item

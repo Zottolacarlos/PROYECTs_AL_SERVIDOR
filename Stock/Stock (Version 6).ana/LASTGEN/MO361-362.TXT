@@ -1,0 +1,5 @@
+//MO361-362.TXT ANA00361 TO ANA00362
+Auditoria_eventos		TAR	614	new record size: 614
+Auditoria_eventos	Detalle	RUB+		Detalle is a new item
+Comparativa		TAR	889	new record size: 889
+Comparativa	Elem_Orden_de_Compra_ID	RUB+		Elem_Orden_de_Compra_ID is a new key

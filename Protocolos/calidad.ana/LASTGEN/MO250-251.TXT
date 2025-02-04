@@ -1,0 +1,3 @@
+//MO250-251.TXT ANA00250 TO ANA00251
+acciones_correct		TAR	1152	new record size: 1152
+acciones_correct	SectoresID	RUB+		SectoresID is a new key

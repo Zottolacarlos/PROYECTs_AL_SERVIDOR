@@ -1,0 +1,3 @@
+//MO058-059.TXT ANA00058 TO ANA00059
+Recepcion		TAR	223	new record size: 223
+Recepcion	Secuencia	RUB+		Secuencia is a new item

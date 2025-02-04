@@ -1,0 +1,5 @@
+//MO603-604.TXT ANA00603 TO ANA00604
+Control_Recep_Sector		TAR	128	new record size: 128
+Control_Recep_Sector	Cantidad_aprobada	RUB+		Cantidad_aprobada is a new item
+Control_Recep_Sector	Cantidad_desaprobada	RUB+		Cantidad_desaprobada is a new item
+Control_Recep_Sector	Cantidad_con_defectos	RUB+		Cantidad_con_defectos is a new item

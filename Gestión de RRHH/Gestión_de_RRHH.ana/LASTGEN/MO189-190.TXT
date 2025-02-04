@@ -1,0 +1,6 @@
+//MO189-190.TXT ANA00189 TO ANA00190
+Categoria_Operarios		TAR	147	new record size: 147
+Categoria_Operarios	Fecha_pedido	CNW	Date and Time (yyyymmddhhmmssccc)$Date (yyyymmdd)	new type for Fecha_pedido item: Date and Time (yyyymmddhhmmssc
+Categoria_Operarios	Fecha_aprobación	CNW	Date and Time (yyyymmddhhmmssccc)$Date (yyyymmdd)	new type for Fecha_aprobación item: Date and Time (yyyymmddhhmmssc
+Categoria_Operarios	Fecha_Visado	CNW	Date and Time (yyyymmddhhmmssccc)$Date (yyyymmdd)	new type for Fecha_Visado item: Date and Time (yyyymmddhhmmssc
+Categoria_Operarios	Fecha_Cambio	CNW	Date and Time (yyyymmddhhmmssccc)$Date (yyyymmdd)	new type for Fecha_Cambio item: Date and Time (yyyymmddhhmmssc
