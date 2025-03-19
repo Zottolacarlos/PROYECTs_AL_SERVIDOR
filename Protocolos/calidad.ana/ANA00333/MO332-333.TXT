@@ -1,3 +1,0 @@
-//MO332-333.TXT ANA00332 TO ANA00333
-Equil_dinam_temp_imp		TAR	825	new record size: 825
-Equil_dinam_temp_imp	Imagen_Equipo	RUB+		Imagen_Equipo is a new item

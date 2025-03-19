@@ -1,3 +1,0 @@
-//MO333-334.TXT ANA00333 TO ANA00334
-Protocolos_Prioridades		NFI		new file
-Constraint_PROTOCOLOS_Protocolos_Prioridades		NWL	PROTOCOLOS (Protocolo_Nro) and Protocolos_Prioridades (Protocolo_Nro)	New link between PROTOCOLOS (Protocolo_Nro) and Protocolos_Prioridades (Protocolo_Nro) files
