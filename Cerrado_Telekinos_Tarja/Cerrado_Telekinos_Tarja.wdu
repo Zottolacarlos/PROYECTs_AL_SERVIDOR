@@ -15,6 +15,7 @@ QRY_Buscar_factura.WDR
 QRY_Facturas_NOimpactadas.WDR
 QRY_Cotiza_xEstados.WDR
 QRY_Cotizac_Otras.WDR
+QRY_Procedimientos_Fabricacion.WDR
 Templates\WD\190 Gensteel\Gensteel.wdy
 Templates\WD\190 Gensteel\GENSTEEL_BANNER_BOTTOM.PNG
 Templates\WD\190 Gensteel\GENSTEEL_BANNER_TOP.PNG

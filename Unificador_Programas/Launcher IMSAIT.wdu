@@ -1,3 +1,5 @@
+Launcher IMSAIT.eu.emf
+Launcher IMSAITES.eu.emf
 Launcher IMSAIT.wdd
 WIN_Log_in.wdw
 TEMPLATES\WD\230 SPATIUMN\SPATIUMN_BTN_STD.PNG
@@ -73,6 +75,8 @@ QRY_Precarga_PAC.WDR
 QRY_acc_correc_pend_x_sector_Creada.WDR
 WIN_Permiso_Programas.wdw
 TEMPLATES\WD\220 MATERIAL DESIGN BLUE\MATERIAL DESIGN BLUE_CBOX.GIF
+WIN_Procesos_en_Prog_HsExtras.wdw
+TEMPLATES\WD\220 MATERIAL DESIGN BLUE\MATERIAL DESIGN BLUE_COMBO.PNG
 Templates\WD\220 Material Design Blue\Material Design Blue.wdy
 Templates\WD\220 Material Design Blue\MATERIAL DESIGN BLUE_BG_SHEET.PNG
 Templates\WD\220 Material Design Blue\MATERIAL DESIGN BLUE_BG_SHEET_5.PNG
@@ -89,7 +93,6 @@ Templates\WD\220 Material Design Blue\MATERIAL DESIGN BLUE_BTN_REMOVE.PNG
 Templates\WD\220 Material Design Blue\MATERIAL DESIGN BLUE_BTN_SYST_CLOSE.PNG
 Templates\WD\220 Material Design Blue\MATERIAL DESIGN BLUE_BTN_SYST_INCREASE.PNG
 Templates\WD\220 Material Design Blue\MATERIAL DESIGN BLUE_BTN_TOOL.PNG
-Templates\WD\220 Material Design Blue\MATERIAL DESIGN BLUE_COMBO.PNG
 Templates\WD\220 Material Design Blue\MATERIAL DESIGN BLUE_EDT-MULTI.PNG
 Templates\WD\220 Material Design Blue\MATERIAL DESIGN BLUE_FRAME.PNG
 Templates\WD\220 Material Design Blue\MATERIAL DESIGN BLUE_PICT_ADD_16_5.PNG
