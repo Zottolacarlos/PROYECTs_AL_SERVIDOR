@@ -1,4 +1,0 @@
-//MO667-668.TXT ANA00667 TO ANA00668
-Recursos		TAR	98	new record size: 98
-Recursos	Facturable	RUB+		Facturable is a new item
-Auditoria_Orden_Ejec		NFI		new file

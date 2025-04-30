@@ -1,3 +1,0 @@
-//MO668-669.TXT ANA00668 TO ANA00669
-Recursos		TAR	99	new record size: 99
-Recursos	Es_Hora_Extra	RUB+		Es_Hora_Extra is a new item
