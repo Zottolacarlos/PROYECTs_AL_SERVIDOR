@@ -1,0 +1,5 @@
+//MO671-672.TXT ANA00671 TO ANA00672
+Cotizaciones_NEW		TAR	590	new record size: 590
+Cotizaciones_NEW	Fecha_Cot_moneda	CNW	Date (yyyymmdd)$Currency	new type for Fecha_Cot_moneda item: Date (yyyymmdd)
+Auditoria_Planos		NFI		new file
+Constraint_Cotizaciones_Planos_Auditoria_Planos		NWL	Cotizaciones_Planos (Cotizaciones_PlanosID) and Auditoria_Planos (Cotizaciones_PlanosID)	New link between Cotizaciones_Planos (Cotizaciones_PlanosID) and Auditoria_Planos (Cotizaciones_PlanosID) files

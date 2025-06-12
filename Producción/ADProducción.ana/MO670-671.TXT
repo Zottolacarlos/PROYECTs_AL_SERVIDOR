@@ -1,0 +1,5 @@
+//MO670-671.TXT ANA00670 TO ANA00671
+Tarjetas		TAR	264	new record size: 264
+Tarjetas	Se_movio	RUB+		Se_movio is a new item
+Cotizaciones_Datos_EXTRA		TAR	189	new record size: 189
+Cotizaciones_Datos_EXTRA	Tipo_Dato	RUB+		Tipo_Dato is a new item

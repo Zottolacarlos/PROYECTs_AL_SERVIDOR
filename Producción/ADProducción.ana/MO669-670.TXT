@@ -1,0 +1,5 @@
+//MO669-670.TXT ANA00669 TO ANA00670
+Cotizaciones_NEW		TAR	591	new record size: 591
+Cotizaciones_NEW	Lleva_Hs_extras	RUB+		Lleva_Hs_extras is a new item
+Constraint_Remitos_Cliente_Elem_Remito_Cliente		NWL	Remitos_Cliente (Remitos_ClienteID) and Elem_Remito_Cliente (Remitos_ClienteID)	New link between Remitos_Cliente (Remitos_ClienteID) and Elem_Remito_Cliente (Remitos_ClienteID) files
+Constraint_Remitos_Cliente_Elem_Remito_Cliente		DEL	Remitos_Cliente (Remitos_ClienteID) and Elem_Remito_Cliente (Remitos_ClienteID)	Link deleted between Remitos_Cliente (Remitos_ClienteID) and Elem_Remito_Cliente (Remitos_ClienteID) files

@@ -1,0 +1,3 @@
+//MO672-673.TXT ANA00672 TO ANA00673
+Auditoria_Planos		REP*	W:\BD\PRODUCCION	new directory W:\BD\PRODUCCION
+Auditoria_Planos		FRN		
