@@ -1,3 +1,7 @@
-//MO673-674.TXT ANA00673 TO ANA00674
-Presupuestos_NEW		TAR	262	new record size: 262
-Presupuestos_NEW	Pieza_unificada	RUB+		Pieza_unificada is a new item
+//MO674-675.TXT ANA00674 TO ANA00675
+Trabajos_Interno_Planos		NFI		new file
+Auditoria_Planos		FIC-	Auditoria_Planos	Auditoria_Planos file deleted
+Constraint_Trabajos_Interno_Planos_Trabajo_Interno_IMSA		LMN	Constraint_Cotizaciones_Planos_Auditoria_Planos	
+Constraint_Trabajos_Interno_Planos_Trabajo_Interno_IMSA		LMF	Trabajo_Interno_IMSA$Cotizaciones_Planos	
+Constraint_Trabajos_Interno_Planos_Trabajo_Interno_IMSA		LMF	Trabajos_Interno_Planos$Auditoria_Planos	
+Trabajos_Interno_Planos		FRN		

@@ -352,6 +352,7 @@ QRY_Cotiza_Sin_Firmar.WDR
 RPT_Cotizacion_cliente_2.wde
 QRY_Indicadores_Plazo.WDR
 QRY_Proced_Fabr_x_Recursos.WDR
+QRY_Planos_consulta.WDR
 Producción.wdy
 Templates\WD\170 AquaBlue\AquaBlue.wdy
 Templates\WD\170 AquaBlue\AQUABLUE_BANNER_BOTTOM.PNG
