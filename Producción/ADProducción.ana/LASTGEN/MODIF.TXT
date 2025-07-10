@@ -1,7 +1,3 @@
-//MO674-675.TXT ANA00674 TO ANA00675
-Trabajos_Interno_Planos		NFI		new file
-Auditoria_Planos		FIC-	Auditoria_Planos	Auditoria_Planos file deleted
-Constraint_Trabajos_Interno_Planos_Trabajo_Interno_IMSA		LMN	Constraint_Cotizaciones_Planos_Auditoria_Planos	
-Constraint_Trabajos_Interno_Planos_Trabajo_Interno_IMSA		LMF	Trabajo_Interno_IMSA$Cotizaciones_Planos	
-Constraint_Trabajos_Interno_Planos_Trabajo_Interno_IMSA		LMF	Trabajos_Interno_Planos$Auditoria_Planos	
-Trabajos_Interno_Planos		FRN		
+//MO675-676.TXT ANA00675 TO ANA00676
+Cliente		TAR	598	new record size: 598
+Cliente	Datos_para_Envio	RUB+		Datos_para_Envio is a new item
