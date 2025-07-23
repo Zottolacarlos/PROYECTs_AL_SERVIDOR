@@ -1,3 +1,3 @@
-//MO334-335.TXT ANA00334 TO ANA00335
-Protocolos_Prioridades		FIC-	Protocolos_Prioridades	Protocolos_Prioridades file deleted
-Constraint_PROTOCOLOS_Protocolos_Prioridades		DEL	PROTOCOLOS (Protocolo_Nro) and Protocolos_Prioridades (Protocolo_Nro)	Link deleted between PROTOCOLOS (Protocolo_Nro) and Protocolos_Prioridades (Protocolo_Nro) files
+//MO335-336.TXT ANA00335 TO ANA00336
+Cotizaciones_NEW		TAR	564	new record size: 564
+Cotizaciones_NEW	Fecha_Cot_moneda	CNW	Date (yyyymmdd)$Currency	new type for Fecha_Cot_moneda item: Date (yyyymmdd)
