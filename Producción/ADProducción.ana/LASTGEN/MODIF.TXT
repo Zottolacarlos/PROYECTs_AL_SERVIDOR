@@ -1,3 +1,1 @@
-//MO675-676.TXT ANA00675 TO ANA00676
-Cliente		TAR	598	new record size: 598
-Cliente	Datos_para_Envio	RUB+		Datos_para_Envio is a new item
+//MO676-677.TXT ANA00676 TO ANA00677

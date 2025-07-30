@@ -139,6 +139,7 @@ WIN_Instrumentos_deposito.wdw
 QRY_acc_correc_desde.WDR
 RPT_anexo_liberacion.wde
 LOGO IMSA.BMP
+W:\USUARIO\JGALLO\F\JGALLO.JPG
 QRY_anexo_liberacion_IMP.WDR
 Export_RPT_anexo_liberacion_Query.WDR
 WIN_acc_corrct_detalle_LPlazo.wdw
@@ -186,11 +187,13 @@ WIN_Protocolos_Metalizado_ABM.wdw
 WIN_acc_corrct_OFTEC.wdw
 WIN_acc_corrct_PopUp_Info.wdw
 WIN_Protocolos_Prioridades_Calidad.wdw
-WDFAA\WinDevMessageBox.wdw
+WIN_PROTOCOLOS_PopUp_Metalizado.wdw
+RPT_Metalizado.wde
+WDFAA\WinDevDialogBox.wdw
 WDFAA\WDMSGBOX-ERROR.GIF
 WDFAA\WDMSGBOX-INFO.GIF
 WDFAA\WDMSGBOX-QUESTION.GIF
-WDFAA\WinDevDialogBox.wdw
+WDFAA\WinDevMessageBox.wdw
 Gestión_de_Calidad.wdy
 Templates\WD\110 ActivVISTA\ActivVISTA.wdy
 Component_revision1_0k.wdk
