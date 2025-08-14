@@ -1,1 +1,3 @@
-//MO676-677.TXT ANA00676 TO ANA00677
+//MO677-678.TXT ANA00677 TO ANA00678
+Presup_Materiales		FIC-	Presup_Materiales	Presup_Materiales file deleted
+Constraint_Presupuestos_NEW_Presup_Materiales		DEL	Presupuestos_NEW (Nro_Presupuesto) and Presup_Materiales (Nro_Presupuesto)	Link deleted between Presupuestos_NEW (Nro_Presupuesto) and Presup_Materiales (Nro_Presupuesto) files
