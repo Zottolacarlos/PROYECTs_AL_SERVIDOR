@@ -1,11 +1,2 @@
-//MO338-339.TXT ANA00338 TO ANA00339
-Metalizado		TAR	427	new record size: 427
-Metalizado	Estado	RUB+		Estado is a new item
-Metalizado	Tarjeta_Nro	RUB+		Tarjeta_Nro is a new key
-Metalizado	Cotización	RUB+		Cotización is a new key
-Metalizado	ClienteID	RUB+		ClienteID is a new key
-Metalizado_TEMP_impr		NFI		new file
-Metalizado_temp_imp		FIC-	Metalizado_temp_imp	Metalizado_temp_imp file deleted
-Metalizado	Cotización	RRN		
-Metalizado_TEMP_impr	Observaciones	RRN		
-Metalizado_TEMP_impr	Cotización	RRN		
+//MO339-340.TXT ANA00339 TO ANA00340
+Presupuestos_NEW		NFI		new file
