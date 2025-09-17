@@ -1,3 +1,2 @@
-//MO206-207.TXT ANA00206 TO ANA00207
-Contratos_Aviso		NFI		new file
-Constraint_Contratos_Aviso_Contratos		NWL	Contratos (ContratosID) and Contratos_Aviso (ContratosID)	New link between Contratos (ContratosID) and Contratos_Aviso (ContratosID) files
+//MO205-206.TXT ANA00205 TO ANA00206
+Operarios		NFI		new file

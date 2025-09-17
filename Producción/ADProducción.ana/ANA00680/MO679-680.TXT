@@ -1,2 +1,0 @@
-//MO679-680.TXT ANA00679 TO ANA00680
-Cotizaciones_Planos	Nombre_PlanoCotizacionID	RUB+		Nombre_PlanoCotizacionID is a new key
