@@ -280,5 +280,6 @@ QRY_Clientes_Consulta.WDR
 QRY_RazonSocial_Consulta.WDR
 WIN_Buscar_Cliente_o_Proveedor.wdw
 QRY_consulta_rápida_proveedor.WDR
+QRY_Consulta_OC_gen.WDR
 Stock.wdy
 Templates\WD\110 Zune Style\Zune Style.wdy
