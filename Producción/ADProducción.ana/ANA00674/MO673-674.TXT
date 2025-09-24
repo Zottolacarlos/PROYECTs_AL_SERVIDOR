@@ -1,3 +1,0 @@
-//MO673-674.TXT ANA00673 TO ANA00674
-Presupuestos_NEW		TAR	262	new record size: 262
-Presupuestos_NEW	Pieza_unificada	RUB+		Pieza_unificada is a new item
