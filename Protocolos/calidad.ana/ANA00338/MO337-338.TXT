@@ -1,5 +1,0 @@
-//MO337-338.TXT ANA00337 TO ANA00338
-Metalizado		TAR	382	new record size: 382
-Metalizado	Imagen1	RUB+		Imagen1 is a new item
-Metalizado	Imagen2	RUB+		Imagen2 is a new item
-Metalizado	Imagen3	RUB+		Imagen3 is a new item

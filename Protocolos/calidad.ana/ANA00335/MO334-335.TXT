@@ -1,3 +1,0 @@
-//MO334-335.TXT ANA00334 TO ANA00335
-Protocolos_Prioridades		FIC-	Protocolos_Prioridades	Protocolos_Prioridades file deleted
-Constraint_PROTOCOLOS_Protocolos_Prioridades		DEL	PROTOCOLOS (Protocolo_Nro) and Protocolos_Prioridades (Protocolo_Nro)	Link deleted between PROTOCOLOS (Protocolo_Nro) and Protocolos_Prioridades (Protocolo_Nro) files

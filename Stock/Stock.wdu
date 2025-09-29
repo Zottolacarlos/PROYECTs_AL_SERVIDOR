@@ -121,7 +121,6 @@ WIN_ENTREGAS_DEVOLUCIONES.wdw
 WIN_abm_deposito.wdw
 QRY_comparativas.WDR
 RPT_Impresion_Remesa_deSalida.wde
-W:\SOFTWARE\IMSAIT\LOGO IMSA SIN TITULO.ICO
 RPT_Impresion_retiros_new.wde
 QRY_PM_aprob_xa_OC.WDR
 QRY_Retiro_x_supervisor.WDR
@@ -282,5 +281,6 @@ QRY_RazonSocial_Consulta.WDR
 WIN_Buscar_Cliente_o_Proveedor.wdw
 QRY_consulta_rápida_proveedor.WDR
 QRY_Consulta_OC_gen.WDR
+QRY_TopX_RetirosDeposito.WDR
 Stock.wdy
 Templates\WD\110 Zune Style\Zune Style.wdy

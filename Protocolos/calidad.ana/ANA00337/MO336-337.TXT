@@ -1,3 +1,0 @@
-//MO336-337.TXT ANA00336 TO ANA00337
-PROTOCOLOS		TAR	451	new record size: 451
-PROTOCOLOS	Legajo_Pide	RUB+		Legajo_Pide is a new key
