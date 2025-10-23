@@ -189,6 +189,7 @@ WIN_acc_corrct_PopUp_Info.wdw
 WIN_Protocolos_Prioridades_Calidad.wdw
 WIN_PROTOCOLOS_PopUp_Metalizado.wdw
 RPT_Metalizado.wde
+QRY_Instrumentos_Filtros.WDR
 WDFAA\WinDevDialogBox.wdw
 WDFAA\WDMSGBOX-ERROR.GIF
 WDFAA\WDMSGBOX-INFO.GIF
