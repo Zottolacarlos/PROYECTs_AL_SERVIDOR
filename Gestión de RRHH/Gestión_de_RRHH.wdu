@@ -127,6 +127,8 @@ QRY_Sector.WDR
 QRY_Capacitaciones_Consulta.WDR
 QRY_Consulta_Novedades.WDR
 QRY_Consulta_Bajas.WDR
+WIN_Contrataciones_ABM.wdw
+QRY_Auditoria_Personal_adminSIS.WDR
 Gestión_de_RRHH.wdy
 Templates\WD\230 Spatiumn\Spatiumn.wdy
 Templates\WD\230 Spatiumn\SPATIUMN_BANNER_BOTTOM.PNG
