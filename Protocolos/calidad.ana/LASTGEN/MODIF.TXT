@@ -1,2 +1,3 @@
-//MO339-340.TXT ANA00339 TO ANA00340
-Presupuestos_NEW		NFI		new file
+//MO340-341.TXT ANA00340 TO ANA00341
+Instrumentos		TAR	739	new record size: 739
+Instrumentos	Stock	RUB+		Stock is a new item
