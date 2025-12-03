@@ -1,0 +1,5 @@
+//MO346-347.TXT ANA00346 TO ANA00347
+Propuestas_Auditoria		TAR	45	new record size: 45
+Propuestas_Auditoria	Nro_Propuesta1	RUB+		Nro_Propuesta1 is a new key
+Constraint_Propuestas_Mejora_Propuestas_Auditoria		LMC	Propuestas_Mejora$Propuestas_MejoraID$Nro_Propuesta	
+Constraint_Propuestas_Mejora_Propuestas_Auditoria		LMC	Propuestas_Auditoria$Nro_Propuesta1$Nro_Propuesta	
