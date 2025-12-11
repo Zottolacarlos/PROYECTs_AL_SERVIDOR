@@ -1,0 +1,5 @@
+//MO796-797.TXT ANA00796 TO ANA00797
+Guia_deColada_retiro		NFI		new file
+Guia_de_Colada		NFI		new file
+Fundición_Trabajos		NFI		new file
+Constraint_Producto_Guia_deColada_retiro		NWL	Producto (ProductoID) and Guia_deColada_retiro (ProductoID)	New link between Producto (ProductoID) and Guia_deColada_retiro (ProductoID) files

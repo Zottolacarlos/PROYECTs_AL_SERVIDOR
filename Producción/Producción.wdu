@@ -358,6 +358,7 @@ QRY_Planos_consulta.WDR
 QRY_telekino_consulta_test.WDR
 RPT_Control_Presupuesto_DETALLE_NEW.wde
 QRY_TarjetasyRecursos.WDR
+QRY_stock_restante_supervisor.WDR
 Producción.wdy
 Templates\WD\170 AquaBlue\AquaBlue.wdy
 Templates\WD\170 AquaBlue\AQUABLUE_BANNER_BOTTOM.PNG
