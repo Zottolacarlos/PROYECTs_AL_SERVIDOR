@@ -196,11 +196,11 @@ TEMPLATES\WD\110 ACTIVVISTA\ACTIVVISTA_RADIO_ANIM.GIF
 WIN_mejoras_auditoria.wdw
 WIN_Mejoras_Incidentes.wdw
 COL_Mejoras.wdg
-WDFAA\WinDevDialogBox.wdw
+WDFAA\WinDevMessageBox.wdw
 WDFAA\WDMSGBOX-ERROR.GIF
 WDFAA\WDMSGBOX-INFO.GIF
 WDFAA\WDMSGBOX-QUESTION.GIF
-WDFAA\WinDevMessageBox.wdw
+WDFAA\WinDevDialogBox.wdw
 Gestión_de_Calidad.wdy
 Templates\WD\110 ActivVISTA\ActivVISTA.wdy
 Component_revision1_0k.wdk
