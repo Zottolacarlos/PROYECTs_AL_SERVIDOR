@@ -1,0 +1,3 @@
+//MO350-351.TXT ANA00350 TO ANA00351
+Propuestas_Mejora		TAR	333	new record size: 333
+Propuestas_Mejora	Revisión_Direccion	RUB+		Revisión_Direccion is a new item
