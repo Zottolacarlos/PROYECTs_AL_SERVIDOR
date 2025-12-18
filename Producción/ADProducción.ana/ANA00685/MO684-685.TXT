@@ -1,3 +1,0 @@
-//MO684-685.TXT ANA00684 TO ANA00685
-Stock_xa_Supervisores		NFI		new file
-Stock_xa_Supervisores_ProductoID_fkey		NWL	Producto (ProductoID) and Stock_xa_Supervisores (ProductoID)	New link between Producto (ProductoID) and Stock_xa_Supervisores (ProductoID) files

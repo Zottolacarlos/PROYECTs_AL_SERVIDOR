@@ -1,2 +1,0 @@
-//MO680-681.TXT ANA00680 TO ANA00681
-Cotizaciones_Actuadores		NFI		new file

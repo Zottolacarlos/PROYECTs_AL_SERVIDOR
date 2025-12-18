@@ -1,3 +1,0 @@
-//MO679-680.TXT ANA00679 TO ANA00680
-Procedimiento_Fabricacion		TAR	401	new record size: 401
-Procedimiento_Fabricacion	Disponible_Tarjeta	RUB+		Disponible_Tarjeta is a new item

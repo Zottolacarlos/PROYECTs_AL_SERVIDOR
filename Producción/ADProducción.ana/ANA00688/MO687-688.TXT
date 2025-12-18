@@ -1,9 +1,0 @@
-//MO687-688.TXT ANA00687 TO ANA00688
-Sectores_Puestos		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
-Sectores_Puestos		FCNX-	Servidor de BD C/S PRODUCCION	
-Tickets		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
-Tickets		FCNX-	Servidor de BD C/S PRODUCCION	
-Auditoría_Tickets		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
-Auditoría_Tickets		FCNX-	Servidor de BD C/S PRODUCCION	
-Tickets		FRN		
-Auditoría_Tickets		FRN		

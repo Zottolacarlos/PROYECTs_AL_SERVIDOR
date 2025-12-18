@@ -1,3 +1,0 @@
-//MO678-679.TXT ANA00678 TO ANA00679
-Datos_Presupuestos		TAR	363	new record size: 363
-Datos_Presupuestos	Obs_Demora	TAI+	205	Obs_Demora item has been resized: 256 (instead of 51)

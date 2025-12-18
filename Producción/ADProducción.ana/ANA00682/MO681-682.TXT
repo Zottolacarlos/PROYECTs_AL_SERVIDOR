@@ -1,4 +1,0 @@
-//MO681-682.TXT ANA00681 TO ANA00682
-Cotizaciones_Actuadores		TAR	351	new record size: 351
-Cotizaciones_Actuadores	CotizacionID	RUB+		CotizacionID is a new key
-Constraint_Cotizaciones_NEW_Cotizaciones_Actuadores		NWL	Cotizaciones_NEW (CotizacionID) and Cotizaciones_Actuadores (CotizacionID)	New link between Cotizaciones_NEW (CotizacionID) and Cotizaciones_Actuadores (CotizacionID) files

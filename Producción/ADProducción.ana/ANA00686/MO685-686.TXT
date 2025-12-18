@@ -1,3 +1,0 @@
-//MO685-686.TXT ANA00685 TO ANA00686
-Guia_deColada_retiro		NFI		new file
-Guia_deColada_retiro		FIC-	Guia_deColada_retiro	Guia_deColada_retiro file deleted
