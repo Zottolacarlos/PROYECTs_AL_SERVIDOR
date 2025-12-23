@@ -1,2 +1,3 @@
-//MO688-689.TXT ANA00688 TO ANA00689
-Sectores_Puestos		REP*	W:\BD\RRHH	new directory W:\BD\RRHH
+//MO689-690.TXT ANA00689 TO ANA00690
+Tarja_Operarios		NFI		new file
+Tarja		FIC-	Tarja	Tarja file deleted
