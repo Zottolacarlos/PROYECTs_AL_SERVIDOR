@@ -1,6 +1,0 @@
-//MO353-354.TXT ANA00353 TO ANA00354
-Propuestas_votos		TAR	64	new record size: 64
-Propuestas_votos	Voto	RUB+		Voto is a new item
-Propuestas_votos	Propuestas_tiposVotoID	RUB-		key Propuestas_tiposVotoID deleted
-Propuestas_tiposVoto		FIC-	Propuestas_tiposVoto	Propuestas_tiposVoto file deleted
-Constraint_Propuestas_votos_Propuestas_tiposVoto		DEL	Propuestas_tiposVoto (Propuestas_tiposVotoID) and Propuestas_votos (Propuestas_tiposVotoID)	Link deleted between Propuestas_tiposVoto (Propuestas_tiposVotoID) and Propuestas_votos (Propuestas_tiposVotoID) files

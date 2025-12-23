@@ -1,5 +1,0 @@
-//MO344-345.TXT ANA00344 TO ANA00345
-Propuestas_Mejora		TAR	63	new record size: 63
-Propuestas_Mejora	Nro_Propuesta	CNW	2-byte unsigned integer$String	new type for Nro_Propuesta item: 2-byte unsigned integer
-Propuestas_Auditoria		TAR	37	new record size: 37
-Propuestas_Auditoria	Nro_Propuesta	CNW	2-byte unsigned integer$String	new type for Nro_Propuesta item: 2-byte unsigned integer

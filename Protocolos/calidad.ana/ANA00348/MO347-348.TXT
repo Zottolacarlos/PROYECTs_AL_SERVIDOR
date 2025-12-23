@@ -1,7 +1,0 @@
-//MO347-348.TXT ANA00347 TO ANA00348
-Propuestas_Auditoria		TAR	43	new record size: 43
-Propuestas_Auditoria	Propuestas_MejoraID	RUB+		Propuestas_MejoraID is a new key
-Propuestas_Auditoria	Nro_Propuesta	RUB-		key Nro_Propuesta deleted
-Propuestas_Auditoria	Nro_Propuesta1	RUB-		key Nro_Propuesta1 deleted
-Constraint_Propuestas_Mejora_Propuestas_Auditoria		NWL	Propuestas_Mejora (Propuestas_MejoraID) and Propuestas_Auditoria (Propuestas_MejoraID)	New link between Propuestas_Mejora (Propuestas_MejoraID) and Propuestas_Auditoria (Propuestas_MejoraID) files
-Constraint_Propuestas_Mejora_Propuestas_Auditoria		DEL	Propuestas_Mejora (Propuestas_MejoraID) and Propuestas_Auditoria (Nro_Propuesta1)	Link deleted between Propuestas_Mejora (Propuestas_MejoraID) and Propuestas_Auditoria (Nro_Propuesta1) files

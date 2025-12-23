@@ -1,3 +1,0 @@
-//MO340-341.TXT ANA00340 TO ANA00341
-Instrumentos		TAR	739	new record size: 739
-Instrumentos	Stock	RUB+		Stock is a new item

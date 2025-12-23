@@ -1,3 +1,0 @@
-//MO354-355.TXT ANA00354 TO ANA00355
-Propuestas_Mejora		TAR	366	new record size: 366
-Propuestas_Mejora	Decision	RUB+		Decision is a new item

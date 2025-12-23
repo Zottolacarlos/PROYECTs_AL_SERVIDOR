@@ -1,7 +1,0 @@
-//MO352-353.TXT ANA00352 TO ANA00353
-Propuestas_votos		TAR	51	new record size: 51
-Propuestas_votos	Propuestas_MejoraID	RUB+		Propuestas_MejoraID is a new key
-Propuestas_votos	Propuestas_tiposVotoID	RUB+		Propuestas_tiposVotoID is a new key
-Propuestas_tiposVoto		NFI		new file
-Constraint_Propuestas_Mejora_Propuestas_votos		NWL	Propuestas_Mejora (Propuestas_MejoraID) and Propuestas_votos (Propuestas_MejoraID)	New link between Propuestas_Mejora (Propuestas_MejoraID) and Propuestas_votos (Propuestas_MejoraID) files
-Constraint_Propuestas_votos_Propuestas_tiposVoto		NWL	Propuestas_tiposVoto (Propuestas_tiposVotoID) and Propuestas_votos (Propuestas_tiposVotoID)	New link between Propuestas_tiposVoto (Propuestas_tiposVotoID) and Propuestas_votos (Propuestas_tiposVotoID) files

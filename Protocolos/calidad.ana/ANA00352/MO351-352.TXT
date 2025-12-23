@@ -1,4 +1,0 @@
-//MO351-352.TXT ANA00351 TO ANA00352
-Propuestas_Mejora		TAR	334	new record size: 334
-Propuestas_Mejora	votos_necesarios	RUB+		votos_necesarios is a new item
-Propuestas_votos		NFI		new file

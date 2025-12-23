@@ -1,5 +1,0 @@
-//MO348-349.TXT ANA00348 TO ANA00349
-Propuestas_Archivos		NFI		new file
-PROTOCOLOS	Protocolo_Nro	RRM		
-PROTOCOLOS	Cliente	RRM		
-PROTOCOLOS	Fecha_del_control	RRM		

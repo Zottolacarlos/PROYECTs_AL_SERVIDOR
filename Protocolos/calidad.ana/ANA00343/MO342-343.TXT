@@ -1,8 +1,0 @@
-//MO342-343.TXT ANA00342 TO ANA00343
-Propuestas_Mejora		TAR	84	new record size: 84
-Propuestas_Mejora	Nro_Propuesta	CNW	String$4-byte unsigned integer	new type for Nro_Propuesta item: String
-Propuestas_Mejora	EstadoPropID	RUB+		EstadoPropID is a new key
-Propuestas_Estados		NFI		new file
-Propuestas_Auditoria		NFI		new file
-Constraint_Propuestas_Mejora_Propuestas_Auditoria		NWL	Propuestas_Mejora (Nro_Propuesta) and Propuestas_Auditoria (Nro_Propuesta)	New link between Propuestas_Mejora (Nro_Propuesta) and Propuestas_Auditoria (Nro_Propuesta) files
-Constraint_Propuestas_Mejora_Propuestas_Estados		NWL	Propuestas_Estados (EstadoPropID) and Propuestas_Mejora (EstadoPropID)	New link between Propuestas_Estados (EstadoPropID) and Propuestas_Mejora (EstadoPropID) files

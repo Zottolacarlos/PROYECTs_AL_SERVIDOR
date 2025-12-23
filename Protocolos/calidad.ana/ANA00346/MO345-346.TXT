@@ -1,4 +1,0 @@
-//MO345-346.TXT ANA00345 TO ANA00346
-Propuestas_Mejora		TAR	327	new record size: 327
-Propuestas_Mejora	Titulo	RUB+		Titulo is a new item
-Propuestas_Mejora	Objetivo	RUB+		Objetivo is a new item

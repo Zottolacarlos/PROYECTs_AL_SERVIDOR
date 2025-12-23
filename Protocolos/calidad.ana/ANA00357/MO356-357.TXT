@@ -1,3 +1,0 @@
-//MO356-357.TXT ANA00356 TO ANA00357
-Propuestas_Mejora		TAR	368	new record size: 368
-Propuestas_Mejora	Legajo_responsable	RUB+		Legajo_responsable is a new key

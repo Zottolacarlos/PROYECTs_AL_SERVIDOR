@@ -1,4 +1,0 @@
-//MO349-350.TXT ANA00349 TO ANA00350
-Propuestas_Archivos		TAR	143	new record size: 143
-Propuestas_Archivos	Propuestas_MejoraID	RUB+		Propuestas_MejoraID is a new key
-Constraint_Propuestas_Mejora_Propuestas_Archivos		NWL	Propuestas_Mejora (Propuestas_MejoraID) and Propuestas_Archivos (Propuestas_MejoraID)	New link between Propuestas_Mejora (Propuestas_MejoraID) and Propuestas_Archivos (Propuestas_MejoraID) files
