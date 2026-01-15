@@ -282,6 +282,6 @@ WIN_Buscar_Cliente_o_Proveedor.wdw
 QRY_consulta_rápida_proveedor.WDR
 QRY_Consulta_OC_gen.WDR
 QRY_TopX_RetirosDeposito.WDR
-WIN_Win_PopUp_Retiros.wdw
+WIN_PopUp_Retiros.wdw
 Stock.wdy
 Templates\WD\110 Zune Style\Zune Style.wdy

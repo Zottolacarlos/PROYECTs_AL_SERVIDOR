@@ -55,12 +55,11 @@ WIN_PopUp_Mantenimientos.wdw
 WIN_Principal_TODOS.wdw
 SELECT_PURESPRING.PNG
 WIN_Proyectos_ABM.wdw
-QRY_Consulta_Ticket_EXT.WDR
 QRY_Consulta_Mantenimientos.WDR
 WIN_SISTEMA_ADMIN.wdw
 WIN_Insumos.wdw
 WIN_PopUp_Avisos.wdw
-QRY_Consulta_Ticket_EXT_old.WDR
+QRY_Consulta_Ticket_EXT1.WDR
 Tecnología_dela_Información.wdy
 Templates\WD\210 Blueberries\Blueberries.wdy
 Templates\WD\210 Blueberries\BLUEBERRIES_BG_SHEET_5.PNG
