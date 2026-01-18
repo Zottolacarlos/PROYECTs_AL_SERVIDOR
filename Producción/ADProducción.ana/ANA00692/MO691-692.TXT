@@ -1,3 +1,0 @@
-//MO691-692.TXT ANA00691 TO ANA00692
-Tarjetas		TAR	266	new record size: 266
-Tarjetas	Cantidad_Tarjeta	RUB+		Cantidad_Tarjeta is a new item
