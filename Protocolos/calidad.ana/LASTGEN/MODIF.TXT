@@ -1,7 +1,4 @@
-//MO360-361.TXT ANA00360 TO ANA00361
-Maquina		RPP		program directory
-Maquina		BASE		File base changed from HFSQL Classic to HFSQL Client/Server
-Maquina		FCNX+	Connection to MANTENIMIENTO '175.1.1.5'	
-Connection to '175.1.1.5'		CNX		
-Connection to PROTOCOLOS '175.1.1.5'		CNX		
-Connection to MANTENIMIENTO '175.1.1.5'		CNX+		
+//MO361-362.TXT ANA00361 TO ANA00362
+acciones_correct		TAR	1352	new record size: 1352
+acciones_correct	Fecha_Verif_Eficacia	RUB+		Fecha_Verif_Eficacia is a new item
+acciones_correct	Eficacia_Justificacion	RUB+		Eficacia_Justificacion is a new item
