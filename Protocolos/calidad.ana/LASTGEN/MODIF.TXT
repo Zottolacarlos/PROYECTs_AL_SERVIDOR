@@ -1,4 +1,6 @@
-//MO361-362.TXT ANA00361 TO ANA00362
-acciones_correct		TAR	1352	new record size: 1352
-acciones_correct	Fecha_Verif_Eficacia	RUB+		Fecha_Verif_Eficacia is a new item
-acciones_correct	Eficacia_Justificacion	RUB+		Eficacia_Justificacion is a new item
+//MO362-363.TXT ANA00362 TO ANA00363
+Propuestas_Mejora		TAR	372	new record size: 372
+Propuestas_Mejora	Nro_Propuesta	CNW	String$2-byte unsigned integer	new type for Nro_Propuesta item: String
+Propuestas_Tareas_PdeT	Propuesta_MejoraID	RUB+		Propuesta_MejoraID is a new key
+Propuestas_Tareas_PdeT	Nro_Propuesta	RUB-		key Nro_Propuesta deleted
+Constraint_Propuestas_Mejora_Propuestas_Tareas_PdeT		LMC	Propuestas_Tareas_PdeT$Propuesta_MejoraID$Nro_Propuesta	
