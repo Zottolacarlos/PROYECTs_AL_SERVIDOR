@@ -1,2 +1,7 @@
-//MO205-206.TXT ANA00205 TO ANA00206
-Operarios		NFI		new file
+//MO208-209.TXT ANA00208 TO ANA00209
+Maquina		RPP		program directory
+Maquina		BASE		File base changed from HFSQL Classic to HFSQL Client/Server
+Maquina		FCNX+	Connection to '175.1.1.5'	
+Permiso_Uso_Programas		FIC-	Permiso_Uso_Programas	Permiso_Uso_Programas file deleted
+Connection to '175.1.1.5'		CNX+		
+Maquina		FRN		
