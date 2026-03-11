@@ -1,0 +1,4 @@
+//MO082-083.TXT ANA00082 TO ANA00083
+Operarios		NFI		new file
+Operarios		FIC-	Operarios	Operarios file deleted
+Operarios		FRN		
