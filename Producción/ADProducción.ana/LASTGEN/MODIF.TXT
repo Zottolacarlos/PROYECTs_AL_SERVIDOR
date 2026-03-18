@@ -1,3 +1,2 @@
-//MO698-699.TXT ANA00698 TO ANA00699
-Tarjetas_Prioridad		NFI		new file
-Constraint_Tarjetas_Tarjetas_Prioridad		NWL	Tarjetas (Nro_Tarjeta) and Tarjetas_Prioridad (Nro_Tarjeta)	New link between Tarjetas (Nro_Tarjeta) and Tarjetas_Prioridad (Nro_Tarjeta) files
+//MO699-700.TXT ANA00699 TO ANA00700
+Tarjetas_Prioridad_Auditoria		NFI		new file
