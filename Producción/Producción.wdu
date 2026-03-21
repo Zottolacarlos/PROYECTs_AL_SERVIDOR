@@ -380,6 +380,7 @@ WIN_PopUp_Prioridades.wdw
 ..\PROTOCOLOS\TEMPLATES\WD\110 ACTIVVISTA\BTN_SAVE.GIF
 ..\PROTOCOLOS\TEMPLATES\WD\110 ACTIVVISTA\RESIZE_ACTIVVISTA.GIF
 QRY_Consulta_Presup_Informes_prod.WDR
+QRY_TarjetaporNumero.WDR
 Producción.wdy
 Templates\WD\170 AquaBlue\AquaBlue.wdy
 Templates\WD\170 AquaBlue\AQUABLUE_BANNER_BOTTOM.PNG
