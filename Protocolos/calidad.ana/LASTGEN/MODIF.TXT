@@ -1,5 +1,7 @@
-//MO367-368.TXT ANA00367 TO ANA00368
-Tarjetas		NFI		new file
-Tarjetas		FIC-	Tarjetas	Tarjetas file deleted
-Constraint_Presupuestos_NEW_Tarjetas		NWL	Presupuestos_NEW (Nro_Presupuesto) and Tarjetas (Nro_Presupuesto)	New link between Presupuestos_NEW (Nro_Presupuesto) and Tarjetas (Nro_Presupuesto) files
-Constraint_Tarjetas_Tarjetas_Prioridad		DEL	Tarjetas (Nro_Tarjeta) and Tarjetas_Prioridad (Nro_Tarjeta)	Link deleted between Tarjetas (Nro_Tarjeta) and Tarjetas_Prioridad (Nro_Tarjeta) files
+//MO368-369.TXT ANA00368 TO ANA00369
+Tarjetas_Prioridad		FCNX+	Connection to '175.1.1.5'	
+Tarjetas_Prioridad_Auditoria		FCNX+	Connection to '175.1.1.5'	
+Tarjetas		FCNX+	Connection to '175.1.1.5'	
+Tarjetas_Prioridad		FRN		
+Tarjetas_Prioridad_Auditoria		FRN		
+Tarjetas		FRN		
