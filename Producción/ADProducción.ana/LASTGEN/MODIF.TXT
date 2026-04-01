@@ -1,4 +1,3 @@
-//MO702-703.TXT ANA00702 TO ANA00703
-PROTOCOLOS		NFI		new file
-PROTOCOLOS		FIC-	PROTOCOLOS	PROTOCOLOS file deleted
-Connection to '100.95.199.14'		CNX+		
+//MO703-704.TXT ANA00703 TO ANA00704
+PROTOCOLOS		FCNX+	Conexion a la base de datos de protocolos en 175.1.1.5	
+Conexion a la base de datos de protocolos en 175.1.1.5		CNX		

@@ -1,7 +1,3 @@
-//MO368-369.TXT ANA00368 TO ANA00369
-Tarjetas_Prioridad		FCNX+	Connection to '175.1.1.5'	
-Tarjetas_Prioridad_Auditoria		FCNX+	Connection to '175.1.1.5'	
-Tarjetas		FCNX+	Connection to '175.1.1.5'	
-Tarjetas_Prioridad		FRN		
-Tarjetas_Prioridad_Auditoria		FRN		
-Tarjetas		FRN		
+//MO369-370.TXT ANA00369 TO ANA00370
+Ordenes_de_Fabricación		NFI		new file
+Constraint_Presupuestos_NEW_Ordenes_de_Fabricación		NWL	Presupuestos_NEW (Nro_Presupuesto) and Ordenes_de_Fabricación (Nro_Presupuesto)	New link between Presupuestos_NEW (Nro_Presupuesto) and Ordenes_de_Fabricación (Nro_Presupuesto) files
