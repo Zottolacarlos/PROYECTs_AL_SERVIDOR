@@ -1,3 +1,3 @@
-//MO704-705.TXT ANA00704 TO ANA00705
-acciones_correct		NFI		new file
-acciones_correct		FIC-	acciones_correct	acciones_correct file deleted
+//MO705-706.TXT ANA00705 TO ANA00706
+acciones_correct		FCNX+	Conexion a la base de datos de protocolos en 175.1.1.5	
+acciones_correct		FRN		
