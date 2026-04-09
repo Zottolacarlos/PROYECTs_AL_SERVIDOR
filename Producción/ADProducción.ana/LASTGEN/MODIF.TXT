@@ -1,3 +1,2 @@
-//MO705-706.TXT ANA00705 TO ANA00706
-acciones_correct		FCNX+	Conexion a la base de datos de protocolos en 175.1.1.5	
-acciones_correct		FRN		
+//MO706-707.TXT ANA00706 TO ANA00707
+Auditoria_Estados_Cot		NFI		new file
