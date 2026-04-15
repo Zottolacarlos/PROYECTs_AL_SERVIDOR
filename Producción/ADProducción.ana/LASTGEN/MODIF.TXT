@@ -1,2 +1,22 @@
-//MO706-707.TXT ANA00706 TO ANA00707
-Auditoria_Estados_Cot		NFI		new file
+//MO707-708.TXT ANA00707 TO ANA00708
+Producto		FCNX+	Connection to '175.1.1.6'	
+clientes		FCNX+	Connection to '175.1.1.6'	
+clientes_cuentasclientes		FCNX+	Connection to '175.1.1.6'	
+cuentasclientes		FCNX+	Connection to '175.1.1.6'	
+cotizaciones		FCNX+	Connection to '175.1.1.6'	
+Precios_deReferencia		FCNX+	Connection to '175.1.1.6'	
+articulos		FCNX+	Connection to '175.1.1.6'	
+presupuestos_articulos		FCNX+	Connection to '175.1.1.6'	
+Auditoria_Stock		FCNX+	Connection to '175.1.1.6'	
+presupuestos		FCNX+	Connection to '175.1.1.6'	
+presupuestos_recursos		FCNX+	Connection to '175.1.1.6'	
+procedimientos		FCNX+	Connection to '175.1.1.6'	
+Auditoria_eventos		FCNX+	Connection to '175.1.1.6'	
+Elem_del_Pedido		FCNX+	Connection to '175.1.1.6'	
+Incidentes		FCNX+	Connection to '175.1.1.6'	
+Pedido		FCNX+	Connection to '175.1.1.6'	
+Archivos_de_Pedidos		FCNX+	Connection to '175.1.1.6'	
+facturacion_remitos		FCNX+	Connection to '175.1.1.6'	
+Guia_deColada_retiro		FCNX+	Connection to '175.1.1.6'	
+Stock_xa_Supervisores		FCNX+	Connection to '175.1.1.6'	
+Connection to '175.1.1.6'		CNX+		

@@ -1,3 +1,1 @@
-//MO370-371.TXT ANA00370 TO ANA00371
-Ordenes_de_Fabricación		FCNX+	Connection to '175.1.1.5'	
-Ordenes_de_Fabricación		FRN		
+//MO371-372.TXT ANA00371 TO ANA00372
