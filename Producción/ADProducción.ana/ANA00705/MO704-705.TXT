@@ -1,3 +1,0 @@
-//MO704-705.TXT ANA00704 TO ANA00705
-acciones_correct		NFI		new file
-acciones_correct		FIC-	acciones_correct	acciones_correct file deleted

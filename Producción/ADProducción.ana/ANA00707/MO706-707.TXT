@@ -1,2 +1,0 @@
-//MO706-707.TXT ANA00706 TO ANA00707
-Auditoria_Estados_Cot		NFI		new file

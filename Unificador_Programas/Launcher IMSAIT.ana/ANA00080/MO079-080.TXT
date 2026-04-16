@@ -1,9 +1,0 @@
-//MO079-080.TXT ANA00079 TO ANA00080
-conectados_rrhh		FIC-	conectados_rrhh	conectados_rrhh file deleted
-conectados_cdr		FIC-	conectados_cdr	conectados_cdr file deleted
-conectados_manten		FIC-	conectados_manten	conectados_manten file deleted
-conectados_calidad		FIC-	conectados_calidad	conectados_calidad file deleted
-conectados_produc		FIC-	conectados_produc	conectados_produc file deleted
-conectados_stock		FIC-	conectados_stock	conectados_stock file deleted
-conectados_telek		FIC-	conectados_telek	conectados_telek file deleted
-conectados_tecno		FIC-	conectados_tecno	conectados_tecno file deleted

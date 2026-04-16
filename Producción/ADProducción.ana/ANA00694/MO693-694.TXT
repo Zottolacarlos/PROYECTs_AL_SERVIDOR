@@ -1,9 +1,0 @@
-//MO693-694.TXT ANA00693 TO ANA00694
-Maquina		RPP		program directory
-Maquina		BASE		File base changed from HFSQL Classic to HFSQL Client/Server
-Maquina		FCNX+	Connection to MANTENIMIENTO '175.1.1.5'	
-Detalle_Correctivo		BASE		File base changed from HFSQL Classic to HFSQL Client/Server
-Detalle_Correctivo		FCNX+	Connection to MANTENIMIENTO '175.1.1.5'	
-Servidor de BD C/S PRODUCCION		CNX		
-Conexion a la base de datos de protocolos en 175.1.1.5		CNX		
-Connection to MANTENIMIENTO '175.1.1.5'		CNX+		

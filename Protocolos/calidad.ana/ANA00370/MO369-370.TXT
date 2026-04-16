@@ -1,3 +1,0 @@
-//MO369-370.TXT ANA00369 TO ANA00370
-Ordenes_de_Fabricación		NFI		new file
-Constraint_Presupuestos_NEW_Ordenes_de_Fabricación		NWL	Presupuestos_NEW (Nro_Presupuesto) and Ordenes_de_Fabricación (Nro_Presupuesto)	New link between Presupuestos_NEW (Nro_Presupuesto) and Ordenes_de_Fabricación (Nro_Presupuesto) files

@@ -1,2 +1,0 @@
-//MO800-801.TXT ANA00800 TO ANA00801
-Connection to '175.1.1.5'		CNX		

@@ -1,6 +1,0 @@
-//MO801-802.TXT ANA00801 TO ANA00802
-Maquina		RPP		program directory
-Maquina		BASE		File base changed from HFSQL Classic to HFSQL Client/Server
-Maquina		FCNX+	Connection to MANTENIMIENTO '175.1.1.5'	
-Connection to '175.1.1.5'		CNX		
-Connection to MANTENIMIENTO '175.1.1.5'		CNX+		

@@ -1,3 +1,0 @@
-//MO383-384.TXT ANA00383 TO ANA00384
-Detalle_Preventivo		TAR	476	new record size: 476
-Detalle_Preventivo	explicacion_porcentual	RUB+		explicacion_porcentual is a new item

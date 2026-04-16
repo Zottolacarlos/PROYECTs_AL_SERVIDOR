@@ -1,4 +1,0 @@
-//MO361-362.TXT ANA00361 TO ANA00362
-acciones_correct		TAR	1352	new record size: 1352
-acciones_correct	Fecha_Verif_Eficacia	RUB+		Fecha_Verif_Eficacia is a new item
-acciones_correct	Eficacia_Justificacion	RUB+		Eficacia_Justificacion is a new item

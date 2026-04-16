@@ -1,3 +1,0 @@
-//MO363-364.TXT ANA00363 TO ANA00364
-acciones_correct		TAR	1363	new record size: 1363
-acciones_correct	Fue_Eficaz	RUB+		Fue_Eficaz is a new item

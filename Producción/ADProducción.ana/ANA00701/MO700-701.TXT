@@ -1,6 +1,0 @@
-//MO700-701.TXT ANA00700 TO ANA00701
-Tickets		BASE		File base changed from HFSQL Classic to HFSQL Client/Server
-Tickets		FCNX+	Connection to '175.1.1.5'	
-Auditoría_Tickets		BASE		File base changed from HFSQL Classic to HFSQL Client/Server
-Auditoría_Tickets		FCNX+	Connection to '175.1.1.5'	
-Connection to '175.1.1.5'		CNX+		

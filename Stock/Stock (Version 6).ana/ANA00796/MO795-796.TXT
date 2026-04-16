@@ -1,3 +1,0 @@
-//MO795-796.TXT ANA00795 TO ANA00796
-Cotizaciones_NEW		TAR	564	new record size: 564
-Cotizaciones_NEW	Fecha_Cot_moneda	CNW	Date (yyyymmdd)$Currency	new type for Fecha_Cot_moneda item: Date (yyyymmdd)

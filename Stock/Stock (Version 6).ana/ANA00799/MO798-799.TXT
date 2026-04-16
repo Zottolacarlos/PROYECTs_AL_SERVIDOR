@@ -1,5 +1,0 @@
-//MO798-799.TXT ANA00798 TO ANA00799
-Guia_deColada_retiro		TAR	34	new record size: 34
-Guia_deColada_retiro	Guia_de_ColadaID	RUB+		Guia_de_ColadaID is a new key
-Guia_deColada_retiro	Nro_Colada1	RUB-		item Nro_Colada1 deleted
-Guia_deColada_retiro	Nro_Colada2	RUB-		item Nro_Colada2 deleted

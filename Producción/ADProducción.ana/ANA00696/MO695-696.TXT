@@ -1,3 +1,0 @@
-//MO695-696.TXT ANA00695 TO ANA00696
-Tarjetas		TAR	267	new record size: 267
-Tarjetas	Prioridad	RUB+		Prioridad is a new item

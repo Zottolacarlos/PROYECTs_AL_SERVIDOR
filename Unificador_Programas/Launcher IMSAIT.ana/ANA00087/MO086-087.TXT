@@ -1,4 +1,0 @@
-//MO086-087.TXT ANA00086 TO ANA00087
-Operarios		TAR	153	new record size: 153
-Operarios		IDE-*		file without identifier
-Operarios	OperariosID	RUB-		key OperariosID deleted

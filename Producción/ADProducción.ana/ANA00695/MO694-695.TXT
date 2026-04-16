@@ -1,3 +1,0 @@
-//MO694-695.TXT ANA00694 TO ANA00695
-conectados_produc		FIC-	conectados_produc	conectados_produc file deleted
-conectados_telek		FIC-	conectados_telek	conectados_telek file deleted

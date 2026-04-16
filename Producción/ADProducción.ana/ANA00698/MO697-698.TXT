@@ -1,3 +1,0 @@
-//MO697-698.TXT ANA00697 TO ANA00698
-Tarjetas		TAR	268	new record size: 268
-Tarjetas	Para_Protocolo	RUB+		Para_Protocolo is a new item

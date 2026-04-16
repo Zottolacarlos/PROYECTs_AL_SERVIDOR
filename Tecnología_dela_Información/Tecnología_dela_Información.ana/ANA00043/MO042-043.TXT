@@ -1,3 +1,0 @@
-//MO042-043.TXT ANA00042 TO ANA00043
-conectados_tecno		TAR	86	new record size: 86
-conectados_tecno	conectadosID	CNW	Automatic Identifier (8 bytes)$Automatic Identifier (4 bytes)	new type for conectadosID item: Automatic Identifier (8 bytes)

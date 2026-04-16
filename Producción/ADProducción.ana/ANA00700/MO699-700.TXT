@@ -1,2 +1,0 @@
-//MO699-700.TXT ANA00699 TO ANA00700
-Tarjetas_Prioridad_Auditoria		NFI		new file

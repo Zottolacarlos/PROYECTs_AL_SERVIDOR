@@ -1,2 +1,0 @@
-//MO802-803.TXT ANA00802 TO ANA00803
-conectados_stock		FIC-	conectados_stock	conectados_stock file deleted

@@ -1,5 +1,0 @@
-//MO366-367.TXT ANA00366 TO ANA00367
-Tarjetas_Prioridad		NFI		new file
-Tarjetas_Prioridad_Auditoria		NFI		new file
-Constraint_Tarjetas_Tarjetas_Prioridad		NWL	Tarjetas (Nro_Tarjeta) and Tarjetas_Prioridad (Nro_Tarjeta)	New link between Tarjetas (Nro_Tarjeta) and Tarjetas_Prioridad (Nro_Tarjeta) files
-Connection to '100.95.199.14'		CNX+		

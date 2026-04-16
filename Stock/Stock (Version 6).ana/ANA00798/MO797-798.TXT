@@ -1,4 +1,0 @@
-//MO797-798.TXT ANA00797 TO ANA00798
-Guia_deColada_retiro		TAR	48	new record size: 48
-Guia_deColada_retiro	CotizacionID	RUB-		key CotizacionID deleted
-Guia_deColada_retiro	Presupuesto	RUB-		key Presupuesto deleted

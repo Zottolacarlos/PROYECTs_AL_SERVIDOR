@@ -1,3 +1,0 @@
-//MO085-086.TXT ANA00085 TO ANA00086
-Operarios		REP*	W:\BD\Horas_EX	new directory W:\BD\Horas_EX
-Operarios		FRN		

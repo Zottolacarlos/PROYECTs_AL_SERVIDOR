@@ -1,7 +1,0 @@
-//MO368-369.TXT ANA00368 TO ANA00369
-Tarjetas_Prioridad		FCNX+	Connection to '175.1.1.5'	
-Tarjetas_Prioridad_Auditoria		FCNX+	Connection to '175.1.1.5'	
-Tarjetas		FCNX+	Connection to '175.1.1.5'	
-Tarjetas_Prioridad		FRN		
-Tarjetas_Prioridad_Auditoria		FRN		
-Tarjetas		FRN		

@@ -1,0 +1,18 @@
+# Carpetas Backup
+**/Backup/
+**/BACKUP/
+**/backup/
+
+# Logs típicos
+**/HstDuree.log
+**/WDJournal.log
+*.log
+
+# Backups / temporales
+*.bak
+*.tmp
+*.old
+*.bkw
+
+# Copias por conflicto
+*Copia en conflicto*
