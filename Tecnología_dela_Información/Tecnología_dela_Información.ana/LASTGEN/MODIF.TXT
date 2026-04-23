@@ -1,3 +1,1 @@
-//MO045-046.TXT ANA00045 TO ANA00046
-Constraint_Tickets_Auditoría_Tickets		DEL	Tickets (TicketsID) and Auditoría_Tickets (TicketsID)	Link deleted between Tickets (TicketsID) and Auditoría_Tickets (TicketsID) files
-Constraint_Tickets_Avisos_Extra_Tkt		DEL	Tickets (TicketsID) and Avisos_Extra_Tkt (TicketsID)	Link deleted between Tickets (TicketsID) and Avisos_Extra_Tkt (TicketsID) files
+//MO046-047.TXT ANA00046 TO ANA00047
