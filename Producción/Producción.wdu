@@ -368,6 +368,7 @@ WIN_PopUp_Prioridades.wdw
 QRY_Consulta_Presup_Informes_prod.WDR
 QRY_TarjetaporNumero.WDR
 COL_Procesos_Productivos.wdg
+RPT_Cotizacion_cliente_ORDENADO.wde
 Producción.wdy
 Templates\WD\170 AquaBlue\AquaBlue.wdy
 Templates\WD\170 AquaBlue\AQUABLUE_BANNER_BOTTOM.PNG
