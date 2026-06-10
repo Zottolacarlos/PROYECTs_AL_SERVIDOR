@@ -180,6 +180,7 @@ QRY_Consulta_Eficacia_Verif.WDR
 QRY_TarjetaporNumero.WDR
 ..\Producción\QRY_TarjetasyRecursos.WDR
 WIN_PopUp_Proced_Fabr.wdw
+QRY_Check_Eficacia.WDR
 WDFAA\WinDevDialogBox.wdw
 TEMPLATES\WD\110 ACTIVVISTA\WDMSGBOX-INFO.GIF
 TEMPLATES\WD\110 ACTIVVISTA\WDMSGBOX-QUESTION.GIF
