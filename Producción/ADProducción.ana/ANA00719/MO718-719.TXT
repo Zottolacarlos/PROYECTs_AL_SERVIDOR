@@ -1,3 +1,0 @@
-//MO718-719.TXT ANA00718 TO ANA00719
-control_verifica_ac		NFI		new file
-veces_ejecuta_avisoVERIFICAeficacia		FIC-	veces_ejecuta_avisoVERIFICAeficacia	veces_ejecuta_avisoVERIFICAeficacia file deleted

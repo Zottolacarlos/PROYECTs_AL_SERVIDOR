@@ -1,2 +1,0 @@
-//MO716-717.TXT ANA00716 TO ANA00717
-veces_ejecuta_avisoVERIFICAeficacia		FCNX+	Servidor de BD C/S PRODUCCION	

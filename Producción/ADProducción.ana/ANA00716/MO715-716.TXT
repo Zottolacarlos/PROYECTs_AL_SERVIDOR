@@ -1,3 +1,0 @@
-//MO715-716.TXT ANA00715 TO ANA00716
-veces_ejecuta_avisoVERIFICAeficacia		FCNX+	Conexion a la base de datos de protocolos en 175.1.1.5	
-veces_ejecuta_avisoVERIFICAeficacia		FRN		

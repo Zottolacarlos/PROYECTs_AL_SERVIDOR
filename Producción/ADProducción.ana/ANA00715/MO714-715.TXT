@@ -1,2 +1,0 @@
-//MO714-715.TXT ANA00714 TO ANA00715
-veces_ejecuta_avisoVERIFICAeficacia		NFI		new file

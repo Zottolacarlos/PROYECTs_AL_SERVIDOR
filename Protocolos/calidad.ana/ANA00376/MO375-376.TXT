@@ -1,3 +1,0 @@
-//MO375-376.TXT ANA00375 TO ANA00376
-Tarjetas_Prioridad_Auditoria		FCNX+	Connection to '175.1.1.5'	
-Tarjetas_Prioridad_Auditoria		FRN		

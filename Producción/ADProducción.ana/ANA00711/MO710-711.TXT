@@ -1,2 +1,0 @@
-//MO710-711.TXT ANA00710 TO ANA00711
-Constraint_Tarjetas_Prioridad_Tarjetas_Prioridad_Auditoria		DEL	Tarjetas_Prioridad (Tarjetas_PrioridadID) and Tarjetas_Prioridad_Auditoria (Tarjetas_PrioridadID)	Link deleted between Tarjetas_Prioridad (Tarjetas_PrioridadID) and Tarjetas_Prioridad_Auditoria (Tarjetas_PrioridadID) files

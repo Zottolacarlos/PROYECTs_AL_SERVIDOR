@@ -1,3 +1,0 @@
-//MO719-720.TXT ANA00719 TO ANA00720
-Tarjetas_Prioridad		TAR	56	new record size: 56
-Tarjetas_Prioridad	Estado	RUB+		Estado is a new item

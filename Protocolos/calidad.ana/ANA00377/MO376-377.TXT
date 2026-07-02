@@ -1,3 +1,0 @@
-//MO376-377.TXT ANA00376 TO ANA00377
-acciones_correct		TAR	1364	new record size: 1364
-acciones_correct	Avisa_Fecha_Verificacion	RUB+		Avisa_Fecha_Verificacion is a new item

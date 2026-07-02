@@ -1,3 +1,0 @@
-//MO374-375.TXT ANA00374 TO ANA00375
-Tarjetas_Prioridad_Auditoria		NFI		new file
-Tarjetas_Prioridad_Auditoria		FIC-	Tarjetas_Prioridad_Auditoria	Tarjetas_Prioridad_Auditoria file deleted
