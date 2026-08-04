@@ -1,4 +1,3 @@
-//MO377-378.TXT ANA00377 TO ANA00378
-Tarjetas_Prioridad		NFI		new file
-Tarjetas_Prioridad		FIC-	Tarjetas_Prioridad	Tarjetas_Prioridad file deleted
-Constraint_Tarjetas_Tarjetas_Prioridad		NWL	Tarjetas (Nro_Tarjeta) and Tarjetas_Prioridad (Nro_Tarjeta)	New link between Tarjetas (Nro_Tarjeta) and Tarjetas_Prioridad (Nro_Tarjeta) files
+//MO378-379.TXT ANA00378 TO ANA00379
+Tarjetas_Prioridad		FCNX+	Connection to '175.1.1.5'	
+Tarjetas_Prioridad		FRN		
