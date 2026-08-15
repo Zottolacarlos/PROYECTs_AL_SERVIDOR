@@ -1,1 +1,3 @@
-//MO720-721.TXT ANA00720 TO ANA00721
+//MO721-722.TXT ANA00721 TO ANA00722
+acciones_correct		NFI		new file
+acciones_correct		FIC-	acciones_correct	acciones_correct file deleted
