@@ -1,3 +1,6 @@
-//MO379-380.TXT ANA00379 TO ANA00380
-acciones_correct		TAR	1365	new record size: 1365
-acciones_correct	PREaviso_Fecha_Verif	RUB+		PREaviso_Fecha_Verif is a new item
+//MO380-381.TXT ANA00380 TO ANA00381
+Propuestas_Mejora		TAR	398	new record size: 398
+Propuestas_Mejora	obs_PRE_Validacion	RUB+		obs_PRE_Validacion is a new item
+Propuestas_Mejora	Fue_Eficaz	RUB+		Fue_Eficaz is a new item
+Propuestas_Mejora	Fecha_verificación	RUB+		Fecha_verificación is a new item
+Propuestas_Mejora	obs_verificacion	RUB+		obs_verificacion is a new item

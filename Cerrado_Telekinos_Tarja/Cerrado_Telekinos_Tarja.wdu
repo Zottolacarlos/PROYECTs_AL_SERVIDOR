@@ -17,6 +17,7 @@ QRY_Cotiza_xEstados.WDR
 QRY_Cotizac_Otras.WDR
 QRY_Procedimientos_Fabricacion.WDR
 QRY_Check_Eficacia.WDR
+QRY_Aviso_Venc_PROY_MEJORA.WDR
 Templates\WD\190 Gensteel\Gensteel.wdy
 Templates\WD\190 Gensteel\GENSTEEL_BANNER_BOTTOM.PNG
 Templates\WD\190 Gensteel\GENSTEEL_BANNER_TOP.PNG
