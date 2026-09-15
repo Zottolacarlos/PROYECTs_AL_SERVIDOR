@@ -1,2 +1,2 @@
-//MO725-726.TXT ANA00725 TO ANA00726
-Propuestas_Mejora		FIC-	Propuestas_Mejora	Propuestas_Mejora file deleted
+//MO726-727.TXT ANA00726 TO ANA00727
+Propuestas_Mejora		NFI		new file

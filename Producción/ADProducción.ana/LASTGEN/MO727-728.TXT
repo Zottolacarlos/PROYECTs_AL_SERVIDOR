@@ -1,0 +1,3 @@
+//MO727-728.TXT ANA00727 TO ANA00728
+Datos_Presupuestos		TAR	367	new record size: 367
+Datos_Presupuestos	Responsable_Avance_OF	RUB+		Responsable_Avance_OF is a new item
