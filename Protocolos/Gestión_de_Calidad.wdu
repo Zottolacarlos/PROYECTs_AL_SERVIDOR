@@ -182,8 +182,7 @@ QRY_TarjetaporNumero.WDR
 ..\Producción\QRY_TarjetasyRecursos.WDR
 WIN_PopUp_Proced_Fabr.wdw
 QRY_Check_Eficacia.WDR
-WIN_PRINCIPAL_2.wdw
-WIN_Tabla_Principal_de_Pedidos_2.wdw
+WIN_PRINCIPAL_UNIFICADO.wdw
 WDFAA\WinDevDialogBox.wdw
 TEMPLATES\WD\110 ACTIVVISTA\WDMSGBOX-INFO.GIF
 TEMPLATES\WD\110 ACTIVVISTA\WDMSGBOX-QUESTION.GIF
