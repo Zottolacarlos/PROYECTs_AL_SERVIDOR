@@ -1,0 +1,3 @@
+//MO730-731.TXT ANA00730 TO ANA00731
+Datos_Presupuestos		TAR	375	new record size: 375
+Datos_Presupuestos	Legajo_Resp_Avance	RUB-		item Legajo_Resp_Avance deleted

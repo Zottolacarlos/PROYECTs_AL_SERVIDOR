@@ -1,0 +1,4 @@
+//MO729-730.TXT ANA00729 TO ANA00730
+Datos_Presupuestos		TAR	377	new record size: 377
+Datos_Presupuestos	Situacion_Avance_Trabajo	RUB+		Situacion_Avance_Trabajo is a new item
+Datos_Presupuestos	Legajo_Resp_Avance	RUB+		Legajo_Resp_Avance is a new item

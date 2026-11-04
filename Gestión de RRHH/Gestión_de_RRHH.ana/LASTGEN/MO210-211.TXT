@@ -1,0 +1,3 @@
+//MO210-211.TXT ANA00210 TO ANA00211
+Preseleccionados		TAR	524	new record size: 524
+Preseleccionados	Pasa_Entrevista_RRHH	RUB+		Pasa_Entrevista_RRHH is a new item

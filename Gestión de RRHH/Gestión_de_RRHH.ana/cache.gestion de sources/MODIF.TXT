@@ -1,6 +1,3 @@
-//MO209-210.TXT ANA00209 TO ANA00210
-Preseleccionados		TAR	523	new record size: 523
-Preseleccionados	Ingresa_directo	RUB+		Ingresa_directo is a new item
-Preseleccionados	realiza_entrevista_rrhh	RUB+		realiza_entrevista_rrhh is a new item
-Preseleccionados	archivo_entrevista_rrhh	RUB+		archivo_entrevista_rrhh is a new item
-Preseleccionados	obs_entrevista_rrhh	RUB+		obs_entrevista_rrhh is a new item
+//MO210-211.TXT ANA00210 TO ANA00211
+Preseleccionados		TAR	524	new record size: 524
+Preseleccionados	Pasa_Entrevista_RRHH	RUB+		Pasa_Entrevista_RRHH is a new item
