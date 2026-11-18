@@ -1,3 +1,0 @@
-//MO722-723.TXT ANA00722 TO ANA00723
-Ordenes_de_Fabricación		TAR	100	new record size: 100
-Ordenes_de_Fabricación	Legajo_Resp_Avance	RUB+		Legajo_Resp_Avance is a new item
